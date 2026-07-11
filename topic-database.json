@@ -1,0 +1,444 @@
+{
+  "version": "1.0",
+  "description": "AI日报选题库 - 每次写文章前从此库选方向，搜索词必须精确到当日日期",
+  "lastUpdated": "2026-06-16",
+  "rotationOrder": [
+    "新闻",
+    "工具",
+    "变现",
+    "提效"
+  ],
+  "categories": {
+    "新闻": {
+      "description": "AI行业新闻、重大事件、政策法规",
+      "searchQueries": {
+        "zh": [
+          "YYYY.M.D AI新闻 人工智能 最新动态",
+          "YYYY年M月D日 AI 行业 要闻"
+        ],
+        "en": [
+          "\"Month D, YYYY\" AI news",
+          "YYYY.M.D AI industry latest"
+        ]
+      },
+      "topics": [
+        {
+          "id": "N01",
+          "title": "苹果与OpenAI合作破裂：iOS 19 AI功能受阻，Apple GPT加速",
+          "zhQuery": "苹果 OpenAI 合作破裂 2026",
+          "enQuery": "Apple OpenAI partnership collapse 2026",
+          "angle": "苹果OpenAI在本地化vs云端、数据隐私上根本分歧，苹果加速自研Apple GPT",
+          "priority": "high"
+        },
+        {
+          "id": "N02",
+          "title": "Anthropic 90%代码由AI编写，白领工作范式转移",
+          "zhQuery": "Anthropic AI编写代码 90% 2026",
+          "enQuery": "Anthropic 90% code AI written 2026",
+          "angle": "Anthropic披露90%代码由AI编写，Google 75%新代码由AI生成，软件开发范式转移",
+          "priority": "high"
+        },
+        {
+          "id": "N03",
+          "title": "Claude Mythos通过UK AISI全部安全测试，AI网络攻击能力每4个月翻倍",
+          "zhQuery": "Claude Mythos 英国AI安全研究所 测评 2026",
+          "enQuery": "Claude Mythos UK AISI evaluation cyber capability 2026",
+          "angle": "Mythos完成32步企业网络攻击、发现27年历史的OpenBSD漏洞，AI网络攻防进入新时代",
+          "priority": "high"
+        },
+        {
+          "id": "N04",
+          "title": "OpenAI GPT-5.6内测启动：发布仅3周即迭代，上下文窗口增50%",
+          "zhQuery": "GPT-5.6 内测 2026 OpenAI",
+          "enQuery": "GPT-5.6 internal testing OpenAI 2026",
+          "angle": "GPT-5.5发布仅3周后启动5.6内测，开发者补贴战开打",
+          "priority": "high"
+        },
+        {
+          "id": "N05",
+          "title": "ChatGPT流量份额断崖式下滑：从77.6%降至53.7%，Gemini跃居第二",
+          "zhQuery": "ChatGPT Gemini 流量份额 对比 2026",
+          "enQuery": "ChatGPT traffic share decline Gemini growth 2026",
+          "angle": "ChatGPT从77.6%降至53.7%，Gemini从7.3%飙升至26.7%，Claude升至7.9%",
+          "priority": "high"
+        },
+        {
+          "id": "N06",
+          "title": "AI芯片公司Cerebras上市首日暴涨68%，最大AI芯片IPO",
+          "zhQuery": "Cerebras IPO 上市 2026",
+          "enQuery": "Cerebras IPO Nasdaq debut 2026",
+          "angle": "IPO定价185美元/股，拟募资超55亿美元，盘中涨超108%触发熔断",
+          "priority": "medium"
+        },
+        {
+          "id": "N07",
+          "title": "英伟达H200芯片获对华出口许可，美对华芯片管制政策转向",
+          "zhQuery": "英伟达 H200 对华出口 许可 2026",
+          "enQuery": "Nvidia H200 China export license 2026",
+          "angle": "H200芯片恢复对华销售，股价上涨7.2%，市值增加560亿美元",
+          "priority": "high"
+        },
+        {
+          "id": "N08",
+          "title": "Anthropic估值冲刺9000亿美元：新一轮融资300-500亿",
+          "zhQuery": "Anthropic 估值 融资 900亿 2026",
+          "enQuery": "Anthropic 900 billion valuation funding 2026",
+          "angle": "Anthropic目标估值超OpenAI，Google已投400亿+Amazon投50亿",
+          "priority": "high"
+        },
+        {
+          "id": "N09",
+          "title": "欧盟对微软启动反垄断调查，聚焦AI与商业软件捆绑",
+          "zhQuery": "欧盟 微软 反垄断 AI 2026",
+          "enQuery": "EU Microsoft antitrust AI bundling 2026",
+          "angle": "英国CMA调查Windows+Office+Teams捆绑，欧盟跟进AI生态公平性",
+          "priority": "medium"
+        },
+        {
+          "id": "N10",
+          "title": "中芯国际扩充AI芯片产能，机器人芯片需求强劲",
+          "zhQuery": "中芯国际 AI 芯片 产能 机器人 2026",
+          "enQuery": "SMIC AI chip capacity expansion robotics 2026",
+          "angle": "联合CEO赵海军：机器人等AI应用对配套芯片需求强劲",
+          "priority": "medium"
+        },
+        {
+          "id": "N11",
+          "title": "中国92.3%教师将AI融入课堂，教育AI渗透率全球领先",
+          "zhQuery": "92% 教师 AI 教学 课堂 2026",
+          "enQuery": "China teachers AI classroom 92 percent 2026",
+          "angle": "《中国教师生成式AI应用报告》发布，96.1%教师主动学习更多AI工具",
+          "priority": "medium"
+        },
+        {
+          "id": "N12",
+          "title": "Recursive Superintelligence获6.5亿美元融资，递归自我进化AI受追捧",
+          "zhQuery": "Recursive Superintelligence 融资 6.5亿 2026",
+          "enQuery": "Recursive Superintelligence 6.5 billion funding 2026",
+          "angle": "递归自改进AI初创公司获市场高度关注，纳斯达克AI板块上涨2.3%",
+          "priority": "medium"
+        },
+        {
+          "id": "N13",
+          "title": "美国白宫拟出台AI安全审查行政令：发布前需FDA式审批",
+          "zhQuery": "白宫 AI 安全审查 行政令 2026",
+          "enQuery": "White House AI safety review executive order 2026",
+          "angle": "前沿AI模型发布前需安全审查，Google DeepMind/Microsoft/xAI已同意CAISI评估",
+          "priority": "medium"
+        },
+        {
+          "id": "N14",
+          "title": "中国具身智能国标发布+大基金进场：2026是部署元年",
+          "zhQuery": "具身智能 国标 大基金 机器人 2026",
+          "enQuery": "China embodied intelligence national standard big fund 2026",
+          "angle": "首个人形机器人国标发布，银河通用机器人获25亿元融资，大基金三期首次投资具身智能",
+          "priority": "medium"
+        },
+        {
+          "id": "N15",
+          "title": "腾讯辟谣AI一号位离职，阿里Agent平台'悟空'规模化",
+          "zhQuery": "腾讯 AI 一号位 离职 辟谣 阿里 悟空 2026",
+          "enQuery": "Tencent AI head rumor Alibaba Wukong agent platform 2026",
+          "angle": "腾讯严正辟谣AI一号位离职传谣，阿里企业级智能体平台逐步规模化推广",
+          "priority": "medium"
+        },
+        {
+          "id": "N16",
+          "title": "华尔街警告AI热潮政策风险，科技板块逆势走强",
+          "zhQuery": "华尔街 AI政策风险 缩表 2026年6月",
+          "enQuery": "Wall Street AI policy risk balance sheet reduction June 2026",
+          "angle": "华尔街传奇交易员警告AI热潮最大政策死穴是缩表，A股科技板块逆势走强，港股互联网板块获资金布局",
+          "priority": "high"
+        }
+      ]
+    },
+    "工具": {
+      "description": "AI工具推荐、评测、对比、使用技巧",
+      "searchQueries": {
+        "zh": [
+          "YYYY年M月 AI工具 推荐 评测",
+          "YYYY.M.D AI 工具 发布 上新"
+        ],
+        "en": [
+          "YYYY best AI tools new release",
+          "\"Month YYYY\" AI tools launch"
+        ]
+      },
+      "topics": [
+        {
+          "id": "T01",
+          "title": "General Compute发布ASIC推理云，为AI Agent打造的专用芯片平台",
+          "zhQuery": "General Compute ASIC 推理云 AI Agent 2026",
+          "enQuery": "General Compute ASIC inference cloud AI agents 2026",
+          "angle": "专为AI Agent负载打造，分离prefill/decode独立扩展，水电站供电+风冷",
+          "priority": "high"
+        },
+        {
+          "id": "T02",
+          "title": "Anthropic推出Claude for Small Business，中小企业AI自动化套件",
+          "zhQuery": "Claude 中小企业 小企业 自动化 2026",
+          "enQuery": "Claude for Small Business Anthropic SME automation 2026",
+          "angle": "集成QuickBooks/PayPal/HubSpot，AI平台战争下沉到中小企业市场",
+          "priority": "high"
+        },
+        {
+          "id": "T03",
+          "title": "Google Stitch：UI设计与原型制作的AI新工具",
+          "zhQuery": "Google Stitch UI 设计 AI 工具 2026",
+          "enQuery": "Google Stitch AI UI design prototyping 2026",
+          "angle": "Google推出的AI驱动UI设计工具，5月12日发布",
+          "priority": "medium"
+        },
+        {
+          "id": "T04",
+          "title": "Claude for Legal：12个实务领域插件+20+MCP连接器",
+          "zhQuery": "Claude 法律 AI 插件 2026",
+          "enQuery": "Claude for Legal AI law practice plugins 2026",
+          "angle": "Anthropic进军法律AI垂直领域，12个实务领域插件+20+MCP连接器",
+          "priority": "medium"
+        },
+        {
+          "id": "T05",
+          "title": "Cursor集成Microsoft Teams，AI编程进入团队协作时代",
+          "zhQuery": "Cursor Microsoft Teams 集成 AI 编程 2026",
+          "enQuery": "Cursor Microsoft Teams integration AI coding 2026",
+          "angle": "@cursor在Teams中唤醒，工程团队协作新范式",
+          "priority": "medium"
+        },
+        {
+          "id": "T06",
+          "title": "SAP投资n8n估值52亿美元，智能体工作流进入企业级时代",
+          "zhQuery": "n8n SAP 投资 估值 52亿 2026",
+          "enQuery": "n8n SAP investment 5.2 billion valuation agent workflow 2026",
+          "angle": "SAP收购/投资n8n将其工作流集成到Joule Studio，企业级Agent编排平台",
+          "priority": "high"
+        },
+        {
+          "id": "T07",
+          "title": "2026年5月AI编程工具横评：Cursor vs Claude Code vs Copilot",
+          "zhQuery": "Cursor Claude Code Copilot 对比 2026",
+          "enQuery": "Cursor vs Claude Code vs Copilot comparison 2026",
+          "angle": "三大AI编程工具实测对比，多文件重构、Agent模式、上下文窗口",
+          "priority": "high"
+        },
+        {
+          "id": "T08",
+          "title": "AI视频生成工具2026年5月实测：即梦/可灵/Runway/Pika横评",
+          "zhQuery": "AI视频生成 即梦 可灵 Runway 对比 2026",
+          "enQuery": "AI video generation tools comparison Jimeng Kling Runway 2026",
+          "angle": "文生视频、图生视频质量、速度、成本横向对比",
+          "priority": "medium"
+        },
+        {
+          "id": "T09",
+          "title": "6款AI笔记工具实测：Notion AI vs Mem vs Reflect vs NotebookLM",
+          "zhQuery": "AI笔记工具 Notion AI NotebookLM 对比 2026",
+          "enQuery": "AI note-taking tools comparison 2026",
+          "angle": "AI笔记工具在知识管理、自动整理、搜索方面的横评",
+          "priority": "medium"
+        },
+        {
+          "id": "T10",
+          "title": "Blitzy获2亿美元融资：80人团队打造企业AI编程工具的崛起",
+          "zhQuery": "Blitzy AI 编程 融资 2亿 2026",
+          "enQuery": "Blitzy 200 million funding enterprise AI coding 2026",
+          "angle": "波士顿80人团队，估值14亿美元，专注企业级AI代码生成",
+          "priority": "low"
+        }
+      ]
+    },
+    "变现": {
+      "description": "AI赚钱方法、副业、商业模式",
+      "searchQueries": {
+        "zh": [
+          "YYYY年 AI赚钱 变现 副业 方法",
+          "YYYY.M AI 副业 收入 案例"
+        ],
+        "en": [
+          "YYYY AI make money side hustle",
+          "YYYY.M AI monetization passive income"
+        ]
+      },
+      "topics": [
+        {
+          "id": "M01",
+          "title": "AI宠物视频风口：会说话的猫狗月入11万，普通人也能做",
+          "zhQuery": "AI宠物视频 赚钱 会说话的猫狗 2026",
+          "enQuery": "AI pet talking animal video monetization 2026",
+          "angle": "用即梦AI+可灵AI+剪映生成'会说话'的猫狗视频，真实月入数据",
+          "priority": "high"
+        },
+        {
+          "id": "M02",
+          "title": "AI分身年入千万：不露脸躺赚时代的操作指南",
+          "zhQuery": "AI分身 虚拟主播 不露脸 赚钱 2026",
+          "enQuery": "AI分身年入千万",
+          "angle": "AI虚拟主播Bloo 258万订阅年入百万美元，1人管理20个AI账号年赚500万美元",
+          "priority": "high"
+        },
+        {
+          "id": "M03",
+          "title": "AI Automation Agency（AAA）实操：一人公司月入5-15K美元",
+          "zhQuery": "AI Automation Agency AAA 一人公司 2026",
+          "enQuery": "AI Automation Agency AAA one person business 2026",
+          "angle": "为企业搭建AI自动化工作流，按项目收费+月费模式，全套SOP",
+          "priority": "high"
+        },
+        {
+          "id": "M04",
+          "title": "2026年AI小说/短剧变现全流程：从创作到收入",
+          "zhQuery": "AI短剧 变现 小说 创作 2026",
+          "enQuery": "AI novel short drama monetization creation 2026",
+          "angle": "AI辅助短剧创作首月6800元实操案例，4步方法论",
+          "priority": "high"
+        },
+        {
+          "id": "M05",
+          "title": "AI提示词贩卖：在PromptBase/Gumroad上卖Prompt月入过万",
+          "zhQuery": "AI提示词 贩卖 PromptBase 赚钱 2026",
+          "enQuery": "selling AI prompts PromptBase Gumroad income 2026",
+          "angle": "PromptBase/Gumroad平台策略，什么类型的Prompt最好卖，定价策略",
+          "priority": "medium"
+        },
+        {
+          "id": "M06",
+          "title": "Webidoo获2500万美元融资：AI运营层如何帮小企业赚钱",
+          "zhQuery": "Webidoo AI 小企业 融资 2026",
+          "enQuery": "Webidoo AI operating layer SMB funding 2026",
+          "angle": "AI运营层模式分析，给小企业提供AI自动化服务如何赚钱",
+          "priority": "medium"
+        },
+        {
+          "id": "M07",
+          "title": "AI老照片修复/电商商品图/祝福视频：低门槛副业报价指南",
+          "zhQuery": "AI老照片修复 副业 报价 2026",
+          "enQuery": "AI photo restoration side hustle pricing 2026",
+          "angle": "8大低门槛AI副业赛道报价、工具、实操全指南",
+          "priority": "medium"
+        },
+        {
+          "id": "M08",
+          "title": "AI县城培训班包围：教AI赚钱的人赚走了最多钱",
+          "zhQuery": "AI培训班 县城 割韭菜 卖课 2026",
+          "enQuery": "AI training courses scam county China 2026",
+          "angle": "批判性视角：AI副业培训乱象，卖课比做AI更赚钱的真相",
+          "priority": "medium"
+        }
+      ]
+    },
+    "提效": {
+      "description": "AI效率提升、工作流自动化、生产力技巧",
+      "searchQueries": {
+        "zh": [
+          "YYYY年 AI提效 工作流 自动化 技巧",
+          "YYYY.M AI 生产力 效率 工具"
+        ],
+        "en": [
+          "YYYY AI productivity workflow automation",
+          "\"Month YYYY\" AI workplace efficiency"
+        ]
+      },
+      "topics": [
+        {
+          "id": "P01",
+          "title": "研究警告：使用AI 10分钟即损害独立思考能力",
+          "zhQuery": "AI 使用 独立思考 能力 下降 研究 2026",
+          "enQuery": "AI use impairs critical thinking study Carnegie Mellon 2026",
+          "angle": "CMU/Oxford/MIT/UCLA联合研究：AI辅助10分钟后独立表现下降20%，如何正确使用AI",
+          "priority": "high"
+        },
+        {
+          "id": "P02",
+          "title": "从Prompt到Agent：2026年必备的AI技能转型路线图",
+          "zhQuery": "Prompt Agent AI 技能 转型 2026",
+          "enQuery": "prompts to agents AI skills transformation 2026",
+          "angle": "2026年AI技能从提示词工程转向Agent编排，企业需要的新能力",
+          "priority": "high"
+        },
+        {
+          "id": "P03",
+          "title": "首尔大学SPEED方法：大模型读长文'扔掉笔记'反而更聪明",
+          "zhQuery": "SPEED 大模型 长文本 效率 首尔大学 2026",
+          "enQuery": "SPEED method LLM long context efficiency Seoul National 2026",
+          "angle": "处理128K tokens时速度提升33%、内存减少25%，重新定义'什么值得记忆'",
+          "priority": "high"
+        },
+        {
+          "id": "P04",
+          "title": "CASCADE框架：让AI越用越聪明，部署后持续进化",
+          "zhQuery": "CASCADE 大模型 持续学习 吉林大学 2026",
+          "enQuery": "CASCADE LLM continuous learning deployment 2026",
+          "angle": "吉林大学/伦敦国王学院/UCL联合研究：部署后无需修改参数即可从交互中提升20.9%",
+          "priority": "medium"
+        },
+        {
+          "id": "P05",
+          "title": "CMU全自动AI研究员：机器自己做实验踩坑改进，无需人工干预",
+          "zhQuery": "CMU AI 研究员 自动 实验 2026",
+          "enQuery": "CMU autonomous AI researcher experiments 2026",
+          "angle": "多专家AI系统自主完成1197次实验，模型预训练分数提升38.7%",
+          "priority": "medium"
+        },
+        {
+          "id": "P06",
+          "title": "8个企业AI提效实测案例：哪些工作流真正省时间",
+          "zhQuery": "企业 AI 提效 案例 实测 2026",
+          "enQuery": "enterprise AI productivity real case studies 2026",
+          "angle": "财务、HR、客服、销售、运营等部门AI提效实测数据和工具推荐",
+          "priority": "high"
+        },
+        {
+          "id": "P07",
+          "title": "Microsoft 365 Copilot vs Google Workspace Gemini：哪个更适合你的团队",
+          "zhQuery": "Microsoft Copilot Google Gemini Workspace 对比 2026",
+          "enQuery": "Microsoft Copilot vs Google Gemini Workspace comparison 2026",
+          "angle": "两大办公AI助手在会议纪要、文档生成、数据分析方面实测对比",
+          "priority": "medium"
+        },
+        {
+          "id": "P08",
+          "title": "AI Agent安全指南：CISA发布联邦机构Agentic AI采用指引",
+          "zhQuery": "CISA Agentic AI 安全 指南 联邦 2026",
+          "enQuery": "CISA agentic AI guidance federal agencies zero trust 2026",
+          "angle": "零信任原则、最小权限访问，53%联邦机构已规划Agentic AI试点",
+          "priority": "medium"
+        },
+        {
+          "id": "P09",
+          "title": "清华蒸馏悖论：'思维对齐'大于模型规模，重塑AI效率竞赛认知",
+          "zhQuery": "清华大学 蒸馏 悖论 思维对齐 2026",
+          "enQuery": "Tsinghua distillation paradox thinking alignment AI 2026",
+          "angle": "知识迁移关键在于底层思维模式一致性而非参数规模",
+          "priority": "medium"
+        },
+        {
+          "id": "P10",
+          "title": "Penn Engineering Mollifier Layers：求解最难数学问题，速度提升10倍",
+          "zhQuery": "Mollifier Layers 宾夕法尼亚大学 数学 2026",
+          "enQuery": "Mollifier Layers Penn Engineering inverse PDE AI 2026",
+          "angle": "1940年代数学概念+现代AI：训练时间从3386秒减至335秒，内存降92%",
+          "priority": "low"
+        }
+      ]
+    }
+  },
+  "searchMethodology": {
+    "dateFormat": "每次搜索时间格式：YYYY.M.D（如2026.5.15）或 YYYY年M月D日",
+    "steps": [
+      "1. 确定方向（新闻/工具/变现/提效），按轮换顺序",
+      "2. 用精确日期搜索：如 '2026.5.15 AI news' '2026年5月15日 AI 新闻'",
+      "3. 从选题库中选1-2个high priority主题",
+      "4. 针对选定主题做深度搜索，找最新数据+案例",
+      "5. 中英文分别搜索，确保内容有实质差异",
+      "6. 写文章时交叉验证日期和数据准确性"
+    ],
+    "sources": [
+      "钛媒体 Edge AI Daily (tmtpost.com)",
+      "readaboutai.com (日更AI新闻汇总)",
+      "neican.ai/morningnews (AI早报)",
+      "TechCrunch, The Verge, Ars Technica (英文)",
+      "36氪、虎嗅、机器之心 (中文)",
+      "arXiv (最新AI论文)"
+    ]
+  }
+}

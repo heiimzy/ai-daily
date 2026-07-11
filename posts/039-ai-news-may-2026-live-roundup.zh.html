@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026年5月18日AI日报：开源模型大爆发、Claude调整第三方定价、Semble让Agent代码搜索省98% Token - AI日报</title>
+  <meta name="description" content="今日AI要闻：Gemma 4/DeepSeek V4/Kimi K2.6等开源模型密集发布，Interconnects深度分析开源模型生态；Claude调整第三方工具API定价；Semble开源代码搜索工具比grep省98% Token；Google Gemini Intelligence上线；'AI不会让你的流程更快'爆款文章引发热议；Notion开发者平台上线Markdown API。">
+  <meta name="keywords" content="AI新闻,今日AI,DeepSeek V4,Gemma 4,Claude API定价,Semble,Google Gemini,Notion API,开源模型,AI Agent,Thinking Machines">
+  <link rel="alternate" hreflang="zh" href="https://heiimzy.github.io/ai-daily/posts/039-ai-news-may-2026-live-roundup.zh.html">
+  <link rel="alternate" hreflang="en" href="https://heiimzy.github.io/ai-daily/posts/039-ai-news-may-2026-live-roundup.en.html">
+  <link rel="canonical" href="https://heiimzy.github.io/ai-daily/posts/039-ai-news-may-2026-live-roundup.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .post-article { max-width: 800px; margin: 0 auto; padding: 2rem 1rem 4rem; position: relative; }
+    .post-article .post-date { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+    .post-article .post-tags { display: flex; gap: 0.4rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+    .post-article .post-tags .tag { background: linear-gradient(135deg, rgba(167,139,250,0.15), rgba(244,114,182,0.1)); color: var(--primary); padding: 0.2rem 0.65rem; border-radius: 20px; font-size: 0.75rem; border: 1px solid rgba(167,139,250,0.15); }
+    .post-article h1 { font-size: 1.8rem; margin-bottom: 0.5rem; line-height: 1.4; font-weight: 800; background: linear-gradient(135deg, #a78bfa, #f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .post-article h2 { font-size: 1.3rem; margin: 1.5rem 0 0.75rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--border); color: var(--primary); }
+    .post-article h3 { font-size: 1.1rem; margin: 1.2rem 0 0.5rem; color: var(--secondary); }
+    .post-article p { line-height: 1.8; margin: 0.75rem 0; color: #e2e8f0; }
+    .post-article ul, .post-article ol { padding-left: 1.5rem; margin: 0.75rem 0; line-height: 1.8; color: #e2e8f0; }
+    .post-article li { margin: 0.3rem 0; }
+    .post-article blockquote { border-left: 4px solid var(--primary); padding: 0.5rem 1rem; margin: 1rem 0; background: rgba(167,139,250,0.05); border-radius: 0 12px 12px 0; color: var(--text-muted); }
+    .post-article a { color: var(--secondary); }
+    .post-article hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+    .post-article .back-link { display: inline-block; margin-bottom: 2rem; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
+    .post-article .back-link:hover { color: var(--primary); }
+    .post-article .lang-switch { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.4rem 1rem; border-radius: 20px; border: 1px solid var(--border); color: var(--text); text-decoration: none; font-size: 0.8rem; margin-bottom: 1.5rem; transition: all 0.2s; }
+    .post-article .lang-switch:hover { border-color: var(--primary); background: rgba(167,139,250,0.1); }
+    .post-article .data-row { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0; }
+    .post-article .data-item { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; flex: 1; min-width: 140px; text-align: center; }
+    .post-article .data-item .num { font-size: 1.5rem; font-weight: 800; color: var(--primary); }
+    .post-article .data-item .label { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.2rem; }
+    .post-article .tool-box { background: rgba(167,139,250,0.03); border: 1px solid var(--border); border-radius: 12px; padding: 1rem 1.25rem; margin: 1rem 0; }
+    .post-article .tool-box h4 { color: var(--primary); margin: 0 0 0.3rem; }
+    .post-article .tool-box p { margin: 0.3rem 0; font-size: 0.9rem; }
+    @media (max-width: 600px) { .post-article h1 { font-size: 1.4rem; } .post-article .data-row { flex-direction: column; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="index.html" class="logo">Free AI Tools <span>免费</span></a>
+      <nav><a href="index.html">首页</a><a href="index.html">AI日报</a><a href="../../tools/text-rewriter.html">AI改写</a></nav>
+    </div>
+  </header>
+
+  <main class="post-article">
+    <a href="index.html" class="back-link">← 返回博客首页</a>
+    <a href="039-ai-news-may-2026-live-roundup.en.html" class="lang-switch">English</a>
+
+    <div class="post-date">2026-05-18</div>
+    <div class="post-tags">
+      <span class="tag">今日AI</span>
+      <span class="tag">开源模型</span>
+      <span class="tag">Claude</span>
+      <span class="tag">Google</span>
+      <span class="tag">AI Agent</span>
+    </div>
+
+    <h1>今日AI日报：开源模型大爆发、Claude调整定价、Semble省98% Token</h1>
+
+    <p>5月18日AI要闻速览。今天的新闻关键词是"密集"——开源模型在不到两周内密集发布，从DeepSeek V4到Gemma 4到Kimi K2.6，密度前所未有。与此同时，Claude调整了第三方工具的API定价模式，Google在I/O前密集更新Gemini功能，Notion开放了开发者平台。以下是今日最值得关注的AI动态。</p>
+
+    <div class="data-row">
+      <div class="data-item"><div class="num">5+</div><div class="label">本周开源模型发布数</div></div>
+      <div class="data-item"><div class="num">98%</div><div class="label">Semble节省Token量</div></div>
+      <div class="data-item"><div class="num">529</div><div class="label">"AI不会更快"HN得分</div></div>
+      <div class="data-item"><div class="num">6月15日</div><div class="label">Claude新定价生效</div></div>
+    </div>
+
+    <hr>
+
+    <h2>一、开源模型大爆发：DeepSeek V4、Gemma 4、Kimi K2.6密集登场</h2>
+
+    <p>过去两周，开源AI模型领域迎来了前所未有的发布密度。从DeepSeek V4到Google Gemma 4，从Kimi K2.6到小米MiMo 2.5 Pro，几乎所有主流开源厂商都在同一时间窗口内推出了新模型。</p>
+
+    <p>Interconnects（Nathan Lambert的AI分析通讯）在其最新一期《Open Artifacts #21》中对此进行了深度盘点。核心观察是：<strong>开源模型的能力差距正在成为争议焦点</strong>。美国AI安全标准中心（CAISI）对DeepSeek V4的评估显示，开源模型与闭源前沿之间存在明显的Elo分差，尤其在CTF-Archive-Diamond和PortBench等基准上差距显著。</p>
+
+    <p>但Interconnects的分析师Florian Brand对此提出质疑：这些基准测试使用的是标准化且简化的评估环境，而非模型实际训练中使用的工具链（如Claude Code或OpenCode）。他举例指出，一个基准测试声称"将应用移植到另一种语言目前是不可能的"，但Bun实际上已经用Rust重写了Zig代码库，完成了100万行代码的移植。这意味着基准测试可能严重低估了开源模型的实际能力。</p>
+
+    <div class="tool-box">
+      <h4>为什么这很重要</h4>
+      <p>开源模型与闭源模型的能力差距直接影响到企业的技术选型。如果开源模型真的接近闭源前沿水平，企业可以在本地部署、数据隐私和长期成本上获得巨大优势。但如果差距确实如CAISI所说那样显著，企业就需要谨慎评估"开源替代"是否真的可行。这场争论的结果将影响2026年下半年整个AI基础设施市场的格局。</p>
+    </div>
+
+    <p>Interconnects还从另一个角度分析了中国开源AI生态的优势：开放式模型生态的<strong>"复合效应"</strong>。由于中国主要AI实验室都采用开源策略，研究成果可以在生态内部快速流动，避免了重复投入。据估计，构建前沿模型的总算力中，约80%用于研发试错，仅20%用于最终训练。在开源生态中，这些研发成本被整个社区分摊，从而形成了成本结构的优势。</p>
+
+    <h2>二、Claude调整第三方工具API定价</h2>
+
+    <p>Anthropic本周宣布了一项重要的定价策略调整：从6月15日起，通过第三方工具（如Conductor、Zed、OpenClaw、T3 Code等）使用Claude的API将被单独计费。用户的月度订阅将获得等值的额外API额度，超出部分按API标准费率计费。而在Claude Code、Claude App等官方产品中的使用不受影响。</p>
+
+    <p>同时，为了缓解调整带来的影响，Anthropic将在未来两个月内将所有用户的每周速率限制提高50%。这一调整反映了AI平台在API收入与订阅收入之间寻找平衡的普遍趋势——越来越多的用户在第三方工具中深度使用AI能力，平台需要确保这部分使用量可持续变现。</p>
+
+    <h2>三、Semble：为AI Agent打造的代码搜索工具，比grep省98% Token</h2>
+
+    <p>今日Hacker News上最热门的AI项目是<strong>Semble</strong>——一个为AI Agent设计的语义代码搜索工具。Semble的核心卖点非常直接：相比传统的grep搜索，它节省了98%的Token消耗。</p>
+
+    <p>为什么这对AI Agent至关重要？当前的AI编程助手在理解代码库时，通常需要将大量代码文件作为上下文输入给模型。grep搜索返回的结果往往包含大量不相关的匹配行，浪费了宝贵的上下文窗口。Semble通过语义理解，只返回最相关的代码片段，大幅降低了Token消耗。</p>
+
+    <p>对于一个需要频繁搜索代码库的AI Agent来说，98%的Token节省意味着成本降低到原来的1/50，同时也意味着在同样的上下文限制下可以处理更复杂的任务。这种效率提升对于AI编程工具的实际落地具有重要意义。</p>
+
+    <h2>四、Google I/O前奏：Gemini Intelligence + Googlebooks笔记本</h2>
+
+    <p>在Google I/O大会前夕，Google宣布了一系列Android端的Gemini更新，统称为<strong>Gemini Intelligence</strong>。新增功能包括：自动填写表单、将杂乱语音笔记转换为干净文本，以及一些应用自动化操作。</p>
+
+    <p>更引人注目的是Google发布了一款名为<strong>Googlebooks</strong>的全新笔记本电脑品类——不是Google Books（谷歌图书），而是一个搭载深度Gemini集成的硬件设备。这表明Google正在将AI从软件功能扩展到硬件形态，类似微软的Copilot+ PC路线。</p>
+
+    <p>这些更新预示着即将到来的Google I/O大会上可能有更多重量级AI发布。行业普遍预期Google将在I/O上展示Gemini的下一阶段能力升级。</p>
+
+    <h2>五、"AI不会让你的流程更快"——一篇529分爆款文章引发的反思</h2>
+
+    <p>今天Hacker News上获得529分的一篇文章引发了广泛讨论，标题直言不讳：<strong>"我不认为AI会让你的流程更快"</strong>。作者Frederick Van Brabant从实际经验出发，提出了一系列引人深思的观点。</p>
+
+    <p>文章的核心论点是：AI擅长的是替代特定任务，而不是优化整个流程。当一个流程中包含多个步骤时，某个步骤的AI加速并不能解决整体瓶颈——甚至可能因为AI的不确定性引入新的调试成本。作者认为，企业在引入AI之前应该先做流程重构，否则"在混乱的流程上加AI只会让混乱更快"。</p>
+
+    <p>这篇文章的火爆本身就是一个有趣的信号——在AI狂热持续两年多后，开发者社区开始出现更多理性反思的声音。这不是对AI的否定，而是对"AI万能论"的校正。</p>
+
+    <h2>六、Notion开放开发者平台：Markdown API上线</h2>
+
+    <p>Notion本周正式推出了开发者平台，最大的亮点是<strong>Markdown API</strong>的加入。开发者现在可以通过API直接读写Markdown格式的内容，大幅简化了Notion与其他工具之间的数据同步。此外，开发者还可以将外部数据同步到Notion、为Notion Agents构建工具，以及在Notion内运行自定义代码。</p>
+
+    <p>对于AI Agent生态来说，Notion Markdown API的意义在于：Agent现在可以直接以Markdown格式读取和写入Notion文档，无需复杂的格式转换。这让Notion成为AI Agent知识管理的理想后端。</p>
+
+    <h2>七、其他值得关注的新闻</h2>
+
+    <ul>
+      <li><strong>OpenAI发布Daybreak</strong>：一个网络防御产品，可以被视为OpenAI对Anthropic的Mythos的回应。AI安全竞赛从"攻击"扩展到了"防御"领域。</li>
+      <li><strong>Thinking Machines发布"交互模型"</strong>：一种新的AI交互范式，模型不再是单纯的问答，而是能与用户进行持续的交互式协作。目前尚未开放公测。</li>
+      <li><strong>OpenAI推出Realtime 2 API</strong>：新增三个Realtime模型——Realtime 2（语音对话）、Realtime Translate（70种输入语言到13种输出语言的口译）、Realtime-Whisper（实时语音转文字）。</li>
+      <li><strong>Codex直接在Chrome中运行</strong>：Codex现在可以在macOS和Windows的Chrome中直接操作网页，无需接管浏览器，可以跨标签页工作。</li>
+      <li><strong>AI能源战升级</strong>：华尔街见闻发表深度分析指出，AI行业的竞争焦点正在从"追GPU"转向"追Gigawatt"——算力不再是瓶颈，能源才是。</li>
+    </ul>
+
+    <h2>今日总结</h2>
+
+    <p>今天的新闻呈现了一个行业的分化态势：<strong>开源模型在数量上爆发但在能力评测上存在争议，平台层在调整商业化策略（Claude、Notion），应用层在追求极致效率（Semble节省98% Token），而行业反思的声音（"AI不会更快"）也在同步增长</strong>。这种"一边加速一边反思"的并行状态，恰恰说明AI行业正在从狂热期进入理性发展期。</p>
+
+    <hr>
+
+    <h2>推荐免费AI工具</h2>
+    <p>想要提升个人效率？<a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 提供96+款免费在线工具，涵盖AI文本改写、密码生成器、JSON格式化、Base64编解码、代码转图片、SQL格式化、JWT调试等。所有工具在浏览器本地运行，无需注册，完全免费。访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">free-ai-tools</a> 立即使用。</p>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>Free AI Tools &copy; 2026 | <a href="index.html">首页</a> | <a href="index.html">AI日报</a> | <a href="../../privacy.html">隐私</a></p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+</body>
+</html>
