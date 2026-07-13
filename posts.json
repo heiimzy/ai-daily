@@ -1,17 +1,65 @@
 [
   {
+    "id": "099",
+    "date": "2026-07-13",
+    "zh": {
+      "title": "⚡ 7月13日金融综述：韩国KOSPI暴跌9%创年内新低，欧洲接力下跌，美联储沃什国会首秀本周登场",
+      "summary": "⚡ 韩国KOSPI暴跌9%创年内新低，SK海力士单日重挫15%领跌；欧洲股市接力下跌，Euro Stoxx 50收跌0.43%；布伦特原油站稳79美元，霍尔木兹海峡再关闭；黄金跌至4060美元；美联储主席沃什周二国会首秀叠加CPI数据，加息预期飙升，市场定价39基点年内收紧。",
+      "tags": [
+        "金融新闻",
+        "韩国股市",
+        "原油",
+        "美联储",
+        "加息",
+        "CPI",
+        "欧洲股市"
+      ],
+      "file": "posts/099-financial-markets-crash-kospi-europe-oil-warsh-cpi-july-13-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 13 Financial Roundup: KOSPI Crashes 9% to New Low, Europe Slides, Fed Chair Warsh Debut Testimony Looms",
+      "summary": "⚡ Global markets hit by Black Monday: South Korea KOSPI plunges 9% as SK Hynix tanks 15%; European stocks slide; Brent crude holds above 9 on Hormuz closure fears; gold drops to ,060; Fed Chair Warsh testimony, CPI data, and Big 5 bank earnings converge this week.",
+      "tags": [
+        "Finance",
+        "KOSPI",
+        "Oil",
+        "Federal Reserve",
+        "Rate Hike",
+        "CPI",
+        "European Markets"
+      ],
+      "file": "posts/099-financial-markets-crash-kospi-europe-oil-warsh-cpi-july-13-2026.en.html"
+    }
+  },
+  {
     "id": "098",
     "date": "2026-07-13",
     "zh": {
       "title": "⚡ 7月13日科技综述：黄仁勋路演粉碎Rubin Ultra延期传闻、台积电2nm量产谷歌首发、SK海力士称存储告别周期性",
       "summary": "⚡ 黄仁勋携英伟达高管全员出席摩根士丹利路演，正面否认Rubin Ultra延期传闻，季度营收逼近千亿美元增长加速；台积电2nm制程正式量产，谷歌Tensor G6抢得首发，Pixel 11八月发布；SK海力士董事长称存储不再是周期性行业，AI推理KV缓存需求持续爆发。",
-      "tags": ["科技新闻", "英伟达", "台积电", "2nm", "SK海力士", "HBM", "AI芯片"],
+      "tags": [
+        "科技新闻",
+        "英伟达",
+        "台积电",
+        "2nm",
+        "SK海力士",
+        "HBM",
+        "AI芯片"
+      ],
       "file": "posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Tech Roundup: Jensen Huang Refutes Rubin Ultra Delay, TSMC 2nm Mass Production Begins, SK Hynix Says Memory Is No Longer Cyclical",
       "summary": "⚡ Jensen Huang leads Nvidia roadshow at Morgan Stanley, denies Rubin Ultra delay rumors as quarterly revenue approaches $100B; TSMC 2nm enters mass production with Google Tensor G6 as first customer for Pixel 11; SK Hynix chairman declares memory no longer cyclical as AI KV caching demand reshapes market.",
-      "tags": ["Tech News", "Nvidia", "TSMC", "2nm", "SK Hynix", "HBM", "AI Chip"],
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "TSMC",
+        "2nm",
+        "SK Hynix",
+        "HBM",
+        "AI Chip"
+      ],
       "file": "posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.en.html"
     }
   },
@@ -21,13 +69,27 @@
     "zh": {
       "title": "⚡ 7月13日国际政治综述：乌军一周击毁90艘俄船、特朗普情报转向、曼谷酒吧大火27死、美军首用自杀无人艇",
       "summary": "⚡ 乌克兰无人系统部队一周击毁90艘俄影子舰队船只，重创俄海上物流；特朗普阅情报后对乌立场180度转弯，同意授权乌生产爱国者导弹；曼谷Rong Beer酒吧大火27死63伤，紧急出口被啤酒箱和桌子堵塞酿惨剧；美军中央司令部首度投入自杀无人艇攻击伊朗，三天打击超300目标。",
-      "tags": ["国际政治", "乌克兰", "特朗普", "曼谷大火", "美伊冲突", "中东"],
+      "tags": [
+        "国际政治",
+        "乌克兰",
+        "特朗普",
+        "曼谷大火",
+        "美伊冲突",
+        "中东"
+      ],
       "file": "posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 World Politics Roundup: Ukraine Destroys 90 Russian Ships, Trump Shifts Stance, Bangkok Fire Kills 27, US Deploys Suicide Drones",
       "summary": "⚡ Ukraine's Unmanned Systems Forces destroy 90 Russian shadow fleet vessels in a week; Trump shifts stance on Ukraine after intel briefing on drone strike effectiveness, authorizes Patriot production license; Bangkok bar fire kills 27 with blocked emergency exits; CENTCOM deploys one-way attack sea drones for first time against Iran, hitting 300+ targets in 3 nights.",
-      "tags": ["World Politics", "Ukraine", "Trump", "Bangkok Fire", "US-Iran", "Middle East"],
+      "tags": [
+        "World Politics",
+        "Ukraine",
+        "Trump",
+        "Bangkok Fire",
+        "US-Iran",
+        "Middle East"
+      ],
       "file": "posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.en.html"
     }
   },
@@ -37,13 +99,27 @@
     "zh": {
       "title": "⚡ 7月13日金融综述：布伦特原油飙至79美元韩国暴跌触发SIDECAR、黄金失守4100美元",
       "summary": "⚡ 美伊周末全面交火，布伦特原油周一亚市跳涨4.1%至79.11美元；韩国首尔综指暴跌5.4%触发SIDECAR机制，SK海力士盘中跌超8%；黄金跌破4100美元至4076美元，避险属性因加息预期强化而失灵；美元指数升至101.13，2年期美债收益率创2025年初以来新高；沃什周二国会首秀及CPI数据成本周焦点。",
-      "tags": ["金融新闻", "油价", "韩国股市", "黄金", "美联储", "加息"],
+      "tags": [
+        "金融新闻",
+        "油价",
+        "韩国股市",
+        "黄金",
+        "美联储",
+        "加息"
+      ],
       "file": "posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Financial Roundup: Brent Surges to $79, Korea Triggers SIDECAR, Gold Breaks Below $4,100",
       "summary": "⚡ Brent crude surges 4.1% to $79.11 as US-Iran weekend strikes escalate; South Korea's KOSPI crashes 5.4% triggering SIDECAR circuit breaker; Gold drops 1.1% to $4,076 as inflation fears boost rate hike expectations; 2-year Treasury yield hits highest since early 2025; Fed Chair Warsh's first Congressional testimony and CPI data set to define the week ahead.",
-      "tags": ["Financial News", "Oil Price", "Korea Stock Market", "Gold", "Federal Reserve", "Rate Hike"],
+      "tags": [
+        "Financial News",
+        "Oil Price",
+        "Korea Stock Market",
+        "Gold",
+        "Federal Reserve",
+        "Rate Hike"
+      ],
       "file": "posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.en.html"
     }
   },
@@ -53,13 +129,31 @@
     "zh": {
       "title": "⚡ 7月13日科技综述：三星泰勒工厂量产特斯拉AI5芯片、苹果起诉OpenAI窃密、英伟达RTX Spark亮相BW2026、腾讯开源Hy3模型",
       "summary": "⚡ 三星泰勒工厂完成特斯拉AI5芯片设计定稿，采用2nm工艺进入量产阶段；苹果正式起诉OpenAI窃取商业机密，指控超400名前员工被挖角；英伟达RTX Spark超级芯片笔记本亮相Bilibili World 2026，本地可跑120B大模型；腾讯开源295B参数Hy3 MoE大模型，Apache 2.0协议发布。",
-      "tags": ["科技新闻", "三星", "特斯拉", "AI芯片", "苹果", "OpenAI", "英伟达", "腾讯"],
+      "tags": [
+        "科技新闻",
+        "三星",
+        "特斯拉",
+        "AI芯片",
+        "苹果",
+        "OpenAI",
+        "英伟达",
+        "腾讯"
+      ],
       "file": "posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Tech Roundup: Samsung Taylor Fab Mass-Produces Tesla AI5 Chip, Apple Sues OpenAI for Trade Secret Theft, Nvidia RTX Spark Debuts at BW2026, Tencent Open-Sources Hy3",
       "summary": "⚡ Samsung Taylor fab completes Tesla AI5 chip tape-out on 2nm process for mass production; Apple files federal lawsuit against OpenAI for trade secret theft, citing 400+ former employees; Nvidia RTX Spark superchip laptops debut at Bilibili World 2026, running 120B models locally; Tencent open-sources Hy3 295B MoE model under Apache 2.0, activating only 21B parameters per forward pass.",
-      "tags": ["Tech News", "Samsung", "Tesla", "AI Chip", "Apple", "OpenAI", "Nvidia", "Tencent"],
+      "tags": [
+        "Tech News",
+        "Samsung",
+        "Tesla",
+        "AI Chip",
+        "Apple",
+        "OpenAI",
+        "Nvidia",
+        "Tencent"
+      ],
       "file": "posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.en.html"
     }
   },
@@ -69,13 +163,27 @@
     "zh": {
       "title": "⚡ 7月13日科技综述：OpenAI GPT-5.6获安全绿灯全球全量上线、三大AI巨头引爆价格战、Meta Iris芯片9月投产",
       "summary": "⚡ OpenAI GPT-5.6 Sol/Terra/Luna获美国政府安全审查绿灯全球全量上线，ChatGPT Work智能体同日推出；OpenAI/Meta/SpaceXAI三大巨头集体降价引爆AI价格战，企业AI账单失控催生Token支出管控革命；Meta自研Iris AI芯片9月投产，2027年算力目标翻倍至14GW，锁定三星/闪迪/住友电工长期供应协议。",
-      "tags": ["科技新闻", "OpenAI", "GPT-5.6", "AI价格战", "Meta芯片", "AI行业"],
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "GPT-5.6",
+        "AI价格战",
+        "Meta芯片",
+        "AI行业"
+      ],
       "file": "posts/094-ai-industry-gpt56-price-war-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Tech Roundup: OpenAI GPT-5.6 Gets Government Greenlight for Global Launch, AI Giants Unleash Price War, Meta Iris Chip Set for September Production",
       "summary": "⚡ OpenAI GPT-5.6 Sol/Terra/Luna receives full US government greenlight for global rollout after security review; ChatGPT Work agent launched alongside; OpenAI, Meta, and SpaceXAI trigger industry-wide AI price war as enterprise token costs spiral; Meta Iris AI chip to begin production in September with 14GW computing capacity target by 2027, locking in Samsung/Sandisk/Sumitomo supply deals.",
-      "tags": ["Tech News", "OpenAI", "GPT-5.6", "AI Price War", "Meta Chip", "AI Industry"],
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "GPT-5.6",
+        "AI Price War",
+        "Meta Chip",
+        "AI Industry"
+      ],
       "file": "posts/094-ai-industry-gpt56-price-war-july-13-2026.en.html"
     }
   },
@@ -85,13 +193,27 @@
     "zh": {
       "title": "⚡ 7月13日国际政治综述：特朗普确认援乌爱国者导弹大转向、美军对伊朗发动新一轮打击、南海仲裁十周年14国重申裁决",
       "summary": "⚡ 特朗普确认向乌克兰提供爱国者防空系统和进攻性武器，美对乌政策重大转向；美军对伊朗发动新一轮打击，伊朗称外交努力'化为徒劳'；伊朗报纸公布13名外国领导人'复仇名单'；乌克兰一周打击90艘俄影子舰队船只；南海仲裁十周年14国+欧盟重申裁决具法律约束力。",
-      "tags": ["国际政治", "特朗普", "乌克兰", "美伊冲突", "南海仲裁", "地缘政治"],
+      "tags": [
+        "国际政治",
+        "特朗普",
+        "乌克兰",
+        "美伊冲突",
+        "南海仲裁",
+        "地缘政治"
+      ],
       "file": "posts/093-international-politics-roundup-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Geopolitics Roundup: Trump Pivots to Arm Ukraine with Patriots, US Launches Fresh Iran Strikes, 14 Nations Reaffirm South China Sea Ruling",
       "summary": "⚡ Trump confirms Patriots and offensive weapons for Ukraine in major policy shift; US launches fresh wave of strikes on Iran as Tehran says diplomacy 'rendered futile'; Iranian newspaper publishes revenge list of 13 foreign leaders; Ukraine strikes 90 Russian shadow fleet vessels in one week; 14 nations + EU reaffirm 2016 South China Sea ruling on 10th anniversary.",
-      "tags": ["World Politics", "Trump", "Ukraine", "US-Iran Conflict", "South China Sea", "Geopolitics"],
+      "tags": [
+        "World Politics",
+        "Trump",
+        "Ukraine",
+        "US-Iran Conflict",
+        "South China Sea",
+        "Geopolitics"
+      ],
       "file": "posts/093-international-politics-roundup-july-13-2026.en.html"
     }
   },
