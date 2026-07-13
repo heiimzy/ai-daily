@@ -1,5 +1,21 @@
 [
   {
+    "id": "100",
+    "date": "2026-07-13",
+    "zh": {
+      "title": "⚡ 7月13日国际政治综述：美军一周内第四轮打击伊朗、霍尔木兹海峡再关闭油价飙升、参议员格雷厄姆猝逝、巴黎森林大火失控",
+      "summary": "⚡ 美军一周内第四次对伊朗发动打击，累计打击超300个军事目标；伊朗导弹袭击五国报复，宣布霍尔木兹海峡无限期关闭，布伦特原油飙升4.5%至79美元；特朗普亲密盟友、参议员林赛·格雷厄姆因主动脉夹层猝逝享年71岁；巴黎南部枫丹白露森林大火失控，800公顷过火，A6高速和TGV中断。",
+      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "油价", "特朗普", "林赛·格雷厄姆", "巴黎大火"],
+      "file": "posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 13 World Politics Roundup: US Launches 4th Wave of Strikes on Iran, Hormuz Strait Re-Closed, Oil Surges 4.5%, Senator Graham Dies at 71, Paris Wildfire Burns 800 Hectares",
+      "summary": "⚡ US military launches 4th wave of strikes on Iran in a week, hitting 300+ targets; Iran retaliates with missile and drone attacks on five Gulf nations, declares Strait of Hormuz closed indefinitely, Brent crude surges 4.5% to $79; Senator Lindsey Graham, close Trump ally, dies suddenly at 71 from aortic dissection; Major wildfire in Fontainebleau forest near Paris burns 800 hectares, disrupting A6 highway and TGV rail lines.",
+      "tags": ["International Politics", "US-Iran Conflict", "Strait of Hormuz", "Oil Prices", "Trump", "Lindsey Graham", "Paris Wildfire"],
+      "file": "posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.en.html"
+    }
+  },
+  {
     "id": "099",
     "date": "2026-07-13",
     "zh": {
