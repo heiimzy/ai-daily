@@ -1,5 +1,21 @@
 [
   {
+    "id": "098",
+    "date": "2026-07-13",
+    "zh": {
+      "title": "⚡ 7月13日科技综述：黄仁勋路演粉碎Rubin Ultra延期传闻、台积电2nm量产谷歌首发、SK海力士称存储告别周期性",
+      "summary": "⚡ 黄仁勋携英伟达高管全员出席摩根士丹利路演，正面否认Rubin Ultra延期传闻，季度营收逼近千亿美元增长加速；台积电2nm制程正式量产，谷歌Tensor G6抢得首发，Pixel 11八月发布；SK海力士董事长称存储不再是周期性行业，AI推理KV缓存需求持续爆发。",
+      "tags": ["科技新闻", "英伟达", "台积电", "2nm", "SK海力士", "HBM", "AI芯片"],
+      "file": "posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 13 Tech Roundup: Jensen Huang Refutes Rubin Ultra Delay, TSMC 2nm Mass Production Begins, SK Hynix Says Memory Is No Longer Cyclical",
+      "summary": "⚡ Jensen Huang leads Nvidia roadshow at Morgan Stanley, denies Rubin Ultra delay rumors as quarterly revenue approaches $100B; TSMC 2nm enters mass production with Google Tensor G6 as first customer for Pixel 11; SK Hynix chairman declares memory no longer cyclical as AI KV caching demand reshapes market.",
+      "tags": ["Tech News", "Nvidia", "TSMC", "2nm", "SK Hynix", "HBM", "AI Chip"],
+      "file": "posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.en.html"
+    }
+  },
+  {
     "id": "097",
     "date": "2026-07-13",
     "zh": {
