@@ -1000,4 +1000,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
