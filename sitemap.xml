@@ -11,6 +11,26 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/093-international-politics-roundup-july-13-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/093-international-politics-roundup-july-13-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://heiimzy.github.io/ai-daily/posts/090-tech-roundup-netflix-publishers-gemini-live-translate-data-center-fight-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -917,6 +937,36 @@
   </url>
   <url>
     <loc>https://heiimzy.github.io/ai-daily/posts/091-bok-ai-chip-supercycle-busan-forum-july-13-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/092-financial-roundup-oil-surge-sk-hynix-drop-gold-warsh-fed-july-13-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/092-financial-roundup-oil-surge-sk-hynix-drop-gold-warsh-fed-july-13-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/094-ai-industry-gpt56-price-war-july-13-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/094-ai-industry-gpt56-price-war-july-13-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
