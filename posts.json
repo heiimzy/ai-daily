@@ -1,5 +1,21 @@
 [
   {
+    "id": "097",
+    "date": "2026-07-13",
+    "zh": {
+      "title": "⚡ 7月13日国际政治综述：乌军一周击毁90艘俄船、特朗普情报转向、曼谷酒吧大火27死、美军首用自杀无人艇",
+      "summary": "⚡ 乌克兰无人系统部队一周击毁90艘俄影子舰队船只，重创俄海上物流；特朗普阅情报后对乌立场180度转弯，同意授权乌生产爱国者导弹；曼谷Rong Beer酒吧大火27死63伤，紧急出口被啤酒箱和桌子堵塞酿惨剧；美军中央司令部首度投入自杀无人艇攻击伊朗，三天打击超300目标。",
+      "tags": ["国际政治", "乌克兰", "特朗普", "曼谷大火", "美伊冲突", "中东"],
+      "file": "posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 13 World Politics Roundup: Ukraine Destroys 90 Russian Ships, Trump Shifts Stance, Bangkok Fire Kills 27, US Deploys Suicide Drones",
+      "summary": "⚡ Ukraine's Unmanned Systems Forces destroy 90 Russian shadow fleet vessels in a week; Trump shifts stance on Ukraine after intel briefing on drone strike effectiveness, authorizes Patriot production license; Bangkok bar fire kills 27 with blocked emergency exits; CENTCOM deploys one-way attack sea drones for first time against Iran, hitting 300+ targets in 3 nights.",
+      "tags": ["World Politics", "Ukraine", "Trump", "Bangkok Fire", "US-Iran", "Middle East"],
+      "file": "posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.en.html"
+    }
+  },
+  {
     "id": "096",
     "date": "2026-07-13",
     "zh": {
