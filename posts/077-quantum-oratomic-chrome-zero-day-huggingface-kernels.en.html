@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oratomic Raises $300M for Fault-Tolerant Quantum Computer, Google Patches Chrome 150 Zero-Day, Hugging Face Signs GPU Kernels - AI Daily</title>
+  <meta name="description" content="Oratomic closes $300M Series A claiming fault-tolerant quantum computing with just 20K qubits; Google ships urgent Chrome 150.0.7871.46 to patch CVE-2026-14418 exploited in the wild; Hugging Face introduces Sigstore-based kernel signing for GPU kernel supply chain security.">
+  <meta name="keywords" content="Oratomic,quantum computing,fault-tolerant quantum,Chrome 150,zero-day,CVE-2026-14418,Hugging Face,Sigstore,GPU kernels,AI security,Tech News">
+  <link rel="alternate" hreflang="en" href="https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.en.html">
+  <link rel="alternate" hreflang="zh" href="https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.zh.html">
+  <link rel="canonical" href="https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .post-article { max-width: 800px; margin: 0 auto; padding: 2rem 1rem 4rem; position: relative; }
+    .post-article .post-date { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+    .post-article .post-tags { display: flex; gap: 0.4rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+    .post-article .post-tags .tag { background: linear-gradient(135deg, rgba(167,139,250,0.15), rgba(244,114,182,0.1)); color: var(--primary); padding: 0.2rem 0.65rem; border-radius: 20px; font-size: 0.75rem; border: 1px solid rgba(167,139,250,0.15); }
+    .post-article h1 { font-size: 1.8rem; margin-bottom: 0.5rem; line-height: 1.4; font-weight: 800; background: linear-gradient(135deg, #a78bfa, #f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .post-article h2 { font-size: 1.3rem; margin: 1.5rem 0 0.75rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--border); color: var(--primary); }
+    .post-article h3 { font-size: 1.1rem; margin: 1.2rem 0 0.5rem; color: var(--secondary); }
+    .post-article p { line-height: 1.8; margin: 0.75rem 0; color: #e2e8f0; }
+    .post-article ul, .post-article ol { padding-left: 1.5rem; margin: 0.75rem 0; line-height: 1.8; color: #e2e8f0; }
+    .post-article li { margin: 0.3rem 0; }
+    .post-article blockquote { border-left: 4px solid var(--primary); padding: 0.5rem 1rem; margin: 1rem 0; background: rgba(167,139,250,0.05); border-radius: 0 12px 12px 0; color: var(--text-muted); }
+    .post-article a { color: var(--secondary); }
+    .post-article hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+    .post-article .lang-switch { text-align: right; margin-bottom: 1rem; }
+    .post-article .lang-switch a { display: inline-block; background: var(--bg-card); border: 1px solid var(--border); padding: 0.3rem 0.8rem; border-radius: 8px; font-size: 0.85rem; text-decoration: none; color: var(--text); transition: all 0.2s; }
+    .post-article .lang-switch a:hover { border-color: var(--primary); box-shadow: 0 0 15px var(--glow-purple); }
+    .post-article .back-link { display: inline-block; margin-bottom: 2rem; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
+    .post-article .back-link:hover { color: var(--primary); }
+    @media (max-width: 768px) { .post-article h1 { font-size: 1.4rem; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="../index.html" class="logo">Free AI Tools <span>Free</span></a>
+      <nav><a href="../index.html">AI Tools</a><a href="../index.html">AI Daily</a><a href="../index.html">English</a></nav>
+    </div>
+  </header>
+
+  <article class="post-article">
+    <a href="../index.html" class="back-link">← Back to Home</a>
+    <div class="lang-switch">
+      <a href="posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.zh.html">中文</a>
+    </div>
+    <div class="post-date">2026-07-12</div>
+    <div class="post-tags"><span class="tag">Quantum Computing</span><span class="tag">Oratomic</span><span class="tag">Chrome Security</span><span class="tag">Zero-Day</span><span class="tag">Hugging Face</span><span class="tag">AI Security</span><span class="tag">Semiconductor</span></div>
+    <h1>⚡ July 12 Evening Tech: Oratomic Raises $300M for 20K-Qubit Fault-Tolerant Quantum Computer, Google Patches Chrome 150 Zero-Day Exploited in the Wild, Hugging Face Signs GPU Kernels Against Supply Chain Attacks</h1>
+
+    <p>Several major technology stories broke tonight: quantum computing startup Oratomic announced a $300M Series A, claiming it needs only 10,000-20,000 reconfigurable neutral-atom qubits for fault-tolerant quantum computing — compressing the qubit requirement from millions to tens of thousands; Google urgently shipped Chrome 150.0.7871.46 to patch CVE-2026-14418, a high-severity information disclosure vulnerability already exploited in the wild; and Hugging Face introduced GPU kernel signing with Sigstore, adding code signing and trusted publisher controls to defend the AI supply chain.</p>
+
+    <h2>Oratomic's $300M Series A: A New Path to Fault-Tolerant Quantum Computing</h2>
+
+    <p>Caltech spinoff Oratomic closed a $300M Series A today, co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures — with Vinod Khosla calling it his firm's largest initial investment ever. Bezos Expeditions, Index Ventures, General Catalyst, and Bain Capital also participated.</p>
+
+    <p>Oratomic's core claim: only 10,000 to 20,000 reconfigurable neutral-atom qubits are needed to build a fault-tolerant quantum computer. This is an order of magnitude lower than the prevailing consensus — which recently required 20 million physical qubits for RSA-2048, revised down to under one million earlier this year.</p>
+
+    <h3>From 1000:1 to 100:1 Error Correction Efficiency</h3>
+
+    <p>IBM and Google build superconducting qubits etched onto fixed-position chips where each qubit has fixed neighbors, requiring roughly 1,000 physical qubits to produce one reliable logical qubit. Oratomic's atoms can be physically moved during computation using tightly focused laser beams (optical tweezers), letting any atom connect to any other atom. This flexibility enables error-correcting codes with a ratio closer to 100:1 — ten times more efficient than the superconducting route.</p>
+
+    <p>Co-founders Dolev Bluvstein and Prof. Manuel Endres have already trapped arrays of 6,000 neutral atoms in the lab — two-thirds of Oratomic's minimum threshold. The optical-tweezer technique is established physics. The remaining engineering challenges are real, but they are engineering problems, not fundamental science. Quantum computing pioneer John Preskill — who coined the term "quantum supremacy" — serves as an advisor, adding significant credibility.</p>
+
+    <h3>Cryptography Implications</h3>
+
+    <p>In March 2026, Bluvstein, Endres, and Preskill published an arXiv paper (2603.28627) showing that with 26,000 reconfigurable neutral-atom qubits, Shor's algorithm could break P-256 elliptic curve encryption in days. NIST finalized post-quantum cryptography standards in August 2024 (ML-KEM, ML-DSA, SLH-DSA), and the NSA set a 2030 deadline for federal system migration. But enterprise crypto migrations typically take 8-15 years. If Oratomic's architecture proves viable, the migration window narrows dramatically.</p>
+
+    <blockquote>"This isn't marketing math. Endres has already trapped 6,000 neutral atoms in the lab — two-thirds of Oratomic's minimum threshold. The optical-tweezer technique is established physics. The remaining engineering challenges are real, but they're engineering, not fundamental science."</blockquote>
+
+    <h2>Google Ships Urgent Chrome 150 Patch for Zero-Day Exploited in the Wild</h2>
+
+    <p>Google released Chrome 150.0.7871.46 today to patch CVE-2026-14418, a high-severity information disclosure vulnerability already being actively exploited. Attackers can steal authentication tokens, session cookies, and other sensitive data by luring users to visit a crafted website — potentially bypassing two-factor authentication.</p>
+
+    <h3>Vulnerability Details</h3>
+
+    <p>CVE-2026-14418 is an information disclosure flaw in Chrome's core rendering engine. Google's advisory states that a remote attacker "could potentially exploit heap corruption via a crafted HTML page," enabling theft of data Chrome should keep locked away — authentication tokens, session cookies, saved passwords, and even contents of other open tabs.</p>
+
+    <p>Google confirmed active exploitation in the wild, elevating this from a routine patch to an urgent security update. All Windows, Mac, and Linux users should update immediately via Help > About Google Chrome. Other Chromium-based browsers (Edge, Brave, Opera) may also be affected and should be checked separately.</p>
+
+    <h3>Enterprise Deployment Guidance</h3>
+
+    <p>Enterprise and education deployments should deploy the patched MSI (version 150.0.7871.46 or later) through Intune, SCCM, PDQ, or GPO immediately. Google recommends checking browser versions in endpoint management consoles and re-evaluating any group policies that delay browser updates — with confirmed in-the-wild exploitation, delays are dangerous.</p>
+
+    <h2>Hugging Face Introduces GPU Kernel Signing</h2>
+
+    <p>Hugging Face shipped a major update on July 6: custom GPU kernels are now governed Hub artifacts with Sigstore code signing and a trusted publisher model — a significant milestone for AI infrastructure supply chain security.</p>
+
+    <h3>Why Kernel Signing Matters</h3>
+
+    <p>Custom AI kernels are low-level GPU functions (written in CUDA, Triton, etc.) that replace standard PyTorch or JAX operations. vLLM achieves up to 24x higher throughput through custom attention kernels alone. But Hugging Face is direct about the threat model: "Kernels run native code with the same privileges as the Python process that loads them — a malicious kernel can do real harm." A compromised kernel is worse than a malicious pickle file because it runs as compiled native code with no interpreter sandbox.</p>
+
+    <h3>Two-Layer Security Model</h3>
+
+    <p>The new security model has two layers. First, a trusted publisher list: by default, the <code>kernels</code> package only loads kernels from Hugging Face-vetted organizations; loading from other sources requires explicitly passing <code>trust_remote_code=True</code>. Second, kernel artifacts are now signed using Sigstore cosign with ephemeral keys — no long-lived signing credentials to be stolen. Signatures are recorded in Rekor's transparency log for auditability. Developers can verify any kernel with <code>kernels verify-signature</code>.</p>
+
+    <p>Automatic signature verification on load is not yet live, but the infrastructure is in place. Hugging Face recommends teams run <code>kernels verify-signature</code> in CI pipelines now as an audit step — do not wait for it to become a hard gate.</p>
+
+    <h3>Breaking Change: New Repository Type Required</h3>
+
+    <p>The update also includes a breaking change: kernels were previously stored in standard model-type Hub repositories. That path is now closed — the <code>kernels</code> Python package no longer accepts model-type repos. Teams must migrate CI/CD pipelines, Dockerfiles, and inference servers to the new dedicated "kernel" repository type, which carries structured metadata about supported accelerators (NVIDIA CUDA, AMD ROCm, Apple Metal, Intel XPU), operating systems, and framework versions.</p>
+
+    <p>The implications extend beyond infrastructure. AI agents have been writing and publishing GPU kernels since early 2026, and Hugging Face's CUDA kernel agent skills have been available since February. The July update gives the publication side a proper signed-artifact destination. The loop is now complete: agent writes kernel, benchmarks it, and publishes a signed, metadata-tagged artifact to the Hub.</p>
+
+    <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  </article>
+
+  <footer>
+    <div class="container">
+      <p>AI Daily | <a href="../index.html">AI Tools</a> | <a href="../index.html">AI Daily</a> | <a href="../index.html">English</a> | <a href="../rss.xml">RSS</a></p>
+    </div>
+  </footer>
+</body>
+</html>

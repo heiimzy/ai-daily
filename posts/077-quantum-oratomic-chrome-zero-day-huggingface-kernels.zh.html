@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oratomic获3亿美元打造容错量子计算机、Chrome 150紧急修复零日漏洞、Hugging Face内核签名防供应链攻击 - AI Daily</title>
+  <meta name="description" content="Oratomic完成3亿美元A轮融资，仅需2万量子比特即可构建容错量子计算机；Google紧急发布Chrome 150修复已遭利用的零日漏洞CVE-2026-14418；Hugging Face推出GPU内核签名机制，用Sigstore防供应链攻击。">
+  <meta name="keywords" content="Oratomic,量子计算,容错量子计算机,Chrome 150,零日漏洞,CVE-2026-14418,Hugging Face,Sigstore,GPU内核,AI安全,科技新闻">
+  <link rel="alternate" hreflang="zh" href="https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.zh.html">
+  <link rel="alternate" hreflang="en" href="https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.en.html">
+  <link rel="canonical" href="https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .post-article { max-width: 800px; margin: 0 auto; padding: 2rem 1rem 4rem; position: relative; }
+    .post-article .post-date { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+    .post-article .post-tags { display: flex; gap: 0.4rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+    .post-article .post-tags .tag { background: linear-gradient(135deg, rgba(167,139,250,0.15), rgba(244,114,182,0.1)); color: var(--primary); padding: 0.2rem 0.65rem; border-radius: 20px; font-size: 0.75rem; border: 1px solid rgba(167,139,250,0.15); }
+    .post-article h1 { font-size: 1.8rem; margin-bottom: 0.5rem; line-height: 1.4; font-weight: 800; background: linear-gradient(135deg, #a78bfa, #f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .post-article h2 { font-size: 1.3rem; margin: 1.5rem 0 0.75rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--border); color: var(--primary); }
+    .post-article h3 { font-size: 1.1rem; margin: 1.2rem 0 0.5rem; color: var(--secondary); }
+    .post-article p { line-height: 1.8; margin: 0.75rem 0; color: #e2e8f0; }
+    .post-article ul, .post-article ol { padding-left: 1.5rem; margin: 0.75rem 0; line-height: 1.8; color: #e2e8f0; }
+    .post-article li { margin: 0.3rem 0; }
+    .post-article blockquote { border-left: 4px solid var(--primary); padding: 0.5rem 1rem; margin: 1rem 0; background: rgba(167,139,250,0.05); border-radius: 0 12px 12px 0; color: var(--text-muted); }
+    .post-article a { color: var(--secondary); }
+    .post-article hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+    .post-article .lang-switch { text-align: right; margin-bottom: 1rem; }
+    .post-article .lang-switch a { display: inline-block; background: var(--bg-card); border: 1px solid var(--border); padding: 0.3rem 0.8rem; border-radius: 8px; font-size: 0.85rem; text-decoration: none; color: var(--text); transition: all 0.2s; }
+    .post-article .lang-switch a:hover { border-color: var(--primary); box-shadow: 0 0 15px var(--glow-purple); }
+    .post-article .back-link { display: inline-block; margin-bottom: 2rem; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
+    .post-article .back-link:hover { color: var(--primary); }
+    @media (max-width: 768px) { .post-article h1 { font-size: 1.4rem; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="../index.html" class="logo">Free AI Tools <span>免费</span></a>
+      <nav><a href="../index.html">AI工具</a><a href="../index.html">AI日报</a><a href="../en/index.html">English</a></nav>
+    </div>
+  </header>
+
+  <article class="post-article">
+    <a href="../index.html" class="back-link">← 返回首页</a>
+    <div class="lang-switch">
+      <a href="posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.en.html">English</a>
+    </div>
+    <div class="post-date">2026-07-12</div>
+    <div class="post-tags"><span class="tag">量子计算</span><span class="tag">Oratomic</span><span class="tag">Chrome安全</span><span class="tag">零日漏洞</span><span class="tag">Hugging Face</span><span class="tag">AI安全</span><span class="tag">半导体</span></div>
+    <h1>⚡ 7月12日20点科技快讯：Oratomic获3亿美元打造20K量子比特容错计算机、Chrome 150紧急修复已遭利用零日漏洞、Hugging Face推出内核签名机制抗供应链攻击</h1>
+
+    <p>今晚科技领域迎来多条重磅消息：量子计算初创公司Oratomic宣布完成3亿美元A轮融资，声称仅需1-2万个可重构中性原子量子比特即可构建容错量子计算机，将RSA破解所需量子比特数量从百万级压缩至万级；Google紧急发布Chrome 150.0.7871.46更新，修复一个已被在野利用的高危信息泄露漏洞CVE-2026-14418；Hugging Face正式推出GPU内核签名机制，基于Sigstore为自定义内核添加代码签名和受信发布者管控，直接应对AI供应链安全威胁。</p>
+
+    <h2>Oratomic 3亿美元A轮：容错量子计算的新路线</h2>
+
+    <p>加州理工学院（Caltech）孵化企业Oratomic于今日完成3亿美元A轮融资，由ARCH Venture Partners、Spark Capital和Khosla Ventures联合领投，贝佐斯 Expeditions、Index Ventures、General Catalyst和Bain Capital参与跟投。Vinod Khosla公开表示这是他所在风投机构有史以来最大的单笔初始投资。</p>
+
+    <p>Oratomic的核心主张是：仅需10,000至20,000个可重构中性原子量子比特，即可构建一台容错量子计算机。这一数字远低于行业共识——此前主流观点认为破解RSA-2048需要约2000万个物理量子比特，即便今年初多篇论文将其压缩至不足100万个，Oratomic的方案仍将门槛降低了一个数量级。</p>
+
+    <h3>可重构原子：从1000:1到100:1的纠错效率飞跃</h3>
+
+    <p>IBM和Google的超导量子比特是蚀刻在芯片上的固定位置，每个量子比特有固定邻居，纠错需要约1000个物理量子比特产生1个可靠的逻辑量子比特。而Oratomic采用光镊技术，用聚焦激光束物理移动原子，让任意原子可与任意其他原子连接。这种灵活性使纠错码的物理/逻辑比降至约100:1，比超导路线高效10倍。</p>
+
+    <p>联合创始人兼物理学家Dolev Bluvstein与Manuel Endres教授已在实验室中捕获了多达6000个中性原子阵列——达到Oratomic最低门槛的三分之二。光镊技术本身是成熟的物理方法，剩余挑战是工程问题而非基础科学问题。量子计算先驱John Preskill（提出"量子霸权"一词的物理学家）担任顾问，他的名字出现在论文上本身就是重要信号。</p>
+
+    <h3>对密码学的深远影响</h3>
+
+    <p>2026年3月，Bluvstein、Endres和Preskill在arXiv发表论文（2603.28627）指出：用26,000个可重构中性原子量子比特，Shor算法可在数天内破解P-256椭圆曲线加密。NIST已于2024年8月最终确定后量子密码学标准（ML-KEM、ML-DSA、SLH-DSA），NSA设定2030年联邦系统迁移截止日期，但企业密码学迁移通常需要8-15年。如果Oratomic的架构验证可行，迁移窗口将急剧关闭。</p>
+
+    <blockquote>"这不是营销数学。Endres已在实验室捕获6,000个中性原子——达到Oratomic最低门槛的三分之二。光镊技术是已建立的物理方法。剩余工程挑战虽然真实，但属于工程问题而非基础科学问题。"</blockquote>
+
+    <h2>Chrome 150紧急修复已遭利用零日漏洞</h2>
+
+    <p>Google今日发布Chrome 150.0.7871.46安全更新，修复一个高危信息泄露漏洞CVE-2026-14418。该漏洞已在野外被积极利用，攻击者可通过诱导用户访问恶意网站，窃取身份验证令牌、会话Cookie等敏感数据，甚至绕过双因素认证。</p>
+
+    <h3>漏洞详情</h3>
+
+    <p>CVE-2026-14418是浏览器核心渲染引擎中的信息泄露漏洞。Google的官方描述称，远程攻击者"可能通过精心设计的HTML页面利用堆损坏"，但实际上漏洞的影响更加直接：访问恶意网站即可让攻击者获取Chrome本应锁定的数据，包括身份验证令牌、会话Cookie、已保存密码甚至其他打开标签页中的内容。</p>
+
+    <p>Google确认该漏洞已在野外被利用，将本次更新从常规补丁升级为紧急修复。所有Windows、Mac和Linux用户应立即通过"帮助">"关于Google Chrome"检查并更新。基于Chromium的其他浏览器（Edge、Brave、Opera等）也可能受影响，需分别检查更新。</p>
+
+    <h3>企业部署建议</h3>
+
+    <p>企业和教育机构需立即通过软件分发工具（Intune、SCCM、PDQ或GPO）部署补丁后的MSI安装包（版本150.0.7871.46或更高）。Google建议在端点管理控制台中检查浏览器版本，并重新评估任何延迟浏览器更新的组策略——在已确认在野利用的情况下，延迟是危险的。</p>
+
+    <h2>Hugging Face推出GPU内核签名机制</h2>
+
+    <p>Hugging Face于7月6日发布重大更新：自定义GPU内核现已成为受管控的Hub工件，配备Sigstore代码签名和受信发布者模型。这是AI基础设施供应链安全的一个重要里程碑。</p>
+
+    <h3>为什么内核签名如此重要</h3>
+
+    <p>自定义AI内核是低层GPU函数（用CUDA、Triton等编写），用于替代标准PyTorch或JAX操作。vLLM通过自定义注意力内核实现了比标准Transformer高达24倍的吞吐量提升。但Hugging Face直言不讳地指出威胁模型："内核以Python进程相同的权限运行原生代码——恶意内核可以造成真实伤害。"被攻破的内核比恶意pickle文件更危险，因为它以编译原生代码运行，没有任何解释器沙箱。</p>
+
+    <h3>双层安全模型</h3>
+
+    <p>新安全模型有两层：第一，受信发布者列表——默认情况下，kernels包仅从Hugging Face审核批准的机构加载内核；从任何其他来源加载需要显式传递trust_remote_code=True。第二，内核工件现在使用Sigstore cosign进行签名，使用临时密钥——没有长期存在的签名凭证等待被盗。签名记录在Rekor透明日志中，可供审计。开发者可通过kernels verify-signature命令验证任意内核。</p>
+
+    <p>自动签名验证尚未在加载时启用，但基础设施已经到位。Hugging Face建议团队立即在CI管道中运行kernels verify-signature作为审计步骤，不要等到它变成硬性门槛。</p>
+
+    <h3>结构变更：新仓库类型</h3>
+
+    <p>本次更新还包含一个破坏性变更：内核以前存储在标准的模型类型Hub仓库中，现在该路径已关闭——kernels Python包不再接受模型类型仓库。团队需要将CI/CD管道、Dockerfile或推理服务器迁移到新的专用"kernel"仓库类型。新格式携带结构化元数据：支持的加速器（NVIDIA CUDA、AMD ROCm、Apple Metal、Intel XPU）、操作系统和框架版本。</p>
+
+    <p>这一变更的影响远超表面。AI Agent自2026年初以来已经开始编写和发布GPU内核，Hugging Face的CUDA内核Agent技能自2月就已可用。7月的更新为发布端提供了适当的签名工件目的地。循环现已完整：Agent编写内核、进行基准测试、发布带有签名和元数据标签的工件到Hub。</p>
+
+    <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+  </article>
+
+  <footer>
+    <div class="container">
+      <p>AI日报 | <a href="../index.html">AI工具</a> | <a href="../index.html">AI日报</a> | <a href="../en/index.html">English</a> | <a href="../rss.xml">RSS</a></p>
+    </div>
+  </footer>
+</body>
+</html>
