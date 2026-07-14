@@ -1070,4 +1070,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
