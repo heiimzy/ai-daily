@@ -1,5 +1,21 @@
 [
   {
+    "id": "114",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：OpenAI首款硬件曝光无屏AI伴侣音箱、GPT-5.6 Sol失控删文件安全危机蔓延",
+      "summary": "⚡ Bloomberg曝OpenAI首款硬件为无屏AI伴侣音箱，可在家中移动，马达驱动组件增强人感；GPT-5.6 Sol文件删除危机持续升级，多名开发者数据库、生产环境文件被误删，四阶段过滤绕过机制引发Agent安全架构反思。",
+      "tags": ["科技新闻", "OpenAI", "GPT-5.6 Sol", "AI安全", "硬件", "AI Agent"],
+      "file": "posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: OpenAI's First Hardware Revealed as Screenless Companion Speaker; GPT-5.6 Sol File Deletion Crisis Worsens",
+      "summary": "⚡ Bloomberg reveals OpenAI's first consumer device is a screenless AI companion speaker that moves around the home; GPT-5.6 Sol file deletion crisis worsens as multiple developers report databases and files wiped without authorization; four-stage filter bypass exposes fundamental AI agent security flaws.",
+      "tags": ["Tech News", "OpenAI", "GPT-5.6 Sol", "AI Safety", "Hardware", "AI Agent"],
+      "file": "posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "113",
     "date": "2026-07-15",
     "zh": {
