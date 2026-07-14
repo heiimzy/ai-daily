@@ -1,5 +1,21 @@
 [
   {
+    "id": "105",
+    "date": "2026-07-14",
+    "zh": {
+      "title": "⚡ 7月14日国际政治综述：匈牙利议会139:6罢免总统欧尔班时代落幕、以黎第六轮罗马谈判登场、美伊战火重燃油价飙破87美元",
+      "summary": "⚡ 匈牙利议会通过宪法修正案以139票支持6票反对罢免总统舒尤克，总理欧尔班时代全面落幕；以色列与黎巴嫩第六轮直接谈判在罗马举行，聚焦试点区撤军；美军连续第三夜空袭伊朗六城，伊朗导弹击中两艘阿联酋油轮致1死8伤，印度召见伊朗外交官强烈抗议；欧盟航空安全局警告避开海湾空域，巴西总统卢拉批特朗普收费计划为海盗行径；布伦特原油飙涨5%至87.49美元。",
+      "tags": ["国际政治", "匈牙利", "美伊冲突", "霍尔木兹海峡", "以色列", "原油"],
+      "file": "posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 14 World Politics Roundup: Hungary Ousts Orban-Era President in 139-6 Landslide, Israel-Lebanon Rome Talks Enter 6th Round, US-Iran Fighting Intensifies as Oil Breaks $87",
+      "summary": "⚡ Hungary parliament ousts President Tamas Sulyok in 139-6 vote as PM Magyar dismantles Orban-era power; Israel and Lebanon begin 6th round of US-mediated talks in Rome; US strikes Iran for 3rd night as Trump reinstates blockade with 20% Hormuz toll; Iranian missiles hit two UAE tankers killing 1 Indian sailor; EASA warns airlines to avoid Gulf airspace; Brent crude surges 5% to $87.49.",
+      "tags": ["World Politics", "Hungary", "US-Iran Conflict", "Strait of Hormuz", "Israel", "Crude Oil"],
+      "file": "posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.en.html"
+    }
+  },
+  {
     "id": "104",
     "date": "2026-07-14",
     "zh": {
