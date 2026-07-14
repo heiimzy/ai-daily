@@ -1,5 +1,21 @@
 [
   {
+    "id": "101",
+    "date": "2026-07-14",
+    "zh": {
+      "title": "⚡ 7月14日国际政治综述：美军连续第三晚空袭伊朗、霍尔木兹海峡油轮遇袭1死8伤、特朗普重启封锁征收20%过路费",
+      "summary": "⚡ 美军连续第三晚对伊朗实施大规模空袭，覆盖阿巴斯港、布什尔、基什岛等地；伊朗以巡航导弹打击两艘阿联酋油轮，致1名印度船员死亡8人受伤；特朗普宣布重启伊朗海上封锁，自称霍尔木兹海峡守护者并征收20%货物过路费；印度召见伊朗外交官抗议；巴林遭伊朗导弹袭击拉响防空警报；布伦特原油飙升破85美元。",
+      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "特朗普", "油价", "中东局势"],
+      "file": "posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 14 World Politics Roundup: US Strikes Iran for 3rd Night, UAE Tankers Hit in Hormuz (1 Dead, 8 Injured), Trump Reimposes Blockade with 20% Cargo Toll",
+      "summary": "⚡ US strikes Iran for third consecutive night; Iran retaliates with cruise missiles on two UAE oil tankers in Strait of Hormuz, killing 1 Indian sailor and wounding 8; Trump reimposes naval blockade with 20% cargo toll; India summons Iranian diplomats; Bahrain sounds missile alerts; Brent crude surges past $85.",
+      "tags": ["International Politics", "US-Iran Conflict", "Strait of Hormuz", "Trump", "Oil Price", "Middle East"],
+      "file": "posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.en.html"
+    }
+  },
+  {
     "id": "100",
     "date": "2026-07-13",
     "zh": {
