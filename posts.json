@@ -1,5 +1,21 @@
 [
   {
+    "id": "106",
+    "date": "2026-07-14",
+    "zh": {
+      "title": "⚡ 7月14日科技综述：Spotify推出AI对话助手对抗Apple Music、OpenAI取消Sol五小时限制、苹果iOS 27公测版上线",
+      "summary": "⚡ Spotify周二宣布为Premium用户推出ChatGPT式交互式AI音乐助手，支持语音和文字对话选歌，美国/爱尔兰/瑞典率先上线；OpenAI 48小时内GPT-5.6 Sol需求激增，临时取消Plus/Pro/Business五小时限制并重置用量；苹果发布iOS 27/macOS 27 Golden Gate公测版，Siri AI首次向公众开放但仅限iPhone 15 Pro及以上。",
+      "tags": ["科技新闻", "Spotify", "OpenAI", "AI助手", "苹果", "iOS 27"],
+      "file": "posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 14 Tech Roundup: Spotify Launches ChatGPT-Like AI Music Assistant, OpenAI Removes Sol 5-Hour Cap, Apple iOS 27 Public Beta Goes Live",
+      "summary": "⚡ Spotify rolls out interactive AI music assistant for Premium users with voice and text conversation for music discovery; OpenAI temporarily removes GPT-5.6 Sol 5-hour usage cap after 48-hour demand surge, resets all user quotas; Apple releases public betas of iOS 27 and macOS 27 Golden Gate with fully rebuilt Siri AI available to non-developers.",
+      "tags": ["Tech News", "Spotify", "OpenAI", "AI Assistant", "Apple", "iOS 27"],
+      "file": "posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.en.html"
+    }
+  },
+  {
     "id": "105",
     "date": "2026-07-14",
     "zh": {
