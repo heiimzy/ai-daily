@@ -1,5 +1,21 @@
 [
   {
+    "id": "107",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：苹果起诉OpenAI窃密400人跳槽、DeepSeek 74亿美元融资估值破500亿、阶跃星辰发布全球首款AI手机",
+      "summary": "⚡ 苹果向法院提交41页诉状指控OpenAI系统性窃取商业机密，400余名前苹果员工已加入OpenAI，前苹果高管被指面试时要求携带实物零部件；DeepSeek完成首轮74亿美元外部融资，梁文锋个人出资30亿美元成全球最富AI创始人；阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo及智能体操作系统Step AOS。",
+      "tags": ["科技新闻", "苹果", "OpenAI", "DeepSeek", "阶跃星辰", "AI手机"],
+      "file": "posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: Apple Sues OpenAI Over Trade Secrets Involving 400+ Employees, DeepSeek Raises $7.4B at $50B+ Valuation, Stepfun Debuts World's First AI-Native Phone",
+      "summary": "⚡ Apple files a 41-page lawsuit accusing OpenAI of systematic trade secret theft involving 400+ former Apple employees; DeepSeek closes $7.4B funding round at $50B+ valuation as founder Liang Wenfeng personally invests $3B; Stepfun launches STEPX Neo, the world's first LLM-native agentic smartphone with Step AOS operating system.",
+      "tags": ["Tech News", "Apple", "OpenAI", "DeepSeek", "Stepfun", "AI Phone"],
+      "file": "posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "106",
     "date": "2026-07-14",
     "zh": {
