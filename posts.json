@@ -1,5 +1,21 @@
 [
   {
+    "id": "111",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：中国AI拟人监管新规正式施行豆包千问下线智能体、Grok Build偷代码马斯克承诺删除、美团开源LongCat-2.0",
+      "summary": "⚡ 中国五部门联合发布AI拟人化互动监管新规今日正式施行，豆包/千问下线用户自定义智能体功能；SpaceXAI的Grok Build被曝偷偷上传完整Git仓库，马斯克48小时内承诺全部删除；美团正式开源LongCat-2.0，1.6T总参数专为智能体编程设计，同步开放国产卡推理代码。",
+      "tags": ["科技新闻", "AI监管", "Grok Build", "马斯克", "美团", "开源模型"],
+      "file": "posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: China AI Anthropomorphism Law Takes Effect, Musk Deletes Grok Build Data, Meituan Open-Sources LongCat-2.0",
+      "summary": "⚡ China's first AI anthropomorphism regulation takes effect today — Doubao and Qianwen remove user-created AI avatars; SpaceXAI's Grok Build caught uploading entire Git repos to cloud, Musk confirms full deletion within 48 hours; Meituan open-sources LongCat-2.0 with 1.6T parameters for agentic coding, including domestic GPU inference code.",
+      "tags": ["Tech News", "AI Regulation", "Grok Build", "Elon Musk", "Meituan", "Open Source"],
+      "file": "posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "110",
     "date": "2026-07-15",
     "zh": {
