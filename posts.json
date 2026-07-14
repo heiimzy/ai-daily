@@ -1,5 +1,21 @@
 [
   {
+    "id": "110",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：纽约州暂停大型数据中心建设、强化学习之父创办Oak Lab目标20瓦人脑级智能体、Anthropic发现Claude因语言不同价值观不同",
+      "summary": "⚡ 纽约州全美首个暂停50MW以上数据中心建设，Hochul签署行政令影响超十多个项目；2024图灵奖得主Richard Sutton离开John Carmack创办Oak Lab，目标万亿参数20瓦功耗实时学习智能体；Anthropic研究显示Claude在20种语言中表达不同价值观，四轴模型解释15%差异。",
+      "tags": ["科技新闻", "数据中心", "强化学习", "Anthropic", "AI价值观", "纽约州"],
+      "file": "posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: NY Halts Large Data Centers, Turing Winner Sutton Founds Oak Lab, Anthropic Finds Claude's Values Shift by Language",
+      "summary": "⚡ New York becomes first US state to pause 50MW+ data center construction; 2024 Turing Award winner Richard Sutton leaves Carmack's Keen to launch Oak Lab, targeting trillion-parameter 20-watt real-time learning agents; Anthropic research reveals Claude expresses different value preferences across 20 languages, with 4-axis model explaining 15% of variation.",
+      "tags": ["Tech News", "Data Centers", "Reinforcement Learning", "Anthropic", "AI Values", "New York"],
+      "file": "posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "109",
     "date": "2026-07-15",
     "zh": {
