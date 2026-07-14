@@ -1,17 +1,61 @@
 [
   {
+    "id": "113",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日国际政治综述：美国重启对伊海上封锁第四夜空袭、伊朗议会提交霍尔木兹法案、胡塞威胁封锁曼德海峡、参院民主党阻击国防授权法案",
+      "summary": "⚡ 美军于20:00 GMT正式重启对伊朗港口海上封锁，第四轮空袭同步打击布什尔等地；伊朗议会提交霍尔木兹海峡战略管理法案，强硬回应美国“守护者”声明；胡塞武装威胁封锁曼德海峡，全球航运面临新威胁；美参院民主党罕见阻击国防授权法案抗议对伊战争；科威特海军舰艇遭伊朗击中4人受伤；挪威油轮在阿曼海岸遇袭；以色列安全内阁批准4.34亿美元新建34个定居点；黎以罗马谈判首日结束。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "胡塞武装",
+        "美国参议院",
+        "中东局势"
+      ],
+      "file": "posts/113-international-politics-hormuz-blockade-bab-al-mandeb-senate-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 International Politics Roundup: US Reimposes Iran Naval Blockade with 4th Night of Strikes, Iran Parliament Submits Hormuz Bill, Houthis Threaten Bab al-Mandeb, Senate Dems Block NDAA",
+      "summary": "⚡ US CENTCOM reimposes naval blockade on Iranian ports at 20:00 GMT; fourth wave of strikes hits Bushehr, Bandar Abbas; Iran parliament submits Hormuz Strategic Action Bill; Houthis threaten to close Bab al-Mandeb Strait; US Senate Democrats block NDAA debate over Iran war; Kuwait naval vessel struck, 4 wounded; Norwegian tanker hit off Oman; Israel approves 34M for 34 new West Bank settlements; Lebanon-Israel Rome talks conclude day one.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Houthis",
+        "US Senate",
+        "Middle East"
+      ],
+      "file": "posts/113-international-politics-hormuz-blockade-bab-al-mandeb-senate-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "112",
     "date": "2026-07-15",
     "zh": {
       "title": "⚡ 7月15日金融综述：CPI降温引爆反弹纳指涨0.9%、7月加息概率骤降至16%、SK海力士ADR暴涨27%领涨芯片、特朗普急转弯取消霍尔木兹过路费",
       "summary": "⚡ 美国6月CPI环比暴跌0.4%创六年来最大降幅，年率降至3.5%远低于预期；核心CPI月率录得0%为2021年以来最小增幅；7月加息概率从41.7%骤降至14.4%；美股三大指数全线收涨，纳指涨0.9%；SK海力士ADR暴涨27%领涨芯片板块；特朗普急转弯取消20%霍尔木兹过路费；美元指数回落至100.94；黄金反弹逼近4100美元。",
-      "tags": ["财经新闻", "CPI", "美联储", "美股", "芯片", "原油"],
+      "tags": [
+        "财经新闻",
+        "CPI",
+        "美联储",
+        "美股",
+        "芯片",
+        "原油"
+      ],
       "file": "posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Financial Roundup: CPI Cools Sharply, July Rate Hike Odds Plunge to 14%, SK Hynix ADR Surges 27%, Trump Reverses Hormuz Toll Plan",
       "summary": "⚡ June CPI falls 0.4% MoM, biggest drop in 6 years; core CPI monthly rate hits 0% for first time since Jan 2021; July Fed hike probability collapses from 41.7% to 14.4%; US stocks rally with Nasdaq up 0.9%; SK Hynix ADR surges 27% leading chip rebound; Trump abruptly cancels 20% Hormuz transit fee; DXY falls to 100.94; gold rebounds toward $4,100.",
-      "tags": ["Finance", "CPI", "Federal Reserve", "US Stocks", "Semiconductors", "Crude Oil"],
+      "tags": [
+        "Finance",
+        "CPI",
+        "Federal Reserve",
+        "US Stocks",
+        "Semiconductors",
+        "Crude Oil"
+      ],
       "file": "posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.en.html"
     }
   },
@@ -21,13 +65,27 @@
     "zh": {
       "title": "⚡ 7月15日科技综述：中国AI拟人监管新规正式施行豆包千问下线智能体、Grok Build偷代码马斯克承诺删除、美团开源LongCat-2.0",
       "summary": "⚡ 中国五部门联合发布AI拟人化互动监管新规今日正式施行，豆包/千问下线用户自定义智能体功能；SpaceXAI的Grok Build被曝偷偷上传完整Git仓库，马斯克48小时内承诺全部删除；美团正式开源LongCat-2.0，1.6T总参数专为智能体编程设计，同步开放国产卡推理代码。",
-      "tags": ["科技新闻", "AI监管", "Grok Build", "马斯克", "美团", "开源模型"],
+      "tags": [
+        "科技新闻",
+        "AI监管",
+        "Grok Build",
+        "马斯克",
+        "美团",
+        "开源模型"
+      ],
       "file": "posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Tech Roundup: China AI Anthropomorphism Law Takes Effect, Musk Deletes Grok Build Data, Meituan Open-Sources LongCat-2.0",
       "summary": "⚡ China's first AI anthropomorphism regulation takes effect today — Doubao and Qianwen remove user-created AI avatars; SpaceXAI's Grok Build caught uploading entire Git repos to cloud, Musk confirms full deletion within 48 hours; Meituan open-sources LongCat-2.0 with 1.6T parameters for agentic coding, including domestic GPU inference code.",
-      "tags": ["Tech News", "AI Regulation", "Grok Build", "Elon Musk", "Meituan", "Open Source"],
+      "tags": [
+        "Tech News",
+        "AI Regulation",
+        "Grok Build",
+        "Elon Musk",
+        "Meituan",
+        "Open Source"
+      ],
       "file": "posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.en.html"
     }
   },
@@ -37,13 +95,27 @@
     "zh": {
       "title": "⚡ 7月15日科技综述：纽约州暂停大型数据中心建设、强化学习之父创办Oak Lab目标20瓦人脑级智能体、Anthropic发现Claude因语言不同价值观不同",
       "summary": "⚡ 纽约州全美首个暂停50MW以上数据中心建设，Hochul签署行政令影响超十多个项目；2024图灵奖得主Richard Sutton离开John Carmack创办Oak Lab，目标万亿参数20瓦功耗实时学习智能体；Anthropic研究显示Claude在20种语言中表达不同价值观，四轴模型解释15%差异。",
-      "tags": ["科技新闻", "数据中心", "强化学习", "Anthropic", "AI价值观", "纽约州"],
+      "tags": [
+        "科技新闻",
+        "数据中心",
+        "强化学习",
+        "Anthropic",
+        "AI价值观",
+        "纽约州"
+      ],
       "file": "posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Tech Roundup: NY Halts Large Data Centers, Turing Winner Sutton Founds Oak Lab, Anthropic Finds Claude's Values Shift by Language",
       "summary": "⚡ New York becomes first US state to pause 50MW+ data center construction; 2024 Turing Award winner Richard Sutton leaves Carmack's Keen to launch Oak Lab, targeting trillion-parameter 20-watt real-time learning agents; Anthropic research reveals Claude expresses different value preferences across 20 languages, with 4-axis model explaining 15% of variation.",
-      "tags": ["Tech News", "Data Centers", "Reinforcement Learning", "Anthropic", "AI Values", "New York"],
+      "tags": [
+        "Tech News",
+        "Data Centers",
+        "Reinforcement Learning",
+        "Anthropic",
+        "AI Values",
+        "New York"
+      ],
       "file": "posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.en.html"
     }
   },
