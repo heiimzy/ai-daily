@@ -1,5 +1,21 @@
 [
   {
+    "id": "103",
+    "date": "2026-07-14",
+    "zh": {
+      "title": "⚡ 7月14日科技综述：英伟达砍掉超半数亚洲AI芯片客户/马来西亚出台出口许可新规/苹果股价创历史新高",
+      "summary": "⚡ 英伟达大幅削减亚洲授权客户名单，超半数买家未通过合规审查，引入白名单制度；马来西亚宣布AI芯片出口须持战略贸易许可；黄仁勋本周在北京举行媒体发布会；苹果股价盘中突破321美元创历史新高，市值达4.73万亿美元逼近英伟达。",
+      "tags": ["科技新闻", "英伟达", "AI芯片", "出口管制", "黄仁勋", "苹果", "马来西亚"],
+      "file": "posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 14 Tech Roundup: Nvidia Halves Asia AI Chip Buyer List, Malaysia Tightens Export Rules, Apple Hits All-Time High",
+      "summary": "⚡ Nvidia slashes authorized Asia AI chip customers by more than half, introduces whitelist system after compliance crackdown; Malaysia mandates strategic trade permits for US-origin AI chip exports; Jensen Huang to hold Beijing media briefing July 16; Apple stock hits all-time high above $321, market cap reaches $4.73 trillion.",
+      "tags": ["Tech News", "Nvidia", "AI Chips", "Export Controls", "Jensen Huang", "Apple", "Malaysia"],
+      "file": "posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.en.html"
+    }
+  },
+  {
     "id": "102",
     "date": "2026-07-14",
     "zh": {
