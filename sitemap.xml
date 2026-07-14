@@ -1080,4 +1080,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
