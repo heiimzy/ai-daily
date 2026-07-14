@@ -1,5 +1,21 @@
 [
   {
+    "id": "108",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日金融综述：6月CPI意外降温至3.5%创疫情来最大降幅、沃什国会首秀宣布三大工作组、五大行财报全线超预期高盛EPS翻倍、IBM业绩预警暴跌24%",
+      "summary": "⚡ 美国6月CPI环比暴跌0.4%创2020年4月以来最大降幅，年率降至3.5%远低于预期的3.8%；美联储主席沃什首次国会作证宣布成立三大特别工作组、强调对通胀零容忍；五大行Q2财报全线超预期，高盛EPS翻倍至$20.98；IBM业绩预警暴跌24%；布伦特原油冲破87美元，特朗普重启霍尔木兹海峡封锁。",
+      "tags": ["财经新闻", "CPI", "美联储", "沃什", "银行财报", "原油"],
+      "file": "posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Financial Roundup: June CPI Cools to 3.5%, Warsh Debuts Three Task Forces, Big Bank Earnings Crush Estimates, IBM Plunges 24%",
+      "summary": "⚡ June CPI plunges 0.4% MoM, annual rate falls to 3.5% well below 3.8% expected; Fed Chair Warsh testifies before Congress, announces three internal task forces; Five major banks crush Q2 estimates, Goldman EPS doubles to $20.98; IBM crashes 24% on profit warning; Brent crude surges past $87 as Hormuz crisis deepens.",
+      "tags": ["Finance", "CPI", "Federal Reserve", "Warsh", "Bank Earnings", "Oil"],
+      "file": "posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "107",
     "date": "2026-07-15",
     "zh": {
