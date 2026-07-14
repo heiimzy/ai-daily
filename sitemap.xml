@@ -1020,4 +1020,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heiimzy.github.io/ai-daily/posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
