@@ -1,17 +1,61 @@
 [
   {
+    "id": "109",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日国际政治综述：特朗普急转弯取消霍尔木兹20%过路费代之以投资、美伊第三晚空袭交火、胡塞武装四年后首袭沙特、阿联酋油轮被击1死8伤",
+      "summary": "⚡ 特朗普宣布取消20%霍尔木兹通行费改为投资协议，海湾国家承诺大规模对美投资；美军连续第三晚空袭伊朗六城，伊朗回击美军巴林约旦基地；胡塞武装四年后首度导弹袭击沙特机场、也门四年停火终结；阿联酋两油轮遭伊朗巡航导弹击中，1名印度船员死亡8人受伤；特朗普预告7月16日全国演说并威胁摧毁伊朗地下核设施。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "胡塞武装",
+        "沙特",
+        "中东局势"
+      ],
+      "file": "posts/109-international-politics-hormuz-trump-toll-houthi-saudi-iran-strikes-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 World Politics Roundup: Trump Reverses 20% Hormuz Toll, US-Iran Trade Strikes for 3rd Night, Houthis Break 4-Year Saudi Truce, UAE Tankers Hit (1 Dead)",
+      "summary": "⚡ Trump abruptly scraps 20% Hormuz shipping fee, replaces with Gulf investment deals; US CENTCOM launches 3rd consecutive night of strikes on six Iranian cities; Iran retaliates hitting US bases in Bahrain, Jordan, Kuwait; Houthis fire missiles at Saudi Arabia for first time in 4 years; Two UAE tankers struck by Iranian cruise missiles, 1 Indian sailor killed; Trump announces national address on Iran.",
+      "tags": [
+        "World Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Houthis",
+        "Saudi Arabia",
+        "Middle East"
+      ],
+      "file": "posts/109-international-politics-hormuz-trump-toll-houthi-saudi-iran-strikes-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "108",
     "date": "2026-07-15",
     "zh": {
       "title": "⚡ 7月15日金融综述：6月CPI意外降温至3.5%创疫情来最大降幅、沃什国会首秀宣布三大工作组、五大行财报全线超预期高盛EPS翻倍、IBM业绩预警暴跌24%",
       "summary": "⚡ 美国6月CPI环比暴跌0.4%创2020年4月以来最大降幅，年率降至3.5%远低于预期的3.8%；美联储主席沃什首次国会作证宣布成立三大特别工作组、强调对通胀零容忍；五大行Q2财报全线超预期，高盛EPS翻倍至$20.98；IBM业绩预警暴跌24%；布伦特原油冲破87美元，特朗普重启霍尔木兹海峡封锁。",
-      "tags": ["财经新闻", "CPI", "美联储", "沃什", "银行财报", "原油"],
+      "tags": [
+        "财经新闻",
+        "CPI",
+        "美联储",
+        "沃什",
+        "银行财报",
+        "原油"
+      ],
       "file": "posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Financial Roundup: June CPI Cools to 3.5%, Warsh Debuts Three Task Forces, Big Bank Earnings Crush Estimates, IBM Plunges 24%",
       "summary": "⚡ June CPI plunges 0.4% MoM, annual rate falls to 3.5% well below 3.8% expected; Fed Chair Warsh testifies before Congress, announces three internal task forces; Five major banks crush Q2 estimates, Goldman EPS doubles to $20.98; IBM crashes 24% on profit warning; Brent crude surges past $87 as Hormuz crisis deepens.",
-      "tags": ["Finance", "CPI", "Federal Reserve", "Warsh", "Bank Earnings", "Oil"],
+      "tags": [
+        "Finance",
+        "CPI",
+        "Federal Reserve",
+        "Warsh",
+        "Bank Earnings",
+        "Oil"
+      ],
       "file": "posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.en.html"
     }
   },
@@ -21,13 +65,27 @@
     "zh": {
       "title": "⚡ 7月15日科技综述：苹果起诉OpenAI窃密400人跳槽、DeepSeek 74亿美元融资估值破500亿、阶跃星辰发布全球首款AI手机",
       "summary": "⚡ 苹果向法院提交41页诉状指控OpenAI系统性窃取商业机密，400余名前苹果员工已加入OpenAI，前苹果高管被指面试时要求携带实物零部件；DeepSeek完成首轮74亿美元外部融资，梁文锋个人出资30亿美元成全球最富AI创始人；阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo及智能体操作系统Step AOS。",
-      "tags": ["科技新闻", "苹果", "OpenAI", "DeepSeek", "阶跃星辰", "AI手机"],
+      "tags": [
+        "科技新闻",
+        "苹果",
+        "OpenAI",
+        "DeepSeek",
+        "阶跃星辰",
+        "AI手机"
+      ],
       "file": "posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Tech Roundup: Apple Sues OpenAI Over Trade Secrets Involving 400+ Employees, DeepSeek Raises $7.4B at $50B+ Valuation, Stepfun Debuts World's First AI-Native Phone",
       "summary": "⚡ Apple files a 41-page lawsuit accusing OpenAI of systematic trade secret theft involving 400+ former Apple employees; DeepSeek closes $7.4B funding round at $50B+ valuation as founder Liang Wenfeng personally invests $3B; Stepfun launches STEPX Neo, the world's first LLM-native agentic smartphone with Step AOS operating system.",
-      "tags": ["Tech News", "Apple", "OpenAI", "DeepSeek", "Stepfun", "AI Phone"],
+      "tags": [
+        "Tech News",
+        "Apple",
+        "OpenAI",
+        "DeepSeek",
+        "Stepfun",
+        "AI Phone"
+      ],
       "file": "posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.en.html"
     }
   },
@@ -37,13 +95,27 @@
     "zh": {
       "title": "⚡ 7月14日科技综述：Spotify推出AI对话助手对抗Apple Music、OpenAI取消Sol五小时限制、苹果iOS 27公测版上线",
       "summary": "⚡ Spotify周二宣布为Premium用户推出ChatGPT式交互式AI音乐助手，支持语音和文字对话选歌，美国/爱尔兰/瑞典率先上线；OpenAI 48小时内GPT-5.6 Sol需求激增，临时取消Plus/Pro/Business五小时限制并重置用量；苹果发布iOS 27/macOS 27 Golden Gate公测版，Siri AI首次向公众开放但仅限iPhone 15 Pro及以上。",
-      "tags": ["科技新闻", "Spotify", "OpenAI", "AI助手", "苹果", "iOS 27"],
+      "tags": [
+        "科技新闻",
+        "Spotify",
+        "OpenAI",
+        "AI助手",
+        "苹果",
+        "iOS 27"
+      ],
       "file": "posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 14 Tech Roundup: Spotify Launches ChatGPT-Like AI Music Assistant, OpenAI Removes Sol 5-Hour Cap, Apple iOS 27 Public Beta Goes Live",
       "summary": "⚡ Spotify rolls out interactive AI music assistant for Premium users with voice and text conversation for music discovery; OpenAI temporarily removes GPT-5.6 Sol 5-hour usage cap after 48-hour demand surge, resets all user quotas; Apple releases public betas of iOS 27 and macOS 27 Golden Gate with fully rebuilt Siri AI available to non-developers.",
-      "tags": ["Tech News", "Spotify", "OpenAI", "AI Assistant", "Apple", "iOS 27"],
+      "tags": [
+        "Tech News",
+        "Spotify",
+        "OpenAI",
+        "AI Assistant",
+        "Apple",
+        "iOS 27"
+      ],
       "file": "posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.en.html"
     }
   },
@@ -53,13 +125,27 @@
     "zh": {
       "title": "⚡ 7月14日国际政治综述：匈牙利议会139:6罢免总统欧尔班时代落幕、以黎第六轮罗马谈判登场、美伊战火重燃油价飙破87美元",
       "summary": "⚡ 匈牙利议会通过宪法修正案以139票支持6票反对罢免总统舒尤克，总理欧尔班时代全面落幕；以色列与黎巴嫩第六轮直接谈判在罗马举行，聚焦试点区撤军；美军连续第三夜空袭伊朗六城，伊朗导弹击中两艘阿联酋油轮致1死8伤，印度召见伊朗外交官强烈抗议；欧盟航空安全局警告避开海湾空域，巴西总统卢拉批特朗普收费计划为海盗行径；布伦特原油飙涨5%至87.49美元。",
-      "tags": ["国际政治", "匈牙利", "美伊冲突", "霍尔木兹海峡", "以色列", "原油"],
+      "tags": [
+        "国际政治",
+        "匈牙利",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "以色列",
+        "原油"
+      ],
       "file": "posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 14 World Politics Roundup: Hungary Ousts Orban-Era President in 139-6 Landslide, Israel-Lebanon Rome Talks Enter 6th Round, US-Iran Fighting Intensifies as Oil Breaks $87",
       "summary": "⚡ Hungary parliament ousts President Tamas Sulyok in 139-6 vote as PM Magyar dismantles Orban-era power; Israel and Lebanon begin 6th round of US-mediated talks in Rome; US strikes Iran for 3rd night as Trump reinstates blockade with 20% Hormuz toll; Iranian missiles hit two UAE tankers killing 1 Indian sailor; EASA warns airlines to avoid Gulf airspace; Brent crude surges 5% to $87.49.",
-      "tags": ["World Politics", "Hungary", "US-Iran Conflict", "Strait of Hormuz", "Israel", "Crude Oil"],
+      "tags": [
+        "World Politics",
+        "Hungary",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Israel",
+        "Crude Oil"
+      ],
       "file": "posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.en.html"
     }
   },
@@ -69,13 +155,27 @@
     "zh": {
       "title": "⚡ 7月14日金融综述：6月CPI环比跌0.4%创疫情来最大降幅，高盛Q2大超预期，沃什国会首秀登场",
       "summary": "⚡ 美国6月CPI环比下降0.4%为2020年4月以来最大单月降幅，能源价格暴跌5.7%为主要驱动；高盛Q2每股收益20.98美元远超预期14.47美元，SpaceX IPO提振投行业务；美联储主席沃什今日国会首秀，加息概率近50%市场高度关注；黄金跌破4000美元关口，原油飙升近10%后高位震荡。",
-      "tags": ["金融新闻", "CPI", "美联储", "银行财报", "原油", "黄金"],
+      "tags": [
+        "金融新闻",
+        "CPI",
+        "美联储",
+        "银行财报",
+        "原油",
+        "黄金"
+      ],
       "file": "posts/104-financial-roundup-cpi-bank-earnings-warsh-testimony-july-14-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 14 Financial Roundup: CPI Posts Biggest Drop Since April 2020, Goldman Beats by 44%, Warsh Testimony Looms",
       "summary": "⚡ US June CPI falls 0.4% MoM — biggest decline since April 2020 — as energy prices plunge 5.7%; Goldman Sachs Q2 EPS of $20.98 crushes $14.47 consensus; Fed Chair Kevin Warsh delivers first congressional testimony today with rate hike odds nearing 50%; gold breaks below $4,000 as oil surges 9.6% on Hormuz tensions; Apple hits all-time high as capital rotates out of chip stocks.",
-      "tags": ["Financial News", "CPI", "Federal Reserve", "Bank Earnings", "Crude Oil", "Gold"],
+      "tags": [
+        "Financial News",
+        "CPI",
+        "Federal Reserve",
+        "Bank Earnings",
+        "Crude Oil",
+        "Gold"
+      ],
       "file": "posts/104-financial-roundup-cpi-bank-earnings-warsh-testimony-july-14-2026.en.html"
     }
   },
@@ -85,13 +185,29 @@
     "zh": {
       "title": "⚡ 7月14日科技综述：英伟达砍掉超半数亚洲AI芯片客户/马来西亚出台出口许可新规/苹果股价创历史新高",
       "summary": "⚡ 英伟达大幅削减亚洲授权客户名单，超半数买家未通过合规审查，引入白名单制度；马来西亚宣布AI芯片出口须持战略贸易许可；黄仁勋本周在北京举行媒体发布会；苹果股价盘中突破321美元创历史新高，市值达4.73万亿美元逼近英伟达。",
-      "tags": ["科技新闻", "英伟达", "AI芯片", "出口管制", "黄仁勋", "苹果", "马来西亚"],
+      "tags": [
+        "科技新闻",
+        "英伟达",
+        "AI芯片",
+        "出口管制",
+        "黄仁勋",
+        "苹果",
+        "马来西亚"
+      ],
       "file": "posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 14 Tech Roundup: Nvidia Halves Asia AI Chip Buyer List, Malaysia Tightens Export Rules, Apple Hits All-Time High",
       "summary": "⚡ Nvidia slashes authorized Asia AI chip customers by more than half, introduces whitelist system after compliance crackdown; Malaysia mandates strategic trade permits for US-origin AI chip exports; Jensen Huang to hold Beijing media briefing July 16; Apple stock hits all-time high above $321, market cap reaches $4.73 trillion.",
-      "tags": ["Tech News", "Nvidia", "AI Chips", "Export Controls", "Jensen Huang", "Apple", "Malaysia"],
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "AI Chips",
+        "Export Controls",
+        "Jensen Huang",
+        "Apple",
+        "Malaysia"
+      ],
       "file": "posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.en.html"
     }
   },
@@ -289,13 +405,27 @@
     "zh": {
       "title": "⚡ 7月13日金融综述：布伦特原油飙至79美元韩国暴跌触发SIDECAR、黄金失守4100美元",
       "summary": "⚡ 美伊周末全面交火，布伦特原油周一亚市跳涨4.1%至79.11美元；韩国首尔综指暴跌5.4%触发SIDECAR机制，SK海力士盘中跌超8%；黄金跌破4100美元至4076美元，避险属性因加息预期强化而失灵；美元指数升至101.13，2年期美债收益率创2025年初以来新高；沃什周二国会首秀及CPI数据成本周焦点。",
-      "tags": ["金融新闻", "油价", "韩国股市", "黄金", "美联储", "加息"],
+      "tags": [
+        "金融新闻",
+        "油价",
+        "韩国股市",
+        "黄金",
+        "美联储",
+        "加息"
+      ],
       "file": "posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Financial Roundup: Brent Surges to $79, Korea Triggers SIDECAR, Gold Breaks Below $4,100",
       "summary": "⚡ Brent crude surges 4.1% to $79.11 as US-Iran weekend strikes escalate; South Korea's KOSPI crashes 5.4% triggering SIDECAR circuit breaker; Gold drops 1.1% to $4,076 as inflation fears boost rate hike expectations; 2-year Treasury yield hits highest since early 2025; Fed Chair Warsh's first Congressional testimony and CPI data set to define the week ahead.",
-      "tags": ["Financial News", "Oil Price", "Korea Stock Market", "Gold", "Federal Reserve", "Rate Hike"],
+      "tags": [
+        "Financial News",
+        "Oil Price",
+        "Korea Stock Market",
+        "Gold",
+        "Federal Reserve",
+        "Rate Hike"
+      ],
       "file": "posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.en.html"
     }
   },
@@ -305,13 +435,31 @@
     "zh": {
       "title": "⚡ 7月13日科技综述：三星泰勒工厂量产特斯拉AI5芯片、苹果起诉OpenAI窃密、英伟达RTX Spark亮相BW2026、腾讯开源Hy3模型",
       "summary": "⚡ 三星泰勒工厂完成特斯拉AI5芯片设计定稿，采用2nm工艺进入量产阶段；苹果正式起诉OpenAI窃取商业机密，指控超400名前员工被挖角；英伟达RTX Spark超级芯片笔记本亮相Bilibili World 2026，本地可跑120B大模型；腾讯开源295B参数Hy3 MoE大模型，Apache 2.0协议发布。",
-      "tags": ["科技新闻", "三星", "特斯拉", "AI芯片", "苹果", "OpenAI", "英伟达", "腾讯"],
+      "tags": [
+        "科技新闻",
+        "三星",
+        "特斯拉",
+        "AI芯片",
+        "苹果",
+        "OpenAI",
+        "英伟达",
+        "腾讯"
+      ],
       "file": "posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Tech Roundup: Samsung Taylor Fab Mass-Produces Tesla AI5 Chip, Apple Sues OpenAI for Trade Secret Theft, Nvidia RTX Spark Debuts at BW2026, Tencent Open-Sources Hy3",
       "summary": "⚡ Samsung Taylor fab completes Tesla AI5 chip tape-out on 2nm process for mass production; Apple files federal lawsuit against OpenAI for trade secret theft, citing 400+ former employees; Nvidia RTX Spark superchip laptops debut at Bilibili World 2026, running 120B models locally; Tencent open-sources Hy3 295B MoE model under Apache 2.0, activating only 21B parameters per forward pass.",
-      "tags": ["Tech News", "Samsung", "Tesla", "AI Chip", "Apple", "OpenAI", "Nvidia", "Tencent"],
+      "tags": [
+        "Tech News",
+        "Samsung",
+        "Tesla",
+        "AI Chip",
+        "Apple",
+        "OpenAI",
+        "Nvidia",
+        "Tencent"
+      ],
       "file": "posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.en.html"
     }
   },
@@ -321,13 +469,27 @@
     "zh": {
       "title": "⚡ 7月13日科技综述：OpenAI GPT-5.6获安全绿灯全球全量上线、三大AI巨头引爆价格战、Meta Iris芯片9月投产",
       "summary": "⚡ OpenAI GPT-5.6 Sol/Terra/Luna获美国政府安全审查绿灯全球全量上线，ChatGPT Work智能体同日推出；OpenAI/Meta/SpaceXAI三大巨头集体降价引爆AI价格战，企业AI账单失控催生Token支出管控革命；Meta自研Iris AI芯片9月投产，2027年算力目标翻倍至14GW，锁定三星/闪迪/住友电工长期供应协议。",
-      "tags": ["科技新闻", "OpenAI", "GPT-5.6", "AI价格战", "Meta芯片", "AI行业"],
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "GPT-5.6",
+        "AI价格战",
+        "Meta芯片",
+        "AI行业"
+      ],
       "file": "posts/094-ai-industry-gpt56-price-war-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Tech Roundup: OpenAI GPT-5.6 Gets Government Greenlight for Global Launch, AI Giants Unleash Price War, Meta Iris Chip Set for September Production",
       "summary": "⚡ OpenAI GPT-5.6 Sol/Terra/Luna receives full US government greenlight for global rollout after security review; ChatGPT Work agent launched alongside; OpenAI, Meta, and SpaceXAI trigger industry-wide AI price war as enterprise token costs spiral; Meta Iris AI chip to begin production in September with 14GW computing capacity target by 2027, locking in Samsung/Sandisk/Sumitomo supply deals.",
-      "tags": ["Tech News", "OpenAI", "GPT-5.6", "AI Price War", "Meta Chip", "AI Industry"],
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "GPT-5.6",
+        "AI Price War",
+        "Meta Chip",
+        "AI Industry"
+      ],
       "file": "posts/094-ai-industry-gpt56-price-war-july-13-2026.en.html"
     }
   },
@@ -337,13 +499,27 @@
     "zh": {
       "title": "⚡ 7月13日国际政治综述：特朗普确认援乌爱国者导弹大转向、美军对伊朗发动新一轮打击、南海仲裁十周年14国重申裁决",
       "summary": "⚡ 特朗普确认向乌克兰提供爱国者防空系统和进攻性武器，美对乌政策重大转向；美军对伊朗发动新一轮打击，伊朗称外交努力'化为徒劳'；伊朗报纸公布13名外国领导人'复仇名单'；乌克兰一周打击90艘俄影子舰队船只；南海仲裁十周年14国+欧盟重申裁决具法律约束力。",
-      "tags": ["国际政治", "特朗普", "乌克兰", "美伊冲突", "南海仲裁", "地缘政治"],
+      "tags": [
+        "国际政治",
+        "特朗普",
+        "乌克兰",
+        "美伊冲突",
+        "南海仲裁",
+        "地缘政治"
+      ],
       "file": "posts/093-international-politics-roundup-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 Geopolitics Roundup: Trump Pivots to Arm Ukraine with Patriots, US Launches Fresh Iran Strikes, 14 Nations Reaffirm South China Sea Ruling",
       "summary": "⚡ Trump confirms Patriots and offensive weapons for Ukraine in major policy shift; US launches fresh wave of strikes on Iran as Tehran says diplomacy 'rendered futile'; Iranian newspaper publishes revenge list of 13 foreign leaders; Ukraine strikes 90 Russian shadow fleet vessels in one week; 14 nations + EU reaffirm 2016 South China Sea ruling on 10th anniversary.",
-      "tags": ["World Politics", "Trump", "Ukraine", "US-Iran Conflict", "South China Sea", "Geopolitics"],
+      "tags": [
+        "World Politics",
+        "Trump",
+        "Ukraine",
+        "US-Iran Conflict",
+        "South China Sea",
+        "Geopolitics"
+      ],
       "file": "posts/093-international-politics-roundup-july-13-2026.en.html"
     }
   },
