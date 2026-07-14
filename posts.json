@@ -1,17 +1,63 @@
 [
   {
+    "id": "102",
+    "date": "2026-07-14",
+    "zh": {
+      "title": "⚡ 7月14日科技综述：苹果41页诉状怒告OpenAI窃密、200+经济学家签AI警告信、微软修复127个漏洞含蠕虫级0day",
+      "summary": "⚡ 苹果41页诉状披露OpenAI窃密细节：前工程师利用零日漏洞下载千页机密文件，400+前员工加盟，苹果弃ChatGPT转投谷歌Gemini；Eric Schmidt等200+经济学家签署'我们必须现在行动'AI警告信；微软7月Patch Tuesday修复127个CVE含CVSS 9.8蠕虫级漏洞；谷歌与SpaceX签署300亿美元云算力协议；Anthropic秘密提交IPO招股书冲击万亿市值。",
+      "tags": [
+        "科技新闻",
+        "苹果",
+        "OpenAI",
+        "AI安全",
+        "微软",
+        "SpaceX",
+        "Anthropic"
+      ],
+      "file": "posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 14 Tech Roundup: Apple Sues OpenAI in 41-Page Trade Secret Bombshell, 200+ Experts Warn of AI Job Loss, Microsoft Patches 127 Flaws Including Wormable 0-Day",
+      "summary": "⚡ Apple's 41-page lawsuit reveals OpenAI trade secret theft details: former engineer exploited zero-day bug to download thousands of pages of confidential files; Eric Schmidt, Reid Hoffman, and 200+ economists sign 'We Must Act Now' AI job displacement warning; Microsoft July Patch Tuesday fixes 127 CVEs including CVSS 9.8 wormable flaw; Google signs $30B cloud compute deal with SpaceX; Anthropic files confidential IPO paperwork targeting trillion-dollar valuation.",
+      "tags": [
+        "Tech News",
+        "Apple",
+        "OpenAI",
+        "AI Safety",
+        "Microsoft",
+        "SpaceX",
+        "Anthropic"
+      ],
+      "file": "posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.en.html"
+    }
+  },
+  {
     "id": "101",
     "date": "2026-07-14",
     "zh": {
       "title": "⚡ 7月14日国际政治综述：美军连续第三晚空袭伊朗、霍尔木兹海峡油轮遇袭1死8伤、特朗普重启封锁征收20%过路费",
       "summary": "⚡ 美军连续第三晚对伊朗实施大规模空袭，覆盖阿巴斯港、布什尔、基什岛等地；伊朗以巡航导弹打击两艘阿联酋油轮，致1名印度船员死亡8人受伤；特朗普宣布重启伊朗海上封锁，自称霍尔木兹海峡守护者并征收20%货物过路费；印度召见伊朗外交官抗议；巴林遭伊朗导弹袭击拉响防空警报；布伦特原油飙升破85美元。",
-      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "特朗普", "油价", "中东局势"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "特朗普",
+        "油价",
+        "中东局势"
+      ],
       "file": "posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 14 World Politics Roundup: US Strikes Iran for 3rd Night, UAE Tankers Hit in Hormuz (1 Dead, 8 Injured), Trump Reimposes Blockade with 20% Cargo Toll",
       "summary": "⚡ US strikes Iran for third consecutive night; Iran retaliates with cruise missiles on two UAE oil tankers in Strait of Hormuz, killing 1 Indian sailor and wounding 8; Trump reimposes naval blockade with 20% cargo toll; India summons Iranian diplomats; Bahrain sounds missile alerts; Brent crude surges past $85.",
-      "tags": ["International Politics", "US-Iran Conflict", "Strait of Hormuz", "Trump", "Oil Price", "Middle East"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Trump",
+        "Oil Price",
+        "Middle East"
+      ],
       "file": "posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.en.html"
     }
   },
@@ -21,13 +67,29 @@
     "zh": {
       "title": "⚡ 7月13日国际政治综述：美军一周内第四轮打击伊朗、霍尔木兹海峡再关闭油价飙升、参议员格雷厄姆猝逝、巴黎森林大火失控",
       "summary": "⚡ 美军一周内第四次对伊朗发动打击，累计打击超300个军事目标；伊朗导弹袭击五国报复，宣布霍尔木兹海峡无限期关闭，布伦特原油飙升4.5%至79美元；特朗普亲密盟友、参议员林赛·格雷厄姆因主动脉夹层猝逝享年71岁；巴黎南部枫丹白露森林大火失控，800公顷过火，A6高速和TGV中断。",
-      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "油价", "特朗普", "林赛·格雷厄姆", "巴黎大火"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "油价",
+        "特朗普",
+        "林赛·格雷厄姆",
+        "巴黎大火"
+      ],
       "file": "posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 13 World Politics Roundup: US Launches 4th Wave of Strikes on Iran, Hormuz Strait Re-Closed, Oil Surges 4.5%, Senator Graham Dies at 71, Paris Wildfire Burns 800 Hectares",
       "summary": "⚡ US military launches 4th wave of strikes on Iran in a week, hitting 300+ targets; Iran retaliates with missile and drone attacks on five Gulf nations, declares Strait of Hormuz closed indefinitely, Brent crude surges 4.5% to $79; Senator Lindsey Graham, close Trump ally, dies suddenly at 71 from aortic dissection; Major wildfire in Fontainebleau forest near Paris burns 800 hectares, disrupting A6 highway and TGV rail lines.",
-      "tags": ["International Politics", "US-Iran Conflict", "Strait of Hormuz", "Oil Prices", "Trump", "Lindsey Graham", "Paris Wildfire"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Oil Prices",
+        "Trump",
+        "Lindsey Graham",
+        "Paris Wildfire"
+      ],
       "file": "posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.en.html"
     }
   },
