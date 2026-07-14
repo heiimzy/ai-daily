@@ -1,5 +1,21 @@
 [
   {
+    "id": "112",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日金融综述：CPI降温引爆反弹纳指涨0.9%、7月加息概率骤降至16%、SK海力士ADR暴涨27%领涨芯片、特朗普急转弯取消霍尔木兹过路费",
+      "summary": "⚡ 美国6月CPI环比暴跌0.4%创六年来最大降幅，年率降至3.5%远低于预期；核心CPI月率录得0%为2021年以来最小增幅；7月加息概率从41.7%骤降至14.4%；美股三大指数全线收涨，纳指涨0.9%；SK海力士ADR暴涨27%领涨芯片板块；特朗普急转弯取消20%霍尔木兹过路费；美元指数回落至100.94；黄金反弹逼近4100美元。",
+      "tags": ["财经新闻", "CPI", "美联储", "美股", "芯片", "原油"],
+      "file": "posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Financial Roundup: CPI Cools Sharply, July Rate Hike Odds Plunge to 14%, SK Hynix ADR Surges 27%, Trump Reverses Hormuz Toll Plan",
+      "summary": "⚡ June CPI falls 0.4% MoM, biggest drop in 6 years; core CPI monthly rate hits 0% for first time since Jan 2021; July Fed hike probability collapses from 41.7% to 14.4%; US stocks rally with Nasdaq up 0.9%; SK Hynix ADR surges 27% leading chip rebound; Trump abruptly cancels 20% Hormuz transit fee; DXY falls to 100.94; gold rebounds toward $4,100.",
+      "tags": ["Finance", "CPI", "Federal Reserve", "US Stocks", "Semiconductors", "Crude Oil"],
+      "file": "posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "111",
     "date": "2026-07-15",
     "zh": {
