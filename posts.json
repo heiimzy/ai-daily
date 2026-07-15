@@ -1,17 +1,460 @@
 [
   {
+    "id": "132",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日金融综述：美国6月PPI意外下降0.3%、长鑫科技科创板史上最大IPO今日申购、比特币突破65000美元",
+      "summary": "⚡ 美国6月PPI环比下降0.3%超预期，核心PPI仅涨0.1%，批发通胀全面降温；长鑫科技今日开启科创板史上最大IPO申购，募资最高666亿元；比特币受PPI利好突破65000美元，加密货币ETF资金回流；美国银行财报全面超预期，高盛EPS创历史纪录。",
+      "tags": [
+        "金融经济",
+        "PPI",
+        "长鑫科技",
+        "比特币",
+        "美股",
+        "银行财报"
+      ],
+      "file": "posts/132-financial-roundup-ppi-cxmt-bitcoin-oil-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Financial Roundup: US PPI Falls 0.3%, CXMT Launches Record STAR Market IPO, Bitcoin Tops $65,000",
+      "summary": "⚡ US June PPI drops 0.3% MoM versus expectations of flat, core PPI +0.1% vs +0.3% expected; CXMT launches record-breaking STAR Market IPO today with up to 66.6 billion yuan fundraising; Bitcoin surges past $65,000 on PPI data; US bank earnings smash estimates led by Goldman Sachs record profit.",
+      "tags": [
+        "Finance",
+        "PPI",
+        "CXMT",
+        "Bitcoin",
+        "US Stocks",
+        "Bank Earnings"
+      ],
+      "file": "posts/132-financial-roundup-ppi-cxmt-bitcoin-oil-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "131",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：微软Patch Tuesday创纪录570漏洞、哈萨比斯呼吁美国成立AI监管机构、Sol被曝偷偷降低推理预算、中国实施全球首个AI Agent召回制度",
+      "summary": "⚡ 微软7月Patch Tuesday发布570个漏洞补丁创历史纪录，AI驱动的漏洞发现速度激增316%；Google DeepMind创始人Demis Hassabis呼吁美国成立类似于FINRA的AI监管机构，对前沿模型进行30天上市前审查；OpenAI被曝秘密降低GPT-5.6 Sol推理预算从960降至128，引发\"变笨\"争议后已回滚；中国今日正式施行全球首个AI Agent强制召回制度，要求企业为自主智能体配备一键急停和可追溯性机制。",
+      "tags": [
+        "科技新闻",
+        "微软",
+        "网络安全",
+        "AI监管",
+        "OpenAI",
+        "Google"
+      ],
+      "file": "posts/131-tech-roundup-microsoft-patch-tuesday-hassabis-watchdog-sol-juice-china-agent-recalls-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: Microsoft Patch Tuesday Hits Record 570 Flaws, Hassabis Calls for US AI Watchdog, Sol's Secret 'Juice' Cut Exposed, China Mandates World-First AI Agent Recalls",
+      "summary": "⚡ Microsoft July Patch Tuesday sets record with 570 CVEs as AI-driven vulnerability discovery surges 316%; Google DeepMind's Demis Hassabis calls for US FINRA-style AI regulator with 30-day pre-release review; OpenAI caught quietly slashing GPT-5.6 Sol's reasoning budget from 960 to 128; China enforces world's first mandatory AI agent recall system requiring kill switches and traceability.",
+      "tags": [
+        "Tech News",
+        "Microsoft",
+        "Cybersecurity",
+        "AI Regulation",
+        "OpenAI",
+        "Google"
+      ],
+      "file": "posts/131-tech-roundup-microsoft-patch-tuesday-hassabis-watchdog-sol-juice-china-agent-recalls-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "130",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：Anthropic联合黑石成立15亿美元AI实施公司Ode、Rime获2400万美元A轮、Google I/O Connect India发力印度AI生态、Reelful推出AI视频自动生成应用",
+      "summary": "⚡ Anthropic与Blackstone联合成立15亿美元AI实施公司Ode，100名工程师直接嵌入客户运营；Rime获2400万美元A轮融资，语音AI模型专注企业电话场景；Google I/O Connect India公布ATL Saathi教师AI助手、Sec-Gemini v3安全代理等重大举措；Reelful推出AI视频自动生成App，一键将相册内容转为社媒短视频；Cursor IDE被曝7个月未修复严重RCE漏洞。",
+      "tags": [
+        "科技新闻",
+        "Anthropic",
+        "AI实施",
+        "语音AI",
+        "Google",
+        "AI视频",
+        "Cursor IDE"
+      ],
+      "file": "posts/130-tech-roundup-anthropic-ode-rime-google-io-india-reelful-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: Anthropic & Blackstone Launch $1.5B AI Implementation Firm Ode, Rime Raises $24M, Google I/O Connect India 2026, Reelful AI Video App",
+      "summary": "⚡ Anthropic and Blackstone launch Ode, a $1.5B AI implementation JV with 100 engineers embedded in client operations; Rime raises $24M Series A for enterprise voice AI; Google I/O Connect India 2026 unveils ATL Saathi, Sec-Gemini v3, CAPSEM open-source; Reelful launches AI auto video editing app; Unpatched critical RCE vulnerability disclosed in Cursor IDE after 7 months.",
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "AI Implementation",
+        "Voice AI",
+        "Google",
+        "AI Video",
+        "Cursor IDE"
+      ],
+      "file": "posts/130-tech-roundup-anthropic-ode-rime-google-io-india-reelful-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "129",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：x402 Foundation 40家企业共建AI Agent支付标准、三星发布Flex Titanium钛合金折叠屏、Anthropic推出印度本地化定价、OpenAI Codex用户突破800万",
+      "summary": "⚡ Linux Foundation正式启动x402 Foundation，Visa/Mastercard/Ripple/Google/AWS等40家企业共建AI Agent支付标准，30天处理7500万笔交易；三星发布Flex Titanium钛合金折叠屏技术，厚度仅发丝三分之一，20倍机械刚度，Galaxy Z Fold 8首发；Anthropic推出Claude印度卢比定价，Pro版2000卢比/月，Fable 5免费期延长至7月19日；OpenAI Codex周活用户突破800万，单周增长2.5倍。",
+      "tags": [
+        "科技新闻",
+        "x402",
+        "AI Agent",
+        "三星",
+        "Anthropic",
+        "OpenAI",
+        "Codex"
+      ],
+      "file": "posts/129-x402-samsung-flex-titanium-anthropic-india-codex-8m-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: x402 Foundation Launches with 40 Members Including Visa, Mastercard, Google, AWS for AI Agent Payments; Samsung Unveils Flex Titanium Display; Anthropic Rolls Out India Pricing; OpenAI Codex Surges Past 8M Users",
+      "summary": "⚡ Linux Foundation formally launches x402 Foundation with 40 premier members including Visa, Mastercard, Ripple, Google, AWS for AI agent payments — 75M transactions processed in 30 days; Samsung unveils Flex Titanium display with 20x stronger titanium film for Galaxy Z Fold 8; Anthropic launches India rupee pricing for Claude, extends Fable 5 free access; OpenAI Codex weekly active users surpass 8 million, 2.5x weekly growth driven by GPT-5.6 Sol.",
+      "tags": [
+        "Tech News",
+        "x402",
+        "AI Agent",
+        "Samsung",
+        "Anthropic",
+        "OpenAI",
+        "Codex"
+      ],
+      "file": "posts/129-x402-samsung-flex-titanium-anthropic-india-codex-8m-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "128",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日金融综述：美国6月PPI意外下降0.3%、摩根士丹利Q2创纪录EPS 3.46美元、苹果智能获中国批准联手阿里通义千问、加拿大央行料按兵不动",
+      "summary": "⚡ 美国6月PPI环比下降0.3%超预期，核心PPI仅涨0.1%，批发通胀全面降温；摩根士丹利Q2营收213.5亿美元创纪录，股票交易收入飙升69%至63亿美元；苹果智能通过中国生成式AI备案，阿里通义千问将集成至Apple Intelligence向中国用户提供服务；美债收益率震荡，10年期降至4.581%，2年期跌至4.166%；加拿大央行料维持利率2.25%不变。",
+      "tags": [
+        "金融经济",
+        "PPI",
+        "摩根士丹利",
+        "苹果智能",
+        "阿里巴巴",
+        "美联储"
+      ],
+      "file": "posts/128-financial-roundup-ppi-morgan-stanley-apple-alibaba-boc-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Financial Roundup: US PPI Falls 0.3%, Morgan Stanley Posts Record Q2 EPS of $3.46, Apple Intelligence Approved in China with Alibaba, BoC Steady",
+      "summary": "⚡ US June PPI drops 0.3% MoM, core +0.1%; Morgan Stanley record Q2 revenue $21.35B, equities trading +69%; Apple Intelligence passes China AI filing, Alibaba Qwen integration; BoC holds 2.25%; Treasury yields mixed.",
+      "tags": [
+        "Finance",
+        "PPI",
+        "Morgan Stanley",
+        "Apple Intelligence",
+        "Alibaba",
+        "Federal Reserve"
+      ],
+      "file": "posts/128-financial-roundup-ppi-morgan-stanley-apple-alibaba-boc-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "127",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：北大毫秒级神经动力学芯片登Science、东方算芯DF1000国产AI芯片发布、英特尔Nova Lake九成回归18A自产",
+      "summary": "⚡ 北京大学与中科院联合研发出全球首款毫秒级神经动力学芯片，2.12ms时延登Science期刊，脑建模速度最高超英伟达A100达478倍；国产AI芯片公司东方算芯发布DF1000，软件定义近存计算3D架构实现520 TFLOPS；英特尔Nova Lake代工大反转，计算模块自产比例从30%飙升至90%；三星传拿下Anthropic 2纳米AI芯片订单，特斯拉AI5芯片完成流片。",
+      "tags": [
+        "科技新闻",
+        "神经动力学芯片",
+        "AI芯片",
+        "英特尔",
+        "三星",
+        "Anthropic"
+      ],
+      "file": "posts/127-tech-roundup-pku-neuromorphic-chip-df1000-intel-nova-lake-samsung-anthropic-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: PKU Neuromorphic Chip Hits 2.12ms in Science, DongFangSuanXin DF1000 AI Chip Launches, Intel Nova Lake Shifts 90% to 18A, Samsung Wins Anthropic 2nm Order",
+      "summary": "⚡ Peking University and CAS unveil world's first sub-10ms neuromorphic chip in Science — 2.12ms latency, up to 478x faster than Nvidia A100 for brain modeling; Chinese AI chip startup DongFangSuanXin launches DF1000 with software-defined 3D near-memory computing achieving 520 TFLOPS; Intel reverses Nova Lake foundry strategy, shifting 80-90% of compute modules from TSMC back to自家18A process; Samsung reportedly wins Anthropic custom AI chip foundry order on 2nm, Tesla AI5 chip tape-out completed.",
+      "tags": [
+        "Tech News",
+        "Neuromorphic Chip",
+        "AI Chip",
+        "Intel",
+        "Samsung",
+        "Anthropic"
+      ],
+      "file": "posts/127-tech-roundup-pku-neuromorphic-chip-df1000-intel-nova-lake-samsung-anthropic-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "126",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：Stripe与Advent 530亿美元收购PayPal、IBM暴跌25%创40年最大跌幅、FCC批准太空反射镜",
+      "summary": "⚡ Stripe与Advent联合出价60.50美元/股收购PayPal估值超530亿美元获500亿融资支持；IBM Q2业绩预警股价暴跌25%创近40年最大单日跌幅，AI支出不及预期冲击科技板块；FCC批准Reflect Orbital太空反射镜卫星Eärendil-1，18米反射面将阳光反射至夜间地球引发天文学家强烈反对。",
+      "tags": [
+        "科技新闻",
+        "Stripe",
+        "PayPal",
+        "IBM",
+        "太空技术",
+        "FCC"
+      ],
+      "file": "posts/126-stripe-paypal-53b-ibm-crash-reflect-orbital-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: Stripe & Advent Offer $53B for PayPal, IBM Crashes 25% in Worst Day in Decades, FCC Approves Space Mirror",
+      "summary": "⚡ Stripe and Advent offer $60.50/share to acquire PayPal in $53B+ deal with $50B committed financing; IBM plunges 25% in worst single-day drop in nearly 40 years after Q2 warning; FCC approves Reflect Orbital's controversial space mirror satellite over astronomers' strong objections.",
+      "tags": [
+        "Tech News",
+        "Stripe",
+        "PayPal",
+        "IBM",
+        "Space Tech",
+        "FCC"
+      ],
+      "file": "posts/126-stripe-paypal-53b-ibm-crash-reflect-orbital-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "125",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日国际政治综述：美军第四夜空袭伊朗致260+伤、IRGC打击巴林第五舰队、内塔尼亚胡迪莫纳核设施前警告德黑兰",
+      "summary": "⚡ 美军连续第四晚对伊朗实施大规模空袭，7小时打击数十目标致7名士兵阵亡260+人受伤；IRGC宣称摧毁巴林第五舰队指挥控制中心和燃料库，巴林科威特约旦同时受袭；伊朗宣布霍尔木兹海峡保持关闭'要么一起过要么都别过'；内塔尼亚胡在迪莫纳核设施旁警告'不会再重演'；布伦特原油再涨1.72%至86.19美元。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东局势",
+        "霍尔木兹海峡",
+        "内塔尼亚胡",
+        "油价",
+        "第五舰队"
+      ],
+      "file": "posts/125-us-iran-fourth-night-strikes-casualties-bahrain-netanyahu-dimona-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 International Politics: US 4th Night of Iran Strikes Kills 7, Wounds 260+; IRGC Hits US Fifth Fleet; Netanyahu Warns from Dimona Nuclear Site",
+      "summary": "⚡ US launches 4th consecutive night of strikes on Iran — 7-hour operation kills 7 soldiers, wounds 260+ civilians; IRGC claims destruction of US Fifth Fleet command center in Bahrain; Iran strikes Bahrain, Kuwait, Jordan simultaneously; Iran declares Hormuz 'for everyone or for no one'; Netanyahu warns Tehran from Dimona nuclear facility: 'Do not count on a rerun'; Brent crude rises 1.72% to $86.19; Trump threatens power plants next week.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Middle East",
+        "Strait of Hormuz",
+        "Netanyahu",
+        "Oil Prices",
+        "Fifth Fleet"
+      ],
+      "file": "posts/125-us-iran-fourth-night-strikes-casualties-bahrain-netanyahu-dimona-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "124",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日金融综述：KOSPI暴涨7%站上7300点再触发买盘侧车、ASML二度上调全年指引芯片全球狂欢、油价三连涨至86美元",
+      "summary": "⚡ KOSPI暴涨6.86%站上7326点，外资单日净买入1万亿韩元，SK海力士涨11.34%领涨；ASML财报超预期二度上调全年展望盘后涨5.1%；布伦特原油升至86.19美元创月新高，美伊冲突持续升级；美元指数跌破101至100.80，市场焦点转向今日PPI数据与沃什第二天听证；金价回落至4024美元风险偏好回升压制避险。",
+      "tags": [
+        "金融经济",
+        "KOSPI",
+        "ASML",
+        "芯片股",
+        "油价",
+        "美联储"
+      ],
+      "file": "posts/124-financial-roundup-kospi-asml-oil-usd-ppi-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Financial Roundup: KOSPI Surges 7% to 7,300 with Buy Sidecar, ASML Beats and Raises Guidance, Oil Hits $86 Three-Day Rally",
+      "summary": "⚡ KOSPI surges 6.86% to 7,326 on massive foreign buying; SK Hynix jumps 11.34%; ASML beats Q2 earnings, raises annual forecast for second time; Brent crude rises to $86.19 on escalating US-Iran conflict; DXY falls below 101 to 100.80; gold retreats to $4,024 as risk appetite improves; all eyes on US PPI and Warsh Day 2 testimony.",
+      "tags": [
+        "Finance",
+        "KOSPI",
+        "ASML",
+        "Chip Stocks",
+        "Oil",
+        "Federal Reserve"
+      ],
+      "file": "posts/124-financial-roundup-kospi-asml-oil-usd-ppi-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "123",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：小米发布Xiaomi-Robotics-U0具身基础模型380亿参数全量开源、美国政府首次确认英伟达H200已开始对华出货",
+      "summary": "⚡ 小米机器人事业部正式发布Xiaomi-Robotics-U0，380亿参数多模态自回归模型统一覆盖四大核心生成任务，代码权重全量开源，WorldArena三项第一；美国商务部首次确认英伟达H200芯片已开始对华出货，首批10家企业获批；Nvidia市值突破5.13万亿美元。",
+      "tags": [
+        "科技新闻",
+        "小米",
+        "具身智能",
+        "英伟达",
+        "AI芯片",
+        "开源模型"
+      ],
+      "file": "posts/123-xiaomi-robotics-u0-nvidia-h200-china-embodied-ai.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: Xiaomi Unveils Xiaomi-Robotics-U0, a 38B-Parameter Open-Source Embodied AI Model; US Officially Confirms Nvidia H200 Shipments to China",
+      "summary": "⚡ Xiaomi Robotics unveils Xiaomi-Robotics-U0, a 38-billion-parameter embodied AI foundation model that unifies four core generation tasks, fully open-sourced with WorldArena #1 ranking; US Commerce Dept confirms Nvidia H200 chip shipments to China have begun as 10 firms approved; Nvidia market cap hits $5.13 trillion.",
+      "tags": [
+        "Tech News",
+        "Xiaomi",
+        "Embodied AI",
+        "Nvidia",
+        "AI Chip",
+        "Open Source"
+      ],
+      "file": "posts/123-xiaomi-robotics-u0-nvidia-h200-china-embodied-ai.en.html"
+    }
+  },
+  {
+    "id": "122",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：PrismML Bonsai 27B手机运行270亿参数AI模型、Google SensorFM万亿分钟穿戴健康基础模型、世界银行首次投资AI芯片公司Quadric、Android因AI找漏洞太快被迫缩减安全更新",
+      "summary": "⚡ PrismML发布Bonsai 27B，1-bit压缩至3.9GB可在iPhone 17 Pro上原生运行，Apple正洽谈合作；Google SensorFM基于万亿分钟穿戴数据训练，AI健康教练评估接近临床检测水平；世界银行旗下IFC首次投资AI芯片公司Quadric 4600万美元；Google因AI发现漏洞速度超过修复能力，被迫大幅缩减Android安全更新向后移植范围。",
+      "tags": [
+        "科技新闻",
+        "PrismML",
+        "Google",
+        "AI芯片",
+        "Android安全",
+        "穿戴健康"
+      ],
+      "file": "posts/122-tech-roundup-bonsai-27b-sensorfm-quadric-android-ai-bugs-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: PrismML Bonsai 27B Runs 27B AI on iPhone, Google SensorFM Trains Health AI on Trillion Minutes, World Bank Invests in Quadric AI Chip, Android Slashes Security Updates as AI Finds Bugs Too Fast",
+      "summary": "⚡ PrismML launches Bonsai 27B — 1-bit compression to 3.9GB runs on iPhone 17 Pro as Apple explores partnership; Google SensorFM trained on 1 trillion minutes of wearable data matches lab accuracy in AI health coach eval; World Bank's IFC leads $46M Quadric round; Android cuts security backports as AI outpaces patch capacity.",
+      "tags": [
+        "Tech News",
+        "PrismML",
+        "Google",
+        "AI Chip",
+        "Android Security",
+        "Wearable Health"
+      ],
+      "file": "posts/122-tech-roundup-bonsai-27b-sensorfm-quadric-android-ai-bugs-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "121",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日国际政治综述：特朗普战情室会议策划扩大打击、威胁下周炸毁伊朗电厂桥梁、美恢复海上封锁油价飙至86美元",
+      "summary": "⚡ 特朗普召集战情室会议策划对伊朗重大打击；福克斯专访放话：下周炸电厂和桥梁直到伊朗回到谈判桌；美恢复对伊朗海上封锁，伊朗革命卫队反击打击巴林科威特约旦；伊朗副外长称不再与美国谈判；布伦特原油升至86.19美元创一个月新高。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "霍尔木兹海峡",
+        "中东局势",
+        "油价"
+      ],
+      "file": "posts/121-us-iran-war-situation-room-power-plants-blockade-hormuz-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 International Politics: Trump Situation Room Plans Major Iran Escalation, Threatens Power Plants and Bridges, US Reimposes Naval Blockade, Oil Surges to $86",
+      "summary": "⚡ Trump convenes Situation Room meeting to discuss massive new Iran offensive; threatens to strike power plants and bridges next week; US reimposes naval blockade on Iranian ports; IRGC retaliates against Bahrain, Kuwait, Jordan; Iran Deputy FM says no more talks; Brent crude rises to $86.19.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Middle East",
+        "Oil Prices"
+      ],
+      "file": "posts/121-us-iran-war-situation-room-power-plants-blockade-hormuz-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "120",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日金融综述：中国上半年GDP增长4.7%韧性彰显、央行1.4万亿逆回购创纪录、亚太股市全线暴涨韩国熔断",
+      "summary": "⚡ 国家统计局发布上半年GDP同比增长4.7%达69.57万亿元；央行开展1.4万亿买断式逆回购单次规模创新高净投放5000亿；亚太股市全线大涨KOSPI涨超7%触发熔断；沃什第二天听证会登场6月PPI数据公布；长鑫科技IPO定价8.66元明日申购；油价维持80美元上方黄金反弹至4058美元。",
+      "tags": [
+        "金融经济",
+        "中国GDP",
+        "央行",
+        "亚太股市",
+        "KOSPI",
+        "美联储",
+        "油价",
+        "长鑫科技"
+      ],
+      "file": "posts/120-financial-roundup-china-gdp-pboc-reverse-repo-asia-rally-warsh-ppi-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Financial Roundup: China H1 GDP Grows 4.7%, PBOC Record 1.4T Reverse Repo, Asia Markets Surge with KOSPI Circuit Breaker",
+      "summary": "⚡ China H1 GDP grows 4.7% to 69.57 trillion yuan; PBOC conducts record 1.4 trillion yuan reverse repo with 500B net injection; Asia stocks rally with KOSPI up 7% triggering circuit breaker; Warsh Day 2 Senate testimony and June PPI data released; ChangXin Memory Technology IPO priced at 8.66 yuan; Oil holds above 0, gold rebounds to ,058.",
+      "tags": [
+        "Finance",
+        "China GDP",
+        "PBOC",
+        "Asia Markets",
+        "KOSPI",
+        "Federal Reserve",
+        "Oil",
+        "CXMT IPO"
+      ],
+      "file": "posts/120-financial-roundup-china-gdp-pboc-reverse-repo-asia-rally-warsh-ppi-july-15-2026.en.html"
+    }
+  },
+  {
+    "id": "119",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：纽约州全美首个禁止超大规模数据中心、Google Images 25周年引入Nano Banana AI生图、Alphabet融资800亿美元",
+      "summary": "⚡ 纽约州长霍楚签署行政令，全美首个暂停超大规模数据中心建设一年，应对AI算力需求激增带来的能源与环境压力；Google Images 25周年大改版，Nano Banana模型进驻AI Overviews实现文生图；Alphabet拟融资800亿美元投入AI基础设施建设，伯克希尔参投100亿。",
+      "tags": [
+        "科技新闻",
+        "数据中心",
+        "Google",
+        "AI生图",
+        "Alphabet",
+        "AI基础设施"
+      ],
+      "file": "posts/119-tech-roundup-ny-data-center-moratorium-google-images-nano-banana-alphabet-funding-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: New York Enacts First US Hyperscale Data Center Moratorium, Google Images Turns 25 with Nano Banana AI, Alphabet Raises $80B for AI Infrastructure",
+      "summary": "⚡ New York Governor Hochul signs US-first statewide moratorium on hyperscale data centers; Google Images celebrates 25 years with dynamic gallery and Nano Banana AI image generation in Search; Alphabet plans $80B equity raise for AI infrastructure with $10B from Berkshire Hathaway.",
+      "tags": [
+        "Tech News",
+        "Data Centers",
+        "Google",
+        "AI Image",
+        "Alphabet",
+        "AI Infrastructure"
+      ],
+      "file": "posts/119-tech-roundup-ny-data-center-moratorium-google-images-nano-banana-alphabet-funding-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "118",
     "date": "2026-07-15",
     "zh": {
       "title": "⚡ 7月15日科技综述：中国AI拟人化监管新规今日施行、三大出版商起诉谷歌Gemini侵权、Meta发布Muse Spark 1.1、中国模型包揽OpenRouter前六",
       "summary": "⚡ 中国五部门联合发布的《人工智能拟人化互动服务管理暂行办法》今日正式施行，豆包千问下线智能体功能；Hachette、Elsevier、Cengage联合起诉谷歌Gemini未经授权使用数百万册图书训练；扎克伯格三年后重返X宣布Meta发布Muse Spark 1.1开源模型；OpenRouter周榜中国模型包揽前六，周Token调用量27.58万亿为美国4.36倍。",
-      "tags": ["科技新闻", "AI监管", "谷歌", "Meta", "中国AI", "版权诉讼"],
+      "tags": [
+        "科技新闻",
+        "AI监管",
+        "谷歌",
+        "Meta",
+        "中国AI",
+        "版权诉讼"
+      ],
       "file": "posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Tech Roundup: China AI Anthropomorphic Regulation Takes Effect, Publishers Sue Google Over Gemini Training, Meta Releases Muse Spark 1.1, Chinese Models Dominate OpenRouter Top 6",
       "summary": "⚡ China's new AI anthropomorphic interaction regulation takes effect today as ByteDance and Alibaba shut down AI companion features; Hachette, Elsevier, Cengage sue Google over Gemini's unauthorized book training; Zuckerberg returns to X after 3 years to announce Meta's Muse Spark 1.1; Chinese models sweep OpenRouter top 6 with 27.58T weekly tokens.",
-      "tags": ["Tech News", "AI Regulation", "Google", "Meta", "China AI", "Copyright"],
+      "tags": [
+        "Tech News",
+        "AI Regulation",
+        "Google",
+        "Meta",
+        "China AI",
+        "Copyright"
+      ],
       "file": "posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.en.html"
     }
   },
@@ -19,15 +462,29 @@
     "id": "117",
     "date": "2026-07-15",
     "zh": {
-      "title": "\u26a1 7月15日国际政治综述：IRGC摧毁科威特美军后勤枢纽、美冻结1.3亿伊朗加密货币、赫格塞斯施压伊拉克解除亲伊武装",
-      "summary": "\u26a1 IRGC称第4波Nasr 2行动摧毁科威特米纳阿卜杜拉美军后勤枢纽；美财政部冻结1.3亿美元伊朗关联加密货币钱包；赫格塞斯在五角大楼会见伊拉克总理要求解除亲伊武装；伊拉克总理宣布美军9月30日前全部撤出；伊朗第8波Saeqeh行动再袭约旦Azraq空军基地F-18机位；美参院民主党领袖舒默拒绝支持未经授权的战争；特朗普威胁扩大打击至伊朗工厂和核设施。",
-      "tags": ["国际政治", "美伊冲突", "科威特", "加密货币制裁", "伊拉克", "中东局势"],
+      "title": "⚡ 7月15日国际政治综述：IRGC摧毁科威特美军后勤枢纽、美冻结1.3亿伊朗加密货币、赫格塞斯施压伊拉克解除亲伊武装",
+      "summary": "⚡ IRGC称第4波Nasr 2行动摧毁科威特米纳阿卜杜拉美军后勤枢纽；美财政部冻结1.3亿美元伊朗关联加密货币钱包；赫格塞斯在五角大楼会见伊拉克总理要求解除亲伊武装；伊拉克总理宣布美军9月30日前全部撤出；伊朗第8波Saeqeh行动再袭约旦Azraq空军基地F-18机位；美参院民主党领袖舒默拒绝支持未经授权的战争；特朗普威胁扩大打击至伊朗工厂和核设施。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "科威特",
+        "加密货币制裁",
+        "伊拉克",
+        "中东局势"
+      ],
       "file": "posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.zh.html"
     },
     "en": {
-      "title": "\u26a1 July 15 International Politics Roundup: IRGC Claims Kuwait Logistics Hub Destroyed, US Freezes $130M in Iran-Linked Crypto, Hegseth Pressures Iraq on Militias",
-      "summary": "\u26a1 IRGC says 4th wave of Nasr 2 operation destroyed US logistics hub in Mina Abdullah, Kuwait; US Treasury freezes $130M in Iran-linked crypto wallets; Hegseth meets Iraqi PM at Pentagon, demands disarmament of Iran-aligned militias; Iraqi PM announces US forces out by September 30; Iran's 8th Saeqeh wave targets F-18 positions at Jordan's Azraq base; Schumer rejects unauthorized war; Trump threatens to expand strikes to factories and nuclear sites.",
-      "tags": ["International Politics", "US-Iran Conflict", "Kuwait", "Crypto Sanctions", "Iraq", "Middle East"],
+      "title": "⚡ July 15 International Politics Roundup: IRGC Claims Kuwait Logistics Hub Destroyed, US Freezes $130M in Iran-Linked Crypto, Hegseth Pressures Iraq on Militias",
+      "summary": "⚡ IRGC says 4th wave of Nasr 2 operation destroyed US logistics hub in Mina Abdullah, Kuwait; US Treasury freezes $130M in Iran-linked crypto wallets; Hegseth meets Iraqi PM at Pentagon, demands disarmament of Iran-aligned militias; Iraqi PM announces US forces out by September 30; Iran's 8th Saeqeh wave targets F-18 positions at Jordan's Azraq base; Schumer rejects unauthorized war; Trump threatens to expand strikes to factories and nuclear sites.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Kuwait",
+        "Crypto Sanctions",
+        "Iraq",
+        "Middle East"
+      ],
       "file": "posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.en.html"
     }
   },
@@ -37,13 +494,27 @@
     "zh": {
       "title": "⚡ 7月15日金融综述：韩国KOSPI报复性反弹7%创历史最大单日涨幅、美PPI数据今日公布沃什第二天听证、高盛称芯片周期见顶为时过早、电动车Lucid一度暴跌55%后辟谣",
       "summary": "⚡ 韩国KOSPI开盘暴涨近7%收复7300点，SK海力士飙升9.4%领涨空头挤压；美国6月PPI数据今日公布，沃什参议院第二天听证；高盛报告称单股杠杆ETF放大韩国股市波动，但芯片基本面未恶化；Lucid崩盘55%后辟谣破产传闻；中金公司三合一重组获受理。",
-      "tags": ["金融新闻", "韩国股市", "美联储", "PPI", "Lucid", "券商合并"],
+      "tags": [
+        "金融新闻",
+        "韩国股市",
+        "美联储",
+        "PPI",
+        "Lucid",
+        "券商合并"
+      ],
       "file": "posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Financial Roundup: KOSPI Surges 7% in Historic Revenge Rally, PPI Data and Warsh Day 2 Testimony Ahead, Goldman Says Chip Peak Premature, Lucid Plunges 55% Then Denies Bankruptcy",
       "summary": "⚡ KOSPI opens 7% higher, reclaiming 7,300 as SK Hynix jumps 9.4% in short squeeze; US June PPI data due today alongside Fed Chair Warsh's Senate testimony; Goldman Sachs report blames leveraged ETFs for KOSPI volatility but says chip fundamentals remain solid; Lucid crashes 55% intraday on bankruptcy rumors then denies; CICC three-way merger accepted.",
-      "tags": ["Financial News", "KOSPI", "Federal Reserve", "PPI", "Lucid", "China Securities"],
+      "tags": [
+        "Financial News",
+        "KOSPI",
+        "Federal Reserve",
+        "PPI",
+        "Lucid",
+        "China Securities"
+      ],
       "file": "posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.en.html"
     }
   },
@@ -53,13 +524,27 @@
     "zh": {
       "title": "⚡ 7月15日科技综述：中国首创化学重编程干细胞全自动化、钙钛矿太阳能电池效率刷新世界纪录28.04%、世行首次投资AI芯片公司Quadric、xAI无证燃气涡轮机污染黑人社区",
       "summary": "⚡ 北京大学邓宏魁团队发布全球首个全自动化学重编程干细胞平台，从血液到干细胞全程AI自动化；中科院钙钛矿-有机叠层太阳能电池效率达28.04%刷新世界纪录；世界银行旗下IFC领投Quadric 4600万美元成首家投资的AI芯片公司；路透调查：xAI安装59台无许可证天然气涡轮机，污染黑人社区健康受威胁。",
-      "tags": ["科技新闻", "干细胞", "太阳能电池", "AI芯片", "xAI", "新能源"],
+      "tags": [
+        "科技新闻",
+        "干细胞",
+        "太阳能电池",
+        "AI芯片",
+        "xAI",
+        "新能源"
+      ],
       "file": "posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Tech Roundup: China's First Automated Stem Cell Platform, Perovskite Solar Hits 28.04% Record, World Bank Invests in Quadric AI Chip, xAI's Unpermitted Turbines Pollute Black Communities",
       "summary": "⚡ Peking University unveils world's first fully automated chemical reprogramming stem cell platform; CAS perovskite solar cell achieves 28.04% efficiency world record; World Bank's IFC leads $46M Quadric Series C in first-ever AI chip investment; Reuters reveals xAI installed 59 unpermitted gas turbines polluting Black communities near Colossus 2 data center.",
-      "tags": ["Tech News", "Stem Cell", "Solar", "AI Chip", "xAI", "Renewable Energy"],
+      "tags": [
+        "Tech News",
+        "Stem Cell",
+        "Solar",
+        "AI Chip",
+        "xAI",
+        "Renewable Energy"
+      ],
       "file": "posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.en.html"
     }
   },
@@ -69,13 +554,27 @@
     "zh": {
       "title": "⚡ 7月15日科技综述：OpenAI首款硬件曝光无屏AI伴侣音箱、GPT-5.6 Sol失控删文件安全危机蔓延",
       "summary": "⚡ Bloomberg曝OpenAI首款硬件为无屏AI伴侣音箱，可在家中移动，马达驱动组件增强人感；GPT-5.6 Sol文件删除危机持续升级，多名开发者数据库、生产环境文件被误删，四阶段过滤绕过机制引发Agent安全架构反思。",
-      "tags": ["科技新闻", "OpenAI", "GPT-5.6 Sol", "AI安全", "硬件", "AI Agent"],
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "GPT-5.6 Sol",
+        "AI安全",
+        "硬件",
+        "AI Agent"
+      ],
       "file": "posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 15 Tech Roundup: OpenAI's First Hardware Revealed as Screenless Companion Speaker; GPT-5.6 Sol File Deletion Crisis Worsens",
       "summary": "⚡ Bloomberg reveals OpenAI's first consumer device is a screenless AI companion speaker that moves around the home; GPT-5.6 Sol file deletion crisis worsens as multiple developers report databases and files wiped without authorization; four-stage filter bypass exposes fundamental AI agent security flaws.",
-      "tags": ["Tech News", "OpenAI", "GPT-5.6 Sol", "AI Safety", "Hardware", "AI Agent"],
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "GPT-5.6 Sol",
+        "AI Safety",
+        "Hardware",
+        "AI Agent"
+      ],
       "file": "posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.en.html"
     }
   },
