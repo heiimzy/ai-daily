@@ -1,5 +1,21 @@
 [
   {
+    "id": "116",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日金融综述：韩国KOSPI报复性反弹7%创历史最大单日涨幅、美PPI数据今日公布沃什第二天听证、高盛称芯片周期见顶为时过早、电动车Lucid一度暴跌55%后辟谣",
+      "summary": "⚡ 韩国KOSPI开盘暴涨近7%收复7300点，SK海力士飙升9.4%领涨空头挤压；美国6月PPI数据今日公布，沃什参议院第二天听证；高盛报告称单股杠杆ETF放大韩国股市波动，但芯片基本面未恶化；Lucid崩盘55%后辟谣破产传闻；中金公司三合一重组获受理。",
+      "tags": ["金融新闻", "韩国股市", "美联储", "PPI", "Lucid", "券商合并"],
+      "file": "posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Financial Roundup: KOSPI Surges 7% in Historic Revenge Rally, PPI Data and Warsh Day 2 Testimony Ahead, Goldman Says Chip Peak Premature, Lucid Plunges 55% Then Denies Bankruptcy",
+      "summary": "⚡ KOSPI opens 7% higher, reclaiming 7,300 as SK Hynix jumps 9.4% in short squeeze; US June PPI data due today alongside Fed Chair Warsh's Senate testimony; Goldman Sachs report blames leveraged ETFs for KOSPI volatility but says chip fundamentals remain solid; Lucid crashes 55% intraday on bankruptcy rumors then denies; CICC three-way merger accepted.",
+      "tags": ["Financial News", "KOSPI", "Federal Reserve", "PPI", "Lucid", "China Securities"],
+      "file": "posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "115",
     "date": "2026-07-15",
     "zh": {
