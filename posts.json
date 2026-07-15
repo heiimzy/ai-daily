@@ -1,5 +1,21 @@
 [
   {
+    "id": "115",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：中国首创化学重编程干细胞全自动化、钙钛矿太阳能电池效率刷新世界纪录28.04%、世行首次投资AI芯片公司Quadric、xAI无证燃气涡轮机污染黑人社区",
+      "summary": "⚡ 北京大学邓宏魁团队发布全球首个全自动化学重编程干细胞平台，从血液到干细胞全程AI自动化；中科院钙钛矿-有机叠层太阳能电池效率达28.04%刷新世界纪录；世界银行旗下IFC领投Quadric 4600万美元成首家投资的AI芯片公司；路透调查：xAI安装59台无许可证天然气涡轮机，污染黑人社区健康受威胁。",
+      "tags": ["科技新闻", "干细胞", "太阳能电池", "AI芯片", "xAI", "新能源"],
+      "file": "posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: China's First Automated Stem Cell Platform, Perovskite Solar Hits 28.04% Record, World Bank Invests in Quadric AI Chip, xAI's Unpermitted Turbines Pollute Black Communities",
+      "summary": "⚡ Peking University unveils world's first fully automated chemical reprogramming stem cell platform; CAS perovskite solar cell achieves 28.04% efficiency world record; World Bank's IFC leads $46M Quadric Series C in first-ever AI chip investment; Reuters reveals xAI installed 59 unpermitted gas turbines polluting Black communities near Colossus 2 data center.",
+      "tags": ["Tech News", "Stem Cell", "Solar", "AI Chip", "xAI", "Renewable Energy"],
+      "file": "posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "114",
     "date": "2026-07-15",
     "zh": {
