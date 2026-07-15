@@ -1,5 +1,23 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "id": "118",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日科技综述：中国AI拟人化监管新规今日施行、三大出版商起诉谷歌Gemini侵权、Meta发布Muse Spark 1.1、中国模型包揽OpenRouter前六",
+      "summary": "⚡ 中国五部门联合发布的《人工智能拟人化互动服务管理暂行办法》今日正式施行，豆包千问下线智能体功能；Hachette、Elsevier、Cengage联合起诉谷歌Gemini未经授权使用数百万册图书训练；扎克伯格三年后重返X宣布Meta发布Muse Spark 1.1开源模型；OpenRouter周榜中国模型包揽前六，周Token调用量27.58万亿为美国4.36倍。",
+      "tags": ["科技新闻", "AI监管", "谷歌", "Meta", "中国AI", "版权诉讼"],
+      "file": "posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 Tech Roundup: China AI Anthropomorphic Regulation Takes Effect, Publishers Sue Google Over Gemini Training, Meta Releases Muse Spark 1.1, Chinese Models Dominate OpenRouter Top 6",
+      "summary": "⚡ China's new AI anthropomorphic interaction regulation takes effect today as ByteDance and Alibaba shut down AI companion features; Hachette, Elsevier, Cengage sue Google over Gemini's unauthorized book training; Zuckerberg returns to X after 3 years to announce Meta's Muse Spark 1.1; Chinese models sweep OpenRouter top 6 with 27.58T weekly tokens.",
+      "tags": ["Tech News", "AI Regulation", "Google", "Meta", "China AI", "Copyright"],
+      "file": "posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "117",
     "date": "2026-07-15",
     "zh": {
