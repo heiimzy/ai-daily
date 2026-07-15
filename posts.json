@@ -1,5 +1,21 @@
 [
   {
+    "id": "117",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "\u26a1 7月15日国际政治综述：IRGC摧毁科威特美军后勤枢纽、美冻结1.3亿伊朗加密货币、赫格塞斯施压伊拉克解除亲伊武装",
+      "summary": "\u26a1 IRGC称第4波Nasr 2行动摧毁科威特米纳阿卜杜拉美军后勤枢纽；美财政部冻结1.3亿美元伊朗关联加密货币钱包；赫格塞斯在五角大楼会见伊拉克总理要求解除亲伊武装；伊拉克总理宣布美军9月30日前全部撤出；伊朗第8波Saeqeh行动再袭约旦Azraq空军基地F-18机位；美参院民主党领袖舒默拒绝支持未经授权的战争；特朗普威胁扩大打击至伊朗工厂和核设施。",
+      "tags": ["国际政治", "美伊冲突", "科威特", "加密货币制裁", "伊拉克", "中东局势"],
+      "file": "posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "\u26a1 July 15 International Politics Roundup: IRGC Claims Kuwait Logistics Hub Destroyed, US Freezes $130M in Iran-Linked Crypto, Hegseth Pressures Iraq on Militias",
+      "summary": "\u26a1 IRGC says 4th wave of Nasr 2 operation destroyed US logistics hub in Mina Abdullah, Kuwait; US Treasury freezes $130M in Iran-linked crypto wallets; Hegseth meets Iraqi PM at Pentagon, demands disarmament of Iran-aligned militias; Iraqi PM announces US forces out by September 30; Iran's 8th Saeqeh wave targets F-18 positions at Jordan's Azraq base; Schumer rejects unauthorized war; Trump threatens to expand strikes to factories and nuclear sites.",
+      "tags": ["International Politics", "US-Iran Conflict", "Kuwait", "Crypto Sanctions", "Iraq", "Middle East"],
+      "file": "posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "116",
     "date": "2026-07-15",
     "zh": {
