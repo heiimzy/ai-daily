@@ -1542,4 +1542,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/154-internet-roundup-eu-google-android-open-data-google-play-third-party-stores-openai-trademark-july-16-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/154-internet-roundup-eu-google-android-open-data-google-play-third-party-stores-openai-trademark-july-16-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
