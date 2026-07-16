@@ -1,5 +1,21 @@
 [
   {
+    "id": "149",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日国际政治综述：伊朗导弹报复三国美军基地、美批准20亿军售沙特、俄军弹道导弹夜袭基辅、英首相斯塔默离任前访乌",
+      "summary": "⚡ 伊朗革命卫队向巴林、科威特、约旦美军基地发射导弹和无人机，宣布与美陷入「生死存亡之战」；特朗普威胁下周轰炸伊朗发电厂和桥梁；美国批准对沙特近20亿美元军售；俄军弹道导弹夜袭基辅致2死6伤；欧盟与乌克兰签署无人机生产协议；英国首相斯塔默离任前最后一访基辅。",
+      "tags": ["国际政治", "美伊战争", "伊朗", "特朗普", "乌克兰", "俄罗斯", "基辅", "中东局势"],
+      "file": "posts/149-international-politics-iran-retaliation-kyiv-strikes-starmer-visit-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 International Politics: Iran Strikes US Bases in 3 Countries, Trump Threatens Power Plants, Russia Bombards Kyiv, UK PM Starmer's Final Kyiv Visit",
+      "summary": "⚡ Iran's IRGC launches missile and drone strikes on US bases in Bahrain, Kuwait, Jordan, declaring 'existential war'; Trump threatens to bomb Iran's power plants and bridges next week; US approves $1.96B arms sale to Saudi Arabia; Russia strikes Kyiv with ballistic missiles, 2 killed 6 wounded; EU signs drone production deal with Ukraine; Outgoing UK PM Starmer visits Kyiv in farewell act.",
+      "tags": ["International Politics", "US-Iran War", "Iran", "Trump", "Ukraine", "Russia", "Kyiv", "Middle East"],
+      "file": "posts/149-international-politics-iran-retaliation-kyiv-strikes-starmer-visit-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "148",
     "date": "2026-07-16",
     "zh": {
