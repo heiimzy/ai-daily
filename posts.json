@@ -1,5 +1,21 @@
 [
   {
+    "id": "160",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日金融综述：美股全线收跌美伊冲突升级、美国零售数据远超预期、SK海力士ADR暴跌近8%、SpaceX跌破发行价空头大赚",
+      "summary": "⚡ 周四美股全线收跌，道指跌0.20%标普跌0.51%纳指重挫1.47%，美伊冲突升级打压风险偏好；美国6月零售销售环比增长0.6%远超预期，初请失业金人数22.1万低于预期；SK海力士ADR暴跌7.94%上市以来最惨，韩国央行加息+杠杆ETF强平潮持续；SpaceX盘中跌破135美元IPO发行价，空头账面盈利87亿美元；美联储官员密集发声维持谨慎；花旗警告股市风险指标升至2008年以来最高。",
+      "tags": ["金融经济", "美股", "美伊冲突", "SK海力士", "SpaceX", "美联储", "花旗"],
+      "file": "posts/160-financial-roundup-us-stocks-selloff-retail-data-sk-hynix-spacex-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Financial Roundup: Wall Street Slides on Iran Escalation, Retail Sales Surge Beat Estimates, SK Hynix ADR Plunges 8%, SpaceX Dips Below IPO as Short Sellers Net $8.7B",
+      "summary": "⚡ Wall Street closes lower Thursday as US-Iran conflict escalates; US retail sales surge 0.6% MoM far exceeding estimates; SK Hynix ADR crashes 7.94% amid leveraged ETF liquidations in Korea; SpaceX briefly dips below $135 IPO price, short sellers net $8.7B paper profit; Fed officials maintain cautious stance; Citi warns market risk indicators at highest since 2008.",
+      "tags": ["Financial", "Wall Street", "US-Iran", "SK Hynix", "SpaceX", "Federal Reserve", "Citi"],
+      "file": "posts/160-financial-roundup-us-stocks-selloff-retail-data-sk-hynix-spacex-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "159",
     "date": "2026-07-17",
     "zh": {
