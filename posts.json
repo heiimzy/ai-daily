@@ -1,5 +1,21 @@
 [
   {
+    "id": "156",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日金融综述：TSMC业绩超预期引发芯片股全球暴跌、韩国KOSPI崩跌6.37%触发熔断、A股缩量下挫科创50重挫4%、长鑫科技开启申购",
+      "summary": "⚡ TSMC Q2净利润暴增77%但上调资本开支至600-640亿美元引发全球芯片股集体暴跌，费城半导体指数重挫4%；韩国KOSPI暴跌6.37%失守7000点，央行加息至2.75%配合监管重拳出击杠杆ETF；A股三大指数全线下挫科创50暴跌4%，存储芯片概念股批量跌停；长鑫科技正式启动申购中签率创年内新高；美股剧烈分化道指独涨纳指跌0.84%。",
+      "tags": ["金融经济", "半导体", "TSMC", "韩国KOSPI", "A股", "长鑫科技", "存储芯片", "美伊冲突"],
+      "file": "posts/156-financial-roundup-tsmc-semiconductor-selloff-kospi-crash-cxmt-ipo-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Financial Roundup: TSMC Beat Triggers Global Chip Bloodbath, KOSPI Crashes 6.37%, A-Share Tech Index Plunges 4%, CXMT Launches Record IPO",
+      "summary": "⚡ TSMC Q2 net profit surges 77% to record but capex reset to $60-64B triggers global semiconductor selloff; Philadelphia Semi Index plunges 4%; KOSPI crashes 6.37%, South Korea bans leveraged ETFs, BOK hikes rate; A-shares fall with Sci-Tech 50 down 4%; CXMT launches $66.6B IPO; US markets diverge with Dow up, Nasdaq down 0.84%.",
+      "tags": ["Financial", "Semiconductors", "TSMC", "KOSPI", "A-Share", "CXMT", "Memory Chips", "US Markets"],
+      "file": "posts/156-financial-roundup-tsmc-semiconductor-selloff-kospi-crash-cxmt-ipo-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "155",
     "date": "2026-07-17",
     "zh": {
