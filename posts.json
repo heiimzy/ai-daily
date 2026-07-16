@@ -1,5 +1,21 @@
 [
   {
+    "id": "152",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日金融综述：美对巴西加征25%关税7月22日生效、苹果创历史新高收购AI芯片传闻引爆市场、美联储主席国会首秀称通胀未胜利",
+      "summary": "⚡ 美国对巴西加征25%关税将于7月22日生效，咖啡牛肉获豁免；苹果收涨4%创历史新高327.5美元，传寻求收购AI芯片企业；美联储主席Warsh国会首秀称通胀未胜利，7月加息概率降至10.2%；巴菲特警告全民投机博弈时代难寻价值标的；存储芯片板块重挫，美光SK海力士跌超8%。",
+      "tags": ["金融经济", "美对巴西关税", "苹果", "美联储", "美股", "巴菲特", "AI芯片", "存储芯片"],
+      "file": "posts/152-financial-roundup-us-brazil-tariffs-apple-record-fed-warsh-buffett-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Financial Roundup: US Hits Brazil With 25% Tariffs, Apple Hits All-Time High on AI Chip Acquisition Buzz, Fed Chair Warsh Makes Senate Debut, Buffett Warns of Gambling Market",
+      "summary": "⚡ US slaps 25% tariffs on Brazilian imports effective July 22, exempting coffee, beef; Apple surges 4% to record $327.50, reportedly seeking AI chip acquisitions; Fed Chair Warsh warns inflation not defeated, July rate hike odds plunge to 10.2%; Buffett warns market driven by gambling not investing; Memory chip stocks crater with Micron -8%, SK Hynix -9%.",
+      "tags": ["Financial News", "US Brazil Tariffs", "Apple", "Federal Reserve", "US Stocks", "Warren Buffett", "AI Chips", "Memory Chips"],
+      "file": "posts/152-financial-roundup-us-brazil-tariffs-apple-record-fed-warsh-buffett-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "151",
     "date": "2026-07-16",
     "zh": {
