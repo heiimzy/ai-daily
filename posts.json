@@ -1,5 +1,21 @@
 [
   {
+    "id": "158",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技综述：欧盟裁定Google开放Android给AI对手、OnePlus退出美欧市场、Kimi K3低调上线、OpenAI首发硬件Codex Micro",
+      "summary": "⚡ 欧盟依据DMA裁定Google必须向竞争对手AI助手开放Android并共享搜索数据，违者面临最高10%全球年营业额罚款；OnePlus正式确认退出北美和欧洲市场，结束十年全球扩张；月之暗面Kimi K3悄然上线，2.8T参数+1M上下文；OpenAI发布首款硬件产品Codex Micro编程键盘。",
+      "tags": ["科技新闻", "欧盟", "Google", "OnePlus", "Kimi K3", "OpenAI", "AI监管"],
+      "file": "posts/158-tech-roundup-eu-google-dma-oneplus-exit-kimi-k3-codex-micro-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Roundup: EU Orders Google to Open Android to AI Rivals, OnePlus Exits US and Europe, Kimi K3 Launches Quietly, OpenAI Ships Codex Micro",
+      "summary": "⚡ EU issues landmark DMA rulings ordering Google to open Android to rival AI assistants and share search data; OnePlus officially exits North America and Europe after 12 years; Moonshot AI quietly launches Kimi K3 with 2.8T parameters and 1M-token context; OpenAI ships its first branded hardware product — Codex Micro macropad.",
+      "tags": ["Tech News", "EU", "Google", "OnePlus", "Kimi K3", "OpenAI", "Hardware"],
+      "file": "posts/158-tech-roundup-eu-google-dma-oneplus-exit-kimi-k3-codex-micro-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "157",
     "date": "2026-07-17",
     "zh": {
