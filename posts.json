@@ -1,5 +1,21 @@
 [
   {
+    "id": "146",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：xAI开源Grok Build隐私风波后续、GPT-5.6 Sol一小时写出50年数学猜想、英伟达NemoClaw以1/10成本逼近最强闭源模型",
+      "summary": "⚡ xAI宣布开源AI编程Agent框架Grok Build，此前被曝上传整个代码库至GCS存储桶，马斯克承诺删除所有历史数据；GPT-5.6 Sol Ultra在不到一小时内写出Cycle Double Cover猜想证明，数学界仍在验证中；英伟达与LangChain联合发布NemoClaw，开源Agent在基准测试中以十分之一成本匹敌Claude Opus 4.8。",
+      "tags": ["科技新闻", "xAI", "Grok Build", "OpenAI", "GPT-5.6", "英伟达", "AI开源"],
+      "file": "posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: xAI Open-Sources Grok Build After Privacy Scandal, GPT-5.6 Sol Pens 50-Year Math Proof in Under an Hour, NVIDIA NemoClaw Matches Opus 4.8 at 1/10 Cost",
+      "summary": "⚡ xAI open-sources Grok Build coding agent framework after privacy scandal exposed full-repo uploads; Musk promises data deletion; GPT-5.6 Sol Ultra produces claimed proof of 50-year-old Cycle Double Cover Conjecture in under an hour; NVIDIA and LangChain launch NemoClaw, open-source agent stack matching Claude Opus 4.8 at one-tenth the cost.",
+      "tags": ["Tech News", "xAI", "Grok Build", "OpenAI", "GPT-5.6", "NVIDIA", "Open Source AI"],
+      "file": "posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "145",
     "date": "2026-07-16",
     "zh": {
