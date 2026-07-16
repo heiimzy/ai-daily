@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 17 Jul 2026 03:04:00 CST</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 04:02:00 CST</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月17日科技综述：谷歌Gemini 3.5 Pro再度延期、WAIC 2026上海开幕、努比亚全球首款AI智能体手机亮相、小米开源具身模型</title>
+      <link>https://ai-daily.cc.cd/posts/159-tech-roundup-google-gemini-delay-waic-2026-nubia-navigate-xiaomi-robot-july-17-2026.zh.html</link>
+      <description>⚡ 谷歌Gemini 3.5 Pro被曝再次延期数月，10名前员工透露编程能力未达预期内部不满加剧；WAIC 2026今日在上海盛大开幕，习近平出席并致辞；努比亚全球首款AI智能体手机NaviX Ultra正式亮相，搭载豆包手机助手；小米开源Xiaomi-Robotics-U0具身生成大模型，生成效率提升83倍。</description>
+      <pubDate>Fri, 17 Jul 2026 04:02:00 CST</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/159-tech-roundup-google-gemini-delay-waic-2026-nubia-navigate-xiaomi-robot-july-17-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月17日科技综述：欧盟裁定Google开放Android给AI对手、OnePlus退出美欧市场、Kimi K3低调上线、OpenAI首发硬件Codex Micro</title>
       <link>https://ai-daily.cc.cd/posts/158-tech-roundup-eu-google-dma-oneplus-exit-kimi-k3-codex-micro-july-17-2026.zh.html</link>
