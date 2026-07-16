@@ -1,5 +1,21 @@
 [
   {
+    "id": "162",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技早报：PrimeBot变形机器人WAIC首秀、努比亚AI宠物iMoochi今日开售、Thinking Machines Inkling今日起调价50%、英伟达发布Cosmos 3 Edge",
+      "summary": "⚡ PrimeBot发布全球首款变形个人机器人Transformer 1，可在轮式人形与四足形态间自主切换；努比亚AI宠物机器人iMoochi今日开售；Thinking Machines Inkling今日起API定价上调50%；英伟达发布Cosmos 3 Edge边缘AI模型联手日本推进物理AI。",
+      "tags": ["科技新闻", "WAIC", "机器人", "努比亚", "AI宠物", "Thinking Machines", "英伟达"],
+      "file": "posts/162-tech-roundup-primebot-nubia-imoochie-inkling-pricing-nvidia-cosmos-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Roundup: PrimeBot Debuts Shape-Shifting Robot at WAIC, Nubia AI Pet iMoochi Goes on Sale, Thinking Machines Inkling Prices Rise 50%, Nvidia Launches Cosmos 3 Edge",
+      "summary": "⚡ PrimeBot unveils world's first transformable personal robot; Nubia AI pet iMoochi goes on sale; Thinking Machines Inkling API prices rise 50% effective today; Nvidia launches Cosmos 3 Edge edge AI model, partners with Japan for physical AI.",
+      "tags": ["Tech News", "WAIC", "Robotics", "Nubia", "AI Pet", "Thinking Machines", "Nvidia"],
+      "file": "posts/162-tech-roundup-primebot-nubia-imoochie-inkling-pricing-nvidia-cosmos-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "161",
     "date": "2026-07-17",
     "zh": {
