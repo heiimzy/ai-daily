@@ -1,5 +1,37 @@
 [
   {
+    "id": "155",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技综述：Apple Intelligence获批进入中国、微软创纪录修复570个漏洞、OpenAI员工捐款对抗自家总裁、WAIC 2026今日开幕",
+      "summary": "⚡ 中国网信办批准Apple Intelligence落地，联合阿里通义千问与百度；微软7月补丁日修复570个漏洞创历史纪录，含60个严重级和3个零日；OpenAI员工自掏21.5万美元资助AI监管PAC对抗自家总裁；WAIC 2026今日上海开幕，努比亚全球首款AI智能体手机亮相。",
+      "tags": [
+        "科技新闻",
+        "Apple",
+        "微软",
+        "OpenAI",
+        "WAIC",
+        "AI监管",
+        "安全"
+      ],
+      "file": "posts/155-tech-roundup-apple-intelligence-china-microsoft-record-patches-openai-revolt-waic-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Roundup: Apple Intelligence Approved in China, Microsoft Patches Record 570 Flaws, OpenAI Employees Fund Rival PAC, WAIC 2026 Opens in Shanghai",
+      "summary": "⚡ China approves Apple Intelligence with Alibaba's Qwen AI and Baidu; Microsoft ships record 570 security patches, 60 critical, 3 zero-days; OpenAI employees donate $215K+ to pro-regulation PAC opposing president Greg Brockman; WAIC 2026 opens in Shanghai with Nubia's AI agent phone debut.",
+      "tags": [
+        "Tech News",
+        "Apple",
+        "Microsoft",
+        "OpenAI",
+        "WAIC",
+        "AI Regulation",
+        "Security"
+      ],
+      "file": "posts/155-tech-roundup-apple-intelligence-china-microsoft-record-patches-openai-revolt-waic-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "154",
     "date": "2026-07-16",
     "zh": {
