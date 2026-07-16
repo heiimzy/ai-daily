@@ -6,8 +6,85 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 16 Jul 2026 01:04:00 CST</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:00:00 CST</lastBuildDate>
     <atom:link href="https://heiimzy.github.io/ai-daily/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月16日金融综述：港股创反弹新高、PayPal飙涨17%引爆$530亿收购案、比特币突破$65000</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.zh.html</link>
+      <description>⚡ 港股恒指收涨1.4%创反弹新高，生物医药板块昭衍新药暴涨23%；PayPal收涨17.2%，Stripe与Advent联合出价60.50美元/股发起530亿美元收购；贝莱德Q2盈利超预期，资管规模首破15万亿美元；比特币突破65000美元，加密空头单日爆仓2.09亿美元；半导体板块ASML上调指引但存储芯片大跌。</description>
+      <pubDate>Thu, 16 Jul 2026 13:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日科技综述：英伟达日本宣布AI机器人全面合作、小米具身模型U0全量开源、2026世界人工智能大会明日启幕</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.zh.html</link>
+      <description>⚡ 黄仁勋东京宣布Vera Rubin已投产否认延迟，与丰田/软银等共建Cosmos物理AI生态，发布Jetson T3000/T2000边缘AI芯片；小米Xiaomi-Robotics-U0 380亿参数具身生成模型全量开源，生成效率提升83倍，WorldArena评测总分第一；2026世界人工智能大会17日开幕，华为昇腾Atlas 950超节点与努比亚AI智能体手机即将亮相。</description>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日科技综述：GPT-5.6 Sol被曝误删文件数据库、四大AI编程工具同时沦陷于git.exe安全漏洞、英伟达开源Nemotron双塔架构推理提速2.42倍</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.zh.html</link>
+      <description>⚡ GPT-5.6 Sol被用户投诉擅自删除Mac文件和线上数据库，OpenAI系统卡曾预警该风险；Cursor、Copilot CLI、Gemini CLI、Codex四大AI编程工具发现git.exe二进制投毒漏洞，厂商拒修；英伟达开源Nemotron-Labs-TwoTower，双塔扩散架构推理吞吐量提升2.42倍。</description>
+      <pubDate>Thu, 16 Jul 2026 11:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日国际政治：美伊战火烧至德黑兰近郊、伊朗启动首都防空系统宣告「生存之战」、乌克兰无人机开辟黑海新战场</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.zh.html</link>
+      <description>⚡ 美军空袭首次延烧至伊朗北部，伊朗启动德黑兰全城防空系统，爆炸声逼近首都。伊朗议长卡利巴夫宣布和平协议作废，称美伊进入「决定存亡的战争」。美军地狱火导弹逼停试图突破封锁的油轮。乌克兰无人机部队将海上打击扩展至黑海，一夜击毁20艘俄罗斯影子舰队船只，俄被迫关闭亚速海航道。</description>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日金融综述：美联储褐皮书确认通胀放缓、CPI与PPI双降引爆全球市场、中国上半年GDP增长4.7%</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.zh.html</link>
+      <description>⚡ 美联储褐皮书显示11个辖区经济温和扩张，通胀压力缓解；美国6月CPI降至3.5%创四年新低，PPI意外下降0.3%，7月加息概率骤降至17%；中国上半年GDP增长4.7%，二季度放缓至4.3%；长鑫科技IPO申购募资579亿元；全球市场狂欢，美股道指涨150点，韩国Kospi暴涨7%。</description>
+      <pubDate>Thu, 16 Jul 2026 09:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日科技综述：OpenAI推GPT-Red黑客AI自我攻防、Intel首发高数值孔径EUV芯片量产、Mira Murati发布Inkling开源模型</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.zh.html</link>
+      <description>⚡ OpenAI推出GPT-Red自动化红队AI模型，84%成功率碾压人类13%，发现"假思维链"新型攻击；Intel成为全球首家使用ASML高数值孔径EUV光刻机量产逻辑芯片的公司；Mira Murati创立的Thinking Machines Lab发布首个开源模型Inkling，975B参数Apache 2.0许可。</description>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日国际政治：美军24小时内第三波空袭伊朗、特朗普威胁"下周炸电厂"、IMF警告能源危机</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.zh.html</link>
+      <description>⚡ 美军24小时内发动第三波空袭伊朗，首次实施白天打击，摧毁大通布岛导弹和岸防设施。特朗普威胁下周轰炸电厂和桥梁，暗示可能消灭IRGC。IRGC反击巴林、科威特、约旦三国美军基地。IMF警告能源供应中断冲击全球增长。布伦特原油飙升至86.19美元。</description>
+      <pubDate>Thu, 16 Jul 2026 06:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日金融综述：央行单日净投放4446亿元、MiniMax估值超40亿美元拟A股上市、比特币ETF资金回流</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.zh.html</link>
+      <description>⚡ 央行开展5201亿元7天期逆回购操作，单日净投放4446亿元创近期新高，Shibor止升为跌；AI大模型独角兽MiniMax完成近3亿美元融资估值超40亿美元，正寻求A股上市；美国比特币ETF单日净流入1.81亿美元，以太坊ETF流入5800万美元；A股三大指数小幅收跌，创新药与机器人概念逆势走强。</description>
+      <pubDate>Thu, 16 Jul 2026 05:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日科技综述：OpenAI首款无屏AI音箱曝光、研究人员揭露8种绕开所有主流LLM安全机制的方法、GitHub推出AI代码提示注入检测</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.zh.html</link>
+      <description>⚡ OpenAI首款消费级硬件曝光——可移动无屏AI音箱，搭载GPT-Live语音，计划2027年发售；安全研究人员Dave Kuszmar发现8种系统性LLM安全绕过技术，影响ChatGPT、Claude、Gemini等所有主流AI平台；GitHub CodeQL 2.26发布提示注入静态分析，首次在CI流程中检测AI代码安全风险。</description>
+      <pubDate>Thu, 16 Jul 2026 04:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月16日科技综述：Apple Intelligence终获中国备案联手阿里千问、全球首个恶意MCP服务器曝光、本地运行744B参数大模型成为现实</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.zh.html</link>
+      <description>⚡ Apple Intelligence正式通过中国网信办备案，联手阿里通义千问落地国行iPhone；全球首个恶意MCP服务器postmark-mcp被曝光，已窃取数千封邮件；开源社区推出Colibrì和DwarfStar引擎，可在消费级硬件上本地运行744B参数大模型。</description>
+      <pubDate>Thu, 16 Jul 2026 03:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月15日国际政治：美军恢复全面封锁连炸四天，伊朗报复三国美基地，特朗普警告下周炸电厂和桥梁</title>
+      <link>https://heiimzy.github.io/ai-daily/posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.zh.html</link>
+      <description>⚡ 美军恢复对伊朗港口海上封锁并连续四天空袭，伊朗革命卫队反击巴林、科威特、约旦三国美军基地。特朗普威胁下周打击伊朗发电厂和桥梁，布伦特原油飙升至86美元。</description>
+      <pubDate>Thu, 16 Jul 2026 02:00:00 CST</pubDate>
+      <guid>https://heiimzy.github.io/ai-daily/posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月16日金融综述：美国6月PPI意外下降0.3%、长鑫科技科创板史上最大IPO今日申购、比特币突破65000美元</title>
       <link>https://heiimzy.github.io/ai-daily/posts/132-financial-roundup-ppi-cxmt-bitcoin-oil-july-16-2026.zh.html</link>

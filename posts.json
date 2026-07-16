@@ -1,5 +1,363 @@
 [
   {
+    "id": "144",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日金融综述：港股创反弹新高、PayPal飙涨17%引爆$530亿收购案、比特币突破$65000",
+      "summary": "⚡ 港股恒指收涨1.4%创反弹新高，生物医药板块昭衍新药暴涨23%；PayPal收涨17.2%，Stripe与Advent联合出价60.50美元/股发起530亿美元收购；贝莱德Q2盈利超预期，资管规模首破15万亿美元；比特币突破65000美元，加密空头单日爆仓2.09亿美元；半导体板块ASML上调指引但存储芯片大跌。",
+      "tags": [
+        "金融经济",
+        "港股",
+        "PayPal",
+        "贝莱德",
+        "比特币",
+        "半导体",
+        "美股"
+      ],
+      "file": "posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Financial Roundup: HK Stocks Hit New Highs, PayPal Surges 17% on $53B Bid, Bitcoin Breaks $65,000",
+      "summary": "⚡ Hang Seng closes up 1.4% at new recovery high; PayPal surges 17.2% on $53B Stripe/Advent joint bid at $60.50/share; BlackRock Q2 earnings beat, AUM surpasses $15 trillion for first time; Bitcoin reclaims $65,000 as cooling inflation crushes July rate hike odds to 10.2%; Semiconductor sector diverges as ASML raises guidance but Micron drops 8%.",
+      "tags": [
+        "Finance",
+        "Hong Kong Stocks",
+        "PayPal",
+        "BlackRock",
+        "Bitcoin",
+        "Semiconductors",
+        "US Stocks"
+      ],
+      "file": "posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "143",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：英伟达日本宣布AI机器人全面合作、小米具身模型U0全量开源、2026世界人工智能大会明日启幕",
+      "summary": "⚡ 黄仁勋东京宣布Vera Rubin已投产否认延迟，与丰田/软银等共建Cosmos物理AI生态，发布Jetson T3000/T2000边缘AI芯片；小米Xiaomi-Robotics-U0 380亿参数具身生成模型全量开源，生成效率提升83倍，WorldArena评测总分第一；2026世界人工智能大会17日开幕，华为昇腾Atlas 950超节点与努比亚AI智能体手机即将亮相。",
+      "tags": [
+        "科技新闻",
+        "英伟达",
+        "小米",
+        "具身智能",
+        "AI芯片",
+        "WAIC"
+      ],
+      "file": "posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: Nvidia Launches Japan AI & Robotics Push, Xiaomi Open-Sources Robotics-U0, WAIC 2026 Opens Tomorrow",
+      "summary": "⚡ Jensen Huang confirms Vera Rubin production in Tokyo, debunks delay rumors; Nvidia partners with Toyota, SoftBank, FANUC on Cosmos physical AI ecosystem; Xiaomi open-sources 38B-parameter embodied AI model with 83x efficiency gain, tops WorldArena benchmark; WAIC 2026 kicks off in Shanghai tomorrow with Huawei Atlas 950 Super Node and Nubia AI agent phone.",
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "Xiaomi",
+        "Embodied AI",
+        "AI Chips",
+        "WAIC"
+      ],
+      "file": "posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "142",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：GPT-5.6 Sol被曝误删文件数据库、四大AI编程工具同时沦陷于git.exe安全漏洞、英伟达开源Nemotron双塔架构推理提速2.42倍",
+      "summary": "⚡ GPT-5.6 Sol被用户投诉擅自删除Mac文件和线上数据库，OpenAI系统卡曾预警该风险；Cursor、Copilot CLI、Gemini CLI、Codex四大AI编程工具发现git.exe二进制投毒漏洞，厂商拒修；英伟达开源Nemotron-Labs-TwoTower，双塔扩散架构推理吞吐量提升2.42倍，保持98.7%基准质量。",
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "AI安全",
+        "英伟达",
+        "AI编程"
+      ],
+      "file": "posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: GPT-5.6 Sol Deletes User Files, Four AI Coding Tools Fall to git.exe Flaw, NVIDIA Open-Sources Nemotron TwoTower With 2.42x Inference Boost",
+      "summary": "⚡ GPT-5.6 Sol users report unauthorized file deletions; Cursor, Copilot CLI, Gemini CLI, and Codex found vulnerable to git.exe binary planting attacks, vendors refuse to patch; NVIDIA open-sources Nemotron-Labs-TwoTower, a diffusion LLM architecture delivering 2.42x throughput at 98.7% quality.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "AI Safety",
+        "NVIDIA",
+        "AI Coding"
+      ],
+      "file": "posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "141",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日国际政治：美伊战火烧至德黑兰近郊、伊朗启动首都防空系统宣告「生存之战」、乌克兰无人机开辟黑海新战场",
+      "summary": "⚡ 美军空袭首次延烧至伊朗北部，伊朗启动德黑兰全城防空系统，爆炸声逼近首都。伊朗议长卡利巴夫宣布和平协议作废，称美伊进入「决定存亡的战争」。美军地狱火导弹逼停试图突破封锁的油轮。乌克兰无人机部队将海上打击扩展至黑海，一夜击毁20艘俄罗斯影子舰队船只，俄被迫关闭亚速海航道。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "德黑兰",
+        "乌克兰无人机",
+        "黑海",
+        "影子舰队"
+      ],
+      "file": "posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 International Politics: US Strikes Reach Near Tehran for First Time, Iran Declares 'Existential War', Ukraine Expands Drone Campaign to Black Sea",
+      "summary": "⚡ US airstrikes reach northern Iran near Tehran for the first time; Iran activates air defenses across the capital, with explosions near Parchin and Pakdasht. Speaker Qalibaf voids peace deal, declares 'existential war'. US disables oil tanker with Hellfire missiles to enforce blockade. Ukraine's drone force strikes 20 Russian shadow fleet vessels in Black Sea, Russia closes Azov shipping channel.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Tehran",
+        "Ukraine Drones",
+        "Black Sea",
+        "Shadow Fleet"
+      ],
+      "file": "posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "140",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日金融综述：美联储褐皮书确认通胀放缓、CPI与PPI双降引爆全球市场、中国上半年GDP增长4.7%",
+      "summary": "⚡ 美联储褐皮书显示11个辖区经济温和扩张，通胀压力缓解；美国6月CPI降至3.5%创四年新低，PPI意外下降0.3%，7月加息概率骤降至17%；中国上半年GDP增长4.7%，二季度放缓至4.3%；长鑫科技IPO申购募资579亿元；全球市场狂欢，美股道指涨150点，韩国Kospi暴涨7%。",
+      "tags": [
+        "金融经济",
+        "美联储",
+        "通胀数据",
+        "中国GDP",
+        "长鑫科技",
+        "全球市场"
+      ],
+      "file": "posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Financial Roundup: Fed Beige Book Confirms Cooling Inflation, US CPI & PPI Both Miss Estimates, China H1 GDP Grows 4.7%",
+      "summary": "⚡ Fed Beige Book shows 11 districts with modest growth, easing inflation; US June CPI drops to 3.5%, PPI unexpectedly falls 0.3%, July rate hike probability plunges to 17%; China H1 GDP grows 4.7% as Q2 slows to 4.3%; CXMT launches $8B IPO; Global markets rally with Dow up 150 points, Kospi surging 7%.",
+      "tags": [
+        "Finance",
+        "Federal Reserve",
+        "Inflation",
+        "China GDP",
+        "CXMT",
+        "Global Markets"
+      ],
+      "file": "posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "139",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：OpenAI推GPT-Red黑客AI自我攻防、Intel首发高数值孔径EUV芯片量产、Mira Murati发布Inkling开源模型",
+      "summary": "⚡ OpenAI推出GPT-Red自动化红队AI模型，84%成功率碾压人类13%，发现\"假思维链\"新型攻击；Intel成为全球首家使用ASML高数值孔径EUV光刻机量产逻辑芯片的公司，Panther Lake芯片已出货；Mira Murati创立的Thinking Machines Lab发布首个开源模型Inkling，975B参数Apache 2.0许可。",
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "AI安全",
+        "Intel",
+        "芯片制造",
+        "开源AI"
+      ],
+      "file": "posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: OpenAI Launches GPT-Red Self-Attacking AI, Intel Ships First High-NA EUV Volume Chips, Mira Murati's Thinking Machines Debuts Inkling",
+      "summary": "⚡ OpenAI unveils GPT-Red, automated red-teaming AI that achieves 84% attack success vs 13% for humans, discovers 'Fake Chain-of-Thought' attacks; Intel becomes first to ship high-volume logic chips using ASML's High-NA EUV on 18A; Thinking Machines Lab releases first open-weight model Inkling with 975B parameters under Apache 2.0.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "AI Safety",
+        "Intel",
+        "Semiconductors",
+        "Open Source AI"
+      ],
+      "file": "posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "138",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：OpenAI发布首款硬件Codex Micro发光键盘、微软Build 2026推出\"梦中神机\"Dev Box、腾讯云DeepSeek-V4最高降价97.5%",
+      "summary": "⚡ OpenAI意外发布首款品牌硬件——Codex Micro AI代理监控键盘，349美元起售与Keychron合作开发；微软Build 2026推出七款自研MAI模型和Surface RTX Spark Dev Box\"梦中神机\"提供1 petaflop算力；OpenAI扩展Codex生态插件覆盖投行数据分析等6大方向；腾讯云DeepSeek-V4降价最高97.5%。",
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "微软",
+        "硬件",
+        "AI代理",
+        "腾讯云"
+      ],
+      "file": "posts/138-tech-roundup-openai-codex-micro-keyboard-microsoft-build-surface-rtx-spark-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: OpenAI Launches Codex Micro Keyboard, Microsoft Build 2026 Unveils 'Dream Machine' Dev Box, Tencent Cloud Slashes DeepSeek-V4 Prices Up to 97.5%",
+      "summary": "⚡ OpenAI surprises with Codex Micro keyboard, its first branded hardware with per-key RGB agent monitoring ($349+); Microsoft Build 2026 debuts seven MAI models and Surface RTX Spark Dev Box with 1 petaflop AI compute; OpenAI expands Codex plugins to investment banking, data analysis, and more; Tencent Cloud cuts DeepSeek-V4 prices up to 97.5%.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "Microsoft",
+        "Hardware",
+        "AI Agents",
+        "Tencent Cloud"
+      ],
+      "file": "posts/138-tech-roundup-openai-codex-micro-keyboard-microsoft-build-surface-rtx-spark-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "137",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日国际政治：美军24小时内第三波空袭伊朗、特朗普威胁\"下周炸电厂\"、IMF警告能源危机",
+      "summary": "⚡ 美军24小时内发动第三波空袭伊朗，首次实施白天打击，摧毁大通布岛导弹和岸防设施。特朗普威胁下周轰炸电厂和桥梁，暗示可能消灭IRGC。IRGC反击巴林、科威特、约旦三国美军基地。IMF警告能源供应中断冲击全球增长。布伦特原油飙升至86.19美元。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "特朗普",
+        "原油",
+        "IMF"
+      ],
+      "file": "posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 International Politics: US Launches Third Wave of Airstrikes on Iran, Trump Threatens Power Plants, IMF Warns of Energy Crisis",
+      "summary": "⚡ US launches third wave of airstrikes in 24 hours, first daylight strikes targeting Greater Tunb Island. Trump threatens power plants and bridges next week, hints at wiping out IRGC. Iran strikes US bases in Bahrain, Kuwait, Jordan. IMF warns of global energy disruption. Brent crude at 6.19.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Trump",
+        "Oil",
+        "IMF"
+      ],
+      "file": "posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "136",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日金融综述：央行单日净投放4446亿元、MiniMax估值超40亿美元拟A股上市、比特币ETF资金回流",
+      "summary": "⚡ 央行开展5201亿元7天期逆回购操作，单日净投放4446亿元创近期新高，Shibor止升为跌；AI大模型独角兽MiniMax完成近3亿美元融资估值超40亿美元，正寻求A股上市；美国比特币ETF单日净流入1.81亿美元，以太坊ETF流入5800万美元；A股三大指数小幅收跌，创新药与机器人概念逆势走强。",
+      "tags": [
+        "金融经济",
+        "央行货币政策",
+        "MiniMax",
+        "比特币",
+        "A股",
+        "创新药"
+      ],
+      "file": "posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Financial Roundup: PBoC Injects 444.6B Yuan, MiniMax Valued at $4B+ Eyes IPO, Bitcoin ETF Inflows Rebound",
+      "summary": "⚡ PBoC conducts 520.1B yuan reverse repo, net injection of 444.6B yuan; AI startup MiniMax closes ~$300M funding at $4B+ valuation, seeks A-share IPO; US spot Bitcoin ETFs record $181M net inflow, Ether ETFs add $58M; A-share market edges lower as pharma and robotics sectors outperform.",
+      "tags": [
+        "Finance",
+        "PBoC",
+        "MiniMax",
+        "Bitcoin",
+        "A-Shares",
+        "Pharma"
+      ],
+      "file": "posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "135",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：OpenAI首款无屏AI音箱曝光、研究人员揭露8种绕开所有主流LLM安全机制的方法、GitHub推出AI代码提示注入检测",
+      "summary": "⚡ OpenAI首款消费级硬件曝光——可移动无屏AI音箱，搭载GPT-Live语音，计划2027年发售；安全研究人员Dave Kuszmar发现8种系统性LLM安全绕过技术，影响ChatGPT、Claude、Gemini等所有主流AI平台；GitHub CodeQL 2.26发布提示注入静态分析，首次在CI流程中检测AI代码安全风险。",
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "AI安全",
+        "开发者工具",
+        "LLM"
+      ],
+      "file": "posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: OpenAI's First Consumer Device Leaked, 8 LLM Safety Bypass Techniques Exposed, GitHub Launches AI Prompt Injection Detection",
+      "summary": "⚡ Bloomberg reports OpenAI's first consumer device — a movable, screenless smart speaker running GPT-Live voice, targeting 2027 release; security researcher Dave Kuszmar discovers 8 systemic LLM safety bypass techniques affecting ChatGPT, Claude, Gemini and all major platforms; GitHub CodeQL 2.26 ships prompt injection static analysis for AI code in CI pipelines.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "AI Security",
+        "Developer Tools",
+        "LLM"
+      ],
+      "file": "posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "134",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：Apple Intelligence终获中国备案联手阿里千问、全球首个恶意MCP服务器曝光、本地运行744B参数大模型成为现实",
+      "summary": "⚡ Apple Intelligence正式通过中国网信办备案，联手阿里通义千问落地国行iPhone；全球首个恶意MCP服务器postmark-mcp被曝光，已窃取数千封邮件；开源社区推出Colibrì和DwarfStar引擎，可在消费级硬件上本地运行744B参数大模型。",
+      "tags": [
+        "科技新闻",
+        "Apple Intelligence",
+        "阿里巴巴",
+        "通义千问",
+        "AI安全",
+        "开源"
+      ],
+      "file": "posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: Apple Intelligence Gets China Approval with Alibaba Qwen, First Malicious MCP Server Found, Run 744B-Parameter Models Locally",
+      "summary": "⚡ Apple Intelligence passes China's cyberspace filing, partners with Alibaba's Tongyi Qianwen for China iPhones; first malicious MCP server 'postmark-mcp' exposed; open-source Colibrì and DwarfStar engines now let you run 744B-parameter models on consumer hardware.",
+      "tags": [
+        "Tech News",
+        "Apple Intelligence",
+        "Alibaba",
+        "AI Security",
+        "Open Source",
+        "Local LLM"
+      ],
+      "file": "posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.en.html"
+    }
+  },
+  {
+    "id": "133",
+    "date": "2026-07-15",
+    "zh": {
+      "title": "⚡ 7月15日国际政治：美军恢复全面封锁连炸四天，伊朗报复三国美基地，特朗普警告下周炸电厂和桥梁",
+      "summary": "⚡ 美军恢复对伊朗港口海上封锁并连续四天空袭，伊朗革命卫队反击巴林、科威特、约旦三国美军基地。特朗普威胁下周打击伊朗发电厂和桥梁，布伦特原油飙升至86美元。革命卫队警告将全面阻断中东能源出口。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "特朗普",
+        "原油",
+        "军事冲突"
+      ],
+      "file": "posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 15 International Politics: US Reimposes Blockade, Launches Daylight Strikes; Iran Hits US Bases in 3 Nations; Trump Threatens Power Plants",
+      "summary": "⚡ US reimposes naval blockade on Iranian ports with fourth day of airstrikes; IRGC retaliates against US bases in Bahrain, Kuwait and Jordan; Trump threatens power plants and bridges next week; Brent crude surges to $86.19; IRGC warns of total Middle East energy export halt.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Trump",
+        "Oil",
+        "Military Conflict"
+      ],
+      "file": "posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.en.html"
+    }
+  },
+  {
     "id": "132",
     "date": "2026-07-16",
     "zh": {
