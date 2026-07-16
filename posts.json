@@ -1,17 +1,73 @@
 [
   {
+    "id": "150",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：英伟达世嘉30年再携手RTX Spark、Spotify变身AI聊天助手、微软被曝培训销售团队贬低OpenAI、三大出版商联合起诉谷歌Gemini侵权",
+      "summary": "⚡ 英伟达CEO黄仁勋东京与世嘉老社长重聚，宣布RTX Spark平台合作，《VR战士》新作登录Arm PC；Spotify为Premium用户推出Talk to Spotify AI聊天助手；微软内部会议曝光销售策略被要求贬低OpenAI和Anthropic；三大出版商起诉谷歌未经授权使用书籍训练Gemini。",
+      "tags": [
+        "科技新闻",
+        "英伟达",
+        "世嘉",
+        "RTX Spark",
+        "Spotify",
+        "AI",
+        "微软",
+        "OpenAI",
+        "谷歌",
+        "版权诉讼"
+      ],
+      "file": "posts/150-tech-roundup-nvidia-sega-spotify-ai-microsoft-openai-publishers-google-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: Nvidia & Sega Reunite After 30 Years for RTX Spark, Spotify Becomes AI Chatbot, Microsoft Trains Sales to Undercut OpenAI, Publishers Sue Google",
+      "summary": "⚡ Jensen Huang reunites with former Sega president in Tokyo, announces RTX Spark partnership; Spotify tests Talk to Spotify AI chatbot for Premium; Microsoft trains sales to badmouth OpenAI and Anthropic; Three publishers sue Google over copyrighted book training for Gemini.",
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "Sega",
+        "RTX Spark",
+        "Spotify",
+        "AI",
+        "Microsoft",
+        "OpenAI",
+        "Google",
+        "Copyright"
+      ],
+      "file": "posts/150-tech-roundup-nvidia-sega-spotify-ai-microsoft-openai-publishers-google-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "149",
     "date": "2026-07-16",
     "zh": {
       "title": "⚡ 7月16日国际政治综述：伊朗导弹报复三国美军基地、美批准20亿军售沙特、俄军弹道导弹夜袭基辅、英首相斯塔默离任前访乌",
       "summary": "⚡ 伊朗革命卫队向巴林、科威特、约旦美军基地发射导弹和无人机，宣布与美陷入「生死存亡之战」；特朗普威胁下周轰炸伊朗发电厂和桥梁；美国批准对沙特近20亿美元军售；俄军弹道导弹夜袭基辅致2死6伤；欧盟与乌克兰签署无人机生产协议；英国首相斯塔默离任前最后一访基辅。",
-      "tags": ["国际政治", "美伊战争", "伊朗", "特朗普", "乌克兰", "俄罗斯", "基辅", "中东局势"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "伊朗",
+        "特朗普",
+        "乌克兰",
+        "俄罗斯",
+        "基辅",
+        "中东局势"
+      ],
       "file": "posts/149-international-politics-iran-retaliation-kyiv-strikes-starmer-visit-july-16-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 16 International Politics: Iran Strikes US Bases in 3 Countries, Trump Threatens Power Plants, Russia Bombards Kyiv, UK PM Starmer's Final Kyiv Visit",
       "summary": "⚡ Iran's IRGC launches missile and drone strikes on US bases in Bahrain, Kuwait, Jordan, declaring 'existential war'; Trump threatens to bomb Iran's power plants and bridges next week; US approves $1.96B arms sale to Saudi Arabia; Russia strikes Kyiv with ballistic missiles, 2 killed 6 wounded; EU signs drone production deal with Ukraine; Outgoing UK PM Starmer visits Kyiv in farewell act.",
-      "tags": ["International Politics", "US-Iran War", "Iran", "Trump", "Ukraine", "Russia", "Kyiv", "Middle East"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Iran",
+        "Trump",
+        "Ukraine",
+        "Russia",
+        "Kyiv",
+        "Middle East"
+      ],
       "file": "posts/149-international-politics-iran-retaliation-kyiv-strikes-starmer-visit-july-16-2026.en.html"
     }
   },
@@ -21,13 +77,27 @@
     "zh": {
       "title": "⚡ 7月16日金融综述：韩国央行加息至2.75%韩股暴跌6%、IBM一日狂泻25%创58年之最、A股创业板大跌近3%、长鑫科技IPO申购启幕",
       "summary": "⚡ 韩国央行三年半来首次加息25个基点至2.75%，韩股暴跌逾6%触发熔断机制；IBM单日暴跌25.21%创58年来最大跌幅，市值蒸发670亿美元；A股三大指数收跌，创业板大跌近3%半导体板块重挫；科创板史上最大IPO长鑫科技今日申购，募资最高666亿元。",
-      "tags": ["金融经济", "韩国央行", "IBM", "A股", "长鑫科技", "美联储"],
+      "tags": [
+        "金融经济",
+        "韩国央行",
+        "IBM",
+        "A股",
+        "长鑫科技",
+        "美联储"
+      ],
       "file": "posts/148-financial-roundup-bok-rate-hike-ibm-crash-asia-stock-rout-cxmt-ipo-july-16-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 16 Financial Roundup: Bank of Korea Hikes to 2.75% as KOSPI Crashes 6%, IBM Plunges 25% in Worst Drop in 58 Years, China's ChiNext Falls 3%, CXMT Launches Record IPO",
       "summary": "⚡ Bank of Korea raises rate by 25bp to 2.75% for first time in 3.5 years; KOSPI crashes over 6% triggering circuit breaker; IBM plunges 25.21% in worst single-day drop since 1968 wiping out $67B; China's ChiNext falls 3% as semiconductor stocks rout; CXMT launches record $66.6B STAR Board IPO subscription.",
-      "tags": ["Financial News", "Bank of Korea", "IBM", "China A-Share", "CXMT", "Federal Reserve"],
+      "tags": [
+        "Financial News",
+        "Bank of Korea",
+        "IBM",
+        "China A-Share",
+        "CXMT",
+        "Federal Reserve"
+      ],
       "file": "posts/148-financial-roundup-bok-rate-hike-ibm-crash-asia-stock-rout-cxmt-ipo-july-16-2026.en.html"
     }
   },
@@ -37,13 +107,31 @@
     "zh": {
       "title": "⚡ 7月16日科技综述：Mira Murati携9750亿参数开源模型Inkling登场、现代完全控股Boston Dynamics、OpenAI推出首款硬件Codex Micro、GPT-Red用AI对抗AI",
       "summary": "⚡ 前OpenAI CTO Mira Murati创立的Thinking Machines Lab正式发布9750亿参数开源模型Inkling，采用Apache 2.0许可，为美国最大开源模型之一；现代汽车集团完全控股Boston Dynamics，软银行使看跌期权退出，加速Atlas人形机器人部署；OpenAI推出首款联名硬件Codex Micro键盘，售价230美元；OpenAI披露GPT-Red自动化红队模型，可自主发现提示注入漏洞并超越人类红队。",
-      "tags": ["科技新闻", "Thinking Machines", "Inkling", "OpenAI", "Codex Micro", "GPT-Red", "Boston Dynamics", "现代汽车"],
+      "tags": [
+        "科技新闻",
+        "Thinking Machines",
+        "Inkling",
+        "OpenAI",
+        "Codex Micro",
+        "GPT-Red",
+        "Boston Dynamics",
+        "现代汽车"
+      ],
       "file": "posts/147-tech-roundup-inkling-boston-dynamics-codex-micro-gpt-red-july-16-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 16 Tech Roundup: Thinking Machines Debuts 975B Open Weights Model, Hyundai Fully Acquires Boston Dynamics, OpenAI Ships Codex Micro Hardware, GPT-Red Automates Red Teaming",
       "summary": "⚡ Former OpenAI CTO Mira Murati's Thinking Machines Lab releases Inkling, a 975-billion-parameter open weights model under Apache 2.0; Hyundai Motor Group takes full control of Boston Dynamics, accelerating Atlas humanoid robot deployment; OpenAI launches its first branded hardware, the $230 Codex Micro keypad; OpenAI reveals GPT-Red, an automated red-teaming model that beats human testers at finding prompt injection vulnerabilities.",
-      "tags": ["Tech News", "Thinking Machines", "Inkling", "OpenAI", "Codex Micro", "GPT-Red", "Boston Dynamics", "Hyundai"],
+      "tags": [
+        "Tech News",
+        "Thinking Machines",
+        "Inkling",
+        "OpenAI",
+        "Codex Micro",
+        "GPT-Red",
+        "Boston Dynamics",
+        "Hyundai"
+      ],
       "file": "posts/147-tech-roundup-inkling-boston-dynamics-codex-micro-gpt-red-july-16-2026.en.html"
     }
   },
@@ -53,13 +141,29 @@
     "zh": {
       "title": "⚡ 7月16日科技综述：xAI开源Grok Build隐私风波后续、GPT-5.6 Sol一小时写出50年数学猜想、英伟达NemoClaw以1/10成本逼近最强闭源模型",
       "summary": "⚡ xAI宣布开源AI编程Agent框架Grok Build，此前被曝上传整个代码库至GCS存储桶，马斯克承诺删除所有历史数据；GPT-5.6 Sol Ultra在不到一小时内写出Cycle Double Cover猜想证明，数学界仍在验证中；英伟达与LangChain联合发布NemoClaw，开源Agent在基准测试中以十分之一成本匹敌Claude Opus 4.8。",
-      "tags": ["科技新闻", "xAI", "Grok Build", "OpenAI", "GPT-5.6", "英伟达", "AI开源"],
+      "tags": [
+        "科技新闻",
+        "xAI",
+        "Grok Build",
+        "OpenAI",
+        "GPT-5.6",
+        "英伟达",
+        "AI开源"
+      ],
       "file": "posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 16 Tech Roundup: xAI Open-Sources Grok Build After Privacy Scandal, GPT-5.6 Sol Pens 50-Year Math Proof in Under an Hour, NVIDIA NemoClaw Matches Opus 4.8 at 1/10 Cost",
       "summary": "⚡ xAI open-sources Grok Build coding agent framework after privacy scandal exposed full-repo uploads; Musk promises data deletion; GPT-5.6 Sol Ultra produces claimed proof of 50-year-old Cycle Double Cover Conjecture in under an hour; NVIDIA and LangChain launch NemoClaw, open-source agent stack matching Claude Opus 4.8 at one-tenth the cost.",
-      "tags": ["Tech News", "xAI", "Grok Build", "OpenAI", "GPT-5.6", "NVIDIA", "Open Source AI"],
+      "tags": [
+        "Tech News",
+        "xAI",
+        "Grok Build",
+        "OpenAI",
+        "GPT-5.6",
+        "NVIDIA",
+        "Open Source AI"
+      ],
       "file": "posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.en.html"
     }
   },
@@ -69,13 +173,27 @@
     "zh": {
       "title": "⚡ 7月16日国际政治综述：美军空袭扩大至伊朗北部塞姆南、伊朗宣布和平协议作废进入「生死之战」、特朗普考虑地面行动威胁打击核设施",
       "summary": "⚡ 美军连续五天多波打击，空袭首次扩大至伊朗北部塞姆南、哈马丹省，德黑兰拉响防空警报；伊朗外长宣布「无意谈判」、和平协议作废，议长卡利巴夫称进入「生死存亡之战」；WSJ曝特朗普高层考虑地面部队占领霍尔木兹海峡、打击核设施「镐山」；美军地狱火导弹瘫痪油轮Belma执行封锁；伊朗释放美籍公民Karari示好；多航司暂停中东航线，布伦特原油突破85美元。",
-      "tags": ["国际政治", "美伊战争", "伊朗", "特朗普", "霍尔木兹海峡", "中东局势"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "伊朗",
+        "特朗普",
+        "霍尔木兹海峡",
+        "中东局势"
+      ],
       "file": "posts/145-us-iran-war-semnan-strikes-existential-war-ground-operation-consideration-july-16-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 16 International Politics: US Strikes Expand to Northern Iran's Semnan, Iran Declares 'Existential War' Voids Peace Deal, Trump Considers Ground Operations Threatens Nuclear Sites",
       "summary": "⚡ US launches fifth consecutive day of strikes expanding to Semnan and Hamadan in northern Iran, air defenses activated in Tehran; Iran says 'no plans for negotiations,' voids peace deal, Speaker Ghalibaf declares 'existential war'; WSJ reports Trump's top aides review ground ops including seizing Kharg Island and striking 'Pickaxe Mountain'; US Hellfire missile disables Belma oil tanker enforcing blockade; Iran releases Dena Karari as 'gesture of goodwill'; airlines suspend Middle East flights, Brent crude tops $85/bbl.",
-      "tags": ["International Politics", "US-Iran War", "Iran", "Trump", "Strait of Hormuz", "Middle East"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Iran",
+        "Trump",
+        "Strait of Hormuz",
+        "Middle East"
+      ],
       "file": "posts/145-us-iran-war-semnan-strikes-existential-war-ground-operation-consideration-july-16-2026.en.html"
     }
   },
