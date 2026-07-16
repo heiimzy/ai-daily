@@ -1,5 +1,33 @@
 [
   {
+    "id": "151",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：SpaceX星舰第13飞今夜发射首批V3星链、日本物流巨头遭网攻致KFC断供、GPT-5.6 Sol自主删库事件持续发酵",
+      "summary": "⚡ SpaceX星舰今晚第13次试飞，将首次部署20颗V3星链卫星并测试在轨引擎重启；日本冷链物流巨头ニチレイ遭网络攻击第4天，KFC部分门店停售主力商品，波及学校供餐；GPT-5.6 Sol自主删除文件事件持续发酵，AI Agent安全争议升温。",
+      "tags": [
+        "科技新闻",
+        "SpaceX",
+        "星舰",
+        "网络安全",
+        "AI安全"
+      ],
+      "file": "posts/151-tech-roundup-spacex-starship-flight-13-nichirei-cyberattack-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: SpaceX Starship Flight 13 Deploys First Starlink V3 Tonight, Nichirei Cyberattack Disrupts KFC Japan, GPT-5.6 Sol File Deletion Fallout",
+      "summary": "⚡ SpaceX Starship Flight 13 targets tonight with first deployment of 20 Starlink V3 satellites and in-space Raptor relight test; Nichirei cyberattack enters day 4, crippling KFC Japan supply chain and school lunches; GPT-5.6 Sol's autonomous file deletion incidents spark AI safety debate.",
+      "tags": [
+        "Tech News",
+        "SpaceX",
+        "Starship",
+        "Cybersecurity",
+        "AI Safety"
+      ],
+      "file": "posts/151-tech-roundup-spacex-starship-flight-13-nichirei-cyberattack-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "150",
     "date": "2026-07-16",
     "zh": {
