@@ -16,9 +16,9 @@
   <style>
     .post-list { display: grid; grid-template-columns: 1fr 1fr; gap: 0; margin: 0 0 2rem; }
     .post-list .post-item:first-child { grid-column: 1 / -1; border-bottom: 2px solid #333; padding: 1.5rem 0; margin-bottom: 0; }
-    .post-item { padding: 1.25rem 1rem; border-bottom: 1px solid #d4cfc7; cursor: pointer; transition: background 0.15s; }
-    .post-item:nth-child(odd) { border-right: 1px solid #d4cfc7; }
-    .post-item:hover { background: #faf8f4; }
+    .post-item { padding: 1.25rem 1rem; border-bottom: 1px solid #d8d0c5; cursor: pointer; transition: background 0.15s; }
+    .post-item:nth-child(odd) { border-right: 1px solid #d8d0c5; }
+    .post-item:hover { background: #fdfaf5; }
     .post-item:first-child h2 { font-size: 1.6rem; margin-bottom: 0.75rem; }
     .post-item:first-child .summary { font-size: 1rem; }
     .post-item .date { font-size: 0.75rem; color: #666; font-family: -apple-system, sans-serif; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.3rem; }
@@ -32,16 +32,16 @@
     .post-item:hover .read-more { color: #1a3a5c; }
     .post-count { text-align: center; color: #666; font-size: 0.8rem; margin-bottom: 1rem; font-family: -apple-system, sans-serif; }
     .loading { grid-column: 1 / -1; text-align: center; padding: 3rem; color: #666; font-style: italic; }
-    .loading .spinner { display: inline-block; width: 24px; height: 24px; border: 2px solid #d4cfc7; border-top-color: #8b1a1a; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 0.5rem; }
+    .loading .spinner { display: inline-block; width: 24px; height: 24px; border: 2px solid #d8d0c5; border-top-color: #8b1a1a; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 0.5rem; }
     @keyframes spin { to { transform: rotate(360deg); } }
-    .pagination { display: flex; justify-content: center; gap: 0.25rem; margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid #d4cfc7; }
-    .pagination button { background: transparent; border: 1px solid #d4cfc7; color: #1a1a1a; padding: 0.4rem 0.8rem; cursor: pointer; font-family: -apple-system, sans-serif; font-size: 0.8rem; transition: all 0.2s; }
-    .pagination button:hover { background: #fff; border-color: #666; }
+    .pagination { display: flex; justify-content: center; gap: 0.25rem; margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid #d8d0c5; }
+    .pagination button { background: transparent; border: 1px solid #d8d0c5; color: #111; padding: 0.4rem 0.8rem; cursor: pointer; font-family: -apple-system, sans-serif; font-size: 0.8rem; transition: all 0.2s; }
+    .pagination button:hover { background: #fefcf9; border-color: #666; }
     .pagination button.active { background: #8b1a1a; border-color: #8b1a1a; color: white; }
     .pagination button:disabled { opacity: 0.3; cursor: not-allowed; }
-    .category-nav { display: flex; justify-content: center; gap: 0.25rem; flex-wrap: wrap; margin-bottom: 1.5rem; border-bottom: 1px solid #d4cfc7; padding-bottom: 0.75rem; }
+    .category-nav { display: flex; justify-content: center; gap: 0.25rem; flex-wrap: wrap; margin-bottom: 1.5rem; border-bottom: 1px solid #d8d0c5; padding-bottom: 0.75rem; }
     .category-nav button { background: transparent; border: none; color: #666; padding: 0.3rem 0.8rem; cursor: pointer; font-size: 0.8rem; font-family: -apple-system, sans-serif; letter-spacing: 0.5px; text-transform: uppercase; transition: color 0.2s; }
-    .category-nav button:hover { color: #1a1a1a; }
+    .category-nav button:hover { color: #111; }
     .category-nav button.active { color: #8b1a1a; font-weight: 700; position: relative; }
     .category-nav button.active::after { content: ''; position: absolute; bottom: -1px; left: 0.8rem; right: 0.8rem; height: 2px; background: #8b1a1a; }
     @media (max-width: 768px) { .post-list { grid-template-columns: 1fr; } .post-item { border-right: none !important; } .post-item:nth-child(odd) { border-right: none; } .post-item:first-child h2 { font-size: 1.2rem; } .post-item h2 { font-size: 1rem; } }
@@ -58,7 +58,7 @@
   </section>
 
   <div class="container">
-    <div style="border-bottom:1px solid #d4cfc7;padding-bottom:0.75rem;margin-bottom:1.5rem;text-align:center;font-size:0.85rem;color:#666;">
+    <div style="border-bottom:1px solid #d8d0c5;padding-bottom:0.75rem;margin-bottom:1.5rem;text-align:center;font-size:0.85rem;color:#666;">
       🌐 <a href="en/index.html" style="color:#1a3a5c;font-weight:700;">English version</a> also available — Same content, different language.
     </div>
   </div>
