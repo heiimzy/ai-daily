@@ -1,17 +1,65 @@
 [
   {
+    "id": "154",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：欧盟强令谷歌开放安卓与搜索数据、Google Play将引入第三方应用商店、OpenAI欧盟商标注册被驳回",
+      "summary": "⚡ 欧盟正式要求谷歌开放安卓11项功能给AI竞争对手并共享搜索数据，2027年7月起生效；Google Play 7月22日起允许第三方应用商店入驻，Android应用生态迎来历史性变革；OpenAI在欧盟商标注册遭驳回，法院认定'OPENAI'为描述性词汇缺乏显著性。",
+      "tags": [
+        "互联网",
+        "谷歌",
+        "欧盟",
+        "OpenAI",
+        "反垄断",
+        "Android"
+      ],
+      "file": "posts/154-internet-roundup-eu-google-android-open-data-google-play-third-party-stores-openai-trademark-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: EU Forces Google to Open Android and Search Data, Google Play to Host Third-Party Stores, OpenAI Loses EU Trademark Battle",
+      "summary": "⚡ EU formally requires Google to open 11 Android features to AI competitors and share search data; Google Play to allow third-party app stores from July 22; OpenAI loses EU trademark battle as court rules 'OPENAI' is descriptive.",
+      "tags": [
+        "Internet",
+        "Google",
+        "EU",
+        "OpenAI",
+        "Antitrust",
+        "Android"
+      ],
+      "file": "posts/154-internet-roundup-eu-google-android-open-data-google-play-third-party-stores-openai-trademark-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "153",
     "date": "2026-07-16",
     "zh": {
       "title": "⚡ 7月16日国际政治综述：特朗普威胁下周炸伊朗电厂桥梁、伊朗要求胡塞武装封锁红海、泽连斯基撤换国防部长费多罗夫引发大规模抗议",
       "summary": "⚡ 特朗普警告下周打击伊朗发电厂和桥梁，伊朗扬言「粉碎」区域全部基础设施；伊朗要求胡塞武装准备封锁红海曼德海峡，全球能源危机恐再升级；泽连斯基撤换国防部长费多罗夫引发基辅大规模抗议；乌克兰200架无人机夜袭莫斯科，恩格斯空军基地遭打击。",
-      "tags": ["国际政治", "美伊冲突", "特朗普", "伊朗", "胡塞武装", "红海封锁", "乌克兰", "泽连斯基"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "伊朗",
+        "胡塞武装",
+        "红海封锁",
+        "乌克兰",
+        "泽连斯基"
+      ],
       "file": "posts/153-international-politics-trump-iran-power-plants-houthis-red-sea-zelensky-fedorov-july-16-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 16 International Politics Roundup: Trump Threatens Iran Power Plants Next Week, Iran Vows to 'Crush' Regional Infrastructure, Houthis to Close Red Sea Route, Zelensky Fires Defense Minister Fedorov",
       "summary": "⚡ Trump warns US will strike Iranian power plants and bridges next week; Iran vows to 'crush' all regional infrastructure in retaliation; Iran asks Houthis to prepare to close Bab el-Mandeb Strait, threatening global energy crisis; Zelensky dismisses Defense Minister Fedorov, sparking mass protests in Kyiv; Ukraine launches 200 drones at Moscow, hits Engels-2 airbase.",
-      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Iran", "Houthis", "Red Sea", "Ukraine", "Zelensky"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Trump",
+        "Iran",
+        "Houthis",
+        "Red Sea",
+        "Ukraine",
+        "Zelensky"
+      ],
       "file": "posts/153-international-politics-trump-iran-power-plants-houthis-red-sea-zelensky-fedorov-july-16-2026.en.html"
     }
   },
@@ -21,13 +69,31 @@
     "zh": {
       "title": "⚡ 7月16日金融综述：美对巴西加征25%关税7月22日生效、苹果创历史新高收购AI芯片传闻引爆市场、美联储主席国会首秀称通胀未胜利",
       "summary": "⚡ 美国对巴西加征25%关税将于7月22日生效，咖啡牛肉获豁免；苹果收涨4%创历史新高327.5美元，传寻求收购AI芯片企业；美联储主席Warsh国会首秀称通胀未胜利，7月加息概率降至10.2%；巴菲特警告全民投机博弈时代难寻价值标的；存储芯片板块重挫，美光SK海力士跌超8%。",
-      "tags": ["金融经济", "美对巴西关税", "苹果", "美联储", "美股", "巴菲特", "AI芯片", "存储芯片"],
+      "tags": [
+        "金融经济",
+        "美对巴西关税",
+        "苹果",
+        "美联储",
+        "美股",
+        "巴菲特",
+        "AI芯片",
+        "存储芯片"
+      ],
       "file": "posts/152-financial-roundup-us-brazil-tariffs-apple-record-fed-warsh-buffett-july-16-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 16 Financial Roundup: US Hits Brazil With 25% Tariffs, Apple Hits All-Time High on AI Chip Acquisition Buzz, Fed Chair Warsh Makes Senate Debut, Buffett Warns of Gambling Market",
       "summary": "⚡ US slaps 25% tariffs on Brazilian imports effective July 22, exempting coffee, beef; Apple surges 4% to record $327.50, reportedly seeking AI chip acquisitions; Fed Chair Warsh warns inflation not defeated, July rate hike odds plunge to 10.2%; Buffett warns market driven by gambling not investing; Memory chip stocks crater with Micron -8%, SK Hynix -9%.",
-      "tags": ["Financial News", "US Brazil Tariffs", "Apple", "Federal Reserve", "US Stocks", "Warren Buffett", "AI Chips", "Memory Chips"],
+      "tags": [
+        "Financial News",
+        "US Brazil Tariffs",
+        "Apple",
+        "Federal Reserve",
+        "US Stocks",
+        "Warren Buffett",
+        "AI Chips",
+        "Memory Chips"
+      ],
       "file": "posts/152-financial-roundup-us-brazil-tariffs-apple-record-fed-warsh-buffett-july-16-2026.en.html"
     }
   },
