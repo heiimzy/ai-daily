@@ -1,5 +1,21 @@
 [
   {
+    "id": "145",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日国际政治综述：美军空袭扩大至伊朗北部塞姆南、伊朗宣布和平协议作废进入「生死之战」、特朗普考虑地面行动威胁打击核设施",
+      "summary": "⚡ 美军连续五天多波打击，空袭首次扩大至伊朗北部塞姆南、哈马丹省，德黑兰拉响防空警报；伊朗外长宣布「无意谈判」、和平协议作废，议长卡利巴夫称进入「生死存亡之战」；WSJ曝特朗普高层考虑地面部队占领霍尔木兹海峡、打击核设施「镐山」；美军地狱火导弹瘫痪油轮Belma执行封锁；伊朗释放美籍公民Karari示好；多航司暂停中东航线，布伦特原油突破85美元。",
+      "tags": ["国际政治", "美伊战争", "伊朗", "特朗普", "霍尔木兹海峡", "中东局势"],
+      "file": "posts/145-us-iran-war-semnan-strikes-existential-war-ground-operation-consideration-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 International Politics: US Strikes Expand to Northern Iran's Semnan, Iran Declares 'Existential War' Voids Peace Deal, Trump Considers Ground Operations Threatens Nuclear Sites",
+      "summary": "⚡ US launches fifth consecutive day of strikes expanding to Semnan and Hamadan in northern Iran, air defenses activated in Tehran; Iran says 'no plans for negotiations,' voids peace deal, Speaker Ghalibaf declares 'existential war'; WSJ reports Trump's top aides review ground ops including seizing Kharg Island and striking 'Pickaxe Mountain'; US Hellfire missile disables Belma oil tanker enforcing blockade; Iran releases Dena Karari as 'gesture of goodwill'; airlines suspend Middle East flights, Brent crude tops $85/bbl.",
+      "tags": ["International Politics", "US-Iran War", "Iran", "Trump", "Strait of Hormuz", "Middle East"],
+      "file": "posts/145-us-iran-war-semnan-strikes-existential-war-ground-operation-consideration-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "144",
     "date": "2026-07-16",
     "zh": {
