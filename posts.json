@@ -1,5 +1,21 @@
 [
   {
+    "id": "159",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技综述：谷歌Gemini 3.5 Pro再度延期、WAIC 2026上海开幕、努比亚全球首款AI智能体手机亮相、小米开源具身模型",
+      "summary": "⚡ 谷歌Gemini 3.5 Pro被曝再次延期数月，10名前员工透露编程能力未达预期内部不满加剧；WAIC 2026今日在上海盛大开幕，习近平出席并致辞；努比亚全球首款AI智能体手机NaviX Ultra正式亮相，搭载豆包手机助手；小米开源Xiaomi-Robotics-U0具身生成大模型，生成效率提升83倍。",
+      "tags": ["科技新闻", "谷歌", "Gemini", "WAIC", "努比亚", "AI智能体", "小米", "具身智能"],
+      "file": "posts/159-tech-roundup-google-gemini-delay-waic-2026-nubia-navigate-xiaomi-robot-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Roundup: Google Gemini 3.5 Pro Delayed Again, WAIC 2026 Opens in Shanghai, Nubia Debuts World's First AI Agent Phone, Xiaomi Open-Sources Robot Model",
+      "summary": "⚡ Google Gemini 3.5 Pro faces further months-long delay as coding performance falls short; WAIC 2026 opens in Shanghai with President Xi attending; Nubia unveils NaviX Ultra, the world's first AI agent phone with ByteDance Doubao assistant; Xiaomi open-sources Xiaomi-Robotics-U0 embodied generation model with 83x efficiency gains.",
+      "tags": ["Tech News", "Google", "Gemini", "WAIC", "Nubia", "AI Agent", "Xiaomi", "Embodied AI"],
+      "file": "posts/159-tech-roundup-google-gemini-delay-waic-2026-nubia-navigate-xiaomi-robot-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "158",
     "date": "2026-07-17",
     "zh": {
