@@ -1532,4 +1532,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/153-international-politics-trump-iran-power-plants-houthis-red-sea-zelensky-fedorov-july-16-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/153-international-politics-trump-iran-power-plants-houthis-red-sea-zelensky-fedorov-july-16-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
