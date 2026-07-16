@@ -1512,4 +1512,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/151-tech-roundup-spacex-starship-flight-13-nichirei-cyberattack-july-16-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/151-tech-roundup-spacex-starship-flight-13-nichirei-cyberattack-july-16-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
