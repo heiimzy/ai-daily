@@ -1,5 +1,21 @@
 [
   {
+    "id": "157",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日国际政治综述：美军空袭扩大至德黑兰地区、伊朗威胁摧毁区域全部基建、泽连斯基撤换国防部长引发基辅大抗议",
+      "summary": "⚡ 美军空袭首次覆盖德黑兰周边塞姆南省，伊朗导弹报复科威特巴林约旦三国美军基地；伊朗威胁摧毁区域全部基础设施，胡塞武装接令准备封锁红海曼德海峡；泽连斯基撤换国防部长费多罗夫引发基辅千人大抗议，无人机战指挥官辞职；俄罗斯末日指挥机飞抵德黑兰掩护布什尔核电站。",
+      "tags": ["国际政治", "美伊冲突", "伊朗", "乌克兰", "泽连斯基", "俄罗斯"],
+      "file": "posts/157-international-politics-us-iran-strikes-tehran-zelenskyy-fedorov-protests-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 International Politics Roundup: US Strikes Reach Tehran Area, Iran Vows to Crush Regional Infrastructure, Zelenskyy Fires Defense Minister Triggering Mass Protests",
+      "summary": "⚡ US airstrikes reach Semnan province near Tehran for first time in latest round; Iran retaliates with missile and drone attacks on US bases in Kuwait, Bahrain, Jordan; Iran vows to crush all regional infrastructure; Houthis ordered to close Bab el-Mandeb; Zelenskyy dismisses Fedorov triggering protests, drone commander resigns; Russia deploys Doomsday plane to protect Bushehr nuclear plant.",
+      "tags": ["International Politics", "US-Iran Conflict", "Iran", "Ukraine", "Zelenskyy", "Russia"],
+      "file": "posts/157-international-politics-us-iran-strikes-tehran-zelenskyy-fedorov-protests-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "156",
     "date": "2026-07-17",
     "zh": {
