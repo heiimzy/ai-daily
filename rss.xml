@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 16 Jul 2026 15:00:00 CST</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:00:00 CST</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月16日科技综述：Mira Murati携9750亿参数开源模型Inkling登场、现代完全控股Boston Dynamics、OpenAI推出首款硬件Codex Micro、GPT-Red用AI对抗AI</title>
+      <link>https://ai-daily.cc.cd/posts/147-tech-roundup-inkling-boston-dynamics-codex-micro-gpt-red-july-16-2026.zh.html</link>
+      <description>⚡ 前OpenAI CTO Mira Murati创立的Thinking Machines Lab正式发布9750亿参数开源模型Inkling，采用Apache 2.0许可，为美国最大开源模型之一；现代汽车集团完全控股Boston Dynamics，软银行使看跌期权退出，加速Atlas人形机器人部署；OpenAI推出首款联名硬件Codex Micro键盘，售价230美元；OpenAI披露GPT-Red自动化红队模型，可自主发现提示注入漏洞并超越人类红队。</description>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 CST</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/147-tech-roundup-inkling-boston-dynamics-codex-micro-gpt-red-july-16-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月16日科技综述：xAI开源Grok Build隐私风波后续、GPT-5.6 Sol一小时写出50年数学猜想、英伟达NemoClaw以1/10成本逼近最强闭源模型</title>
       <link>https://ai-daily.cc.cd/posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.zh.html</link>
