@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7月16日科技综述：xAI开源Grok Build、GPT-5.6 Sol证明50年数学猜想、英伟达NemoClaw以十分之一成本匹敌Opus 4.8 - AI Daily</title>
+  <meta name="description" content="⚡ xAI宣布开源AI编程Agent框架Grok Build，此前被曝上传整个代码库至GCS存储桶，马斯克承诺删除所有历史数据；GPT-5.6 Sol Ultra在不到一小时内写出Cycle Double Cover猜想证明，数学界仍在验证中；英伟达与LangChain联合发布NemoClaw，开源Agent在基准测试中以十分之一成本匹敌Claude Opus 4.8。">
+  <meta name="keywords" content="xAI,Grok Build,开源,GPT-5.6 Sol,数学猜想,Cycle Double Cover,英伟达,NemoClaw,Nemotron 3 Ultra,LangChain,AI Agent,编程工具">
+  <link rel="alternate" hreflang="zh" href="https://heiimzy.github.io/ai-daily/posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://heiimzy.github.io/ai-daily/posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.en.html">
+  <link rel="canonical" href="https://heiimzy.github.io/ai-daily/posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .post-article { max-width: 800px; margin: 0 auto; padding: 2rem 1rem 4rem; position: relative; }
+    .post-article .post-date { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+    .post-article .post-tags { display: flex; gap: 0.4rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+    .post-article .post-tags .tag { background: linear-gradient(135deg, rgba(167,139,250,0.15), rgba(244,114,182,0.1)); color: var(--primary); padding: 0.2rem 0.65rem; border-radius: 20px; font-size: 0.75rem; border: 1px solid rgba(167,139,250,0.15); }
+    .post-article h1 { font-size: 1.8rem; margin-bottom: 0.5rem; line-height: 1.4; font-weight: 800; background: linear-gradient(135deg, #a78bfa, #f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .post-article h2 { font-size: 1.3rem; margin: 1.5rem 0 0.75rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--border); color: var(--primary); }
+    .post-article h3 { font-size: 1.1rem; margin: 1.2rem 0 0.5rem; color: var(--secondary); }
+    .post-article p { line-height: 1.8; margin: 0.75rem 0; color: #e2e8f0; }
+    .post-article ul, .post-article ol { padding-left: 1.5rem; margin: 0.75rem 0; line-height: 1.8; color: #e2e8f0; }
+    .post-article li { margin: 0.3rem 0; }
+    .post-article blockquote { border-left: 4px solid var(--primary); padding: 0.5rem 1rem; margin: 1rem 0; background: rgba(167,139,250,0.05); border-radius: 0 12px 12px 0; color: var(--text-muted); }
+    .post-article a { color: var(--secondary); }
+    .post-article hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+    .post-article .lang-switch { text-align: right; margin-bottom: 1rem; }
+    .post-article .lang-switch a { display: inline-block; background: var(--bg-card); border: 1px solid var(--border); padding: 0.3rem 0.8rem; border-radius: 8px; font-size: 0.85rem; text-decoration: none; color: var(--text); transition: all 0.2s; }
+    .post-article .lang-switch a:hover { border-color: var(--primary); box-shadow: 0 0 15px var(--glow-purple); }
+    .post-article .back-link { display: inline-block; margin-bottom: 2rem; color: var(--text-muted); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
+    .post-article .back-link:hover { color: var(--primary); }
+    @media (max-width: 768px) { .post-article h1 { font-size: 1.4rem; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="../index.html" class="logo">Free AI Tools <span>免费</span></a>
+      <nav><a href="../index.html">AI工具</a><a href="../index.html">AI日报</a><a href="../en/index.html">English</a></nav>
+    </div>
+  </header>
+
+  <article class="post-article">
+    <a href="../index.html" class="back-link">← 返回首页</a>
+    <div class="lang-switch">
+      <a href="146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.en.html">English</a>
+    </div>
+    <div class="post-date">2026-07-16</div>
+    <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">xAI</span><span class="tag">Grok Build</span><span class="tag">OpenAI</span><span class="tag">GPT-5.6</span><span class="tag">英伟达</span><span class="tag">AI开源</span></div>
+    <h1>⚡ 7月16日科技综述：xAI开源Grok Build隐私风波后续、GPT-5.6 Sol一小时写出50年数学猜想、英伟达NemoClaw以1/10成本逼近最强闭源模型</h1>
+
+    <h2>一、xAI正式开源Grok Build：隐私风波后重置限速并承诺删除历史数据</h2>
+
+    <p>7月16日（日本时间），SpaceXAI（原xAI）正式宣布将其AI编程Agent框架<strong>Grok Build</strong>在GitHub上开源，采用宽松许可证，并同步重置所有用户的使用配额。此举标志着xAI从模型层竞争正式向工具链与开发者生态扩张。</p>
+
+    <p>Grok Build最初于2026年5月以Beta版发布，基于Grok 4.5模型实现全终端交互式AI编程。它不仅能自主执行编码任务，还支持Plan模式创建编码计划、通过Skills和MCP服务器进行功能扩展。其全屏TUI设计结合鼠标操作，打破了传统终端仅靠键盘交互的局限，在复杂日志输出和代码diff查看方面提供了更优体验。</p>
+
+    <h3>隐私争议：被曝上传整个代码库至GCS</h3>
+
+    <p>然而，Grok Build的开源恰逢一场严重的隐私安全风波。安全研究员cereblab于7月10日发布了针对Grok Build CLI v0.2.93的网络流量分析报告，披露了一个令人震惊的发现：</p>
+
+    <ul>
+      <li><strong>双通道数据传输：</strong>Grok Build除了正常的模型推理数据传输通道外，还存在第二条独立通道——将整个Git仓库打包为git bundle，通过<code>POST /v1/storage</code>上传至xAI的Google Cloud Storage桶<code>grok-code-session-traces</code></li>
+      <li><strong>27,800倍数据量差异：</strong>在一个12GB的测试仓库上，模型推理通道仅传输了约192KB，而存储通道传输了5.10GB数据，两者相差约27,800倍</li>
+      <li><strong>隐私开关无效：</strong>即使用户关闭了"Improve the model"开关，后端仍然返回<code>trace_upload_enabled: true</code>，整个仓库上传不受影响</li>
+      <li><strong>凭证明文传输：</strong>测试发现<code>.env</code>文件中的API密钥等敏感信息在请求体中明文传输</li>
+    </ul>
+
+    <p>报告发布后迅速登上Hacker News首页。xAI于7月12日通过服务端标志<code>disable_codebase_upload: true</code>禁用了仓库上传功能，但上传代码仍然保留在二进制文件中。埃隆·马斯克随后在X上承诺"完全彻底删除"此前上传的所有用户数据。7月15日，xAI正式发布声明称已默认禁用数据上传功能，并删除所有此前存储的编码数据。如今随着代码开源，社区可自行审查工具行为。</p>
+
+    <h2>二、GPT-5.6 Sol Ultra：不到一小时写出50年未解数学猜想证明</h2>
+
+    <p>OpenAI的新旗舰模型GPT-5.6 Sol Ultra再次引发轰动——它在不到一小时内写出了一道50年未解图论猜想<strong>Cycle Double Cover Conjecture（圈双覆盖猜想）</strong>的完整证明。然而，数学界仍在验证中，尚无外部确认。</p>
+
+    <h3>证明过程：64个Agent并行作战</h3>
+
+    <p>OpenAI于7月10日发布了完整的证明文档和所使用的提示词。Sol Ultra被配置为同时运行最多64个推理Agent，并设置了一套多层次的发现与验证机制：</p>
+
+    <ul>
+      <li><strong>多样化搜索：</strong>早期轮次保持Agent思路的多样化，避免过早收敛到单一局部最优解</li>
+      <li><strong>攻击者Agent：</strong>专门设置一组"攻击者"Agent，寻找每份证明草稿中的经典错误，如边重用、图不连通、循环论证等</li>
+      <li><strong>最低8小时预算：</strong>提示词要求模型最少持续搜索8小时才能考虑放弃——但实际仅用了不到1小时就完成了</li>
+      <li><strong>假设存在完整证明：</strong>提示词要求模型从一开始就假设存在完整证明，这是一种防止过早放弃的动机技巧</li>
+    </ul>
+
+    <h3>争议与谨慎</h3>
+
+    <p>尽管消息震撼，但需要澄清几个关键点：</p>
+
+    <ul>
+      <li><strong>尚无人工验证：</strong>截至7月16日，OpenAI以外没有任何数学家或机构完成对证明的审核</li>
+      <li><strong>并非机器验证：</strong>网上流传的"Lean形式化验证已完成"为误传——证明从未被转化为Lean证明助手的机器可检查形式</li>
+      <li><strong>用了经典工具：</strong>证明使用了图论中已有的经典结果（如Tutte的8-流定理、化简到三次图等），而非全新的数学工具</li>
+      <li><strong>时间节点敏感：</strong>发布恰好选在Sol Ultra公测后一天，时机上的营销考量不可忽视</li>
+    </ul>
+
+    <p>无论如何，这是AI在数学研究领域的一个重要里程碑——即使最终证明被证伪，64 Agent并行推理+自动攻击验证的范式本身已展示了巨大潜力。</p>
+
+    <h2>三、英伟达×LangChain发布NemoClaw：开源Agent以1/10成本匹敌Claude Opus 4.8</h2>
+
+    <p>英伟达与LangChain联合发布了名为<strong>NemoClaw for LangChain Deep Agents</strong>的参考方案，将英伟达的开源权重模型Nemotron 3 Ultra与LangChain的Deep Agents框架、NVIDIA OpenShell沙箱运行时三层叠加，实现了在LangChain Agent评测集上以约$4.48/次运行的成本取得0.86分——与Claude Opus 4.8的$43.48/次相比，成本仅为其十分之一，性能基本持平。</p>
+
+    <h3>无需重训：调环境而非调参数</h3>
+
+    <p>NemoClaw最引人注目的特点是：LangChain没有对Nemotron 3 Ultra进行任何微调。相反，他们通过分析Agent执行追踪（trace），精准找到模型中出错的位置——工具参数传递错误、长任务中间失去上下文、工具描述不清导致Agent误入歧途等——然后通过优化系统提示词、打磨工具描述、调整中间件来修复问题。</p>
+
+    <p>这种方式意味着模型权重文件完全不用动，企业可以在自有硬件上运行完全开源的模型栈，同时持续通过追踪分析提升性能。</p>
+
+    <h3>实际定位：是匹敌而非超越</h3>
+
+    <p>需要指出的是，NemoClaw的"十分之一成本"主要是在与最贵的Claude Opus 4.8对比时得出的。与DeepSeek V4、Kimi K2.6等其他模型相比，Nemotron 3 Ultra的优势约为30%左右成本更低和略高精度。但整体而言，开源Agent栈首次在实用任务上达到了与最佳闭源模型接近的水平，这对于追求数据主权和成本控制的企业来说意义重大。</p>
+
+    <p>英伟达表示，EY（安永）已围绕该方案建立了实施实践，Baseten、Fireworks、Nebius等推理平台也已上线支持。</p>
+
+    <hr>
+
+    <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+  </article>
+
+  <footer>
+    <div class="container">
+      <p>AI日报 | <a href="../index.html">AI工具</a> | <a href="../index.html">AI日报</a> | <a href="../en/index.html">English</a> | <a href="../rss.xml">RSS</a></p>
+    </div>
+  </footer>
+</body>
+</html>
