@@ -1,5 +1,21 @@
 [
   {
+    "id": "153",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日国际政治综述：特朗普威胁下周炸伊朗电厂桥梁、伊朗要求胡塞武装封锁红海、泽连斯基撤换国防部长费多罗夫引发大规模抗议",
+      "summary": "⚡ 特朗普警告下周打击伊朗发电厂和桥梁，伊朗扬言「粉碎」区域全部基础设施；伊朗要求胡塞武装准备封锁红海曼德海峡，全球能源危机恐再升级；泽连斯基撤换国防部长费多罗夫引发基辅大规模抗议；乌克兰200架无人机夜袭莫斯科，恩格斯空军基地遭打击。",
+      "tags": ["国际政治", "美伊冲突", "特朗普", "伊朗", "胡塞武装", "红海封锁", "乌克兰", "泽连斯基"],
+      "file": "posts/153-international-politics-trump-iran-power-plants-houthis-red-sea-zelensky-fedorov-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 International Politics Roundup: Trump Threatens Iran Power Plants Next Week, Iran Vows to 'Crush' Regional Infrastructure, Houthis to Close Red Sea Route, Zelensky Fires Defense Minister Fedorov",
+      "summary": "⚡ Trump warns US will strike Iranian power plants and bridges next week; Iran vows to 'crush' all regional infrastructure in retaliation; Iran asks Houthis to prepare to close Bab el-Mandeb Strait, threatening global energy crisis; Zelensky dismisses Defense Minister Fedorov, sparking mass protests in Kyiv; Ukraine launches 200 drones at Moscow, hits Engels-2 airbase.",
+      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Iran", "Houthis", "Red Sea", "Ukraine", "Zelensky"],
+      "file": "posts/153-international-politics-trump-iran-power-plants-houthis-red-sea-zelensky-fedorov-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "152",
     "date": "2026-07-16",
     "zh": {
