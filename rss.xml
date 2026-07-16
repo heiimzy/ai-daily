@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 16 Jul 2026 18:00:00 CST</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 19:00:00 CST</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月16日科技综述：英伟达世嘉30年再携手RTX Spark、Spotify变身AI聊天助手、微软被曝培训销售团队贬低OpenAI、三大出版商联合起诉谷歌Gemini侵权</title>
+      <link>https://ai-daily.cc.cd/posts/150-tech-roundup-nvidia-sega-spotify-ai-microsoft-openai-publishers-google-july-16-2026.zh.html</link>
+      <description>⚡ 英伟达CEO黄仁勋东京与世嘉老社长重聚，宣布RTX Spark平台合作；Spotify为Premium用户推出Talk to Spotify AI聊天助手；微软内部会议曝光销售策略被要求贬低OpenAI和Anthropic；三大出版商起诉谷歌未经授权使用书籍训练Gemini。</description>
+      <pubDate>Thu, 16 Jul 2026 19:00:00 CST</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/150-tech-roundup-nvidia-sega-spotify-ai-microsoft-openai-publishers-google-july-16-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月16日国际政治综述：伊朗导弹报复三国美军基地、美批准20亿军售沙特、俄军弹道导弹夜袭基辅、英首相斯塔默离任前访乌</title>
       <link>https://ai-daily.cc.cd/posts/149-international-politics-iran-retaliation-kyiv-strikes-starmer-visit-july-16-2026.zh.html</link>
