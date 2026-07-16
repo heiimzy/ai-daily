@@ -1,5 +1,21 @@
 [
   {
+    "id": "147",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日科技综述：Mira Murati携9750亿参数开源模型Inkling登场、现代完全控股Boston Dynamics、OpenAI推出首款硬件Codex Micro、GPT-Red用AI对抗AI",
+      "summary": "⚡ 前OpenAI CTO Mira Murati创立的Thinking Machines Lab正式发布9750亿参数开源模型Inkling，采用Apache 2.0许可，为美国最大开源模型之一；现代汽车集团完全控股Boston Dynamics，软银行使看跌期权退出，加速Atlas人形机器人部署；OpenAI推出首款联名硬件Codex Micro键盘，售价230美元；OpenAI披露GPT-Red自动化红队模型，可自主发现提示注入漏洞并超越人类红队。",
+      "tags": ["科技新闻", "Thinking Machines", "Inkling", "OpenAI", "Codex Micro", "GPT-Red", "Boston Dynamics", "现代汽车"],
+      "file": "posts/147-tech-roundup-inkling-boston-dynamics-codex-micro-gpt-red-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Tech Roundup: Thinking Machines Debuts 975B Open Weights Model, Hyundai Fully Acquires Boston Dynamics, OpenAI Ships Codex Micro Hardware, GPT-Red Automates Red Teaming",
+      "summary": "⚡ Former OpenAI CTO Mira Murati's Thinking Machines Lab releases Inkling, a 975-billion-parameter open weights model under Apache 2.0; Hyundai Motor Group takes full control of Boston Dynamics, accelerating Atlas humanoid robot deployment; OpenAI launches its first branded hardware, the $230 Codex Micro keypad; OpenAI reveals GPT-Red, an automated red-teaming model that beats human testers at finding prompt injection vulnerabilities.",
+      "tags": ["Tech News", "Thinking Machines", "Inkling", "OpenAI", "Codex Micro", "GPT-Red", "Boston Dynamics", "Hyundai"],
+      "file": "posts/147-tech-roundup-inkling-boston-dynamics-codex-micro-gpt-red-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "146",
     "date": "2026-07-16",
     "zh": {
