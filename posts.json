@@ -1,5 +1,21 @@
 [
   {
+    "id": "148",
+    "date": "2026-07-16",
+    "zh": {
+      "title": "⚡ 7月16日金融综述：韩国央行加息至2.75%韩股暴跌6%、IBM一日狂泻25%创58年之最、A股创业板大跌近3%、长鑫科技IPO申购启幕",
+      "summary": "⚡ 韩国央行三年半来首次加息25个基点至2.75%，韩股暴跌逾6%触发熔断机制；IBM单日暴跌25.21%创58年来最大跌幅，市值蒸发670亿美元；A股三大指数收跌，创业板大跌近3%半导体板块重挫；科创板史上最大IPO长鑫科技今日申购，募资最高666亿元。",
+      "tags": ["金融经济", "韩国央行", "IBM", "A股", "长鑫科技", "美联储"],
+      "file": "posts/148-financial-roundup-bok-rate-hike-ibm-crash-asia-stock-rout-cxmt-ipo-july-16-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 16 Financial Roundup: Bank of Korea Hikes to 2.75% as KOSPI Crashes 6%, IBM Plunges 25% in Worst Drop in 58 Years, China's ChiNext Falls 3%, CXMT Launches Record IPO",
+      "summary": "⚡ Bank of Korea raises rate by 25bp to 2.75% for first time in 3.5 years; KOSPI crashes over 6% triggering circuit breaker; IBM plunges 25.21% in worst single-day drop since 1968 wiping out $67B; China's ChiNext falls 3% as semiconductor stocks rout; CXMT launches record $66.6B STAR Board IPO subscription.",
+      "tags": ["Financial News", "Bank of Korea", "IBM", "China A-Share", "CXMT", "Federal Reserve"],
+      "file": "posts/148-financial-roundup-bok-rate-hike-ibm-crash-asia-stock-rout-cxmt-ipo-july-16-2026.en.html"
+    }
+  },
+  {
     "id": "147",
     "date": "2026-07-16",
     "zh": {
