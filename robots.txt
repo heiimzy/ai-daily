@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://heiimzy.github.io/ai-daily/sitemap.xml
+Sitemap: https://ai-daily.cc.cd/sitemap.xml
