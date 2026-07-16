@@ -9,171 +9,57 @@
   <link rel="alternate" type="application/rss+xml" title="AI日报 RSS" href="rss.xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" type="image/svg+xml" href="icon.svg">
   <link rel="stylesheet" href="style.css">
   <style>
-    .blog-header { text-align: center; padding: 3rem 1rem 2rem; position: relative; }
-    .blog-header h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-      background: linear-gradient(135deg, #a78bfa, #f472b6, #60a5fa);
-      background-size: 200% auto;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      animation: gradientText 4s linear infinite;
-      font-weight: 800;
-    }
-    .blog-header p { color: var(--text-muted); max-width: 600px; margin: 0 auto; }
-    .blog-header .subtitle { color: var(--secondary); font-size: 0.9rem; margin-top: 0.5rem; animation: float 3s ease-in-out infinite; }
-
-    @keyframes float {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-6px); }
-    }
-
-    .post-list { max-width: 800px; margin: 0 auto; padding: 0 0 3rem; }
-    .post-item {
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 1.5rem;
-      margin-bottom: 1rem;
-      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      cursor: pointer;
-      position: relative;
-      overflow: hidden;
-      backdrop-filter: blur(8px);
-    }
-    .post-item::before {
-      content: '';
-      position: absolute;
-      top: -100%;
-      left: -100%;
-      width: 300%;
-      height: 300%;
-      background: radial-gradient(circle, rgba(167, 139, 250, 0.06) 0%, transparent 50%);
-      opacity: 0;
-      transition: opacity 0.5s;
-      pointer-events: none;
-    }
-    .post-item:hover::before { opacity: 1; }
-    .post-item::after {
-      content: '';
-      position: absolute;
-      inset: 0;
-      border-radius: 16px;
-      padding: 1px;
-      background: linear-gradient(135deg, var(--primary), var(--secondary), var(--accent));
-      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-      mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-      -webkit-mask-composite: xor;
-      mask-composite: exclude;
-      opacity: 0;
-      transition: opacity 0.3s;
-      pointer-events: none;
-    }
-    .post-item:hover::after { opacity: 1; }
-    .post-item:hover { border-color: transparent; transform: translateX(6px) scale(1.01); box-shadow: 0 8px 30px var(--glow-purple); }
-    .post-item .date { color: var(--text-muted); font-size: 0.8rem; }
-    .post-item h2 { font-size: 1.2rem; margin: 0.3rem 0; color: var(--text); font-weight: 700; }
-    .post-item .summary { color: var(--text-muted); font-size: 0.9rem; line-height: 1.6; margin-top: 0.5rem; }
-    .post-item .tags { margin-top: 0.75rem; display: flex; gap: 0.4rem; flex-wrap: wrap; }
-    .post-item .tag {
-      background: linear-gradient(135deg, rgba(167,139,250,0.15), rgba(244,114,182,0.1));
-      color: var(--primary);
-      padding: 0.2rem 0.65rem;
-      border-radius: 20px;
-      font-size: 0.75rem;
-      border: 1px solid rgba(167,139,250,0.15);
-    }
-    .post-item .read-more { color: var(--secondary); font-size: 0.85rem; margin-top: 0.5rem; display: inline-block; transition: transform 0.2s; }
-    .post-item:hover .read-more { transform: translateX(4px); }
-
-    .loading { text-align: center; padding: 3rem; color: var(--text-muted); }
-    .loading .spinner { display: inline-block; width: 24px; height: 24px; border: 3px solid rgba(167,139,250,0.1); border-top-color: var(--primary); border-right-color: var(--secondary); border-radius: 50%; animation: spin 0.8s cubic-bezier(0.4, 0, 0.2, 1) infinite; margin-bottom: 0.5rem; }
+    .post-list { display: grid; grid-template-columns: 1fr 1fr; gap: 0; margin: 0 0 2rem; }
+    .post-list .post-item:first-child { grid-column: 1 / -1; border-bottom: 2px solid #333; padding: 1.5rem 0; margin-bottom: 0; }
+    .post-item { padding: 1.25rem 1rem; border-bottom: 1px solid #d8d0c5; cursor: pointer; transition: background 0.15s; }
+    .post-item:nth-child(odd) { border-right: 1px solid #d8d0c5; }
+    .post-item:hover { background: #fdfaf5; }
+    .post-item:first-child h2 { font-size: 1.6rem; margin-bottom: 0.75rem; }
+    .post-item:first-child .summary { font-size: 1rem; }
+    .post-item .date { font-size: 0.75rem; color: #666; font-family: -apple-system, sans-serif; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.3rem; }
+    .post-item h2 { font-size: 1.1rem; margin: 0.2rem 0 0.4rem; color: #111; font-weight: 700; line-height: 1.35; }
+    .post-item h2:hover { color: #8b1a1a; }
+    .post-item .summary { color: #666; font-size: 0.85rem; line-height: 1.6; margin-top: 0.3rem; }
+    .post-item .tags { margin-top: 0.5rem; display: flex; gap: 0.3rem; flex-wrap: wrap; }
+    .post-item .tag { font-size: 0.7rem; color: #666; font-family: -apple-system, sans-serif; text-transform: uppercase; letter-spacing: 0.5px; }
+    .post-item .tag::before { content: '#'; }
+    .post-item .read-more { font-size: 0.8rem; color: #8b1a1a; margin-top: 0.5rem; display: inline-block; font-style: italic; }
+    .post-item:hover .read-more { color: #1a3a5c; }
+    .post-count { text-align: center; color: #666; font-size: 0.8rem; margin-bottom: 1rem; font-family: -apple-system, sans-serif; }
+    .loading { grid-column: 1 / -1; text-align: center; padding: 3rem; color: #666; font-style: italic; }
+    .loading .spinner { display: inline-block; width: 24px; height: 24px; border: 2px solid #d8d0c5; border-top-color: #8b1a1a; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 0.5rem; }
     @keyframes spin { to { transform: rotate(360deg); } }
-
-    .pagination { display: flex; justify-content: center; gap: 0.5rem; margin-top: 2rem; }
-    .pagination button {
-      background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
-      padding: 0.5rem 1rem; border-radius: 10px; cursor: pointer; font-family: inherit;
-      transition: all 0.2s;
-    }
-    .pagination button:hover { border-color: var(--primary); background: rgba(167,139,250,0.1); }
-    .pagination button.active { background: linear-gradient(135deg, var(--primary), var(--secondary)); border-color: transparent; color: white; box-shadow: 0 4px 15px var(--glow-purple); }
-    .pagination button:disabled { opacity: 0.4; cursor: not-allowed; }
-
-    .post-count { text-align: center; color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1rem; }
-
-    @media (max-width: 768px) {
-      .blog-header h1 { font-size: 1.6rem; }
-      .post-item { padding: 1rem; }
-    }
-
-    /* Category Filter */
-    .category-nav { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 2rem; }
-    .category-nav button {
-      background: transparent; border: 1px solid var(--border); color: var(--text-muted);
-      padding: 0.4rem 1rem; border-radius: 20px; cursor: pointer; font-size: 0.85rem; font-family: inherit;
-      transition: all 0.3s;
-    }
-    .category-nav button:hover { border-color: var(--primary); color: var(--text); background: rgba(167,139,250,0.05); transform: translateY(-2px); }
-    .category-nav button.active { background: linear-gradient(135deg, var(--primary), var(--secondary)); border-color: transparent; color: white; box-shadow: 0 4px 15px var(--glow-purple); }
-
-    /* Sakura/Star particles canvas */
-    #particles-canvas {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      pointer-events: none;
-      z-index: -1;
-    }
-
-    /* Blog header decorative element */
-    .blog-header .deco {
-      display: inline-block;
-      font-size: 1.5rem;
-      animation: sparkle 2s ease-in-out infinite;
-    }
-
-    @keyframes sparkle {
-      0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.6; }
-      50% { transform: scale(1.2) rotate(10deg); opacity: 1; }
-    }
+    .pagination { display: flex; justify-content: center; gap: 0.25rem; margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid #d8d0c5; }
+    .pagination button { background: transparent; border: 1px solid #d8d0c5; color: #111; padding: 0.4rem 0.8rem; cursor: pointer; font-family: -apple-system, sans-serif; font-size: 0.8rem; transition: all 0.2s; }
+    .pagination button:hover { background: #fefcf9; border-color: #666; }
+    .pagination button.active { background: #8b1a1a; border-color: #8b1a1a; color: white; }
+    .pagination button:disabled { opacity: 0.3; cursor: not-allowed; }
+    .category-nav { display: flex; justify-content: center; gap: 0.25rem; flex-wrap: wrap; margin-bottom: 1.5rem; border-bottom: 1px solid #d8d0c5; padding-bottom: 0.75rem; }
+    .category-nav button { background: transparent; border: none; color: #666; padding: 0.3rem 0.8rem; cursor: pointer; font-size: 0.8rem; font-family: -apple-system, sans-serif; letter-spacing: 0.5px; text-transform: uppercase; transition: color 0.2s; }
+    .category-nav button:hover { color: #111; }
+    .category-nav button.active { color: #8b1a1a; font-weight: 700; position: relative; }
+    .category-nav button.active::after { content: ''; position: absolute; bottom: -1px; left: 0.8rem; right: 0.8rem; height: 2px; background: #8b1a1a; }
+    @media (max-width: 768px) { .post-list { grid-template-columns: 1fr; } .post-item { border-right: none !important; } .post-item:nth-child(odd) { border-right: none; } .post-item:first-child h2 { font-size: 1.2rem; } .post-item h2 { font-size: 1rem; } }
   </style>
 </head>
 <body>
-  <canvas id="particles-canvas"></canvas>
-
-  <header>
-    <div class="container">
-      <a href="../index.html" class="logo">Free AI Tools <span>免费</span></a>
-      <nav>
-        <a href="../index.html">工具</a>
-        <a href="index.html">博客</a>
-        <a href="en/index.html">English</a>
-        <a href="rss.xml">RSS</a>
-      </nav>
-    </div>
-  </header>
-
-  <section class="blog-header">
-    <div class="container">
-      <div class="deco">🌸</div>
-      <h1>AI 日报</h1>
-      <p>追踪 AI 领域最新动态 — 新闻 · 工具 · 变现 · 效率</p>
-      <div class="subtitle">🕐 每小时自动更新 · 永不遗漏</div>
+  <!-- Newspaper Masthead -->
+  <section class="masthead">
+    <h1>AI 日报</h1>
+    <div class="tagline">追踪全球 AI 与科技最新动态</div>
+    <div class="date-bar">
+      <span id="currentDate"></span> · 每小时自动更新 · <span id="postCountMasthead"></span>
     </div>
   </section>
 
   <div class="container">
-    <div style="background:rgba(99,102,241,0.1);border:1px solid rgba(99,102,241,0.3);border-radius:8px;padding:0.75rem 1rem;margin-bottom:1.5rem;text-align:center;color:var(--text-muted);font-size:0.85rem;">
-      🌐 <a href="en/index.html" style="color:var(--secondary);">English version</a> also available — Same content, different language.
+    <div style="border-bottom:1px solid #d8d0c5;padding-bottom:0.75rem;margin-bottom:1.5rem;text-align:center;font-size:0.85rem;color:#666;">
+      🌐 <a href="en/index.html" style="color:#1a3a5c;font-weight:700;">English version</a> also available — Same content, different language.
     </div>
   </div>
 
@@ -195,7 +81,8 @@
 
   <footer>
     <div class="container">
-      <p>AI日报 &copy; 2026 | <a href="../index.html">工具站</a> | <a href="rss.xml">RSS订阅</a></p>
+      <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a> · <a href="rss.xml">RSS</a> · <a href="https://ai-daily.cc.cd/">ai-daily.cc.cd</a></p>
+      <p style="margin-top:0.25rem;font-size:0.75rem;">每小时自动更新 · 覆盖科技 · 金融 · 国际政治</p>
     </div>
   </footer>
 
@@ -233,6 +120,14 @@
   </div>
 
   <script>
+    // Format today's date
+    const now = new Date();
+    const dateStr = now.toLocaleDateString('zh-CN', {
+      year: 'numeric', month: 'long', day: 'numeric',
+      weekday: 'long'
+    });
+    document.getElementById('currentDate').textContent = dateStr;
+
     const POSTS_PER_PAGE = 20;
     let allPosts = [];
     let currentPage = 1;
@@ -244,9 +139,10 @@
         if (!res.ok) throw new Error('HTTP ' + res.status);
         const data = await res.json();
         allPosts = Array.isArray(data) ? data.filter(p => p.zh) : [];
+        document.getElementById('postCountMasthead').textContent = '共 ' + allPosts.length + ' 篇';
         render();
       } catch(e) {
-        document.getElementById('postList').innerHTML = '<div class="loading" style="color:var(--danger);">⚠️ 暂时还没有文章，等待下次更新...</div>';
+        document.getElementById('postList').innerHTML = '<div class="loading">⚠️ 暂时还没有文章，等待下次更新...</div>';
       }
     }
 
@@ -317,125 +213,6 @@
     });
 
     loadPosts();
-  </script>
-
-  <script>
-    // Sakura petal / star particle animation
-    const canvas = document.getElementById('particles-canvas');
-    const ctx = canvas.getContext('2d');
-    let particles = [];
-    let animId;
-
-    function resizeCanvas() {
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
-    }
-    resizeCanvas();
-    window.addEventListener('resize', resizeCanvas);
-
-    class Particle {
-      constructor() { this.reset(); }
-      reset() {
-        this.x = Math.random() * canvas.width;
-        this.y = -20;
-        this.size = Math.random() * 6 + 3;
-        this.speedY = Math.random() * 1 + 0.5;
-        this.speedX = Math.random() * 0.6 - 0.3;
-        this.rotation = Math.random() * 360;
-        this.rotSpeed = (Math.random() - 0.5) * 0.02;
-        this.opacity = Math.random() * 0.5 + 0.3;
-        this.swingAmp = Math.random() * 20 + 5;
-        this.swingFreq = Math.random() * 0.02 + 0.01;
-        this.swingOffset = Math.random() * Math.PI * 2;
-        // Petal or sparkle shape
-        this.type = Math.random() > 0.5 ? 'petal' : 'sparkle';
-        // Color palette: pink, lavender, light blue, white
-        const colors = [
-          '255, 182, 193',  // light pink
-          '216, 191, 255',  // lavender
-          '167, 139, 250',  // soft purple
-          '244, 114, 182',  // pink
-          '176, 224, 230',  // light blue
-          '255, 255, 255',  // white
-        ];
-        this.color = colors[Math.floor(Math.random() * colors.length)];
-      }
-
-      draw() {
-        ctx.save();
-        ctx.translate(this.x, this.y);
-        ctx.rotate(this.rotation);
-        ctx.globalAlpha = this.opacity;
-
-        if (this.type === 'petal') {
-          // Sakura petal shape
-          ctx.beginPath();
-          ctx.ellipse(0, 0, this.size, this.size * 0.5, 0, 0, Math.PI * 2);
-          ctx.fillStyle = `rgba(${this.color}, ${this.opacity})`;
-          ctx.fill();
-          // Petal cleft
-          ctx.beginPath();
-          ctx.ellipse(-this.size * 0.3, 0, this.size * 0.3, this.size * 0.2, 0, 0, Math.PI * 2);
-          ctx.fillStyle = `rgba(255,255,255,${this.opacity * 0.3})`;
-          ctx.fill();
-        } else {
-          // Star/sparkle
-          const spikes = 4;
-          const outerR = this.size;
-          const innerR = this.size * 0.4;
-          ctx.beginPath();
-          for (let i = 0; i < spikes * 2; i++) {
-            const r = i % 2 === 0 ? outerR : innerR;
-            const angle = (i * Math.PI) / spikes - Math.PI / 2;
-            const x = Math.cos(angle) * r;
-            const y = Math.sin(angle) * r;
-            i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
-          }
-          ctx.closePath();
-          ctx.fillStyle = `rgba(${this.color}, ${this.opacity * 0.8})`;
-          ctx.fill();
-          // Glow effect
-          ctx.shadowColor = `rgba(${this.color}, 0.5)`;
-          ctx.shadowBlur = 10;
-          ctx.fill();
-        }
-
-        ctx.restore();
-      }
-
-      update() {
-        this.x += this.speedX + Math.sin(this.y * this.swingFreq + this.swingOffset) * 0.3;
-        this.y += this.speedY;
-        this.rotation += this.rotSpeed;
-
-        if (this.y > canvas.height + 20 ||
-            this.x < -50 || this.x > canvas.width + 50) {
-          this.reset();
-          this.y = -20;
-          this.x = Math.random() * canvas.width;
-        }
-      }
-    }
-
-    function initParticles(count) {
-      particles = [];
-      for (let i = 0; i < count; i++) {
-        const p = new Particle();
-        p.y = Math.random() * canvas.height;
-        particles.push(p);
-      }
-    }
-
-    function animateParticles() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      particles.forEach(p => { p.update(); p.draw(); });
-      animId = requestAnimationFrame(animateParticles);
-    }
-
-    // Adjust particle count based on screen size
-    const particleCount = Math.min(50, Math.floor(window.innerWidth / 20));
-    initParticles(particleCount);
-    animateParticles();
   </script>
 
   <script>

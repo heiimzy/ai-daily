@@ -1,1454 +1,1474 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/</loc>
+    <loc>https://ai-daily.cc.cd/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/en/</loc>
+    <loc>https://ai-daily.cc.cd/en/</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/143-nvidia-japan-xiaomi-u0-waic-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/133-international-politics-us-iran-hormuz-blockade-strikes-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/131-tech-roundup-microsoft-patch-tuesday-hassabis-watchdog-sol-juice-china-agent-recalls-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/131-tech-roundup-microsoft-patch-tuesday-hassabis-watchdog-sol-juice-china-agent-recalls-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/131-tech-roundup-microsoft-patch-tuesday-hassabis-watchdog-sol-juice-china-agent-recalls-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/131-tech-roundup-microsoft-patch-tuesday-hassabis-watchdog-sol-juice-china-agent-recalls-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/129-x402-samsung-flex-titanium-anthropic-india-codex-8m-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/129-x402-samsung-flex-titanium-anthropic-india-codex-8m-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/129-x402-samsung-flex-titanium-anthropic-india-codex-8m-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/129-x402-samsung-flex-titanium-anthropic-india-codex-8m-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/127-tech-roundup-pku-neuromorphic-chip-df1000-intel-nova-lake-samsung-anthropic-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/127-tech-roundup-pku-neuromorphic-chip-df1000-intel-nova-lake-samsung-anthropic-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/127-tech-roundup-pku-neuromorphic-chip-df1000-intel-nova-lake-samsung-anthropic-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/127-tech-roundup-pku-neuromorphic-chip-df1000-intel-nova-lake-samsung-anthropic-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/126-stripe-paypal-53b-ibm-crash-reflect-orbital-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/126-stripe-paypal-53b-ibm-crash-reflect-orbital-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/126-stripe-paypal-53b-ibm-crash-reflect-orbital-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/126-stripe-paypal-53b-ibm-crash-reflect-orbital-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/125-us-iran-fourth-night-strikes-casualties-bahrain-netanyahu-dimona-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/125-us-iran-fourth-night-strikes-casualties-bahrain-netanyahu-dimona-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/125-us-iran-fourth-night-strikes-casualties-bahrain-netanyahu-dimona-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/125-us-iran-fourth-night-strikes-casualties-bahrain-netanyahu-dimona-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/122-tech-roundup-bonsai-27b-sensorfm-quadric-android-ai-bugs-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/122-tech-roundup-bonsai-27b-sensorfm-quadric-android-ai-bugs-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/122-tech-roundup-bonsai-27b-sensorfm-quadric-android-ai-bugs-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/122-tech-roundup-bonsai-27b-sensorfm-quadric-android-ai-bugs-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/120-financial-roundup-china-gdp-pboc-reverse-repo-asia-rally-warsh-ppi-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/120-financial-roundup-china-gdp-pboc-reverse-repo-asia-rally-warsh-ppi-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/120-financial-roundup-china-gdp-pboc-reverse-repo-asia-rally-warsh-ppi-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/120-financial-roundup-china-gdp-pboc-reverse-repo-asia-rally-warsh-ppi-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/117-international-politics-kuwait-logistics-hub-iran-crypto-sanctions-hegseth-iraq-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/116-financial-roundup-kospi-revenge-surge-ppidata-warsh-day2-lucid-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/115-tech-roundup-stem-cell-solar-quadric-chip-xai-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/112-financial-roundup-cpi-reaction-fed-odds-sk-hynix-oil-gold-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/111-tech-roundup-ai-regulation-grok-build-longcat-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/110-tech-roundup-ny-data-center-halt-oak-lab-claude-values-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/109-international-politics-hormuz-trump-toll-houthi-saudi-iran-strikes-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/109-international-politics-hormuz-trump-toll-houthi-saudi-iran-strikes-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/109-international-politics-hormuz-trump-toll-houthi-saudi-iran-strikes-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/109-international-politics-hormuz-trump-toll-houthi-saudi-iran-strikes-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/106-spotify-ai-music-assistant-openai-sol-limit-apple-ios27-july-14-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/105-hungary-president-ousted-israel-lebanon-rome-talks-us-iran-update-july-14-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/099-financial-markets-crash-kospi-europe-oil-warsh-cpi-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/099-financial-markets-crash-kospi-europe-oil-warsh-cpi-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/099-financial-markets-crash-kospi-europe-oil-warsh-cpi-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/099-financial-markets-crash-kospi-europe-oil-warsh-cpi-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/097-international-politics-roundup-trump-ukraine-bangkok-fire-centcom-drone-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/096-financial-roundup-oil-79-korea-sidcar-asian-markets-gold-slide-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/093-international-politics-roundup-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/093-international-politics-roundup-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/093-international-politics-roundup-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/093-international-politics-roundup-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/090-tech-roundup-netflix-publishers-gemini-live-translate-data-center-fight-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/090-tech-roundup-netflix-publishers-gemini-live-translate-data-center-fight-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/090-tech-roundup-netflix-publishers-gemini-live-translate-data-center-fight-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/090-tech-roundup-netflix-publishers-gemini-live-translate-data-center-fight-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/089-us-iran-qeshm-strikes-satellite-damage-iraq-pm-washington-rutte-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/089-us-iran-qeshm-strikes-satellite-damage-iraq-pm-washington-rutte-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/089-us-iran-qeshm-strikes-satellite-damage-iraq-pm-washington-rutte-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/089-us-iran-qeshm-strikes-satellite-damage-iraq-pm-washington-rutte-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/088-financial-roundup-jpmorgan-crypto-goldman-cpi-ecb-hike-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/088-financial-roundup-jpmorgan-crypto-goldman-cpi-ecb-hike-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/088-financial-roundup-jpmorgan-crypto-goldman-cpi-ecb-hike-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/088-financial-roundup-jpmorgan-crypto-goldman-cpi-ecb-hike-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/087-qualcomm-tenstorrent-spacex-ipo-starship-v3-microsoft-patch-tuesday-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/087-qualcomm-tenstorrent-spacex-ipo-starship-v3-microsoft-patch-tuesday-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/087-qualcomm-tenstorrent-spacex-ipo-starship-v3-microsoft-patch-tuesday-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/087-qualcomm-tenstorrent-spacex-ipo-starship-v3-microsoft-patch-tuesday-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/080-gold-oil-fed-week-ahead-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/080-gold-oil-fed-week-ahead-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/080-gold-oil-fed-week-ahead-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/080-gold-oil-fed-week-ahead-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/079-iran-hormuz-aftermath-oman-protest-qatar-injured-diplomacy-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/079-iran-hormuz-aftermath-oman-protest-qatar-injured-diplomacy-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/079-iran-hormuz-aftermath-oman-protest-qatar-injured-diplomacy-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/079-iran-hormuz-aftermath-oman-protest-qatar-injured-diplomacy-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/075-us-iran-hormuz-crisis-cruise-missile-gfs-galaxy-third-wave.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/075-us-iran-hormuz-crisis-cruise-missile-gfs-galaxy-third-wave.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/075-us-iran-hormuz-crisis-cruise-missile-gfs-galaxy-third-wave.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/075-us-iran-hormuz-crisis-cruise-missile-gfs-galaxy-third-wave.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/073-financial-markets-weekly-wrap-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/073-financial-markets-weekly-wrap-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/073-financial-markets-weekly-wrap-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/073-financial-markets-weekly-wrap-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/069-ant-lingbot-6-models-embodied-ai-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/069-ant-lingbot-6-models-embodied-ai-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/069-ant-lingbot-6-models-embodied-ai-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/069-ant-lingbot-6-models-embodied-ai-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/066-openai-atlas-shutdown-stepfun-ai-phone-reactree.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/066-openai-atlas-shutdown-stepfun-ai-phone-reactree.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/066-openai-atlas-shutdown-stepfun-ai-phone-reactree.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/066-openai-atlas-shutdown-stepfun-ai-phone-reactree.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/065-apple-sues-openai-gpt56-solves-math-anthropic-jspace.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/065-apple-sues-openai-gpt56-solves-math-anthropic-jspace.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/065-apple-sues-openai-gpt56-solves-math-anthropic-jspace.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/065-apple-sues-openai-gpt56-solves-math-anthropic-jspace.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/064-fable-5-paywall-regvelo-virtual-cell-kai-fu-lisa-su.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/064-fable-5-paywall-regvelo-virtual-cell-kai-fu-lisa-su.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/064-fable-5-paywall-regvelo-virtual-cell-kai-fu-lisa-su.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/064-fable-5-paywall-regvelo-virtual-cell-kai-fu-lisa-su.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/060-openai-sol-delete-data-chatgpt-work-backlash-j-space.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/060-openai-sol-delete-data-chatgpt-work-backlash-j-space.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/060-openai-sol-delete-data-chatgpt-work-backlash-j-space.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/060-openai-sol-delete-data-chatgpt-work-backlash-j-space.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/059-biomni-boko-haram-ai-terrorism-google-deepmind-mcp.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/059-biomni-boko-haram-ai-terrorism-google-deepmind-mcp.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/059-biomni-boko-haram-ai-terrorism-google-deepmind-mcp.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/059-biomni-boko-haram-ai-terrorism-google-deepmind-mcp.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/056-apple-sues-openai-chatgpt-work-backlash-muse-spark-pricing-export-loophole.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/056-apple-sues-openai-chatgpt-work-backlash-muse-spark-pricing-export-loophole.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/056-apple-sues-openai-chatgpt-work-backlash-muse-spark-pricing-export-loophole.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/056-apple-sues-openai-chatgpt-work-backlash-muse-spark-pricing-export-loophole.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/055-gpt56-sol-selfimprove-math-proof-chatgpt-work.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/055-gpt56-sol-selfimprove-math-proof-chatgpt-work.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/055-gpt56-sol-selfimprove-math-proof-chatgpt-work.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/055-gpt56-sol-selfimprove-math-proof-chatgpt-work.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/053-meta-muse-pulled-anthropic-selfimprove-google-exodus.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/053-meta-muse-pulled-anthropic-selfimprove-google-exodus.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/053-meta-muse-pulled-anthropic-selfimprove-google-exodus.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/053-meta-muse-pulled-anthropic-selfimprove-google-exodus.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/048-tech-news-june-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/048-tech-news-june-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/048-tech-news-june-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/048-tech-news-june-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/047-china-bci-telecom-token-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/047-china-bci-telecom-token-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/047-china-bci-telecom-token-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/047-china-bci-telecom-token-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/046-spacex-starship-embodied-ai-compute-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/046-spacex-starship-embodied-ai-compute-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/046-spacex-starship-embodied-ai-compute-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/046-spacex-starship-embodied-ai-compute-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/045-baidu-earnings-ai-consumer-policy-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/045-baidu-earnings-ai-consumer-policy-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/045-baidu-earnings-ai-consumer-policy-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/045-baidu-earnings-ai-consumer-policy-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/044-robot-ipo-ai-inflation-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/044-robot-ipo-ai-inflation-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/044-robot-ipo-ai-inflation-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/044-robot-ipo-ai-inflation-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/043-neuralink-nvidia-ai-os-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/043-neuralink-nvidia-ai-os-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/043-neuralink-nvidia-ai-os-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/043-neuralink-nvidia-ai-os-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/042-ai-policy-market-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/042-ai-policy-market-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/042-ai-policy-market-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/042-ai-policy-market-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/041-afternoon-semi-electronics-market-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/041-afternoon-semi-electronics-market-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/041-afternoon-semi-electronics-market-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/041-afternoon-semi-electronics-market-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/040-ai-news-may-2026-agent-tools-roundup.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/040-ai-news-may-2026-agent-tools-roundup.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/040-ai-news-may-2026-agent-tools-roundup.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/040-ai-news-may-2026-agent-tools-roundup.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/039-ai-news-may-2026-live-roundup.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/039-ai-news-may-2026-live-roundup.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/039-ai-news-may-2026-live-roundup.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/039-ai-news-may-2026-live-roundup.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/038-ai-news-may-2026-week3-deep.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/038-ai-news-may-2026-week3-deep.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/038-ai-news-may-2026-week3-deep.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/038-ai-news-may-2026-week3-deep.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/037-ai-productivity-may-2026-agent-wave.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/037-ai-productivity-may-2026-agent-wave.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/037-ai-productivity-may-2026-agent-wave.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/037-ai-productivity-may-2026-agent-wave.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/036-ai-monetization-may-2026-deep.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/036-ai-monetization-may-2026-deep.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/036-ai-monetization-may-2026-deep.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/036-ai-monetization-may-2026-deep.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/035-ai-tools-may-2026-edition.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/035-ai-tools-may-2026-edition.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/035-ai-tools-may-2026-edition.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/035-ai-tools-may-2026-edition.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/034-ai-news-may-2026-week3.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/034-ai-news-may-2026-week3.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/034-ai-news-may-2026-week3.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/034-ai-news-may-2026-week3.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/033-ai-productivity-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/033-ai-productivity-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/033-ai-productivity-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/033-ai-productivity-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/032-ai-monetization-may-2026-roundup.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/032-ai-monetization-may-2026-roundup.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/032-ai-monetization-may-2026-roundup.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/032-ai-monetization-may-2026-roundup.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/031-ai-tools-may-2026-guide.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/031-ai-tools-may-2026-guide.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/031-ai-tools-may-2026-guide.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/031-ai-tools-may-2026-guide.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/030-ai-news-may-2026-roundup.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/030-ai-news-may-2026-roundup.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/030-ai-news-may-2026-roundup.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/030-ai-news-may-2026-roundup.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/029-ai-productivity-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/029-ai-productivity-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/029-ai-productivity-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/029-ai-productivity-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/028-ai-monetization-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/028-ai-monetization-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/028-ai-monetization-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/028-ai-monetization-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/027-ai-tools-may-2026-picks.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/027-ai-tools-may-2026-picks.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/027-ai-tools-may-2026-picks.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/027-ai-tools-may-2026-picks.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/026-ai-model-war-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/026-ai-model-war-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/026-ai-model-war-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/026-ai-model-war-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/025-ai-productivity-2026-guide.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/025-ai-productivity-2026-guide.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/025-ai-productivity-2026-guide.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/025-ai-productivity-2026-guide.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/024-ai-monetization-2026-guide.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/024-ai-monetization-2026-guide.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/024-ai-monetization-2026-guide.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/024-ai-monetization-2026-guide.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/023-ai-tools-may-picks.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/023-ai-tools-may-picks.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/023-ai-tools-may-picks.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/023-ai-tools-may-picks.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/022-ai-infrastructure-race.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/022-ai-infrastructure-race.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/022-ai-infrastructure-race.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/022-ai-infrastructure-race.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/021-ai-productivity-roi-cases.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/021-ai-productivity-roi-cases.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/021-ai-productivity-roi-cases.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/021-ai-productivity-roi-cases.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/020-ai-pet-video-monetization.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/020-ai-pet-video-monetization.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/020-ai-pet-video-monetization.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/020-ai-pet-video-monetization.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/019-ai-tools-super-may.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/019-ai-tools-super-may.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/019-ai-tools-super-may.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/019-ai-tools-super-may.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/018-ai-security-crisis.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/018-ai-security-crisis.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/018-ai-security-crisis.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/018-ai-security-crisis.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/017-proactive-ai-era.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/017-proactive-ai-era.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/017-proactive-ai-era.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/017-proactive-ai-era.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/016-openai-ads-monetization.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/016-openai-ads-monetization.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/016-openai-ads-monetization.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/016-openai-ads-monetization.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/015-ai-tools-may-2026-round2.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/015-ai-tools-may-2026-round2.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/015-ai-tools-may-2026-round2.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/015-ai-tools-may-2026-round2.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/014-ai-platform-war.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/014-ai-platform-war.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/014-ai-platform-war.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/014-ai-platform-war.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/013-ai-productivity-2026-guide.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/013-ai-productivity-2026-guide.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/013-ai-productivity-2026-guide.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/013-ai-productivity-2026-guide.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/012-ai-monetization-2026-guide.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/012-ai-monetization-2026-guide.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/012-ai-monetization-2026-guide.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/012-ai-monetization-2026-guide.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/011-ai-tools-may-2026-guide.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/011-ai-tools-may-2026-guide.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/011-ai-tools-may-2026-guide.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/011-ai-tools-may-2026-guide.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/010-ai-landscape-may-2026-part2.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/010-ai-landscape-may-2026-part2.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/010-ai-landscape-may-2026-part2.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/010-ai-landscape-may-2026-part2.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/009-ai-productivity-guide-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/009-ai-productivity-guide-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/009-ai-productivity-guide-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/009-ai-productivity-guide-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/008-ai-monetization-guide-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/008-ai-monetization-guide-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/008-ai-monetization-guide-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/008-ai-monetization-guide-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/007-ai-tools-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/007-ai-tools-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/007-ai-tools-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/007-ai-tools-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/006-ai-news-may-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/006-ai-news-may-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/006-ai-news-may-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/006-ai-news-may-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/005-ai-productivity-workflow.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/005-ai-productivity-workflow.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/005-ai-productivity-workflow.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/005-ai-productivity-workflow.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/004-ai-one-person-company.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/004-ai-one-person-company.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/004-ai-one-person-company.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/004-ai-one-person-company.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/003-best-ai-tools-2026-may.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/003-best-ai-tools-2026-may.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/003-best-ai-tools-2026-may.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/003-best-ai-tools-2026-may.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/002-anthropic-surpasses-openai.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/002-anthropic-surpasses-openai.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/002-anthropic-surpasses-openai.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/002-anthropic-surpasses-openai.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/001-welcome-to-ai-daily.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/001-welcome-to-ai-daily.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/001-welcome-to-ai-daily.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/001-welcome-to-ai-daily.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/049-ai-news-july-11-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/049-ai-news-july-11-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/049-ai-news-july-11-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/049-ai-news-july-11-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/050-ai-news-july-11-cyber-fed-orca.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/050-ai-news-july-11-cyber-fed-orca.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/050-ai-news-july-11-cyber-fed-orca.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/050-ai-news-july-11-cyber-fed-orca.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/052-apple-sues-openai-thinking-machines-vaccine.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/052-apple-sues-openai-thinking-machines-vaccine.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/052-apple-sues-openai-thinking-machines-vaccine.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/052-apple-sues-openai-thinking-machines-vaccine.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/051-ai-news-july-11-gptlive-vidu-lecun.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/051-ai-news-july-11-gptlive-vidu-lecun.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/051-ai-news-july-11-gptlive-vidu-lecun.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/051-ai-news-july-11-gptlive-vidu-lecun.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/054-anthropic-jspace-unitree-surgery-huangrenxun.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/054-anthropic-jspace-unitree-surgery-huangrenxun.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/054-anthropic-jspace-unitree-surgery-huangrenxun.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/054-anthropic-jspace-unitree-surgery-huangrenxun.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/057-anthropic-12t-valuation-openai-mission-change-pichai-admits.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/057-anthropic-12t-valuation-openai-mission-change-pichai-admits.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/057-anthropic-12t-valuation-openai-mission-change-pichai-admits.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/057-anthropic-12t-valuation-openai-mission-change-pichai-admits.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/058-chinese-models-us-market-white-house-review-lingbot.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/058-chinese-models-us-market-white-house-review-lingbot.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/058-chinese-models-us-market-white-house-review-lingbot.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/058-chinese-models-us-market-white-house-review-lingbot.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/061-tencent-manus-buyback-openai-export-claude-cowork.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/061-tencent-manus-buyback-openai-export-claude-cowork.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/061-tencent-manus-buyback-openai-export-claude-cowork.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/061-tencent-manus-buyback-openai-export-claude-cowork.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/062-openai-open-model-delay-apple-lawsuit-anthropic-jspace.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/062-openai-open-model-delay-apple-lawsuit-anthropic-jspace.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/062-openai-open-model-delay-apple-lawsuit-anthropic-jspace.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/062-openai-open-model-delay-apple-lawsuit-anthropic-jspace.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/063-openai-chatgpt-work-chinese-distillation-pledge-removed.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/063-openai-chatgpt-work-chinese-distillation-pledge-removed.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/063-openai-chatgpt-work-chinese-distillation-pledge-removed.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/063-openai-chatgpt-work-chinese-distillation-pledge-removed.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/067-openai-chatgpt-work-debacle-vega-linux-bug-anthropic-ipo.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/067-openai-chatgpt-work-debacle-vega-linux-bug-anthropic-ipo.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/067-openai-chatgpt-work-debacle-vega-linux-bug-anthropic-ipo.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/067-openai-chatgpt-work-debacle-vega-linux-bug-anthropic-ipo.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/070-iran-strait-hormuz-closed-us-strikes-philippines-sea-anniversary.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/070-iran-strait-hormuz-closed-us-strikes-philippines-sea-anniversary.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/070-iran-strait-hormuz-closed-us-strikes-philippines-sea-anniversary.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/070-iran-strait-hormuz-closed-us-strikes-philippines-sea-anniversary.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/068-tech-giants-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/068-tech-giants-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/068-tech-giants-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/068-tech-giants-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/071-unitree-g1-surgery-nature-starship-ift13-spacex-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/071-unitree-g1-surgery-nature-starship-ift13-spacex-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/071-unitree-g1-surgery-nature-starship-ift13-spacex-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/071-unitree-g1-surgery-nature-starship-ift13-spacex-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/072-sk-hynix-ipo-amd-zen6-chip-rally-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/072-sk-hynix-ipo-amd-zen6-chip-rally-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/072-sk-hynix-ipo-amd-zen6-chip-rally-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/072-sk-hynix-ipo-amd-zen6-chip-rally-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/074-us-iran-escalation-graham-dies-scs-anniversary-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/074-us-iran-escalation-graham-dies-scs-anniversary-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/074-us-iran-escalation-graham-dies-scs-anniversary-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/074-us-iran-escalation-graham-dies-scs-anniversary-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/076-gpt56-sol-math-proof-trae-ai-ide-google-magic-pointer.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/076-gpt56-sol-math-proof-trae-ai-ide-google-magic-pointer.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/076-gpt56-sol-math-proof-trae-ai-ide-google-magic-pointer.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/076-gpt56-sol-math-proof-trae-ai-ide-google-magic-pointer.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/078-oil-surge-hormuz-iran-attacks-bofa-warning-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/078-oil-surge-hormuz-iran-attacks-bofa-warning-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/078-oil-surge-hormuz-iran-attacks-bofa-warning-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/078-oil-surge-hormuz-iran-attacks-bofa-warning-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/077-quantum-oratomic-chrome-zero-day-huggingface-kernels.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/081-israel-lebanon-hormuz-trump-iran-ukraine-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/081-israel-lebanon-hormuz-trump-iran-ukraine-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/081-israel-lebanon-hormuz-trump-iran-ukraine-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/081-israel-lebanon-hormuz-trump-iran-ukraine-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/082-ethereum-ai-bug-xquic-typescript7-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/082-ethereum-ai-bug-xquic-typescript7-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/082-ethereum-ai-bug-xquic-typescript7-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/082-ethereum-ai-bug-xquic-typescript7-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/083-us-strikes-iran-hormuz-closed-gulf-retaliation-july-12-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/083-us-strikes-iran-hormuz-closed-gulf-retaliation-july-12-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/083-us-strikes-iran-hormuz-closed-gulf-retaliation-july-12-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/083-us-strikes-iran-hormuz-closed-gulf-retaliation-july-12-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/084-market-week-ahead-cpi-earnings-margin-debt-cbdc-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/084-market-week-ahead-cpi-earnings-margin-debt-cbdc-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/084-market-week-ahead-cpi-earnings-margin-debt-cbdc-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/084-market-week-ahead-cpi-earnings-margin-debt-cbdc-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/085-us-iran-hormuz-trump-ukraine-nato-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/085-us-iran-hormuz-trump-ukraine-nato-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/085-us-iran-hormuz-trump-ukraine-nato-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/085-us-iran-hormuz-trump-ukraine-nato-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/086-tech-roundup-uk-ctp-stepfun-ai-phone-anthropic-ipo-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/086-tech-roundup-uk-ctp-stepfun-ai-phone-anthropic-ipo-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/086-tech-roundup-uk-ctp-stepfun-ai-phone-anthropic-ipo-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/086-tech-roundup-uk-ctp-stepfun-ai-phone-anthropic-ipo-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/091-bok-ai-chip-supercycle-busan-forum-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/091-bok-ai-chip-supercycle-busan-forum-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/091-bok-ai-chip-supercycle-busan-forum-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/091-bok-ai-chip-supercycle-busan-forum-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/092-financial-roundup-oil-surge-sk-hynix-drop-gold-warsh-fed-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/092-financial-roundup-oil-surge-sk-hynix-drop-gold-warsh-fed-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/092-financial-roundup-oil-surge-sk-hynix-drop-gold-warsh-fed-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/092-financial-roundup-oil-surge-sk-hynix-drop-gold-warsh-fed-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/094-ai-industry-gpt56-price-war-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/094-ai-industry-gpt56-price-war-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/094-ai-industry-gpt56-price-war-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/094-ai-industry-gpt56-price-war-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/095-tech-roundup-tesla-ai5-apple-openai-lawsuit-nvidia-spark-tencent-hy3-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/098-tech-roundup-nvidia-rubin-tsmc-2nm-sk-hynix-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/100-world-politics-iran-hormuz-graham-wildfires-july-13-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/101-us-iran-hormuz-tanker-attacks-oil-surge-july-14-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/102-tech-giants-apple-openai-lawsuit-ai-warning-letter-patch-tuesday-july-14-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/103-nvidia-asia-whitelist-malaysia-export-controls-july-14-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/104-financial-roundup-cpi-bank-earnings-warsh-testimony-july-14-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/104-financial-roundup-cpi-bank-earnings-warsh-testimony-july-14-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/104-financial-roundup-cpi-bank-earnings-warsh-testimony-july-14-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/104-financial-roundup-cpi-bank-earnings-warsh-testimony-july-14-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/107-tech-roundup-apple-sues-openai-deepseek-funding-stepx-neo-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/108-financial-roundup-cpi-warsh-bank-earnings-oil-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/113-international-politics-hormuz-blockade-bab-al-mandeb-senate-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/113-international-politics-hormuz-blockade-bab-al-mandeb-senate-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/113-international-politics-hormuz-blockade-bab-al-mandeb-senate-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/113-international-politics-hormuz-blockade-bab-al-mandeb-senate-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/114-openai-hardware-speaker-gpt56-sol-file-deletion-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/118-tech-roundup-china-ai-regulation-google-lawsuit-muse-spark-openrouter-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/121-us-iran-war-situation-room-power-plants-blockade-hormuz-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/121-us-iran-war-situation-room-power-plants-blockade-hormuz-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/121-us-iran-war-situation-room-power-plants-blockade-hormuz-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/121-us-iran-war-situation-room-power-plants-blockade-hormuz-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/119-tech-roundup-ny-data-center-moratorium-google-images-nano-banana-alphabet-funding-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/119-tech-roundup-ny-data-center-moratorium-google-images-nano-banana-alphabet-funding-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/119-tech-roundup-ny-data-center-moratorium-google-images-nano-banana-alphabet-funding-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/119-tech-roundup-ny-data-center-moratorium-google-images-nano-banana-alphabet-funding-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/123-xiaomi-robotics-u0-nvidia-h200-china-embodied-ai.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/123-xiaomi-robotics-u0-nvidia-h200-china-embodied-ai.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/123-xiaomi-robotics-u0-nvidia-h200-china-embodied-ai.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/123-xiaomi-robotics-u0-nvidia-h200-china-embodied-ai.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/124-financial-roundup-kospi-asml-oil-usd-ppi-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/124-financial-roundup-kospi-asml-oil-usd-ppi-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/124-financial-roundup-kospi-asml-oil-usd-ppi-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/124-financial-roundup-kospi-asml-oil-usd-ppi-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/128-financial-roundup-ppi-morgan-stanley-apple-alibaba-boc-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/128-financial-roundup-ppi-morgan-stanley-apple-alibaba-boc-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/128-financial-roundup-ppi-morgan-stanley-apple-alibaba-boc-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/128-financial-roundup-ppi-morgan-stanley-apple-alibaba-boc-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/130-tech-roundup-anthropic-ode-rime-google-io-india-reelful-july-15-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/130-tech-roundup-anthropic-ode-rime-google-io-india-reelful-july-15-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/130-tech-roundup-anthropic-ode-rime-google-io-india-reelful-july-15-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/130-tech-roundup-anthropic-ode-rime-google-io-india-reelful-july-15-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/132-financial-roundup-ppi-cxmt-bitcoin-oil-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/132-financial-roundup-ppi-cxmt-bitcoin-oil-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/132-financial-roundup-ppi-cxmt-bitcoin-oil-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/132-financial-roundup-ppi-cxmt-bitcoin-oil-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/134-tech-news-apple-intelligence-china-mcp-security-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/135-tech-roundup-openai-speaker-llm-security-codeql-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/136-financial-roundup-pboc-injection-ashares-minimax-crypto-etf-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/138-tech-roundup-openai-codex-micro-keyboard-microsoft-build-surface-rtx-spark-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/138-tech-roundup-openai-codex-micro-keyboard-microsoft-build-surface-rtx-spark-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/138-tech-roundup-openai-codex-micro-keyboard-microsoft-build-surface-rtx-spark-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/138-tech-roundup-openai-codex-micro-keyboard-microsoft-build-surface-rtx-spark-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/137-international-politics-us-iran-third-wave-trump-iran-strikes-blockade-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/139-tech-roundup-gpt-red-intel-high-na-euv-inkling-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/140-financial-roundup-fed-beige-book-cpi-ppi-china-gdp-cxmt-ipo-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/142-tech-roundup-gpt56-sol-file-deletion-ai-coding-tools-git-exe-nvidia-nemotron-twotower-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/146-grok-build-open-source-gpt56-math-proof-nvidia-nemoclaw-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.zh.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/145-us-iran-war-semnan-strikes-existential-war-ground-operation-consideration-july-16-2026.zh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heiimzy.github.io/ai-daily/posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.en.html</loc>
+    <loc>https://ai-daily.cc.cd/posts/145-us-iran-war-semnan-strikes-existential-war-ground-operation-consideration-july-16-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/144-financial-roundup-hk-stocks-rally-paypal-53b-bitcoin-65k-july-16-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/141-international-politics-us-strikes-tehran-iran-existential-war-ukraine-black-sea-shadow-fleet-july-16-2026.en.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
