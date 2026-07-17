@@ -1,5 +1,35 @@
 [
   {
+    "id": "183",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日科技综述：Kimi K3引发\"DeepSeek 2.0\"全球芯片股暴跌、中科院发布ScienceOne Omni超越GPT-5.5、Patreon联合Cloudflare全面封杀AI爬虫",
+      "summary": "⚡ 月之暗面Kimi K3 2.8万亿参数开源模型发布引发全球芯片股暴跌，费城半导体指数进入熊市，英伟达被苹果反超失去全球市值第一；中科院发布ScienceOne Omni科学AI基础模型超越GPT-5.5；Patreon联合Cloudflare从网络层主动封杀AI训练爬虫。",
+      "tags": [
+        "科技新闻",
+        "Kimi K3",
+        "芯片股",
+        "AI安全",
+        "Cloudflare",
+        "中科院"
+      ],
+      "file": "posts/183-tech-roundup-kimi-k3-selloff-scienceone-patreon-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Tech Roundup: Kimi K3 Triggers 'DeepSeek 2.0' Global Chip Rout, CAS Unveils ScienceOne Omni, Patreon Blocks AI Crawlers",
+      "summary": "⚡ Moonshot AI's Kimi K3 2.8T open-source model triggers global chip stock rout — SOX enters bear market, Nvidia loses #1 market cap to Apple; Chinese Academy of Sciences unveils ScienceOne Omni AI surpassing GPT-5.5; Patreon partners with Cloudflare to actively block AI training crawlers.",
+      "tags": [
+        "Tech News",
+        "Kimi K3",
+        "Semiconductor",
+        "AI Safety",
+        "Cloudflare",
+        "AI Research"
+      ],
+      "file": "posts/183-tech-roundup-kimi-k3-selloff-scienceone-patreon-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "182",
     "date": "2026-07-18",
     "zh": {
