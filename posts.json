@@ -1,5 +1,21 @@
 [
   {
+    "id": "165",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日国际政治综述：美军空袭伊朗桥梁扩大至北部、乌克兰防长被解职引发全国抗议",
+      "summary": "⚡ 美军连续第六夜空袭伊朗，首次打击桥梁基础设施波及德黑兰附近；伊朗反击巴林科威特约旦美军基地，威胁封锁红海曼德海峡；乌克兰防长费多罗夫被解职引发基辅等地大规模抗议，空军副司令辞职抗议，泽连斯基面临执政以来最严重政治危机。",
+      "tags": ["国际政治", "美伊冲突", "美军空袭", "伊朗", "乌克兰", "泽连斯基", "抗议"],
+      "file": "posts/165-international-politics-roundup-us-iran-bridge-strikes-ukraine-fedorov-protests-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 International Politics: US Expands Airstrikes to Bridges in Iran, Ukraine Defense Minister Firing Sparks Nationwide Protests",
+      "summary": "⚡ US launches sixth consecutive night of strikes on Iran, hitting bridges and expanding near Tehran for the first time; Iran retaliates against US bases, threatens Red Sea closure via Houthis; Ukraine's Defense Minister Fedorov fired, sparking mass protests across 17 cities, deputy air force commander resigns.",
+      "tags": ["International Politics", "US-Iran", "Ukraine", "Zelenskyy", "Fedorov", "Strait of Hormuz", "Protests"],
+      "file": "posts/165-international-politics-roundup-us-iran-bridge-strikes-ukraine-fedorov-protests-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "164",
     "date": "2026-07-17",
     "zh": {
