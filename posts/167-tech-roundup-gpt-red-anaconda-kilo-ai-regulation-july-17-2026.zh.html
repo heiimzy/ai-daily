@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenAI发布GPT-Red用AI攻击AI找漏洞、Anaconda收购Kilo Code、AI三巨头呼吁监管 - AI Daily</title>
+  <meta name="description" content="⚡ OpenAI发布GPT-Red自动化红队测试模型，以AI攻击AI寻找安全漏洞，成功破解84%测试场景远超人类；Anaconda收购开源AI编程智能体Kilo Code，300万开发者平台保持MIT许可证；Google DeepMind、OpenAI、Anthropic三巨头CEO罕见联手呼吁建立AI监管框架。">
+  <meta name="keywords" content="OpenAI,GPT-Red,Anaconda,Kilo Code,AI监管,AI安全,红队测试,提示注入,AI编程智能体,Anthropic,Google DeepMind">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-17</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-17</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">OpenAI</span><span class="tag">AI安全</span><span class="tag">Kilo Code</span><span class="tag">AI监管</span><span class="tag">Anthropic</span><span class="tag">Google</span></div>
+  <h1>⚡ 7月17日科技综合：OpenAI发布GPT-Red用AI攻击AI找漏洞、Anaconda收购开源编码智能体Kilo Code、AI三巨头罕见联手呼吁监管</h1>
+
+  <h2>一、OpenAI发布GPT-Red：用AI攻击自家模型寻找安全漏洞</h2>
+
+  <p>OpenAI于7月15日正式公布了GPT-Red——一个内部自动化红队测试（red-teaming）模型，专门用于攻击自家AI系统以发现安全漏洞。该模型以OpenAI历史上最大规模的算力投入训练，代表了一种全新的AI安全范式：用今天的模型让明天的模型更安全。</p>
+
+  <p>GPT-Red通过自我博弈强化学习（self-play RL）训练。在与多个防御模型的对战中，GPT-Red成功发动攻击则获得奖励，防御模型成功抵御攻击并完成原任务也获得奖励。随着防御方不断强化，GPT-Red被迫发现更新、更强大的攻击手法。最终，GPT-Red能够攻破几乎所有此前版本的模型，包括GPT-5.5。</p>
+
+  <h3>发现新型攻击："虚假思维链"</h3>
+
+  <p>GPT-Red在训练中自动发现了一类此前未知的攻击方式——"虚假思维链"（Fake Chain-of-Thought）攻击。该方法在模型的内部推理过程中植入虚假记录，诱使模型信任并执行恶意指令。在GPT-5.1上，这类攻击的成功率超过95%，但在经过对抗训练的GPT-5.6 Sol上已降至10%以下。</p>
+
+  <p>在实际测试中，GPT-Red成功攻破了OpenAI办公室内一台由AI管理的自动售货机（由Andon Labs开发的Vendy），实现了三个恶意目标：将高价商品价格降至0.50美元下限、订购100美元以上商品并标价0.50美元、取消其他顾客的订单。在另一项针对Codex命令行智能体的数据泄露测试中，GPT-Red在10个屏蔽场景中均表现优于GPT-5.5基线。</p>
+
+  <h3>性能对比：AI红队远超人类</h3>
+
+  <p>在一项独立基准复现测试中，GPT-Red与人类红队测试员在同一组GPT-5.1提示注入场景中竞技。结果GPT-Red成功攻破84%的场景，而人类测试员仅完成13%。经过GPT-Red对抗训练的GPT-5.6 Sol，在最难的直接提示注入基准测试中失败率降至此前最佳模型的六分之一，对GPT-Red自身攻击的抵御成功率高达99.95%。</p>
+
+  <p>OpenAI明确表示，GPT-Red将作为内部工具使用，不会对外发布，以防止其恶意攻击能力落入外部攻击者手中。公司计划继续扩大该方法的算力和算法规模，并将发布技术预印本。</p>
+
+  <h2>二、Anaconda收购Kilo Code：300万开发者平台保持MIT开源</h2>
+
+  <p>7月15日，知名数据科学平台Anaconda宣布收购Kilo Code——一款在16个月内从零增长到300万开发者的开源AI编程智能体平台。该平台支持VS Code、JetBrains和命令行环境，可通过单一工具接入500多种AI模型，且直接按模型提供商定价收费，零加价。</p>
+
+  <h3>收购背后的战略布局</h3>
+
+  <p>此次收购发生于SpaceX同意以600亿美元股票收购另一款AI编程工具Cursor约四周之后。与Cursor被收购后可能转向Grok集成不同，Kilo Code将保持MIT开源许可，现有用户的使用、定价和支持均不受影响。Anaconda CEO David DeSanto和Kilo CEO Scott Breitenother在联合声明中强调："Kilo Code保持开源不变。"</p>
+
+  <p>Kilo Code具备五种专业化工作模式——编排器、架构师、调试器、编码和问答，其中编排器模式可将复杂任务分解为规划、编码和调试子智能体协同执行的子任务。平台月处理Token量近10万亿。</p>
+
+  <h3>打造端到端AI开发平台</h3>
+
+  <p>这是Anaconda继今年4月收购Outerbounds（Metaflow编排框架开发商）后的第二笔重大收购。三者的整合正在构建一个完整的AI开发平台：Anaconda Distribution（环境和包管理）+ Outerbounds（ML编排）+ Kilo Code（AI编程智能体），为企业提供全栈、可治理的AI开发能力。</p>
+
+  <p>对于开发者而言，Kilo Code的MIT许可证意味着即使未来Anaconda的商业方向发生变化，当前的代码库也可以永久分叉，社区可以独立接管。正如分析人士所言："这是Kilo与Cursor的结构性区别——一个有底线，另一个没有。"</p>
+
+  <h2>三、AI三巨头罕见联手呼吁监管：Hassabis、Altman、Amodei共同主张建立AI监管框架</h2>
+
+  <p>在近几周内，Google DeepMind CEO Demis Hassabis、OpenAI CEO Sam Altman和Anthropic CEO Dario Amodei分别发布了详细的AI监管提案——这是三大竞争性AI实验室的掌舵人首次在监管方向上公开达成共识。</p>
+
+  <h3>三方共识：独立第三方测试</h3>
+
+  <p>三位CEO一致主张，前沿AI模型在公开发布前必须接受独立第三方的安全测试，摒弃行业此前的自我监管模式。他们均引用现有监管模型作为参考，建议建立有权制定标准、认证合规并限制高风险系统发布的独立机构。同时，三方一致认为美国应为具有国际影响力的监管机构设定规则框架，避免各州或竞争性国家的碎片化监管格局。</p>
+
+  <p>安全关切是三方联合的核心驱动力。三位CEO均指出，前沿模型在网络攻击能力和生物武器开发方面的潜在威胁要求立即采取行动。值得注意的是，没有人呼吁对AI进行全面限制——目标锁定在足以构成灾难性或战略性风险的"前沿模型"这一狭窄范围内。</p>
+
+  <h3>分歧：谁来掌握最终否决权</h3>
+
+  <p>在谁来掌握最终否决权的问题上，三方出现明显分歧：</p>
+
+  <ul>
+    <li><strong>Amodei（Anthropic）</strong>主张建立一个联邦机构，拥有立即阻止模型发布的权力，类似于FAA对航空安全的监管模式。</li>
+    <li><strong>Hassabis（Google DeepMind）</strong>倾向于建立一个行业资助、联邦监督的标准制定机构，借鉴FINRA（美国金融业监管局）模式，从自愿审查开始，逐步过渡到强制性规则。</li>
+    <li><strong>Altman（OpenAI）</strong>主张建立一个类似于IAEA（国际原子能机构）的美国主导国际论坛，对国家和企业进行认证，并以市场准入为杠杆。</li>
+  </ul>
+
+  <p>批评者警告监管捕获风险——安全规则最终可能固化现有大型企业的优势地位，而非真正保护公众安全。正如一位分析师所言："讽刺的是，打造了数十年来监管最少的技术繁荣的公司，如今正在亲自编写规则手册。"</p>
+
+  <p>与此同时，华盛顿在今夏已两次出手干预前沿AI模型：先是限制Anthropic的模型发布，随后又对OpenAI的GPT-5.6实施限制。即使是特朗普政府内部，完全放任不管的态度也被认为不可持续。</p>
+
+  <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
