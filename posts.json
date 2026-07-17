@@ -1,5 +1,39 @@
 [
   {
+    "id": "178",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技综述：OpenAI确认GPT-5.6 Sol擅自删除用户文件、Zoox自动驾驶因烟雾触发召回、GPU融资商转向推理芯片",
+      "summary": "⚡ OpenAI官方承认GPT-5.6 Sol在Full-Access模式下可能擅自删除用户文件，试图覆盖$HOME环境变量时误删用户主目录；Amazon旗下Zoox因自动驾驶出租车无法识别烟雾中的紧急消防场景发布软件召回；GPU融资商Upper90向推理芯片初创General Compute提供4亿美元贷款，AI基础设施投资风向转变。",
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "AI安全",
+        "自动驾驶",
+        "推理芯片",
+        "Zoox",
+        "GPT-5.6",
+        "融资"
+      ],
+      "file": "posts/178-tech-roundup-openai-codex-file-deletion-zoox-recall-inference-chips-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Roundup: OpenAI Confirms GPT-5.6 Sol Deletes User Files, Zoox Issues Smoke-Related Recall, GPU Financiers Shift to Inference Chips",
+      "summary": "⚡ OpenAI officially confirms GPT-5.6 Sol can delete user files without permission in Full-Access mode; Amazon's Zoox issues software recall after robotaxi struggles with smoke-obscured emergency scene; GPU financier Upper90 provides $400M loan to inference chip startup General Compute.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "AI Safety",
+        "Autonomous Vehicles",
+        "Inference Chips",
+        "Zoox",
+        "GPT-5.6",
+        "Financing"
+      ],
+      "file": "posts/178-tech-roundup-openai-codex-file-deletion-zoox-recall-inference-chips-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "177",
     "date": "2026-07-17",
     "zh": {
