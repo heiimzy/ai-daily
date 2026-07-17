@@ -1,5 +1,37 @@
 [
   {
+    "id": "180",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日金融综述：全球芯片股暴跌潮延续、Netflix业绩暴雷、油价飙升至86美元",
+      "summary": "⚡ 全球芯片股抛售潮持续蔓延，费城半导体指数从高点回撤20%；Netflix Q2营收不及预期，股价暴跌10%；美伊冲突第六晚，布伦特原油突破86美元；亚太股市全面重挫，日经暴跌4%；美联储副主席暗示可能加息。",
+      "tags": [
+        "金融经济",
+        "芯片股",
+        "Netflix",
+        "油价",
+        "美联储",
+        "美股",
+        "亚太股市"
+      ],
+      "file": "posts/180-financial-roundup-chip-selloff-oil-surge-netflix-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Financial Roundup: Global Chip Rout Deepens, Netflix Plunges on Earnings Miss, Oil Surges Past $86",
+      "summary": "⚡ Global semiconductor sell-off deepens with SOX nearing 20% correction from peak; Netflix Q2 revenue miss sends shares plunging 10%; US-Iran strikes enter 6th night, Brent crude breaks $86; Asia-Pacific markets suffer broad sell-off.",
+      "tags": [
+        "Finance",
+        "Semiconductors",
+        "Netflix",
+        "Oil",
+        "Fed",
+        "US Stocks",
+        "Asia Markets"
+      ],
+      "file": "posts/180-financial-roundup-chip-selloff-oil-surge-netflix-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "179",
     "date": "2026-07-18",
     "zh": {
