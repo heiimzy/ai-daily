@@ -1,5 +1,35 @@
 [
   {
+    "id": "181",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日国际政治综述：美军连续第六夜空袭伊朗炸毁桥梁、伊朗报复打击多国美军基地、乌克兰防长被解职引发全国抗议",
+      "summary": "⚡ 美军连续第六夜空袭伊朗，首次打击民用基础设施炸毁6座桥梁致7死，伊朗大规模报复打击巴林科威特卡塔尔约旦叙利亚美军基地；乌克兰防长费多罗夫被解职引发全国大规模抗议；伯纳姆正式成为英国工党领袖将于周一接任首相；墨西哥危地马拉边境7.3级地震引发海啸预警。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东局势",
+        "乌克兰",
+        "英国政治",
+        "霍尔木兹海峡"
+      ],
+      "file": "posts/181-international-politics-us-iran-sixth-night-ukraine-fedorov-burnham-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 International Politics Roundup: US Widens Iran Strikes to Bridges, Iran Retaliates Across Gulf, Ukraine Protests Erupt",
+      "summary": "⚡ US strikes Iranian bridges for sixth consecutive night killing 7; Iran launches massive retaliatory strikes on US bases in Bahrain, Kuwait, Qatar, Jordan, Syria; Ukraine defense minister fired triggering nationwide protests; Andy Burnham becomes UK Labour leader; 7.3 quake hits Mexico-Guatemala border.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Middle East",
+        "Ukraine",
+        "UK Politics",
+        "Strait of Hormuz"
+      ],
+      "file": "posts/181-international-politics-us-iran-sixth-night-ukraine-fedorov-burnham-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "180",
     "date": "2026-07-18",
     "zh": {
