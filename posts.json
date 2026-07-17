@@ -1,5 +1,37 @@
 [
   {
+    "id": "182",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日科技综述：苹果向OpenAI 40名前员工发法律函、Anthropic与Meta洽百亿算力租约、Google NotebookLM改名Gemini Notebook、Intel 18A良率达85%",
+      "summary": "⚡ Apple向OpenAI约40名前员工发送法律保全函，诉讼全面升级；Anthropic与Meta洽谈两年100亿美元算力租赁协议；Google将NotebookLM更名为Gemini Notebook向Pro用户开放代码执行；Intel 18A工艺良率突破85%，首发High NA EUV量产芯片交付客户。",
+      "tags": [
+        "科技新闻",
+        "Apple",
+        "OpenAI",
+        "Anthropic",
+        "Meta",
+        "Google",
+        "Intel"
+      ],
+      "file": "posts/182-tech-roundup-apple-openai-lawsuit-anthropic-meta-compute-gemini-notebook-intel-18a-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Tech Roundup: Apple Widens Legal War on OpenAI, Anthropic-Meta 0B Compute Talks, Google Rebrands NotebookLM, Intel 18A Hits 85% Yield",
+      "summary": "⚡ Apple escalates lawsuit against OpenAI sending preservation letters to ~40 former employees; Anthropic negotiates 0B compute lease with Meta; Google rebrands NotebookLM to Gemini Notebook; Intel 18A reaches 85% yield with first High NA EUV chip shipment.",
+      "tags": [
+        "Tech News",
+        "Apple",
+        "OpenAI",
+        "Anthropic",
+        "Meta",
+        "Google",
+        "Intel"
+      ],
+      "file": "posts/182-tech-roundup-apple-openai-lawsuit-anthropic-meta-compute-gemini-notebook-intel-18a-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "181",
     "date": "2026-07-18",
     "zh": {
