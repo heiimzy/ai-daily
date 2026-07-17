@@ -1,5 +1,37 @@
 [
   {
+    "id": "185",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日国际政治综述：美军连续第七夜空袭伊朗、特朗普临时叫停「重大打击」计划、伊朗成立海峡管理局管制霍尔木兹",
+      "summary": "⚡ 美军连续第七夜空袭伊朗南部，CENTCOM证实新一轮打击；IRGC宣称摧毁巴林美军无人机仓库和AI中心；特朗普原计划19日发动重大打击，在卡塔尔沙特阿联酋请求下推迟；伊朗成立「波斯湾海峡管理局」对霍尔木兹海底光缆征收管理费；伊朗提议有条件将浓缩铀转移至俄罗斯；乌克兰无人机攻击亚速海8艘俄油轮。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东局势",
+        "霍尔木兹海峡",
+        "伊朗",
+        "乌克兰",
+        "特朗普"
+      ],
+      "file": "posts/185-international-politics-iran-seventh-night-hormuz-authority-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 International Politics Roundup: US Launches 7th Night of Iran Strikes, Trump Calls Off 'Major' Strike, Iran Establishes Hormuz Strait Authority",
+      "summary": "⚡ US launches seventh consecutive night of strikes on southern Iran; IRGC claims to destroy US drone depot and AI center in Bahrain; Trump reveals planned major strike for July 19 was postponed after Qatar, Saudi, UAE intervention; Iran establishes Persian Gulf Strait Authority; Iran proposes conditional uranium transfer to Russia; Ukraine strikes 8 Russian oil tankers.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Middle East",
+        "Strait of Hormuz",
+        "Iran",
+        "Ukraine",
+        "Trump"
+      ],
+      "file": "posts/185-international-politics-iran-seventh-night-hormuz-authority-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "184",
     "date": "2026-07-18",
     "zh": {
