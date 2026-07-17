@@ -1,5 +1,37 @@
 [
   {
+    "id": "184",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日金融综述：美股三大指数周线齐跌、黄金重返4000美元、比特币失守63000、美联储官员放鹰",
+      "summary": "⚡ 美股周五全线收跌，三大指数周线集体录得跌幅，道指跌406点纳指跌1.4%；黄金在通胀与地缘风险交织中重返4000美元上方；比特币跌破63000美元，AI恐慌蔓延至加密市场；美联储两位高官同日放鹰，Logan呼吁加息，9月加息概率升至50%；A股沪指失守3800点，超5000股飘绿。",
+      "tags": [
+        "金融经济",
+        "美股",
+        "黄金",
+        "比特币",
+        "美联储",
+        "加密货币",
+        "A股"
+      ],
+      "file": "posts/184-financial-roundup-wall-street-gold-bitcoin-fed-ashare-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Financial Roundup: Wall Street Ends Week Lower, Gold Returns Above $4,000, Bitcoin Breaks Below $63K, Fed Officials Turn Hawkish",
+      "summary": "⚡ All three major US indices close lower for the week — Dow drops 406 pts, Nasdaq falls 1.4%; Gold bounces back above $4,000 amid inflation and geopolitical crosscurrents; Bitcoin breaks below $63,000 as AI rout spills into crypto; Two Fed officials signal rate hike support, September odds rise to 50%; China's A-shares plunge with Shanghai Composite losing 3,800 level.",
+      "tags": [
+        "Finance",
+        "US Markets",
+        "Gold",
+        "Bitcoin",
+        "Federal Reserve",
+        "Crypto",
+        "A-Shares"
+      ],
+      "file": "posts/184-financial-roundup-wall-street-gold-bitcoin-fed-ashare-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "183",
     "date": "2026-07-18",
     "zh": {
