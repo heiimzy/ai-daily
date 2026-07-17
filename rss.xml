@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 17 Jul 2026 11:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 12:01:57 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月17日科技综合：OpenAI发布GPT-Red用AI攻击AI找漏洞、Anaconda收购开源编码智能体Kilo Code、AI三巨头罕见联手呼吁监管</title>
+      <link>https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html</link>
+      <description>⚡ OpenAI发布GPT-Red自动化红队测试模型，以AI攻击AI寻找安全漏洞，成功破解84%测试场景远超人类（13%）；Anaconda收购开源AI编程智能体Kilo Code，300万开发者平台保持MIT开源协议不变；Google DeepMind、OpenAI、Anthropic三巨头CEO罕见联手，共同主张建立独立第三方测试的前沿AI监管框架。</description>
+      <pubDate>Fri, 17 Jul 2026 12:01:57 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月17日AI产业午报：WAIC 2026今日上海盛大开幕、Anthropic秘密提交IPO招股书、腾讯云DeepSeek-V4最高降价97.5%</title>
       <link>https://ai-daily.cc.cd/posts/166-waic-2026-opens-anthropic-ipo-tencent-deepseek-july-17-2026.zh.html</link>
