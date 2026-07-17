@@ -1,5 +1,39 @@
 [
   {
+    "id": "186",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日科技综述：DeepMind研究员因五角大楼AI协议辞职万字抗争、蚂蚁Ring-Zero万亿参数模型自发涌现认知行为、印度首枚私人火箭今日首飞",
+      "summary": "⚡ Google DeepMind AI安全研究员Alex Turner因公司签署五角大楼AI协议辞职，万字长文揭露内部抗争经过；蚂蚁集团InclusionAI发布Ring-Zero万亿参数零标注强化学习论文，模型自发涌现自我验证、并行推理、上下文焦虑等五种认知行为；印度Skyroot Aerospace的Vikram-1火箭今日在斯里赫里戈达进行首次轨道发射。",
+      "tags": [
+        "科技新闻",
+        "AI伦理",
+        "Google DeepMind",
+        "五角大楼",
+        "蚂蚁集团",
+        "AI研究",
+        "航天",
+        "印度"
+      ],
+      "file": "posts/186-tech-roundup-deepmind-pentagon-ring-zero-vikram1-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Tech Roundup: DeepMind Researcher Quits Over Pentagon Deal, Ring-Zero Model's Emergent Behaviors at 1T Scale, India's First Private Orbital Rocket Set for Launch",
+      "summary": "⚡ Google DeepMind safety researcher Alex Turner resigns over Pentagon AI deal, publishing a detailed account of failed internal lobbying; Ant Group's InclusionAI reveals Ring-Zero — 1T-parameter zero-RL model spontaneously develops 5 cognitive behaviors including self-verification and context anxiety; India's Skyroot Aerospace launches Vikram-1, the nation's first private orbital rocket from Sriharikota.",
+      "tags": [
+        "Tech News",
+        "AI Ethics",
+        "Google DeepMind",
+        "Pentagon",
+        "AI Research",
+        "Ant Group",
+        "Space",
+        "India"
+      ],
+      "file": "posts/186-tech-roundup-deepmind-pentagon-ring-zero-vikram1-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "185",
     "date": "2026-07-18",
     "zh": {
