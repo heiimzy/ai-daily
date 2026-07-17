@@ -1,5 +1,21 @@
 [
   {
+    "id": "167",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技综合：OpenAI发布GPT-Red用AI攻击AI找漏洞、Anaconda收购开源编码智能体Kilo Code、AI三巨头罕见联手呼吁监管",
+      "summary": "⚡ OpenAI发布GPT-Red自动化红队测试模型，以AI攻击AI寻找安全漏洞，成功破解84%测试场景远超人类（13%）；Anaconda收购开源AI编程智能体Kilo Code，300万开发者平台保持MIT开源协议不变；Google DeepMind、OpenAI、Anthropic三巨头CEO罕见联手，共同主张建立独立第三方测试的前沿AI监管框架。",
+      "tags": ["科技新闻", "OpenAI", "AI安全", "Kilo Code", "AI监管", "Anthropic", "Google"],
+      "file": "posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Roundup: OpenAI Debuts GPT-Red AI Hacker, Anaconda Acquires Kilo Code, Big Three CEOs Unite on AI Regulation",
+      "summary": "⚡ OpenAI unveils GPT-Red automated red-teaming AI that cracks 84% of security scenarios vs 13% for humans; Anaconda acquires open-source AI coding agent Kilo Code, keeps MIT license; Hassabis, Altman, and Amodei jointly push for independent third-party testing of frontier AI models.",
+      "tags": ["Tech News", "OpenAI", "AI Safety", "Kilo Code", "AI Regulation", "Anthropic", "Google"],
+      "file": "posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "166",
     "date": "2026-07-17",
     "zh": {
