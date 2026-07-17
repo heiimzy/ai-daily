@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenAI Debuts GPT-Red AI Hacker, Anaconda Acquires Kilo Code, Big Three CEOs Unite on AI Regulation - AI Daily</title>
+  <meta name="description" content="⚡ OpenAI unveils GPT-Red, an automated red-teaming AI that finds vulnerabilities by attacking its own models — cracking 84% of scenarios vs 13% for humans; Anaconda acquires open-source AI coding agent Kilo Code used by 3M developers, keeps MIT license; Hassabis, Altman, and Amodei jointly push for independent third-party testing of frontier AI models.">
+  <meta name="keywords" content="OpenAI,GPT-Red,Anaconda,Kilo Code,AI regulation,AI safety,red-teaming,prompt injection,AI coding agent,Anthropic,Google DeepMind">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-17</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-17</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">OpenAI</span><span class="tag">AI Safety</span><span class="tag">Kilo Code</span><span class="tag">AI Regulation</span><span class="tag">Anthropic</span><span class="tag">Google</span></div>
+  <h1>⚡ July 17 Tech Roundup: OpenAI Debuts GPT-Red AI That Hacks Its Own Models, Anaconda Acquires Open-Source Kilo Code, Big Three CEOs Unite on AI Regulation</h1>
+
+  <h2>1. OpenAI Unveils GPT-Red: An AI That Attacks Its Own Models to Find Security Flaws</h2>
+
+  <p>On July 15, OpenAI officially unveiled GPT-Red — an internal automated red-teaming model designed specifically to attack its own AI systems and uncover vulnerabilities before deployment. Trained with what OpenAI describes as "an unprecedented amount of compute dedicated purely for improving safety," GPT-Red represents a new paradigm in AI security: using today's models to make tomorrow's safer.</p>
+
+  <p>GPT-Red is trained through self-play reinforcement learning. In a simulated "dojo," it squares off against a squad of defender models — GPT-Red earns rewards for successful attacks, while defenders are rewarded for resisting and completing their original tasks. As defenses harden, GPT-Red is forced to discover increasingly sophisticated attack methods. The result: GPT-Red can compromise nearly every model it faces, up to and including GPT-5.5.</p>
+
+  <h3>Novel Attack Discovery: Fake Chain-of-Thought</h3>
+
+  <p>During training, GPT-Red autonomously discovered a previously unknown attack class — "Fake Chain-of-Thought" (Fake CoT) attacks. The method plants fabricated entries in a model's internal reasoning trace, tricking it into trusting and acting on malicious instructions. Against GPT-5.1, these attacks succeeded more than 95% of the time. After adversarial training with GPT-Red, the success rate on GPT-5.6 Sol has dropped below 10%.</p>
+
+  <p>In real-world testing, GPT-Red successfully hacked Vendy, an AI-managed vending machine in OpenAI's office built by Andon Labs. It achieved all three objectives: reducing an expensive item's price to the $0.50 floor, ordering a $100+ item at $0.50, and canceling another customer's order. In a separate test against a Codex CLI agent across 10 held-out data exfiltration scenarios, GPT-Red outperformed a prompted GPT-5.5 baseline in both success rate and token efficiency.</p>
+
+  <h3>AI Red-Teamer vs. Humans: 84% vs. 13%</h3>
+
+  <p>In a replicated benchmark from an independent evaluation, GPT-Red and human red-teamers were pitted against GPT-5.1 on the same set of prompt injection scenarios. GPT-Red succeeded on 84% of scenarios — compared to just 13% for human testers. After adversarial training powered by GPT-Red, GPT-5.6 Sol achieves six times fewer failures on OpenAI's hardest direct prompt injection benchmark than the best model from just four months prior, and resists 99.95% of GPT-Red's own direct prompt injection attempts.</p>
+
+  <p>OpenAI emphasized that GPT-Red will remain an internal tool and will not be released publicly, to prevent its attack capabilities from reaching malicious actors. The company plans to continue scaling compute and making algorithmic improvements, with a technical pre-print expected later this week.</p>
+
+  <h2>2. Anaconda Acquires Kilo Code: 3M-Developer Open-Source AI Coding Platform Stays MIT-Licensed</h2>
+
+  <p>On July 15, data science platform Anaconda announced the acquisition of Kilo Code — an open-source AI coding agent platform that grew from zero to 3 million developers in just 16 months. Supporting VS Code, JetBrains, and CLI environments, Kilo provides access to 500+ AI models through a single tool, charging provider-direct rates with zero markup.</p>
+
+  <h3>Strategic Timing</h3>
+
+  <p>The acquisition lands roughly four weeks after SpaceX agreed to acquire rival AI coding tool Cursor for $60 billion in stock. Unlike Cursor's shift toward Grok integration under SpaceX/xAI, Kilo Code will remain MIT-licensed with no changes to existing products, pricing, or support. Anaconda CEO David DeSanto and Kilo CEO Scott Breitenother jointly stated: "Kilo Code stays open source."</p>
+
+  <p>Kilo Code features five specialized modes — Orchestrator, Architect, Debug, Code, and Ask — with the Orchestrator mode breaking complex tasks into coordinated subtasks across planner, coder, and debugger sub-agents. The platform processes nearly 10 trillion tokens per month.</p>
+
+  <h3>Building an End-to-End AI Development Platform</h3>
+
+  <p>This is Anaconda's second major acquisition of 2026, following the April purchase of Outerbounds (creator of the Metaflow orchestration framework). The three components form a complete AI development stack: Anaconda Distribution (environment and package management) + Outerbounds (ML orchestration) + Kilo Code (AI coding agent) — delivering governed, enterprise-grade AI development capabilities.</p>
+
+  <p>The MIT license provides a crucial structural guarantee: even if Anaconda's commercial direction shifts, the current codebase is permanently forkable, allowing the community to maintain it independently. As one analyst noted: "That's the structural difference between Kilo and Cursor — one has a floor, the other doesn't."</p>
+
+  <h2>3. AI's Big Three CEOs Unite: Rare Consensus on Frontier AI Regulation</h2>
+
+  <p>In recent weeks, Google DeepMind CEO Demis Hassabis, OpenAI CEO Sam Altman, and Anthropic CEO Dario Amodei have each published detailed AI regulatory frameworks — marking the first time the leaders of three rival frontier AI labs have publicly converged on the same core diagnosis and remarkably similar solutions.</p>
+
+  <h3>Areas of Agreement: Independent Third-Party Testing</h3>
+
+  <p>All three CEOs agree that frontier AI models must undergo independent third-party safety testing before public release — a departure from the industry's existing self-policing model. They cite legacy regulatory models and propose creating independent bodies with power to set standards, certify compliance, and restrict access to systems deemed too risky. All three also agree that the U.S. should lead in establishing an international regulatory framework to avoid a fragmented patchwork of state-level or competing national rules.</p>
+
+  <p>Security concerns are the unifying driver. Each CEO points to imminent vulnerabilities in cyber capabilities and bioweapon development as grounds for swift action. Notably, none is calling for broad AI restrictions — the target is the narrow slice of frontier models powerful enough to pose catastrophic or strategic risk.</p>
+
+  <h3>Where They Diverge: Who Holds the Final Veto</h3>
+
+  <p>The fault lines emerge over who holds the ultimate authority:</p>
+
+  <ul>
+    <li><strong>Amodei (Anthropic)</strong> wants a federal agency with immediate power to block a model's release — an FAA-style model for AI safety.</li>
+    <li><strong>Hassabis (Google DeepMind)</strong> prefers an industry-funded, federally overseen standards body modeled on FINRA (the financial industry regulator), starting with voluntary reviews that could harden into mandatory rules over time.</li>
+    <li><strong>Altman (OpenAI)</strong> advocates for a U.S.-led international forum similar to the IAEA (International Atomic Energy Agency), certifying countries and companies while using market access as leverage.</li>
+  </ul>
+
+  <p>Critics warn of regulatory capture — safety rules that end up entrenching the largest players rather than protecting the public. As James Rodriguez wrote: "The irony is sharp: the companies that built the least regulated technology boom in decades are now writing the rulebook themselves."</p>
+
+  <p>Meanwhile, Washington has already intervened twice this summer to restrict or delay frontier AI models — first limiting Anthropic's models, then restricting OpenAI's GPT-5.6. Even within the Trump administration, there is growing recognition that a completely hands-off approach is untenable.</p>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
