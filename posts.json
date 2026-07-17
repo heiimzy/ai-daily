@@ -1,5 +1,21 @@
 [
   {
+    "id": "172",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日金融晚报：摩根大通警告去杠杆远未结束、亚太科技股黑色星期五暴跌、黄金失守4000美元大关",
+      "summary": "⚡ 摩根大通发布重磅报告警告美股去杠杆进程远未结束，杠杆ETF资产缩水13%，纳指可能跌至25000点；亚太科技股遭遇黑色星期五——日经暴跌3.45%、SoftBank狂泻9%、铠侠崩跌16%、台积电重挫7.29%；黄金失守4000美元大关创两周新低；标普等权重指数却创历史新高，板块轮动加速。",
+      "tags": ["金融经济", "摩根大通", "日经指数", "黄金", "板块轮动", "去杠杆", "台积电"],
+      "file": "posts/172-july-17-financial-evening-jpmorgan-asia-selloff-gold-below-4000.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Financial Evening: JPMorgan Warns Deleveraging Not Over, Asia Tech 'Black Friday' Bloodbath, Gold Crashes Below $4,000",
+      "summary": "⚡ JPMorgan warns US stock deleveraging is far from as leveraged ETF assets shrink 13%, Nasdaq could fall to 25,000; Asia-Pacific stocks suffer Black Friday — Nikkei plunges 3.45%, SoftBank crashes 9%, Kioxia nosedives 16%, TSMC slides 7.29%; Gold crashes below $4,000 for first time in two weeks; S&P Equal Weight hits all-time high as sector rotation accelerates.",
+      "tags": ["Financial", "JPMorgan", "Nikkei", "Gold", "Sector Rotation", "Deleveraging", "TSMC"],
+      "file": "posts/172-july-17-financial-evening-jpmorgan-asia-selloff-gold-below-4000.en.html"
+    }
+  },
+  {
     "id": "171",
     "date": "2026-07-17",
     "zh": {
