@@ -1,5 +1,41 @@
 [
   {
+    "id": "177",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日国际政治晚报：伊朗15轮反击轰炸卡塔尔美军基地、科威特电厂被毁首次断电、伊朗首炸叙利亚美军、胡塞待命封锁红海",
+      "summary": "⚡ 伊朗IRGC第15轮“闪电行动”打击卡塔尔乌代德空军基地，摧毁美军远程雷达和空中加油机；科威特发电和海水淡化设施遭伊朗导弹击中引发大火，大量发电机组受损；伊朗首次在冲突中直接打击叙利亚境内目标——袭击美军坦夫基地；伊朗要求胡塞武装待命封锁曼德海峡，中东两大石油通道面临同时关闭；伊朗卫生部公布最新冲突伤亡数据：38人死亡超400人受伤；特朗普称美国“大获全胜”，白宫表示仍对外交敞开大门；布伦特原油单周暴涨近13%。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "IRGC",
+        "卡塔尔",
+        "科威特",
+        "叙利亚",
+        "胡塞武装",
+        "曼德海峡",
+        "原油"
+      ],
+      "file": "posts/177-international-politics-iran-al-udeid-kuwait-power-syria-strike-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 International Politics Evening: Iran's 15-Wave Retaliation Hits Qatar's Al Udeid Base, Kuwait Power Plant Destroyed, Iran Strikes Syria for First Time, Houthis Poised to Block Red Sea",
+      "summary": "⚡ Iran's IRGC launches 15th wave of 'Operation Lightning' striking Qatar's Al Udeid Air Base, destroying long-range radar and refueling aircraft; Iranian missiles hit Kuwait power and desalination plant, igniting massive fire and damaging generation units; Iran strikes US base at al-Tanf in Syria for the first time in this conflict; Tehran instructs Houthis to prepare to close Bab al-Mandeb Strait; Iran reports 38 dead, over 400 wounded since June 22; Trump declares US 'winning big' while White House leaves door open to diplomacy; Brent crude surges nearly 13% this week.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "IRGC",
+        "Qatar",
+        "Kuwait",
+        "Syria",
+        "Houthis",
+        "Bab al-Mandeb",
+        "Crude Oil"
+      ],
+      "file": "posts/177-international-politics-iran-al-udeid-kuwait-power-syria-strike-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "176",
     "date": "2026-07-17",
     "zh": {
