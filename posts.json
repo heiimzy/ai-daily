@@ -1,5 +1,21 @@
 [
   {
+    "id": "171",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ WAIC 2026今日上海盛大开幕：习近平出席致辞，300余款产品全球首发，AI智能体手机与华为超节点争相亮相",
+      "summary": "⚡ 2026世界人工智能大会今日在上海三地四馆同步开幕，习近平首次出席开幕式并发表主旨演讲，强调AI发展应成为全球合作协奏；华为Atlas 950 SuperPod 8192卡AI超节点真机首秀；努比亚联合字节跳动发布全球首款AI智能体手机NaviX Ultra；阶跃星辰STEPX Neo获国内首个L3终端智能认证；智元远征A3 Ultra人形机器人实现商业化部署。",
+      "tags": ["科技新闻", "WAIC", "习近平", "华为", "AI智能体", "人形机器人", "AI治理"],
+      "file": "posts/171-waic-2026-opens-xi-speech-atlas-950-agent-phone-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ WAIC 2026 Opens in Shanghai: Xi Jinping Calls for Global AI Cooperation, AI Agent Phone and Huawei Atlas 950 SuperPod Steal the Show",
+      "summary": "⚡ WAIC 2026 opens in Shanghai with President Xi Jinping delivering his first-ever keynote, calling AI development a 'symphony of global cooperation'; Huawei unveils Atlas 950 SuperPod 8,192-card AI supercluster; Nubia and ByteDance launch world's first AI agent phone NaviX Ultra; StepFun earns China's first L3 terminal AI certification; Zhiyuan A3 Ultra humanoid robot achieves commercial deployment.",
+      "tags": ["Tech News", "WAIC", "Xi Jinping", "Huawei", "AI Agent", "Humanoid Robot", "AI Governance"],
+      "file": "posts/171-waic-2026-opens-xi-speech-atlas-950-agent-phone-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "170",
     "date": "2026-07-17",
     "zh": {
