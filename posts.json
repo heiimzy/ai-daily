@@ -1,17 +1,65 @@
 [
   {
+    "id": "175",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 日本与英伟达共建全球首个国家级物理AI基础设施：27,500颗Rubin GPU、6.2亿美元主权AI押注",
+      "summary": "⚡ 日本经济产业省与英伟达联合宣布建设全球首个国家级物理AI基础设施——Noetra AI工厂配备27,500颗Rubin GPU，五年政府投入最高1万亿日元（约62亿美元），索尼、软银、NEC、本田等44家日本龙头联合组建Noetra运营，目标2040年占据全球AI机器人市场30%以上份额。",
+      "tags": [
+        "科技新闻",
+        "英伟达",
+        "日本",
+        "AI基础设施",
+        "物理AI",
+        "机器人",
+        "主权AI"
+      ],
+      "file": "posts/175-japan-nvidia-noetra-frontia-ai-factory-physical-ai-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Japan & NVIDIA Launch World's First National Physical AI Infrastructure: 27,500 Rubin GPUs, $6.2B Sovereign AI Bet",
+      "summary": "⚡ Japan's METI and NVIDIA announce the world's first national physical AI infrastructure — a 140MW Noetra AI factory with 27,500 Rubin GPUs and 13,750 Vera CPUs, backed by ¥1 trillion ($6.2B) government investment. Sony, SoftBank, NEC, Honda lead 44-company consortium targeting 30%+ of global AI robotics market by 2040.",
+      "tags": [
+        "Tech News",
+        "NVIDIA",
+        "Japan",
+        "AI Infrastructure",
+        "Physical AI",
+        "Robotics",
+        "Sovereign AI"
+      ],
+      "file": "posts/175-japan-nvidia-noetra-frontia-ai-factory-physical-ai-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "174",
     "date": "2026-07-17",
     "zh": {
       "title": "⚡ 7月17日科技双响：全球首例商用脑机接口植入让瘫痪患者重获希望、德国裁定AI搜索为\"媒体内容发布者\"",
       "summary": "⚡ 上海华山医院成功完成全球首例商用脑机接口NEO植入手术，瘫痪10年患者术后信号稳定，硬币大小芯片将思维转化为手部动作；德国媒体监管机构ZAK裁定Google AI Overviews和Perplexity AI为内容发布者，不能享有欧盟DSA平台责任豁免，或重塑全球AI搜索监管格局。",
-      "tags": ["科技新闻", "脑机接口", "AI监管", "BCI", "德国", "数字服务法", "AI搜索"],
+      "tags": [
+        "科技新闻",
+        "脑机接口",
+        "AI监管",
+        "BCI",
+        "德国",
+        "数字服务法",
+        "AI搜索"
+      ],
       "file": "posts/174-tech-double-bci-implant-germany-ai-search-ruling-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Tech Double: World's First Commercial BCI Implant Restores Hope, Germany Rules AI Search is a 'Publisher'",
       "summary": "⚡ Shanghai Huashan Hospital completes world's first commercial BCI implant — paralyzed patient's brain signals stable, coin-sized chip turns thoughts into hand movement; Germany's ZAK rules Google AI Overviews and Perplexity AI are content publishers, stripping EU DSA liability shield in a landmark decision that could reshape global AI search regulation.",
-      "tags": ["Tech News", "BCI", "AI Regulation", "Neural Implant", "Germany", "Digital Services Act", "AI Search"],
+      "tags": [
+        "Tech News",
+        "BCI",
+        "AI Regulation",
+        "Neural Implant",
+        "Germany",
+        "Digital Services Act",
+        "AI Search"
+      ],
       "file": "posts/174-tech-double-bci-implant-germany-ai-search-ruling-july-17-2026.en.html"
     }
   },
@@ -21,13 +69,31 @@
     "zh": {
       "title": "⚡ 7月17日国际政治晚报：美军连续第六夜空袭伊朗首炸桥梁致7死，恰赫巴哈尔港控制塔倒塌，伊朗首次打击叙利亚美军基地，中巴联合呼吁停火",
       "summary": "⚡ 美军连续第六晚对伊朗发动大规模空袭，首次打击桥梁基础设施致7人死亡，恰赫巴哈尔港控制塔倒塌；伊朗大规模报复——首次袭击叙利亚美军基地、科威特发电厂受损、卡塔尔儿童受伤；中国与巴基斯坦联合呼吁立即停火恢复谈判；伊朗公布最新伤亡数据38人死亡400余人受伤；霍尔木兹海峡航运几近瘫痪仅3艘船通过。",
-      "tags": ["国际政治", "美伊战争", "美军空袭", "伊朗", "霍尔木兹海峡", "叙利亚", "中巴联合", "乌克兰"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "美军空袭",
+        "伊朗",
+        "霍尔木兹海峡",
+        "叙利亚",
+        "中巴联合",
+        "乌克兰"
+      ],
       "file": "posts/173-international-politics-us-iran-bridge-strikes-china-pakistan-ceasefire-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 International Politics Evening: US Hits Bridges for First Time in 6th Night of Iran Strikes, Chabahar Tower Collapses, Iran Strikes US Base in Syria, China & Pakistan Call for Ceasefire",
       "summary": "⚡ US launches sixth consecutive night of massive airstrikes on Iran, hitting bridges for the first time killing 7, Chabahar port surveillance tower collapses; Iran retaliates on unprecedented scale — first direct strike on US base in Syria, Kuwait power plant damaged, child injured in Qatar; China and Pakistan jointly call for immediate ceasefire; Iran reports 38 dead, over 400 wounded; Hormuz shipping nearly paralyzed with only 3 ships passing.",
-      "tags": ["International Politics", "US-Iran War", "Airstrikes", "Iran", "Strait of Hormuz", "Syria", "China-Pakistan", "Ukraine"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Airstrikes",
+        "Iran",
+        "Strait of Hormuz",
+        "Syria",
+        "China-Pakistan",
+        "Ukraine"
+      ],
       "file": "posts/173-international-politics-us-iran-bridge-strikes-china-pakistan-ceasefire-july-17-2026.en.html"
     }
   },
@@ -37,13 +103,29 @@
     "zh": {
       "title": "⚡ 7月17日金融晚报：摩根大通警告去杠杆远未结束、亚太科技股黑色星期五暴跌、黄金失守4000美元大关",
       "summary": "⚡ 摩根大通发布重磅报告警告美股去杠杆进程远未结束，杠杆ETF资产缩水13%，纳指可能跌至25000点；亚太科技股遭遇黑色星期五——日经暴跌3.45%、SoftBank狂泻9%、铠侠崩跌16%、台积电重挫7.29%；黄金失守4000美元大关创两周新低；标普等权重指数却创历史新高，板块轮动加速。",
-      "tags": ["金融经济", "摩根大通", "日经指数", "黄金", "板块轮动", "去杠杆", "台积电"],
+      "tags": [
+        "金融经济",
+        "摩根大通",
+        "日经指数",
+        "黄金",
+        "板块轮动",
+        "去杠杆",
+        "台积电"
+      ],
       "file": "posts/172-july-17-financial-evening-jpmorgan-asia-selloff-gold-below-4000.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Financial Evening: JPMorgan Warns Deleveraging Not Over, Asia Tech 'Black Friday' Bloodbath, Gold Crashes Below $4,000",
       "summary": "⚡ JPMorgan warns US stock deleveraging is far from as leveraged ETF assets shrink 13%, Nasdaq could fall to 25,000; Asia-Pacific stocks suffer Black Friday — Nikkei plunges 3.45%, SoftBank crashes 9%, Kioxia nosedives 16%, TSMC slides 7.29%; Gold crashes below $4,000 for first time in two weeks; S&P Equal Weight hits all-time high as sector rotation accelerates.",
-      "tags": ["Financial", "JPMorgan", "Nikkei", "Gold", "Sector Rotation", "Deleveraging", "TSMC"],
+      "tags": [
+        "Financial",
+        "JPMorgan",
+        "Nikkei",
+        "Gold",
+        "Sector Rotation",
+        "Deleveraging",
+        "TSMC"
+      ],
       "file": "posts/172-july-17-financial-evening-jpmorgan-asia-selloff-gold-below-4000.en.html"
     }
   },
@@ -53,13 +135,29 @@
     "zh": {
       "title": "⚡ WAIC 2026今日上海盛大开幕：习近平出席致辞，300余款产品全球首发，AI智能体手机与华为超节点争相亮相",
       "summary": "⚡ 2026世界人工智能大会今日在上海三地四馆同步开幕，习近平首次出席开幕式并发表主旨演讲，强调AI发展应成为全球合作协奏；华为Atlas 950 SuperPod 8192卡AI超节点真机首秀；努比亚联合字节跳动发布全球首款AI智能体手机NaviX Ultra；阶跃星辰STEPX Neo获国内首个L3终端智能认证；智元远征A3 Ultra人形机器人实现商业化部署。",
-      "tags": ["科技新闻", "WAIC", "习近平", "华为", "AI智能体", "人形机器人", "AI治理"],
+      "tags": [
+        "科技新闻",
+        "WAIC",
+        "习近平",
+        "华为",
+        "AI智能体",
+        "人形机器人",
+        "AI治理"
+      ],
       "file": "posts/171-waic-2026-opens-xi-speech-atlas-950-agent-phone-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ WAIC 2026 Opens in Shanghai: Xi Jinping Calls for Global AI Cooperation, AI Agent Phone and Huawei Atlas 950 SuperPod Steal the Show",
       "summary": "⚡ WAIC 2026 opens in Shanghai with President Xi Jinping delivering his first-ever keynote, calling AI development a 'symphony of global cooperation'; Huawei unveils Atlas 950 SuperPod 8,192-card AI supercluster; Nubia and ByteDance launch world's first AI agent phone NaviX Ultra; StepFun earns China's first L3 terminal AI certification; Zhiyuan A3 Ultra humanoid robot achieves commercial deployment.",
-      "tags": ["Tech News", "WAIC", "Xi Jinping", "Huawei", "AI Agent", "Humanoid Robot", "AI Governance"],
+      "tags": [
+        "Tech News",
+        "WAIC",
+        "Xi Jinping",
+        "Huawei",
+        "AI Agent",
+        "Humanoid Robot",
+        "AI Governance"
+      ],
       "file": "posts/171-waic-2026-opens-xi-speech-atlas-950-agent-phone-july-17-2026.en.html"
     }
   },
@@ -69,13 +167,29 @@
     "zh": {
       "title": "⚡ 7月17日科技综述：台积电Q2净利润暴增77%至220亿美元创历史新高，全球芯片股闻讯暴跌，AI供需矛盾激化",
       "summary": "⚡ 台积电Q2营收402亿美元，净利润飙升77.4%至220亿美元创历史新高，全年增长展望上调至40%以上，追加1000亿美元投资亚利桑那；英伟达、AMD、美光等全线下挫，费城半导体指数重挫4%，韩国Kospi暴跌6.4%；魏哲家提出AI智能体将重塑CPU需求格局；全球内存危机蔓延，DRAM交期延至40周以上，SK海力士CEO警告2027年供应将最严峻；黄仁勋东京之行宣布日本44家企业联合打造主权AI。",
-      "tags": ["半导体", "台积电", "AI芯片", "芯片股", "英伟达", "存储芯片", "AI智能体"],
+      "tags": [
+        "半导体",
+        "台积电",
+        "AI芯片",
+        "芯片股",
+        "英伟达",
+        "存储芯片",
+        "AI智能体"
+      ],
       "file": "posts/170-tsmc-record-q2-ai-chip-boom-market-selloff-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Tech: TSMC Posts Record $22B Profit as AI Demand Surges, Yet Global Chip Stocks Routed",
       "summary": "⚡ TSMC Q2 revenue hit $40.2B with net profit surging 77% to record $22B, FY growth raised to over 40%, $100B additional Arizona investment announced; Yet global semiconductor stocks plunged — Philly Semi Index crashes 4%, Kospi tumbles 6.4% as valuation fears outweigh record earnings; CEO Wei says agentic AI is reshaping CPU demand; Memory crisis deepens with 40+ week DRAM lead times; Jensen Huang in Tokyo announces 44-company Japan sovereign AI consortium.",
-      "tags": ["Semiconductor", "TSMC", "AI Chips", "Stock Market", "Nvidia", "Memory", "Agentic AI"],
+      "tags": [
+        "Semiconductor",
+        "TSMC",
+        "AI Chips",
+        "Stock Market",
+        "Nvidia",
+        "Memory",
+        "Agentic AI"
+      ],
       "file": "posts/170-tsmc-record-q2-ai-chip-boom-market-selloff-july-17-2026.en.html"
     }
   },
@@ -85,13 +199,31 @@
     "zh": {
       "title": "⚡ 7月17日国际政治午报：伯纳姆今日正式成为英国工党领袖将接任首相、乌克兰议会批准新总理抗议持续、卡塔尔首遭伊朗导弹袭击、万斯公开指责以色列干预美伊谈判",
       "summary": "⚡ 伯纳姆今日在伦敦工党特别大会上正式当选领袖，7月20日将接替斯塔默出任英国首相，承诺扭转撒切尔经济遗产；乌克兰防长费多罗夫被解职引发全国至少15城抗议，议会批准能源高管科列茨基为新总理，俄军连夜8枚弹道导弹袭击基辅致2死6伤；卡塔尔首次遭伊朗直接导弹袭击一名儿童受伤；美伊第六夜空袭持续，美军炸毁伊朗5座桥梁致7死；万斯公开指责以色列政府内部势力操纵美国舆论破坏美伊谈判。",
-      "tags": ["国际政治", "英国", "伯纳姆", "乌克兰", "泽连斯基", "美伊冲突", "卡塔尔", "万斯"],
+      "tags": [
+        "国际政治",
+        "英国",
+        "伯纳姆",
+        "乌克兰",
+        "泽连斯基",
+        "美伊冲突",
+        "卡塔尔",
+        "万斯"
+      ],
       "file": "posts/169-international-politics-roundup-burnham-pm-ukraine-protests-qatar-iran-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 International Politics: Burnham Becomes UK Labour Leader, Ukraine Approves New PM as Protests Rage, Qatar Hit by Iranian Missiles for First Time, Vance Accuses Israel of Interference",
       "summary": "⚡ Andy Burnham elected UK Labour leader today at special London conference, to become Prime Minister on July 20 vowing to reverse Thatcher's economic legacy; Ukraine parliament approves new PM as nationwide protests over Fedorov's firing spread to 15 cities, Russia strikes Kyiv with 8 ballistic missiles killing 2; Qatar suffers first direct Iranian missile attack, child injured; US sixth night of strikes destroys 5 bridges in Iran killing 7; VP Vance publicly accuses Israeli government elements of manipulating US opinion to prolong Iran war.",
-      "tags": ["International Politics", "UK", "Andy Burnham", "Ukraine", "Zelenskyy", "US-Iran", "Qatar", "Vance"],
+      "tags": [
+        "International Politics",
+        "UK",
+        "Andy Burnham",
+        "Ukraine",
+        "Zelenskyy",
+        "US-Iran",
+        "Qatar",
+        "Vance"
+      ],
       "file": "posts/169-international-politics-roundup-burnham-pm-ukraine-protests-qatar-iran-july-17-2026.en.html"
     }
   },
@@ -101,13 +233,29 @@
     "zh": {
       "title": "⚡ 7月17日金融午报：特朗普指控中国干预大选全球市场震荡、港股恒指失守25000点、日经暴跌3.9%",
       "summary": "⚡ 特朗普周四晚发表全国讲话，公布解密情报文件指控中国干预2020大选，中国使馆坚决否认，全球市场震荡；港股午盘恒指跌1.98%失守25000点，科指暴跌4.04%；日经指数重挫3.9%，铠侠暴跌16%进入技术性熊市；A股三大指数集体低开，芯片股持续下挫；中东局势持续升级，伊朗威胁摧毁区域全部基础设施，布伦特原油反弹至85.35美元。",
-      "tags": ["金融经济", "特朗普", "港股", "日经", "芯片股", "原油", "Netflix"],
+      "tags": [
+        "金融经济",
+        "特朗普",
+        "港股",
+        "日经",
+        "芯片股",
+        "原油",
+        "Netflix"
+      ],
       "file": "posts/168-financial-roundup-trump-china-speech-asia-selloff-oil-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Financial Midday: Trump China Allegations Rock Markets, Hang Seng Loses 25000, Nikkei Plunges 3.9%",
       "summary": "⚡ Trump declassifies China election interference intel, rattling markets; Hang Seng Index falls 1.98% losing 25000 level, Tech Index plunges 4.04%; Nikkei crashes 3.9%, Kioxia sinks 16% entering bear market; A-shares open lower on chip stock rout; Iran threatens to crush regional infrastructure, Brent rebounds to $85.35; Netflix tumbles 9% after hours on growth concerns.",
-      "tags": ["Financial", "Trump", "China", "Hang Seng", "Nikkei", "Oil", "Netflix"],
+      "tags": [
+        "Financial",
+        "Trump",
+        "China",
+        "Hang Seng",
+        "Nikkei",
+        "Oil",
+        "Netflix"
+      ],
       "file": "posts/168-financial-roundup-trump-china-speech-asia-selloff-oil-july-17-2026.en.html"
     }
   },
@@ -117,13 +265,29 @@
     "zh": {
       "title": "⚡ 7月17日科技综合：OpenAI发布GPT-Red用AI攻击AI找漏洞、Anaconda收购开源编码智能体Kilo Code、AI三巨头罕见联手呼吁监管",
       "summary": "⚡ OpenAI发布GPT-Red自动化红队测试模型，以AI攻击AI寻找安全漏洞，成功破解84%测试场景远超人类（13%）；Anaconda收购开源AI编程智能体Kilo Code，300万开发者平台保持MIT开源协议不变；Google DeepMind、OpenAI、Anthropic三巨头CEO罕见联手，共同主张建立独立第三方测试的前沿AI监管框架。",
-      "tags": ["科技新闻", "OpenAI", "AI安全", "Kilo Code", "AI监管", "Anthropic", "Google"],
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "AI安全",
+        "Kilo Code",
+        "AI监管",
+        "Anthropic",
+        "Google"
+      ],
       "file": "posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Tech Roundup: OpenAI Debuts GPT-Red AI Hacker, Anaconda Acquires Kilo Code, Big Three CEOs Unite on AI Regulation",
       "summary": "⚡ OpenAI unveils GPT-Red automated red-teaming AI that cracks 84% of security scenarios vs 13% for humans; Anaconda acquires open-source AI coding agent Kilo Code, keeps MIT license; Hassabis, Altman, and Amodei jointly push for independent third-party testing of frontier AI models.",
-      "tags": ["Tech News", "OpenAI", "AI Safety", "Kilo Code", "AI Regulation", "Anthropic", "Google"],
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "AI Safety",
+        "Kilo Code",
+        "AI Regulation",
+        "Anthropic",
+        "Google"
+      ],
       "file": "posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.en.html"
     }
   },
@@ -133,13 +297,29 @@
     "zh": {
       "title": "⚡ 7月17日AI产业午报：WAIC 2026今日上海盛大开幕、Anthropic秘密提交IPO招股书、腾讯云DeepSeek-V4最高降价97.5%",
       "summary": "⚡ 2026世界人工智能大会今日上海三地四馆开幕，习近平出席致辞，1100余家企业参展超300款产品全球首发；Anthropic秘密向SEC提交IPO招股书，估值9650亿美元领跑OpenAI；腾讯云宣布DeepSeek-V4系列模型最高降价97.5%，缓存命中价格降至每千tokens仅0.000025元；华为Atlas 950超节点真机首秀；阶跃星辰、荣耀、努比亚AI手机齐亮相；谷歌Gemini 3.5 Pro第三次延期。",
-      "tags": ["科技新闻", "WAIC", "Anthropic", "腾讯云", "DeepSeek", "AI手机", "具身智能"],
+      "tags": [
+        "科技新闻",
+        "WAIC",
+        "Anthropic",
+        "腾讯云",
+        "DeepSeek",
+        "AI手机",
+        "具身智能"
+      ],
       "file": "posts/166-waic-2026-opens-anthropic-ipo-tencent-deepseek-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 AI Industry Midday: WAIC 2026 Opens in Shanghai, Anthropic Files for IPO, Tencent Cloud Slashes DeepSeek-V4 Prices Up to 97.5%",
       "summary": "⚡ WAIC 2026 opens across three Shanghai venues with President Xi Jinping attending, 1,100+ exhibitors and 300+ global product debuts; Anthropic confidentially files S-1 for IPO with $965B valuation; Tencent Cloud cuts DeepSeek-V4 model prices up to 97.5%; Huawei unveils Atlas 950 SuperCluster; three AI phone makers showcase devices; Google Gemini 3.5 Pro faces third delay.",
-      "tags": ["Tech News", "WAIC", "Anthropic", "Tencent Cloud", "DeepSeek", "AI Phone", "Embodied AI"],
+      "tags": [
+        "Tech News",
+        "WAIC",
+        "Anthropic",
+        "Tencent Cloud",
+        "DeepSeek",
+        "AI Phone",
+        "Embodied AI"
+      ],
       "file": "posts/166-waic-2026-opens-anthropic-ipo-tencent-deepseek-july-17-2026.en.html"
     }
   },
@@ -149,13 +329,29 @@
     "zh": {
       "title": "⚡ 7月17日国际政治综述：美军空袭伊朗桥梁扩大至北部、乌克兰防长被解职引发全国抗议",
       "summary": "⚡ 美军连续第六夜空袭伊朗，首次打击桥梁基础设施波及德黑兰附近；伊朗反击巴林科威特约旦美军基地，威胁封锁红海曼德海峡；乌克兰防长费多罗夫被解职引发基辅等地大规模抗议，空军副司令辞职抗议，泽连斯基面临执政以来最严重政治危机。",
-      "tags": ["国际政治", "美伊冲突", "美军空袭", "伊朗", "乌克兰", "泽连斯基", "抗议"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "美军空袭",
+        "伊朗",
+        "乌克兰",
+        "泽连斯基",
+        "抗议"
+      ],
       "file": "posts/165-international-politics-roundup-us-iran-bridge-strikes-ukraine-fedorov-protests-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 International Politics: US Expands Airstrikes to Bridges in Iran, Ukraine Defense Minister Firing Sparks Nationwide Protests",
       "summary": "⚡ US launches sixth consecutive night of strikes on Iran, hitting bridges and expanding near Tehran for the first time; Iran retaliates against US bases, threatens Red Sea closure via Houthis; Ukraine's Defense Minister Fedorov fired, sparking mass protests across 17 cities, deputy air force commander resigns.",
-      "tags": ["International Politics", "US-Iran", "Ukraine", "Zelenskyy", "Fedorov", "Strait of Hormuz", "Protests"],
+      "tags": [
+        "International Politics",
+        "US-Iran",
+        "Ukraine",
+        "Zelenskyy",
+        "Fedorov",
+        "Strait of Hormuz",
+        "Protests"
+      ],
       "file": "posts/165-international-politics-roundup-us-iran-bridge-strikes-ukraine-fedorov-protests-july-17-2026.en.html"
     }
   },
@@ -165,13 +361,29 @@
     "zh": {
       "title": "⚡ 7月17日金融午报：Netflix财报后暴跌8%、日经指数重挫逾3%、油价高位震荡黄金失守4050美元",
       "summary": "⚡ Netflix Q2不及预期盘后暴跌8.8%；日经指数周五早盘重挫逾3%芯片股过热担忧蔓延；布伦特原油持稳84美元附近霍尔木兹海峡仅7艘船通行；黄金跌至4030美元美联储鹰派预期施压；亚洲股市分化A股反弹港股回落。",
-      "tags": ["金融经济", "Netflix", "日经指数", "油价", "黄金", "芯片股", "美联储"],
+      "tags": [
+        "金融经济",
+        "Netflix",
+        "日经指数",
+        "油价",
+        "黄金",
+        "芯片股",
+        "美联储"
+      ],
       "file": "posts/164-financial-roundup-netflix-crash-nikkei-plunge-oil-gold-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Financial Midday: Netflix Plunges 8% After Hours, Nikkei Drops 3% as Chip Rout Deepens, Oil Holds Near $85",
       "summary": "⚡ Netflix Q2 beats but weak Q3 guidance sends stock crashing 8.8% after hours; Nikkei tumbles 3%+ Friday as chip overheating fears spread; Brent crude holds near $84.50 with only 7 ships crossing Hormuz; Gold slides to $4,030 on hawkish Fed expectations; Asian markets diverge as Shanghai rises, Hong Kong slips.",
-      "tags": ["Financial", "Netflix", "Nikkei", "Oil", "Gold", "Chip Stocks", "Federal Reserve"],
+      "tags": [
+        "Financial",
+        "Netflix",
+        "Nikkei",
+        "Oil",
+        "Gold",
+        "Chip Stocks",
+        "Federal Reserve"
+      ],
       "file": "posts/164-financial-roundup-netflix-crash-nikkei-plunge-oil-gold-july-17-2026.en.html"
     }
   },
@@ -181,13 +393,29 @@
     "zh": {
       "title": "⚡ 7月17日科技早报：SpaceX星舰第13飞引擎点火异常中止、Kimi K3 2.8万亿参数开源模型发布、WAIC 2026今日上海开幕、Inkling今日起调价50%",
       "summary": "⚡ SpaceX星舰Flight 13在倒计时归零时因引擎点火异常自动中止，原计划部署首批Starlink V3卫星；月之暗面发布Kimi K3，2.8万亿参数成全球最大开源模型；WAIC 2026今日上海开幕，1100余家企业参展300余款产品首发；Thinking Machines Inkling API今日起上调定价约50%。",
-      "tags": ["科技新闻", "SpaceX", "星舰", "Kimi K3", "WAIC", "Thinking Machines", "Inkling"],
+      "tags": [
+        "科技新闻",
+        "SpaceX",
+        "星舰",
+        "Kimi K3",
+        "WAIC",
+        "Thinking Machines",
+        "Inkling"
+      ],
       "file": "posts/163-tech-roundup-starship-scrub-kimi-k3-waic-inkling-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Tech Roundup: SpaceX Starship Flight 13 Aborts at T-0, Kimi K3 Debuts as World's Largest Open Model, WAIC 2026 Opens in Shanghai, Inkling Prices Rise 50%",
       "summary": "⚡ SpaceX Starship Flight 13 automatically aborts at T-0 as Raptor engines fail to ignite properly; Moonshot AI launches Kimi K3, world's largest open-source model with 2.8 trillion parameters; WAIC 2026 opens in Shanghai with over 300 product debuts; Thinking Machines Inkling API prices rise ~50% effective today.",
-      "tags": ["Tech News", "SpaceX", "Starship", "Kimi K3", "WAIC", "Thinking Machines", "Inkling"],
+      "tags": [
+        "Tech News",
+        "SpaceX",
+        "Starship",
+        "Kimi K3",
+        "WAIC",
+        "Thinking Machines",
+        "Inkling"
+      ],
       "file": "posts/163-tech-roundup-starship-scrub-kimi-k3-waic-inkling-july-17-2026.en.html"
     }
   },
@@ -197,13 +425,29 @@
     "zh": {
       "title": "⚡ 7月17日科技早报：PrimeBot变形机器人WAIC首秀、努比亚AI宠物iMoochi今日开售、Thinking Machines Inkling今日起调价50%、英伟达发布Cosmos 3 Edge",
       "summary": "⚡ PrimeBot发布全球首款变形个人机器人Transformer 1，可在轮式人形与四足形态间自主切换；努比亚AI宠物机器人iMoochi今日开售；Thinking Machines Inkling今日起API定价上调50%；英伟达发布Cosmos 3 Edge边缘AI模型联手日本推进物理AI。",
-      "tags": ["科技新闻", "WAIC", "机器人", "努比亚", "AI宠物", "Thinking Machines", "英伟达"],
+      "tags": [
+        "科技新闻",
+        "WAIC",
+        "机器人",
+        "努比亚",
+        "AI宠物",
+        "Thinking Machines",
+        "英伟达"
+      ],
       "file": "posts/162-tech-roundup-primebot-nubia-imoochie-inkling-pricing-nvidia-cosmos-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Tech Roundup: PrimeBot Debuts Shape-Shifting Robot at WAIC, Nubia AI Pet iMoochi Goes on Sale, Thinking Machines Inkling Prices Rise 50%, Nvidia Launches Cosmos 3 Edge",
       "summary": "⚡ PrimeBot unveils world's first transformable personal robot; Nubia AI pet iMoochi goes on sale; Thinking Machines Inkling API prices rise 50% effective today; Nvidia launches Cosmos 3 Edge edge AI model, partners with Japan for physical AI.",
-      "tags": ["Tech News", "WAIC", "Robotics", "Nubia", "AI Pet", "Thinking Machines", "Nvidia"],
+      "tags": [
+        "Tech News",
+        "WAIC",
+        "Robotics",
+        "Nubia",
+        "AI Pet",
+        "Thinking Machines",
+        "Nvidia"
+      ],
       "file": "posts/162-tech-roundup-primebot-nubia-imoochie-inkling-pricing-nvidia-cosmos-july-17-2026.en.html"
     }
   },
@@ -213,13 +457,27 @@
     "zh": {
       "title": "⚡ 7月17日国际政治综述：美军连续第六晚空袭伊朗打击新目标、乌克兰无人机一周摧毁147艘俄船、叙利亚截获运往真主党军火",
       "summary": "⚡ 美军连续第六晚空袭伊朗，打击伊兰沙赫尔机场、阿巴斯港通信塔、哈米尔港桥梁等新目标，白宫称始终对外交敞开大门；乌克兰无人机大规模打击俄罗斯影子舰队，一周内击中147艘船只，恩格斯空军基地遭袭；叙利亚截获运往真主党的大型军火走私船，含远程导弹和光纤制导无人机。",
-      "tags": ["国际政治", "美伊冲突", "乌克兰", "俄罗斯", "叙利亚", "真主党"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "乌克兰",
+        "俄罗斯",
+        "叙利亚",
+        "真主党"
+      ],
       "file": "posts/161-international-politics-roundup-us-iran-sixth-night-ukraine-shadow-fleet-syria-hezbollah-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 International Politics Roundup: US Launches Sixth Night of Strikes on Iran, Ukraine Drones Hit 147 Russian Shadow Fleet Vessels, Syria Seizes Hezbollah Weapons",
       "summary": "⚡ US launches sixth consecutive night of strikes on Iran, hitting Iranshahr airport, Bandar Abbas tower, Bandar-e Khamir bridge; Ukraine strikes 147 Russian shadow fleet vessels in one week, Engels air base hit; Syria intercepts large weapons shipment bound for Hezbollah.",
-      "tags": ["International Politics", "US-Iran Conflict", "Ukraine", "Russia", "Syria", "Hezbollah"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Ukraine",
+        "Russia",
+        "Syria",
+        "Hezbollah"
+      ],
       "file": "posts/161-international-politics-roundup-us-iran-sixth-night-ukraine-shadow-fleet-syria-hezbollah-july-17-2026.en.html"
     }
   },
@@ -229,13 +487,29 @@
     "zh": {
       "title": "⚡ 7月17日金融综述：美股全线收跌美伊冲突升级、美国零售数据远超预期、SK海力士ADR暴跌近8%、SpaceX跌破发行价空头大赚",
       "summary": "⚡ 周四美股全线收跌，道指跌0.20%标普跌0.51%纳指重挫1.47%，美伊冲突升级打压风险偏好；美国6月零售销售环比增长0.6%远超预期，初请失业金人数22.1万低于预期；SK海力士ADR暴跌7.94%上市以来最惨，韩国央行加息+杠杆ETF强平潮持续；SpaceX盘中跌破135美元IPO发行价，空头账面盈利87亿美元；美联储官员密集发声维持谨慎；花旗警告股市风险指标升至2008年以来最高。",
-      "tags": ["金融经济", "美股", "美伊冲突", "SK海力士", "SpaceX", "美联储", "花旗"],
+      "tags": [
+        "金融经济",
+        "美股",
+        "美伊冲突",
+        "SK海力士",
+        "SpaceX",
+        "美联储",
+        "花旗"
+      ],
       "file": "posts/160-financial-roundup-us-stocks-selloff-retail-data-sk-hynix-spacex-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Financial Roundup: Wall Street Slides on Iran Escalation, Retail Sales Surge Beat Estimates, SK Hynix ADR Plunges 8%, SpaceX Dips Below IPO as Short Sellers Net $8.7B",
       "summary": "⚡ Wall Street closes lower Thursday as US-Iran conflict escalates; US retail sales surge 0.6% MoM far exceeding estimates; SK Hynix ADR crashes 7.94% amid leveraged ETF liquidations in Korea; SpaceX briefly dips below $135 IPO price, short sellers net $8.7B paper profit; Fed officials maintain cautious stance; Citi warns market risk indicators at highest since 2008.",
-      "tags": ["Financial", "Wall Street", "US-Iran", "SK Hynix", "SpaceX", "Federal Reserve", "Citi"],
+      "tags": [
+        "Financial",
+        "Wall Street",
+        "US-Iran",
+        "SK Hynix",
+        "SpaceX",
+        "Federal Reserve",
+        "Citi"
+      ],
       "file": "posts/160-financial-roundup-us-stocks-selloff-retail-data-sk-hynix-spacex-july-17-2026.en.html"
     }
   },
@@ -245,13 +519,31 @@
     "zh": {
       "title": "⚡ 7月17日科技综述：谷歌Gemini 3.5 Pro再度延期、WAIC 2026上海开幕、努比亚全球首款AI智能体手机亮相、小米开源具身模型",
       "summary": "⚡ 谷歌Gemini 3.5 Pro被曝再次延期数月，10名前员工透露编程能力未达预期内部不满加剧；WAIC 2026今日在上海盛大开幕，习近平出席并致辞；努比亚全球首款AI智能体手机NaviX Ultra正式亮相，搭载豆包手机助手；小米开源Xiaomi-Robotics-U0具身生成大模型，生成效率提升83倍。",
-      "tags": ["科技新闻", "谷歌", "Gemini", "WAIC", "努比亚", "AI智能体", "小米", "具身智能"],
+      "tags": [
+        "科技新闻",
+        "谷歌",
+        "Gemini",
+        "WAIC",
+        "努比亚",
+        "AI智能体",
+        "小米",
+        "具身智能"
+      ],
       "file": "posts/159-tech-roundup-google-gemini-delay-waic-2026-nubia-navigate-xiaomi-robot-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Tech Roundup: Google Gemini 3.5 Pro Delayed Again, WAIC 2026 Opens in Shanghai, Nubia Debuts World's First AI Agent Phone, Xiaomi Open-Sources Robot Model",
       "summary": "⚡ Google Gemini 3.5 Pro faces further months-long delay as coding performance falls short; WAIC 2026 opens in Shanghai with President Xi attending; Nubia unveils NaviX Ultra, the world's first AI agent phone with ByteDance Doubao assistant; Xiaomi open-sources Xiaomi-Robotics-U0 embodied generation model with 83x efficiency gains.",
-      "tags": ["Tech News", "Google", "Gemini", "WAIC", "Nubia", "AI Agent", "Xiaomi", "Embodied AI"],
+      "tags": [
+        "Tech News",
+        "Google",
+        "Gemini",
+        "WAIC",
+        "Nubia",
+        "AI Agent",
+        "Xiaomi",
+        "Embodied AI"
+      ],
       "file": "posts/159-tech-roundup-google-gemini-delay-waic-2026-nubia-navigate-xiaomi-robot-july-17-2026.en.html"
     }
   },
@@ -261,13 +553,29 @@
     "zh": {
       "title": "⚡ 7月17日科技综述：欧盟裁定Google开放Android给AI对手、OnePlus退出美欧市场、Kimi K3低调上线、OpenAI首发硬件Codex Micro",
       "summary": "⚡ 欧盟依据DMA裁定Google必须向竞争对手AI助手开放Android并共享搜索数据，违者面临最高10%全球年营业额罚款；OnePlus正式确认退出北美和欧洲市场，结束十年全球扩张；月之暗面Kimi K3悄然上线，2.8T参数+1M上下文；OpenAI发布首款硬件产品Codex Micro编程键盘。",
-      "tags": ["科技新闻", "欧盟", "Google", "OnePlus", "Kimi K3", "OpenAI", "AI监管"],
+      "tags": [
+        "科技新闻",
+        "欧盟",
+        "Google",
+        "OnePlus",
+        "Kimi K3",
+        "OpenAI",
+        "AI监管"
+      ],
       "file": "posts/158-tech-roundup-eu-google-dma-oneplus-exit-kimi-k3-codex-micro-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Tech Roundup: EU Orders Google to Open Android to AI Rivals, OnePlus Exits US and Europe, Kimi K3 Launches Quietly, OpenAI Ships Codex Micro",
       "summary": "⚡ EU issues landmark DMA rulings ordering Google to open Android to rival AI assistants and share search data; OnePlus officially exits North America and Europe after 12 years; Moonshot AI quietly launches Kimi K3 with 2.8T parameters and 1M-token context; OpenAI ships its first branded hardware product — Codex Micro macropad.",
-      "tags": ["Tech News", "EU", "Google", "OnePlus", "Kimi K3", "OpenAI", "Hardware"],
+      "tags": [
+        "Tech News",
+        "EU",
+        "Google",
+        "OnePlus",
+        "Kimi K3",
+        "OpenAI",
+        "Hardware"
+      ],
       "file": "posts/158-tech-roundup-eu-google-dma-oneplus-exit-kimi-k3-codex-micro-july-17-2026.en.html"
     }
   },
@@ -277,13 +585,27 @@
     "zh": {
       "title": "⚡ 7月17日国际政治综述：美军空袭扩大至德黑兰地区、伊朗威胁摧毁区域全部基建、泽连斯基撤换国防部长引发基辅大抗议",
       "summary": "⚡ 美军空袭首次覆盖德黑兰周边塞姆南省，伊朗导弹报复科威特巴林约旦三国美军基地；伊朗威胁摧毁区域全部基础设施，胡塞武装接令准备封锁红海曼德海峡；泽连斯基撤换国防部长费多罗夫引发基辅千人大抗议，无人机战指挥官辞职；俄罗斯末日指挥机飞抵德黑兰掩护布什尔核电站。",
-      "tags": ["国际政治", "美伊冲突", "伊朗", "乌克兰", "泽连斯基", "俄罗斯"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "伊朗",
+        "乌克兰",
+        "泽连斯基",
+        "俄罗斯"
+      ],
       "file": "posts/157-international-politics-us-iran-strikes-tehran-zelenskyy-fedorov-protests-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 International Politics Roundup: US Strikes Reach Tehran Area, Iran Vows to Crush Regional Infrastructure, Zelenskyy Fires Defense Minister Triggering Mass Protests",
       "summary": "⚡ US airstrikes reach Semnan province near Tehran for first time in latest round; Iran retaliates with missile and drone attacks on US bases in Kuwait, Bahrain, Jordan; Iran vows to crush all regional infrastructure; Houthis ordered to close Bab el-Mandeb; Zelenskyy dismisses Fedorov triggering protests, drone commander resigns; Russia deploys Doomsday plane to protect Bushehr nuclear plant.",
-      "tags": ["International Politics", "US-Iran Conflict", "Iran", "Ukraine", "Zelenskyy", "Russia"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Iran",
+        "Ukraine",
+        "Zelenskyy",
+        "Russia"
+      ],
       "file": "posts/157-international-politics-us-iran-strikes-tehran-zelenskyy-fedorov-protests-july-17-2026.en.html"
     }
   },
@@ -293,13 +615,31 @@
     "zh": {
       "title": "⚡ 7月17日金融综述：TSMC业绩超预期引发芯片股全球暴跌、韩国KOSPI崩跌6.37%触发熔断、A股缩量下挫科创50重挫4%、长鑫科技开启申购",
       "summary": "⚡ TSMC Q2净利润暴增77%但上调资本开支至600-640亿美元引发全球芯片股集体暴跌，费城半导体指数重挫4%；韩国KOSPI暴跌6.37%失守7000点，央行加息至2.75%配合监管重拳出击杠杆ETF；A股三大指数全线下挫科创50暴跌4%，存储芯片概念股批量跌停；长鑫科技正式启动申购中签率创年内新高；美股剧烈分化道指独涨纳指跌0.84%。",
-      "tags": ["金融经济", "半导体", "TSMC", "韩国KOSPI", "A股", "长鑫科技", "存储芯片", "美伊冲突"],
+      "tags": [
+        "金融经济",
+        "半导体",
+        "TSMC",
+        "韩国KOSPI",
+        "A股",
+        "长鑫科技",
+        "存储芯片",
+        "美伊冲突"
+      ],
       "file": "posts/156-financial-roundup-tsmc-semiconductor-selloff-kospi-crash-cxmt-ipo-july-17-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 17 Financial Roundup: TSMC Beat Triggers Global Chip Bloodbath, KOSPI Crashes 6.37%, A-Share Tech Index Plunges 4%, CXMT Launches Record IPO",
       "summary": "⚡ TSMC Q2 net profit surges 77% to record but capex reset to $60-64B triggers global semiconductor selloff; Philadelphia Semi Index plunges 4%; KOSPI crashes 6.37%, South Korea bans leveraged ETFs, BOK hikes rate; A-shares fall with Sci-Tech 50 down 4%; CXMT launches $66.6B IPO; US markets diverge with Dow up, Nasdaq down 0.84%.",
-      "tags": ["Financial", "Semiconductors", "TSMC", "KOSPI", "A-Share", "CXMT", "Memory Chips", "US Markets"],
+      "tags": [
+        "Financial",
+        "Semiconductors",
+        "TSMC",
+        "KOSPI",
+        "A-Share",
+        "CXMT",
+        "Memory Chips",
+        "US Markets"
+      ],
       "file": "posts/156-financial-roundup-tsmc-semiconductor-selloff-kospi-crash-cxmt-ipo-july-17-2026.en.html"
     }
   },
