@@ -1,5 +1,21 @@
 [
   {
+    "id": "169",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日国际政治午报：伯纳姆今日正式成为英国工党领袖将接任首相、乌克兰议会批准新总理抗议持续、卡塔尔首遭伊朗导弹袭击、万斯公开指责以色列干预美伊谈判",
+      "summary": "⚡ 伯纳姆今日在伦敦工党特别大会上正式当选领袖，7月20日将接替斯塔默出任英国首相，承诺扭转撒切尔经济遗产；乌克兰防长费多罗夫被解职引发全国至少15城抗议，议会批准能源高管科列茨基为新总理，俄军连夜8枚弹道导弹袭击基辅致2死6伤；卡塔尔首次遭伊朗直接导弹袭击一名儿童受伤；美伊第六夜空袭持续，美军炸毁伊朗5座桥梁致7死；万斯公开指责以色列政府内部势力操纵美国舆论破坏美伊谈判。",
+      "tags": ["国际政治", "英国", "伯纳姆", "乌克兰", "泽连斯基", "美伊冲突", "卡塔尔", "万斯"],
+      "file": "posts/169-international-politics-roundup-burnham-pm-ukraine-protests-qatar-iran-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 International Politics: Burnham Becomes UK Labour Leader, Ukraine Approves New PM as Protests Rage, Qatar Hit by Iranian Missiles for First Time, Vance Accuses Israel of Interference",
+      "summary": "⚡ Andy Burnham elected UK Labour leader today at special London conference, to become Prime Minister on July 20 vowing to reverse Thatcher's economic legacy; Ukraine parliament approves new PM as nationwide protests over Fedorov's firing spread to 15 cities, Russia strikes Kyiv with 8 ballistic missiles killing 2; Qatar suffers first direct Iranian missile attack, child injured; US sixth night of strikes destroys 5 bridges in Iran killing 7; VP Vance publicly accuses Israeli government elements of manipulating US opinion to prolong Iran war.",
+      "tags": ["International Politics", "UK", "Andy Burnham", "Ukraine", "Zelenskyy", "US-Iran", "Qatar", "Vance"],
+      "file": "posts/169-international-politics-roundup-burnham-pm-ukraine-protests-qatar-iran-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "168",
     "date": "2026-07-17",
     "zh": {
