@@ -1,5 +1,21 @@
 [
   {
+    "id": "174",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技双响：全球首例商用脑机接口植入让瘫痪患者重获希望、德国裁定AI搜索为\"媒体内容发布者\"",
+      "summary": "⚡ 上海华山医院成功完成全球首例商用脑机接口NEO植入手术，瘫痪10年患者术后信号稳定，硬币大小芯片将思维转化为手部动作；德国媒体监管机构ZAK裁定Google AI Overviews和Perplexity AI为内容发布者，不能享有欧盟DSA平台责任豁免，或重塑全球AI搜索监管格局。",
+      "tags": ["科技新闻", "脑机接口", "AI监管", "BCI", "德国", "数字服务法", "AI搜索"],
+      "file": "posts/174-tech-double-bci-implant-germany-ai-search-ruling-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Double: World's First Commercial BCI Implant Restores Hope, Germany Rules AI Search is a 'Publisher'",
+      "summary": "⚡ Shanghai Huashan Hospital completes world's first commercial BCI implant — paralyzed patient's brain signals stable, coin-sized chip turns thoughts into hand movement; Germany's ZAK rules Google AI Overviews and Perplexity AI are content publishers, stripping EU DSA liability shield in a landmark decision that could reshape global AI search regulation.",
+      "tags": ["Tech News", "BCI", "AI Regulation", "Neural Implant", "Germany", "Digital Services Act", "AI Search"],
+      "file": "posts/174-tech-double-bci-implant-germany-ai-search-ruling-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "173",
     "date": "2026-07-17",
     "zh": {
