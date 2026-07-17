@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 17 Jul 2026 12:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月17日金融午报：特朗普指控中国干预大选全球市场震荡、港股恒指失守25000点、日经暴跌3.9%</title>
+      <link>https://ai-daily.cc.cd/posts/168-financial-roundup-trump-china-speech-asia-selloff-oil-july-17-2026.zh.html</link>
+      <description>⚡ 特朗普周四晚发表全国讲话，公布解密情报文件指控中国干预2020大选，中国使馆坚决否认，全球市场震荡；港股午盘恒指跌1.98%失守25000点，科指暴跌4.04%；日经指数重挫3.9%，铠侠暴跌16%进入技术性熊市；A股三大指数集体低开，芯片股持续下挫；中东局势持续升级，伊朗威胁摧毁区域全部基础设施，布伦特原油反弹至85.35美元；Netflix盘后暴跌逾9%。</description>
+      <pubDate>Fri, 17 Jul 2026 13:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/168-financial-roundup-trump-china-speech-asia-selloff-oil-july-17-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月17日科技综合：OpenAI发布GPT-Red用AI攻击AI找漏洞、Anaconda收购开源编码智能体Kilo Code、AI三巨头罕见联手呼吁监管</title>
       <link>https://ai-daily.cc.cd/posts/167-tech-roundup-gpt-red-anaconda-kilo-ai-regulation-july-17-2026.zh.html</link>
