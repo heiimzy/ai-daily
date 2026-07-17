@@ -1,5 +1,21 @@
 [
   {
+    "id": "168",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日金融午报：特朗普指控中国干预大选全球市场震荡、港股恒指失守25000点、日经暴跌3.9%",
+      "summary": "⚡ 特朗普周四晚发表全国讲话，公布解密情报文件指控中国干预2020大选，中国使馆坚决否认，全球市场震荡；港股午盘恒指跌1.98%失守25000点，科指暴跌4.04%；日经指数重挫3.9%，铠侠暴跌16%进入技术性熊市；A股三大指数集体低开，芯片股持续下挫；中东局势持续升级，伊朗威胁摧毁区域全部基础设施，布伦特原油反弹至85.35美元。",
+      "tags": ["金融经济", "特朗普", "港股", "日经", "芯片股", "原油", "Netflix"],
+      "file": "posts/168-financial-roundup-trump-china-speech-asia-selloff-oil-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Financial Midday: Trump China Allegations Rock Markets, Hang Seng Loses 25000, Nikkei Plunges 3.9%",
+      "summary": "⚡ Trump declassifies China election interference intel, rattling markets; Hang Seng Index falls 1.98% losing 25000 level, Tech Index plunges 4.04%; Nikkei crashes 3.9%, Kioxia sinks 16% entering bear market; A-shares open lower on chip stock rout; Iran threatens to crush regional infrastructure, Brent rebounds to $85.35; Netflix tumbles 9% after hours on growth concerns.",
+      "tags": ["Financial", "Trump", "China", "Hang Seng", "Nikkei", "Oil", "Netflix"],
+      "file": "posts/168-financial-roundup-trump-china-speech-asia-selloff-oil-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "167",
     "date": "2026-07-17",
     "zh": {
