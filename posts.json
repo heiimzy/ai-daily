@@ -1,5 +1,21 @@
 [
   {
+    "id": "173",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日国际政治晚报：美军连续第六夜空袭伊朗首炸桥梁致7死，恰赫巴哈尔港控制塔倒塌，伊朗首次打击叙利亚美军基地，中巴联合呼吁停火",
+      "summary": "⚡ 美军连续第六晚对伊朗发动大规模空袭，首次打击桥梁基础设施致7人死亡，恰赫巴哈尔港控制塔倒塌；伊朗大规模报复——首次袭击叙利亚美军基地、科威特发电厂受损、卡塔尔儿童受伤；中国与巴基斯坦联合呼吁立即停火恢复谈判；伊朗公布最新伤亡数据38人死亡400余人受伤；霍尔木兹海峡航运几近瘫痪仅3艘船通过。",
+      "tags": ["国际政治", "美伊战争", "美军空袭", "伊朗", "霍尔木兹海峡", "叙利亚", "中巴联合", "乌克兰"],
+      "file": "posts/173-international-politics-us-iran-bridge-strikes-china-pakistan-ceasefire-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 International Politics Evening: US Hits Bridges for First Time in 6th Night of Iran Strikes, Chabahar Tower Collapses, Iran Strikes US Base in Syria, China & Pakistan Call for Ceasefire",
+      "summary": "⚡ US launches sixth consecutive night of massive airstrikes on Iran, hitting bridges for the first time killing 7, Chabahar port surveillance tower collapses; Iran retaliates on unprecedented scale — first direct strike on US base in Syria, Kuwait power plant damaged, child injured in Qatar; China and Pakistan jointly call for immediate ceasefire; Iran reports 38 dead, over 400 wounded; Hormuz shipping nearly paralyzed with only 3 ships passing.",
+      "tags": ["International Politics", "US-Iran War", "Airstrikes", "Iran", "Strait of Hormuz", "Syria", "China-Pakistan", "Ukraine"],
+      "file": "posts/173-international-politics-us-iran-bridge-strikes-china-pakistan-ceasefire-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "172",
     "date": "2026-07-17",
     "zh": {
