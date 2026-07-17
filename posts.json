@@ -1,5 +1,21 @@
 [
   {
+    "id": "163",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技早报：SpaceX星舰第13飞引擎点火异常中止、Kimi K3 2.8万亿参数开源模型发布、WAIC 2026今日上海开幕、Inkling今日起调价50%",
+      "summary": "⚡ SpaceX星舰Flight 13在倒计时归零时因引擎点火异常自动中止，原计划部署首批Starlink V3卫星；月之暗面发布Kimi K3，2.8万亿参数成全球最大开源模型；WAIC 2026今日上海开幕，1100余家企业参展300余款产品首发；Thinking Machines Inkling API今日起上调定价约50%。",
+      "tags": ["科技新闻", "SpaceX", "星舰", "Kimi K3", "WAIC", "Thinking Machines", "Inkling"],
+      "file": "posts/163-tech-roundup-starship-scrub-kimi-k3-waic-inkling-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech Roundup: SpaceX Starship Flight 13 Aborts at T-0, Kimi K3 Debuts as World's Largest Open Model, WAIC 2026 Opens in Shanghai, Inkling Prices Rise 50%",
+      "summary": "⚡ SpaceX Starship Flight 13 automatically aborts at T-0 as Raptor engines fail to ignite properly; Moonshot AI launches Kimi K3, world's largest open-source model with 2.8 trillion parameters; WAIC 2026 opens in Shanghai with over 300 product debuts; Thinking Machines Inkling API prices rise ~50% effective today.",
+      "tags": ["Tech News", "SpaceX", "Starship", "Kimi K3", "WAIC", "Thinking Machines", "Inkling"],
+      "file": "posts/163-tech-roundup-starship-scrub-kimi-k3-waic-inkling-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "162",
     "date": "2026-07-17",
     "zh": {
