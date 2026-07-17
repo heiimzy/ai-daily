@@ -1,5 +1,35 @@
 [
   {
+    "id": "179",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日科技综述：Patreon主动封杀AI爬虫、Zoox自动驾驶烟雾召回、一加宣布退出美欧",
+      "summary": "⚡ Patreon联合Cloudflare从网络层主动拦截AI训练爬虫，数千次访问归零；Amazon旗下Zoox因自动驾驶出租车无法识别烟雾中的紧急消防场景发布第4次软件召回；一加正式宣布退出美国和欧盟市场，战略重心转移。",
+      "tags": [
+        "科技新闻",
+        "Patreon",
+        "AI安全",
+        "Zoox",
+        "自动驾驶",
+        "一加"
+      ],
+      "file": "posts/179-tech-roundup-patreon-ai-scraping-zoox-smoke-recall-oneplus-exit-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Tech Roundup: Patreon Blocks AI Crawlers, Zoox Issues Smoke Recall, OnePlus Leaves US/EU",
+      "summary": "⚡ Patreon partners with Cloudflare to actively block AI training crawlers at the network level; Amazon's Zoox issues 4th software recall after robotaxi struggles with smoke-obscured fire scene; OnePlus officially confirms exit from US and EU markets.",
+      "tags": [
+        "Tech News",
+        "Patreon",
+        "AI",
+        "Zoox",
+        "Autonomous",
+        "OnePlus"
+      ],
+      "file": "posts/179-tech-roundup-patreon-ai-scraping-zoox-smoke-recall-oneplus-exit-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "178",
     "date": "2026-07-17",
     "zh": {
