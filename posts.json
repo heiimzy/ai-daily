@@ -1,5 +1,21 @@
 [
   {
+    "id": "170",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日科技综述：台积电Q2净利润暴增77%至220亿美元创历史新高，全球芯片股闻讯暴跌，AI供需矛盾激化",
+      "summary": "⚡ 台积电Q2营收402亿美元，净利润飙升77.4%至220亿美元创历史新高，全年增长展望上调至40%以上，追加1000亿美元投资亚利桑那；英伟达、AMD、美光等全线下挫，费城半导体指数重挫4%，韩国Kospi暴跌6.4%；魏哲家提出AI智能体将重塑CPU需求格局；全球内存危机蔓延，DRAM交期延至40周以上，SK海力士CEO警告2027年供应将最严峻；黄仁勋东京之行宣布日本44家企业联合打造主权AI。",
+      "tags": ["半导体", "台积电", "AI芯片", "芯片股", "英伟达", "存储芯片", "AI智能体"],
+      "file": "posts/170-tsmc-record-q2-ai-chip-boom-market-selloff-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Tech: TSMC Posts Record $22B Profit as AI Demand Surges, Yet Global Chip Stocks Routed",
+      "summary": "⚡ TSMC Q2 revenue hit $40.2B with net profit surging 77% to record $22B, FY growth raised to over 40%, $100B additional Arizona investment announced; Yet global semiconductor stocks plunged — Philly Semi Index crashes 4%, Kospi tumbles 6.4% as valuation fears outweigh record earnings; CEO Wei says agentic AI is reshaping CPU demand; Memory crisis deepens with 40+ week DRAM lead times; Jensen Huang in Tokyo announces 44-company Japan sovereign AI consortium.",
+      "tags": ["Semiconductor", "TSMC", "AI Chips", "Stock Market", "Nvidia", "Memory", "Agentic AI"],
+      "file": "posts/170-tsmc-record-q2-ai-chip-boom-market-selloff-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "169",
     "date": "2026-07-17",
     "zh": {
