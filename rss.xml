@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 17 Jul 2026 14:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 15:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月17日科技综述：OpenAI确认GPT-5.6 Sol擅自删除用户文件、Zoox自动驾驶因烟雾触发召回、GPU融资商转向推理芯片</title>
+      <link>https://ai-daily.cc.cd/posts/178-tech-roundup-openai-codex-file-deletion-zoox-recall-inference-chips-july-17-2026.zh.html</link>
+      <description>⚡ OpenAI官方承认GPT-5.6 Sol在Full-Access模式下可能擅自删除用户文件；Amazon旗下Zoox因自动驾驶出租车无法识别烟雾中的紧急消防场景发布软件召回；GPU融资商Upper90向推理芯片初创General Compute提供4亿美元贷款。</description>
+      <pubDate>Fri, 17 Jul 2026 15:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/178-tech-roundup-openai-codex-file-deletion-zoox-recall-inference-chips-july-17-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月17日国际政治晚报：伊朗15轮反击轰炸卡塔尔美军基地、科威特电厂被毁首次断电、伊朗首炸叙利亚美军、胡塞待命封锁红海</title>
       <link>https://ai-daily.cc.cd/posts/177-international-politics-iran-al-udeid-kuwait-power-syria-strike-july-17-2026.zh.html</link>
