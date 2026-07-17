@@ -1,5 +1,21 @@
 [
   {
+    "id": "164",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日金融午报：Netflix财报后暴跌8%、日经指数重挫逾3%、油价高位震荡黄金失守4050美元",
+      "summary": "⚡ Netflix Q2不及预期盘后暴跌8.8%；日经指数周五早盘重挫逾3%芯片股过热担忧蔓延；布伦特原油持稳84美元附近霍尔木兹海峡仅7艘船通行；黄金跌至4030美元美联储鹰派预期施压；亚洲股市分化A股反弹港股回落。",
+      "tags": ["金融经济", "Netflix", "日经指数", "油价", "黄金", "芯片股", "美联储"],
+      "file": "posts/164-financial-roundup-netflix-crash-nikkei-plunge-oil-gold-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Financial Midday: Netflix Plunges 8% After Hours, Nikkei Drops 3% as Chip Rout Deepens, Oil Holds Near $85",
+      "summary": "⚡ Netflix Q2 beats but weak Q3 guidance sends stock crashing 8.8% after hours; Nikkei tumbles 3%+ Friday as chip overheating fears spread; Brent crude holds near $84.50 with only 7 ships crossing Hormuz; Gold slides to $4,030 on hawkish Fed expectations; Asian markets diverge as Shanghai rises, Hong Kong slips.",
+      "tags": ["Financial", "Netflix", "Nikkei", "Oil", "Gold", "Chip Stocks", "Federal Reserve"],
+      "file": "posts/164-financial-roundup-netflix-crash-nikkei-plunge-oil-gold-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "163",
     "date": "2026-07-17",
     "zh": {
