@@ -1,5 +1,39 @@
 [
   {
+    "id": "176",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日金融晚报：原油单周暴涨13%布伦特突破86美元、美联储鹰派密集发声、韩国35万散户爆仓",
+      "summary": "⚡ 美伊冲突持续升级，布伦特原油单周暴涨13%逼近86美元创一个月新高，霍尔木兹海峡航运瘫痪、科威特发电站被炸；达拉斯联储主席洛根成首位公开呼吁加息官员，副主席杰斐逊不排除加息可能，9月加息概率升至46%；韩国KOSPI暴跌6.37%触发熔断，35万散户爆仓，监管紧急叫停杠杆ETF新产品；奈飞Q3指引不及预期盘后重挫9%创52周新低。",
+      "tags": [
+        "金融经济",
+        "原油",
+        "美联储",
+        "韩国股市",
+        "奈飞",
+        "杠杆ETF",
+        "黄金",
+        "板块轮动"
+      ],
+      "file": "posts/176-financial-roundup-oil-surge-fed-hawkish-korea-leverage-crackdown-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 Financial Evening: Oil Surges 13% Weekly Past $86, Fed Hawks Circle, Korea 350K Retail Accounts Liquidated",
+      "summary": "⚡ Brent surges 2% to $86 on escalating US-Iran conflict, heading for 13% weekly gain — Strait of Hormuz shipping collapses, Kuwait power plant hit; Dallas Fed's Logan becomes first official to explicitly call for rate hike; KOSPI crashes 6.37% triggering circuit breaker, 350,000 South Korean retail accounts margin-liquidated as FSC cracks down on leveraged ETFs; Netflix plunges 9% after-hours on weak Q3 guidance, hits 52-week low.",
+      "tags": [
+        "Financial",
+        "Crude Oil",
+        "Federal Reserve",
+        "South Korea",
+        "Netflix",
+        "Leveraged ETFs",
+        "Gold",
+        "Sector Rotation"
+      ],
+      "file": "posts/176-financial-roundup-oil-surge-fed-hawkish-korea-leverage-crackdown-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "175",
     "date": "2026-07-17",
     "zh": {
