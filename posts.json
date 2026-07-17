@@ -1,5 +1,21 @@
 [
   {
+    "id": "166",
+    "date": "2026-07-17",
+    "zh": {
+      "title": "⚡ 7月17日AI产业午报：WAIC 2026今日上海盛大开幕、Anthropic秘密提交IPO招股书、腾讯云DeepSeek-V4最高降价97.5%",
+      "summary": "⚡ 2026世界人工智能大会今日上海三地四馆开幕，习近平出席致辞，1100余家企业参展超300款产品全球首发；Anthropic秘密向SEC提交IPO招股书，估值9650亿美元领跑OpenAI；腾讯云宣布DeepSeek-V4系列模型最高降价97.5%，缓存命中价格降至每千tokens仅0.000025元；华为Atlas 950超节点真机首秀；阶跃星辰、荣耀、努比亚AI手机齐亮相；谷歌Gemini 3.5 Pro第三次延期。",
+      "tags": ["科技新闻", "WAIC", "Anthropic", "腾讯云", "DeepSeek", "AI手机", "具身智能"],
+      "file": "posts/166-waic-2026-opens-anthropic-ipo-tencent-deepseek-july-17-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 17 AI Industry Midday: WAIC 2026 Opens in Shanghai, Anthropic Files for IPO, Tencent Cloud Slashes DeepSeek-V4 Prices Up to 97.5%",
+      "summary": "⚡ WAIC 2026 opens across three Shanghai venues with President Xi Jinping attending, 1,100+ exhibitors and 300+ global product debuts; Anthropic confidentially files S-1 for IPO with $965B valuation; Tencent Cloud cuts DeepSeek-V4 model prices up to 97.5%; Huawei unveils Atlas 950 SuperCluster; three AI phone makers showcase devices; Google Gemini 3.5 Pro faces third delay.",
+      "tags": ["Tech News", "WAIC", "Anthropic", "Tencent Cloud", "DeepSeek", "AI Phone", "Embodied AI"],
+      "file": "posts/166-waic-2026-opens-anthropic-ipo-tencent-deepseek-july-17-2026.en.html"
+    }
+  },
+  {
     "id": "165",
     "date": "2026-07-17",
     "zh": {
