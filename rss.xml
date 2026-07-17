@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 03:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 04:03:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月18日科技综述：Kimi K3引发"DeepSeek 2.0"全球芯片股暴跌、中科院发布ScienceOne Omni超越GPT-5.5、Patreon联合Cloudflare全面封杀AI爬虫</title>
+      <link>https://ai-daily.cc.cd/posts/183-tech-roundup-kimi-k3-selloff-scienceone-patreon-july-18-2026.zh.html</link>
+      <description>⚡ 月之暗面Kimi K3 2.8万亿参数开源模型发布引发全球芯片股暴跌，费城半导体指数进入熊市，英伟达被苹果反超失去全球市值第一；中科院发布ScienceOne Omni科学AI基础模型超越GPT-5.5；Patreon联合Cloudflare从网络层主动封杀AI训练爬虫。</description>
+      <pubDate>Sat, 18 Jul 2026 04:03:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/183-tech-roundup-kimi-k3-selloff-scienceone-patreon-july-18-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月18日科技综述：苹果向OpenAI 40名前员工发法律函、Anthropic与Meta洽百亿算力租约、Google NotebookLM改名Gemini Notebook、Intel 18A良率达85%</title>
       <link>https://ai-daily.cc.cd/posts/182-tech-roundup-apple-openai-lawsuit-anthropic-meta-compute-gemini-notebook-intel-18a-july-18-2026.zh.html</link>
