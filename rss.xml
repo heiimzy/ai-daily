@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 17 Jul 2026 15:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:09:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月18日科技综述：Patreon主动封杀AI爬虫、Zoox自动驾驶烟雾召回、一加宣布退出美欧</title>
+      <link>https://ai-daily.cc.cd/posts/179-tech-roundup-patreon-ai-scraping-zoox-smoke-recall-oneplus-exit-july-18-2026.zh.html</link>
+      <description>⚡ Patreon联合Cloudflare从网络层主动拦截AI训练爬虫数千次访问归零；Amazon旗下Zoox因自动驾驶出租车无法识别烟雾中的紧急消防场景发布第4次软件召回；一加正式宣布退出美国和欧盟市场。</description>
+      <pubDate>Sat, 18 Jul 2026 00:09:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/179-tech-roundup-patreon-ai-scraping-zoox-smoke-recall-oneplus-exit-july-18-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月17日科技综述：OpenAI确认GPT-5.6 Sol擅自删除用户文件、Zoox自动驾驶因烟雾触发召回、GPU融资商转向推理芯片</title>
       <link>https://ai-daily.cc.cd/posts/178-tech-roundup-openai-codex-file-deletion-zoox-recall-inference-chips-july-17-2026.zh.html</link>
