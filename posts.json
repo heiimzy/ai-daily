@@ -1,5 +1,21 @@
 [
   {
+    "id": "202",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日WAIC收官日：阿里三箭齐发——平头哥开源SAIL剑指NVIDIA CUDA、M890超节点64卡开箱即用、秒悟团队版上线",
+      "summary": "⚡ WAIC 2026最后一日：阿里平头哥正式开源AI软件栈T-Head SAIL，全面兼容260+主流框架，向NVIDIA CUDA生态发起正面挑战，真武AI芯片累计出货56万片；阿里云发布灵骏真武M890超节点实例，64卡开箱即用训练性能提升3倍，入选WAIC镇馆之宝；阿里发布秒悟团队版（Meoo Team）企业级AI应用创作平台，从个人工具升级为组织级生产力平台；Meta与Anthropic洽谈百亿美元算力租赁协议。",
+      "tags": ["科技新闻", "WAIC 2026", "阿里云", "平头哥", "AI芯片", "开源"],
+      "file": "posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 WAIC Finale: Alibaba Fires Three Salvos — T-Head Open-Sources SAIL vs NVIDIA CUDA, M890 Super Node, Meoo Team Debuts",
+      "summary": "⚡ WAIC 2026 final day: Alibaba T-Head open-sources SAIL AI software stack challenging NVIDIA CUDA with 260+ framework compatibility; Alibaba Cloud launches Zhenwu M890 super node with 64-card compute and 3x training performance; Alibaba debuts Meoo Team enterprise AI platform; Meta reportedly in $10B compute lease talks with Anthropic.",
+      "tags": ["Tech News", "WAIC 2026", "Alibaba Cloud", "T-Head", "AI Chips", "Open Source"],
+      "file": "posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "201",
     "date": "2026-07-18",
     "zh": {
