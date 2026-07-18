@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SenseTime U1 Pro Launches at WAIC, WordPress Emergency RCE Patch, Sashiko AI Joins Linux Kernel Review, Vertu Debuts $6,880 Luxury AI Phone - AI Daily</title>
+  <meta name="description" content="⚡ SenseTime unveils U1 Pro image generation model at WAIC 2026 with native 8K output targeting GPT-Image 2; WordPress forces auto-updates for critical wp2shell remote code execution vulnerability; Linus Torvalds greenlights Sashiko AI for Linux kernel code review — someone forks it within days; Vertu launches $6,880 Alphafold foldable with Hermes Agent AI concierge system.">
+  <meta name="keywords" content="SenseTime,U1 Pro,WAIC 2026,WordPress,RCE,wp2shell,Sashiko,Linux kernel,Vertu,Alphafold,AI phone">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-18</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="../posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-18</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">SenseTime</span><span class="tag">WordPress</span><span class="tag">Cybersecurity</span><span class="tag">Linux</span><span class="tag">AI Phone</span><span class="tag">WAIC</span></div>
+  <h1>⚡ July 18 Tech Roundup: SenseTime U1 Pro Challenges GPT-Image 2, WordPress Emergency wp2shell RCE Patch, Sashiko AI Joins Linux Kernel Code Review, Vertu Launches $6,880 Luxury AI Smartphone</h1>
+
+  <h2>1. SenseTime U1 Pro Debuts at WAIC: Native 8K Image Generation Targeting GPT-Image 2</h2>
+  <p>On Day 2 of the 2026 World Artificial Intelligence Conference (WAIC 2026) in Shanghai, SenseTime Chairman and CEO Xu Li unveiled the flagship image generation model — SenseNova U1 Pro. The model is positioned as a direct competitor to OpenAI's GPT-Image 2, promising "production-ready" output quality that eliminates the need for post-processing.</p>
+  <p>Developed under the leadership of SenseTime co-founder and chief scientist Lin Dahua, U1 Pro is built on a unified multimodal agent foundation that integrates understanding, generation, and action capabilities at the architectural level — breaking away from the traditional "modal stitching" approach. This means the model doesn't just generate pixels; it understands scene semantics before strategically composing visual elements.</p>
+  <p>Key technical highlights include native 8K resolution output — a first in the AI image generation space — with color palettes that automatically adapt to themes. Xu Li emphasized that the model is designed for "deliverable-grade" professional scenarios: urban planning visualizations, film storyboarding, academic posters, and commercial advertising. In these high-stakes settings, the AI's output is ready for direct client delivery without manual touch-up.</p>
+  <p>The launch intensifies competition in the AI image generation market, where Midjourney, OpenAI's GPT-Image 2, and Adobe Firefly have been battling for professional designer adoption. SenseTime's bet on ultra-high resolution and genuinely usable output quality represents a bid to carve out a premium niche.</p>
+
+  <h2>2. WordPress Issues Emergency Patch for Critical wp2shell RCE Vulnerability, Enables Force Auto-Updates</h2>
+  <p>WordPress released an emergency security update on July 17 to address a critical remote code execution (RCE) vulnerability dubbed "wp2shell." Discovered by Adam Kues of Assetnote (Searchlight Cyber's attack surface management arm) via the WordPress HackerOne program, the flaw allows anonymous, unauthenticated attackers to execute arbitrary code on target servers — no plugins or non-default configurations required.</p>
+  <p>The vulnerability chains two distinct issues:</p>
+  <ul>
+    <li><strong>CVE-2026-60137</strong>: SQL injection in the <code>author__not_in</code> parameter of <code>WP_Query</code></li>
+    <li><strong>CVE-2026-63030</strong>: REST API batch-route confusion in the <code>/wp-json/batch/v1</code> endpoint</li>
+  </ul>
+  <p>When chained together, these flaws enable full remote code execution. Affected versions include WordPress 6.9.0 through 6.9.4, 7.0.0 through 7.0.1, and 7.1 Beta. In a rare move, WordPress <strong>enabled forced auto-updates</strong> to push patches to vulnerable installations automatically. Security versions released: 6.9.5, 7.0.2, and 7.1 beta2.</p>
+  <p>As of July 18, no active exploitation has been reported. However, security experts warn that because WordPress is open source, the diff between vulnerable and patched code is publicly available, making exploitation a matter of time. Searchlight Cyber has released temporary mitigation guidance: block both the path <code>/wp-json/batch/v1</code> and the query string <code>rest_route=/batch/v1</code> at the WAF level. Blocking only the path is insufficient.</p>
+  <p>With over 40% of all websites running on WordPress, this is one of the most critical CMS security incidents of 2026. Site operators should verify their WordPress version immediately.</p>
+
+  <h2>3. Sashiko AI Officially Joins Linux Kernel Code Review: Torvalds Says "Fork It" — Someone Actually Did</h2>
+  <p>The Linux kernel community is experiencing an AI revolution. Linus Torvalds has officially approved Sashiko — an AI-powered code review system developed by Google engineer Roman Gushchin — for integration into the Linux kernel development workflow. His message to skeptics was characteristically blunt: "fork it or walk away."</p>
+  <p>Sashiko (named after the Japanese embroidery technique meaning "decorative reinforcement stitching") is a Rust-based agentic code review tool. It continuously monitors the Linux Kernel Mailing List (LKML), automatically ingests patches, runs a multi-stage workflow — subsystem-specific prompts, code analysis, report generation — and posts results as polite inline-commented email replies. Crucially, Sashiko is <strong>read-only</strong>: it cannot merge, approve, or modify code, serving only as an advisory reviewer.</p>
+  <p>The performance data is striking: in a test of 1,000 recent upstream Linux kernel issues tagged with "Fixes:" — bugs serious enough to warrant explicit fixes — Sashiko caught <strong>53% that human reviewers had missed</strong> on first pass, with a false positive rate of approximately 20%. Senior Linux maintainer Greg Kroah-Hartman commented: "Now we have real reports. All open source projects have real reports that are made with AI, but they're good, and they're real."</p>
+  <p>Torvalds' stance on lore.kernel.org was unambiguous: "Linux is not one of those anti-AI projects, and if somebody has issues with that they can do the open-source thing and fork it. Or just walk away." He also called AI "a tool, just like other tools we use. And it's clearly a useful one." Notably, individual subsystem maintainers retain discretion over whether to adopt Sashiko — the project has settled on a subsystem-by-subsystem model.</p>
+  <p>The decision has ignited debate. Longtime contributor Laurent Pinchart argued that Sashiko's output should be triaged by maintainers before reaching patch authors. Memory management maintainer Lorenzo Stoakes reported spending a 13-hour day dealing with Sashiko infrastructure compatibility issues. And in a twist befitting open source: on July 17, someone actually forked the kernel without Sashiko. The incident marks AI's transition from optional plugin to core infrastructure in open source development.</p>
+
+  <h2>4. Vertu Launches $6,880 Alphafold Luxury AI Phone: Hermes Agent AI System as the Headline Feature</h2>
+  <p>Luxury phone maker Vertu has unveiled the Alphafold, a foldable smartphone starting at <strong>$6,880 (approximately ¥50,000)</strong>. Targeting C-suite executives, the device's core differentiator isn't hardware specs — it's the built-in <strong>Hermes Agent AI system</strong>, an autonomous AI agent built on the open-source Hermes project.</p>
+  <p>The Hermes Agent goes far beyond conventional digital assistants: it autonomously executes multi-step business workflows — analyzing documents and spreadsheets, reviewing contracts, planning business trips, and performing complex cross-application tasks. When the AI cannot complete a task, it automatically routes the request to a human concierge. Every Alphafold buyer receives 24 months of AI-plus-human hybrid concierge service.</p>
+  <p>Hardware-wise, the Alphafold is co-developed with ZTE/Nubia. It packs a Qualcomm Snapdragon 8 Elite SoC, 16GB RAM, a 6,500mAh battery, a 6.53-inch cover display, and an 8.05-inch inner screen. The body features genuine calfskin leather and titanium accents. Variants include alligator skin ($8,880), 18K gold custom editions (from $13,800 to $34,200 for top-tier configs), and bespoke options.</p>
+  <p>Vertu's Alphafold carves out a unique position in the AI phone landscape — not competing on AI photography or voice assistants, but positioning AI as a "digital executive assistant" capable of proactively completing complex business workflows. Analysts suggest the target audience is senior management willing to pay a premium for time efficiency.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://ai-daily.cc.cd/free-ai-tools" target="_blank">Free AI Tools</a> to access 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
