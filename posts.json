@@ -1,5 +1,37 @@
 [
   {
+    "id": "197",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日国际政治晚报：伊朗宣布霍尔木兹海峡完全关闭、两油轮触雷爆炸、1万伊朗人断水、伊朗起诉特朗普和内塔尼亚胡",
+      "summary": "⚡ 伊朗革命卫队宣布霍尔木兹海峡完全关闭，两艘油轮触雷爆炸起火，4艘违规船只被拦停；美军第七夜空袭摧毁海水淡化厂致1万伊朗人断水；伊朗最高领袖顾问警告再打2-3天将进入全面进攻阶段，起诉特朗普和内塔尼亚胡；科威特电厂再遭重创，巴林多次拉响防空警报；乌克兰无人机打击莫斯科地区油库致7死。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "中东",
+        "伊朗",
+        "特朗普",
+        "乌克兰"
+      ],
+      "file": "posts/197-international-politics-iran-hormuz-closed-water-crisis-indictments-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 International Evening: Iran Declares Hormuz \"Completely Closed\", Two Tankers Explode, 10,000 Without Water, Iran Indicts Trump and Netanyahu",
+      "summary": "⚡ Iran's IRGC declares Strait of Hormuz 'completely closed' as two oil tankers explode after hitting mines, 4 ships stopped; US 7th night of strikes destroys desalination plant, cutting water to 10,000 Iranians; Iran warns of full-scale offensive in 2-3 days, indicts Trump and Netanyahu; Kuwait power plant hit again, Bahrain sounds multiple air raid sirens; Ukraine drones strike Moscow region oil depot, killing 7.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Middle East",
+        "Iran",
+        "Trump",
+        "Ukraine"
+      ],
+      "file": "posts/197-international-politics-iran-hormuz-closed-water-crisis-indictments-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "196",
     "date": "2026-07-18",
     "zh": {
