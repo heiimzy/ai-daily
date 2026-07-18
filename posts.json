@@ -1,5 +1,37 @@
 [
   {
+    "id": "196",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日金融午报：长鑫科技IPO引爆华尔街狂热、SpaceX跌破发行价市值蒸发万亿、韩国杠杆ETF危机120万散户面临爆仓",
+      "summary": "⚡ 长鑫科技IPO申购中签率0.47%创科创板纪录，Hyperliquid永续合约隐含市值一度达3.9万亿，308倍市盈率引发估值大辩论；SpaceX跌破135美元发行价，一个月市值蒸发逾万亿美元；韩国杠杆ETF危机发酵，120万散户面临追缴，每30名成人中1人面临爆仓；台股暴跌2953点创史上最大单日跌幅。",
+      "tags": [
+        "金融经济",
+        "长鑫科技",
+        "SpaceX",
+        "韩国股市",
+        "台股",
+        "半导体",
+        "美股"
+      ],
+      "file": "posts/196-financial-roundup-cxmt-spacex-korea-leverage-taiex-record-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Financial Midday: CXMT IPO Frenzy Grips Wall Street, SpaceX Falls Below IPO Price as $1T Vanishes, Korea Margin Crisis Hits 1.2M Traders",
+      "summary": "⚡ CXMT IPO subscription rate hits 0.47% record on STAR Market; Hyperliquid perpetual implies $560B valuation — 6.76x IPO price; SpaceX closes below $135 IPO price for first time, $1 trillion in market cap erased in a month; Korea margin loan crisis hits 1.2 million retail investors; Taiwan stocks crash 6.47% in worst single-day drop ever.",
+      "tags": [
+        "Finance",
+        "CXMT",
+        "SpaceX",
+        "Korea Markets",
+        "Taiwan",
+        "Semiconductors",
+        "US Stocks"
+      ],
+      "file": "posts/196-financial-roundup-cxmt-spacex-korea-leverage-taiex-record-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "195",
     "date": "2026-07-18",
     "zh": {
