@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日科技晚间综述：全国首张脑机接口处方成功手术、Capital One开源AI安全工具VulnHunter、OpenAI推全双工语音</title>
+      <link>https://ai-daily.cc.cd/posts/199-tech-roundup-bci-surgery-vulnhunter-gptlive-july-18-2026.zh.html</link>
+      <description>⚡ 全国首张脑机接口处方在上海华山医院开出，NEO系统成功植入脊髓损伤患者；Capital One发布开源AI安全扫描工具VulnHunter；OpenAI推出GPT-Live全双工语音模式；费城半导体指数较6月高点下跌20%进入技术性熊市。</description>
+      <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/199-tech-roundup-bci-surgery-vulnhunter-gptlive-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日WAIC第二日：腾讯发布具身智能全栈方案、300台机器人集体上岗、产业化元年正式开启</title>
       <link>https://ai-daily.cc.cd/posts/198-waic-2026-day2-tencent-hy-embodied-industrialization-robots-july-18-2026.zh.html</link>
