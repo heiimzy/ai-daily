@@ -1,17 +1,61 @@
 [
   {
+    "id": "209",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日科技早报：北大神经动力学芯片改写脑机规则、智源Orca世界模型问世、OpenAI Sol Ultra攻克五十年数学猜想、Anthropic洽谈微软自研AI芯片",
+      "summary": "⚡ 北大团队在Science发表全球首款基于相变忆阻器的神经动力学系统芯片，脑皮层重建较GPU提速478倍；北京智源发布悟界·RoboBrain Orca世界模型，首次实现世界状态前后演化推演；OpenAI GPT-5.6 Sol Ultra以64子智能体一小时攻克50年未解图论猜想；Anthropic据报正洽谈租用微软Maia 200自研AI芯片。",
+      "tags": [
+        "科技新闻",
+        "神经动力学芯片",
+        "世界模型",
+        "OpenAI",
+        "Anthropic",
+        "北京大学"
+      ],
+      "file": "posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 Tech Roundup: PKU Neuromorphic Chip Rewrites BCI Rules, BAAI Orca World Model, OpenAI Sol Ultra Cracks 50-Year Math Conjecture",
+      "summary": "⚡ Peking University publishes world's first neural dynamical system chip in Science — 478x faster vs GPU; BAAI releases Orca world model for state evolution reasoning; OpenAI GPT-5.6 Sol Ultra cracks 50-year Cycle Double Cover Conjecture with 64 subagents; Anthropic reportedly in talks for Microsoft Maia 200 chips.",
+      "tags": [
+        "Tech News",
+        "Neuromorphic Chip",
+        "World Model",
+        "OpenAI",
+        "Anthropic",
+        "Peking University"
+      ],
+      "file": "posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "208",
     "date": "2026-07-19",
     "zh": {
       "title": "⚡ 7月19日国际政治早报：伊朗袭击约旦基地致两名美军死亡、哈梅内伊宣布备忘录作废、乌克兰379架无人机夜袭莫斯科地区",
       "summary": "⚡ 美军中央司令部确认2名美军士兵在伊朗对约旦基地的攻击中阵亡，1人失踪，为开战以来首次美军直接死于伊朗火力；伊朗最高领袖穆杰塔巴·哈梅内伊发表书面声明称特朗普签署的协议'毫无价值'，伊朗正式暂停履行备忘录义务；乌克兰379架无人机夜袭俄罗斯19个地区，Wildberries仓库被毁7名工人遇难；美军连续第七晚空袭伊朗扩大至基础设施；伊朗首次打击叙利亚境内美军基地。",
-      "tags": ["国际政治", "美伊冲突", "中东战争", "伊朗", "乌克兰", "莫斯科"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东战争",
+        "伊朗",
+        "乌克兰",
+        "莫斯科"
+      ],
       "file": "posts/208-iran-war-us-troops-killed-khamenei-warning-ukraine-drones-july-19-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 19 International Politics: 2 US Troops Killed in Jordan, Khamenei Declares Deal 'Worthless', 379 Ukraine Drones Hit 19 Russian Regions",
       "summary": "⚡ US Central Command confirms 2 US service members killed and 1 missing in Iranian attack on Jordan base — first US combat deaths from direct Iranian fire; Iran's supreme leader says Trump's signature 'worthless and invalid,' Iran suspends all MoU commitments; Ukraine launches 379 drones across 19 Russian regions, Wildberries warehouse hit killing 7; US strikes Iran for 7th night targeting infrastructure; Iran strikes US base in Syria for first time.",
-      "tags": ["International Politics", "US-Iran Conflict", "Middle East", "Iran", "Ukraine", "Moscow"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Middle East",
+        "Iran",
+        "Ukraine",
+        "Moscow"
+      ],
       "file": "posts/208-iran-war-us-troops-killed-khamenei-warning-ukraine-drones-july-19-2026.en.html"
     }
   },
@@ -21,13 +65,29 @@
     "zh": {
       "title": "⚡ 7月18日金融周末综述：费城半导体指数确认熊市、原油暴涨16%至88美元、比特币ETF连续四日净流入、250亿看涨期权押注7.2万美元",
       "summary": "⚡ 本周全球金融市场遭遇多重冲击：费城半导体指数暴跌20%以上确认进入技术性熊市；布伦特原油暴涨4.6%至88.10美元，单周涨幅16%创多年新高；美伊冲突第七晚持续升级，霍尔木兹海峡日通行量仅8艘；苹果盘中短暂超越英伟达重夺全球第一；Netflix暴跌7.3%、SpaceX创IPO新低；比特币ETF连续四日净流入1.32亿美元，Deribit现25亿美元看涨期权押注月底7.2万美元；E*TRADE推出现货比特币交易。",
-      "tags": ["金融经济", "美股", "原油", "费城半导体指数", "比特币", "美伊冲突", "ETF"],
+      "tags": [
+        "金融经济",
+        "美股",
+        "原油",
+        "费城半导体指数",
+        "比特币",
+        "美伊冲突",
+        "ETF"
+      ],
       "file": "posts/207-financial-weekend-wrap-oil-sox-bear-bitcoin-etf-july-18-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 18 Financial Weekend Wrap: SOX Confirms Bear Market, Oil Surges 16% to $88, Bitcoin ETF Sees 4th Day of Inflows, $2.5B Call Spread Targets $72K",
       "summary": "⚡ A punishing week for global markets: Philadelphia Semiconductor Index crashes 20%+ from June peak confirming bear market; Brent crude surges 4.6% to $88.10 with 16% weekly gain; US-Iran conflict enters 7th night with only 8 vessels crossing Hormuz; Apple briefly overtakes Nvidia; Netflix drops 7.3%, SpaceX hits IPO low; Bitcoin ETFs log 4th consecutive day of $132M inflows; Deribit sees $2.5B call spread betting on $72K by month-end; E*TRADE launches spot Bitcoin trading.",
-      "tags": ["Finance", "Stock Market", "Crude Oil", "Semiconductors", "Bitcoin", "US-Iran Conflict", "ETF"],
+      "tags": [
+        "Finance",
+        "Stock Market",
+        "Crude Oil",
+        "Semiconductors",
+        "Bitcoin",
+        "US-Iran Conflict",
+        "ETF"
+      ],
       "file": "posts/207-financial-weekend-wrap-oil-sox-bear-bitcoin-etf-july-18-2026.en.html"
     }
   },
@@ -37,13 +97,27 @@
     "zh": {
       "title": "⚡ 腾讯WAIC一次性补齐机器人、办公、出海AI全能力：具身智能全栈首秀、WorkBuddy登录鸿蒙、Hy3调用量暴增68倍",
       "summary": "⚡ 腾讯在WAIC 2026首日发布具身智能全栈方案，推出Hy-Embodied三大专用模型；WorkBuddy独立App同步登录iOS/Android/鸿蒙三端，成为业界首款覆盖鸿蒙的通用智能体应用；混元Hy3上线一周调用量暴增68倍登顶OpenRouter全球榜；腾讯云ADP 4.0海外版发布，加速企业出海AI布局；联合中国信通院发布「AI航海家+」出海智能体。",
-      "tags": ["科技新闻", "腾讯", "WAIC 2026", "具身智能", "智能体", "混元Hy3"],
+      "tags": [
+        "科技新闻",
+        "腾讯",
+        "WAIC 2026",
+        "具身智能",
+        "智能体",
+        "混元Hy3"
+      ],
       "file": "posts/206-tencent-waic-embodied-ai-workbuddy-hy3-july-19-2026.zh.html"
     },
     "en": {
       "title": "⚡ Tencent Unveils Full-Stack Embodied AI at WAIC: WorkBuddy on HarmonyOS, Hy3 Surges 68x, ADP 4.0 Overseas Edition Launches",
       "summary": "⚡ Tencent unveils full-stack embodied AI at WAIC 2026 with Hy-Embodied model trio; WorkBuddy standalone app launches on iOS, Android and HarmonyOS — first universal agent on Harmony; Hunyuan Hy3 sees 68x call volume surge in week one, tops OpenRouter; Tencent Cloud ADP 4.0 Overseas Edition debuts; AI Navigator+ launched for cross-border enterprises.",
-      "tags": ["Tech News", "Tencent", "WAIC 2026", "Embodied AI", "AI Agent", "Hunyuan Hy3"],
+      "tags": [
+        "Tech News",
+        "Tencent",
+        "WAIC 2026",
+        "Embodied AI",
+        "AI Agent",
+        "Hunyuan Hy3"
+      ],
       "file": "posts/206-tencent-waic-embodied-ai-workbuddy-hy3-july-19-2026.en.html"
     }
   },
@@ -53,13 +127,25 @@
     "zh": {
       "title": "⚡ 7月18日国际政治晚报：美军第七晚空袭伊朗2死1失踪、伊朗威胁全面进攻、里亚尔崩溃至历史新低",
       "summary": "⚡ 美军中央司令部确认2名美军士兵在伊朗对约旦基地的攻击中阵亡，1人失踪，为开战以来首次美军直接死于伊朗火力；伊朗最高领袖军事顾问警告若美军持续空袭将发动全面进攻，'没有任何政治边界是安全的'；伊朗里亚尔跌至192.8万兑1美元的历史新低；哈梅内伊声明称特朗普签名'毫无价值'；美军向以色列增派加油机为扩大行动做准备；科威特发电与海水淡化厂连遭伊朗攻击。",
-      "tags": ["国际政治", "美伊冲突", "中东战争", "伊朗", "霍尔木兹海峡"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东战争",
+        "伊朗",
+        "霍尔木兹海峡"
+      ],
       "file": "posts/205-us-iran-seventh-night-troops-killed-offensive-rial-crash-july-18-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 18 International: 2 US Troops Killed in Iran Strikes, Tehran Threatens Full-Scale Offensive, Rial Crashes to Record Low",
       "summary": "⚡ CENTCOM confirms 2 US service members killed and 1 missing in Iranian attack on Jordan base — the first US combat deaths from direct Iranian fire; Iran threatens 'full-scale offensive' with 'no political border safe'; Iranian rial plunges to record low of 1.928M to USD; Khamenei says Trump's signature 'utterly worthless'; US sends tanker aircraft to Israel; Kuwait power and desalination plants hit for second day.",
-      "tags": ["International Politics", "US-Iran Conflict", "Middle East", "Iran", "Strait of Hormuz"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Middle East",
+        "Iran",
+        "Strait of Hormuz"
+      ],
       "file": "posts/205-us-iran-seventh-night-troops-killed-offensive-rial-crash-july-18-2026.en.html"
     }
   },
@@ -69,13 +155,31 @@
     "zh": {
       "title": "⚡ 7月18日金融晚报：费城半导体指数确认熊市、原油暴涨14%至88美元、SpaceX六连阴市值蒸发超万亿、比特币反弹至64K",
       "summary": "⚡ 美股三大指数周线齐跌，费城半导体指数较6月峰值暴跌逾20%正式确认进入技术性熊市；布伦特原油暴涨14%至88.10美元，美伊冲突致霍尔木兹海峡航运近乎瘫痪；SpaceX六连阴跌至123.99美元市值较峰值蒸发逾万亿美元；比特币反弹至64,000美元；苹果短暂超越英伟达重夺全球市值第一；长鑫科技IPO中签率0.47%创科创板纪录；A股融资余额11连降超1700亿元但强平潮未至。",
-      "tags": ["金融经济", "美股", "原油", "半导体", "SpaceX", "比特币", "A股", "长鑫科技"],
+      "tags": [
+        "金融经济",
+        "美股",
+        "原油",
+        "半导体",
+        "SpaceX",
+        "比特币",
+        "A股",
+        "长鑫科技"
+      ],
       "file": "posts/204-financial-roundup-oil-sox-bear-spacex-bitcoin-july-18-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 18 Financial Evening: SOX Enters Bear Market, Oil Surges 14% to $88, SpaceX Plunges for 6th Day, Bitcoin Bounces to $64K",
       "summary": "⚡ Wall Street posts weekly losses: S&P 500 -1.6%, Nasdaq -2.9%; Philadelphia Semiconductor Index falls 20.2% from June peak confirming bear market; Brent crude surges 14% weekly to $88.10 amidst US-Iran conflict; SpaceX 6-day losing streak to $123.99, market cap down $1T+ from peak; Bitcoin recovers to $64,000; Apple briefly overtakes Nvidia; CXMT IPO sets STAR Market record.",
-      "tags": ["Finance", "US Markets", "Crude Oil", "Semiconductors", "SpaceX", "Bitcoin", "A-Shares", "CXMT"],
+      "tags": [
+        "Finance",
+        "US Markets",
+        "Crude Oil",
+        "Semiconductors",
+        "SpaceX",
+        "Bitcoin",
+        "A-Shares",
+        "CXMT"
+      ],
       "file": "posts/204-financial-roundup-oil-sox-bear-spacex-bitcoin-july-18-2026.en.html"
     }
   },
@@ -85,13 +189,27 @@
     "zh": {
       "title": "⚡ AI编码工具双周进化：Anthropic发布Claude Code动态工作流1000子智能体并行、VS Code 1.128多聊天Claude代理上线、xAI推出Grok 4.5编码智能体",
       "summary": "⚡ Anthropic为Claude Code发布动态工作流功能，支持单个会话中运行最多1000个并行子智能体并内置对抗性验证层；VS Code 1.128引入多聊天Claude代理会话与Copilot Vision GA；xAI推出Grok 4.5编码智能体以Cursor训练数据为基础，定价仅为Opus 4.8的1/4但幻觉率达54%；Firefox 152与Chrome 150同日发布关键安全补丁，开发者CI环境面临手动更新压力。",
-      "tags": ["科技新闻", "AI编码工具", "Anthropic", "VS Code", "Grok 4.5", "浏览器安全"],
+      "tags": [
+        "科技新闻",
+        "AI编码工具",
+        "Anthropic",
+        "VS Code",
+        "Grok 4.5",
+        "浏览器安全"
+      ],
       "file": "posts/203-ai-coding-tools-workflows-vscode-grok-browser-patches-july-19-2026.zh.html"
     },
     "en": {
       "title": "⚡ AI Coding Tools Surge: Anthropic's Claude Code Gets 1,000 Parallel Subagents, VS Code 1.128 Ships Multi-Chat, xAI Grok 4.5 at 1/4 Price",
       "summary": "⚡ Anthropic releases Claude Code Dynamic Workflows with up to 1,000 parallel subagents per session; VS Code 1.128 introduces multi-chat Claude agent sessions and Copilot Vision GA; xAI launches Grok 4.5 coding agent trained on Cursor data at 1/4 the price of Opus 4.8 with 54% hallucination rate; Firefox 152 and Chrome 150 ship critical security patches simultaneously.",
-      "tags": ["Tech News", "AI Coding Tools", "Anthropic", "VS Code", "Grok 4.5", "Browser Security"],
+      "tags": [
+        "Tech News",
+        "AI Coding Tools",
+        "Anthropic",
+        "VS Code",
+        "Grok 4.5",
+        "Browser Security"
+      ],
       "file": "posts/203-ai-coding-tools-workflows-vscode-grok-browser-patches-july-19-2026.en.html"
     }
   },
@@ -101,13 +219,27 @@
     "zh": {
       "title": "⚡ 7月18日WAIC收官日：阿里三箭齐发——平头哥开源SAIL剑指NVIDIA CUDA、M890超节点64卡开箱即用、秒悟团队版上线",
       "summary": "⚡ WAIC 2026最后一日：阿里平头哥正式开源AI软件栈T-Head SAIL，全面兼容260+主流框架，向NVIDIA CUDA生态发起正面挑战，真武AI芯片累计出货56万片；阿里云发布灵骏真武M890超节点实例，64卡开箱即用训练性能提升3倍，入选WAIC镇馆之宝；阿里发布秒悟团队版（Meoo Team）企业级AI应用创作平台，从个人工具升级为组织级生产力平台；Meta与Anthropic洽谈百亿美元算力租赁协议。",
-      "tags": ["科技新闻", "WAIC 2026", "阿里云", "平头哥", "AI芯片", "开源"],
+      "tags": [
+        "科技新闻",
+        "WAIC 2026",
+        "阿里云",
+        "平头哥",
+        "AI芯片",
+        "开源"
+      ],
       "file": "posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 18 WAIC Finale: Alibaba Fires Three Salvos — T-Head Open-Sources SAIL vs NVIDIA CUDA, M890 Super Node, Meoo Team Debuts",
       "summary": "⚡ WAIC 2026 final day: Alibaba T-Head open-sources SAIL AI software stack challenging NVIDIA CUDA with 260+ framework compatibility; Alibaba Cloud launches Zhenwu M890 super node with 64-card compute and 3x training performance; Alibaba debuts Meoo Team enterprise AI platform; Meta reportedly in $10B compute lease talks with Anthropic.",
-      "tags": ["Tech News", "WAIC 2026", "Alibaba Cloud", "T-Head", "AI Chips", "Open Source"],
+      "tags": [
+        "Tech News",
+        "WAIC 2026",
+        "Alibaba Cloud",
+        "T-Head",
+        "AI Chips",
+        "Open Source"
+      ],
       "file": "posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.en.html"
     }
   },
