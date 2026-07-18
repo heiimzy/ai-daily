@@ -1,5 +1,21 @@
 [
   {
+    "id": "208",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日国际政治早报：伊朗袭击约旦基地致两名美军死亡、哈梅内伊宣布备忘录作废、乌克兰379架无人机夜袭莫斯科地区",
+      "summary": "⚡ 美军中央司令部确认2名美军士兵在伊朗对约旦基地的攻击中阵亡，1人失踪，为开战以来首次美军直接死于伊朗火力；伊朗最高领袖穆杰塔巴·哈梅内伊发表书面声明称特朗普签署的协议'毫无价值'，伊朗正式暂停履行备忘录义务；乌克兰379架无人机夜袭俄罗斯19个地区，Wildberries仓库被毁7名工人遇难；美军连续第七晚空袭伊朗扩大至基础设施；伊朗首次打击叙利亚境内美军基地。",
+      "tags": ["国际政治", "美伊冲突", "中东战争", "伊朗", "乌克兰", "莫斯科"],
+      "file": "posts/208-iran-war-us-troops-killed-khamenei-warning-ukraine-drones-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 International Politics: 2 US Troops Killed in Jordan, Khamenei Declares Deal 'Worthless', 379 Ukraine Drones Hit 19 Russian Regions",
+      "summary": "⚡ US Central Command confirms 2 US service members killed and 1 missing in Iranian attack on Jordan base — first US combat deaths from direct Iranian fire; Iran's supreme leader says Trump's signature 'worthless and invalid,' Iran suspends all MoU commitments; Ukraine launches 379 drones across 19 Russian regions, Wildberries warehouse hit killing 7; US strikes Iran for 7th night targeting infrastructure; Iran strikes US base in Syria for first time.",
+      "tags": ["International Politics", "US-Iran Conflict", "Middle East", "Iran", "Ukraine", "Moscow"],
+      "file": "posts/208-iran-war-us-troops-killed-khamenei-warning-ukraine-drones-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "207",
     "date": "2026-07-18",
     "zh": {
