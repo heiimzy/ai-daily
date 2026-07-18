@@ -1,5 +1,35 @@
 [
   {
+    "id": "194",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日科技综述：AI Coding Agent安全危机MOSAIC攻击96%成功率、全美50城抗议AI数据中心、特朗普政府拟建AI版FINRA",
+      "summary": "⚡ MOSAIC研究框架在96.59%测试中成功攻陷AI编程智能体，CCR攻击定义全新安全类别；全美50多城同日爆发AI数据中心抗议活动，70%美民众反对本地建设，纽约州首个实施全州暂停令；特朗普政府考虑设立AI版FINRA独立监管机构，回应Kimi K3冲击波。",
+      "tags": [
+        "AI安全",
+        "MOSAIC攻击",
+        "数据中心抗议",
+        "AI监管",
+        "特朗普政府",
+        "HalluSquatting"
+      ],
+      "file": "posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Tech Roundup: MOSAIC Attack Compromises 96% of AI Coding Agents, 50+ US Cities Protest AI Data Centers, Trump Admin Weighs AI FINRA",
+      "summary": "⚡ MOSAIC attack framework compromises AI coding agents in 96.59% of trials, defining a new security category called CCR; 50+ US cities hold coordinated AI data center protests with 70% public opposition, New York enacts first statewide moratorium; Trump administration considers AI FINRA-style regulator in response to Kimi K3 shockwaves.",
+      "tags": [
+        "AI Security",
+        "MOSAIC Attack",
+        "Data Center Protest",
+        "AI Regulation",
+        "Trump Administration",
+        "HalluSquatting"
+      ],
+      "file": "posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "193",
     "date": "2026-07-18",
     "zh": {
