@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 02:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:05:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日科技综述：商汤U1 Pro成图模型对标GPT-Image 2、WordPress紧急修复wp2shell RCE漏洞、Sashiko AI正式加入Linux内核审查、Vertu推$6,880奢华AI手机</title>
+      <link>https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html</link>
+      <description>⚡ 商汤在WAIC 2026发布U1 Pro图像生成模型，原生8K输出对标GPT-Image 2，面向成品级专业设计；WordPress启用强制自动更新修复wp2shell远程代码执行漏洞，影响全球40%+网站；Linus Torvalds正式批准Sashiko AI进入Linux内核代码审查流程，有人已发起Fork；Vertu推出Hermes Agent AI系统加持的$6,880奢华折叠屏手机Alphafold。</description>
+      <pubDate>Sat, 18 Jul 2026 03:05:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日国际局势：美军连续第七晚空袭伊朗、伊朗打击科威特约旦巴林报复、特朗普暂缓大规模进攻</title>
       <link>https://ai-daily.cc.cd/posts/189-iran-war-seventh-night-hormuz-escalation-july-18-2026.zh.html</link>
