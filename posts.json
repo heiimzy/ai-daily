@@ -1,5 +1,21 @@
 [
   {
+    "id": "205",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日国际政治晚报：美军第七晚空袭伊朗2死1失踪、伊朗威胁全面进攻、里亚尔崩溃至历史新低",
+      "summary": "⚡ 美军中央司令部确认2名美军士兵在伊朗对约旦基地的攻击中阵亡，1人失踪，为开战以来首次美军直接死于伊朗火力；伊朗最高领袖军事顾问警告若美军持续空袭将发动全面进攻，'没有任何政治边界是安全的'；伊朗里亚尔跌至192.8万兑1美元的历史新低；哈梅内伊声明称特朗普签名'毫无价值'；美军向以色列增派加油机为扩大行动做准备；科威特发电与海水淡化厂连遭伊朗攻击。",
+      "tags": ["国际政治", "美伊冲突", "中东战争", "伊朗", "霍尔木兹海峡"],
+      "file": "posts/205-us-iran-seventh-night-troops-killed-offensive-rial-crash-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 International: 2 US Troops Killed in Iran Strikes, Tehran Threatens Full-Scale Offensive, Rial Crashes to Record Low",
+      "summary": "⚡ CENTCOM confirms 2 US service members killed and 1 missing in Iranian attack on Jordan base — the first US combat deaths from direct Iranian fire; Iran threatens 'full-scale offensive' with 'no political border safe'; Iranian rial plunges to record low of 1.928M to USD; Khamenei says Trump's signature 'utterly worthless'; US sends tanker aircraft to Israel; Kuwait power and desalination plants hit for second day.",
+      "tags": ["International Politics", "US-Iran Conflict", "Middle East", "Iran", "Strait of Hormuz"],
+      "file": "posts/205-us-iran-seventh-night-troops-killed-offensive-rial-crash-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "204",
     "date": "2026-07-18",
     "zh": {
