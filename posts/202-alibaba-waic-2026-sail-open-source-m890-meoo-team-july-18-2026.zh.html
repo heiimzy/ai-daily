@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>阿里WAIC 2026三连击：平头哥开源SAIL挑战NVIDIA CUDA、灵骏真武M890超节点发布、秒悟团队版上线 - AI Daily</title>
+  <meta name="description" content="WAIC 2026最后一日：阿里平头哥正式开源AI软件栈T-Head SAIL，全面兼容260+主流框架，向NVIDIA CUDA生态发起正面挑战；阿里云发布灵骏真武M890超节点实例，64卡开箱即用，训练性能提升3倍；阿里发布秒悟团队版（Meoo Team）企业级AI应用创作平台，从个人工具升级为组织级生产力平台。">
+  <meta name="keywords" content="WAIC 2026,阿里云,平头哥,T-Head SAIL,真武M890,秒悟,人工智能,AI芯片,CUDA,开源,超节点">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-18</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-18</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">WAIC 2026</span><span class="tag">阿里云</span><span class="tag">平头哥</span><span class="tag">AI芯片</span><span class="tag">开源</span></div>
+  <h1>⚡ WAIC 2026收官日：阿里三箭齐发——平头哥开源SAIL剑指NVIDIA CUDA、M890超节点64卡开箱即用、秒悟团队版定义企业AI创作新范式</h1>
+
+  <p>2026年7月18日，世界人工智能大会（WAIC 2026）进入最后一天。阿里巴巴系以一场密集的产品与技术发布为大会压轴——平头哥半导体正式开源AI软件栈T-Head SAIL，向NVIDIA统治性的CUDA生态发起正面挑战；阿里云发布灵骏真武M890超节点实例，首次通过公共云提供64卡超节点形态AI算力；阿里旗下秒悟（Meoo）推出团队版，从个人工具升级为企业级AI应用创作平台。三大动作同时释放，标志着阿里在AI基础设施层、算力层和应用层三线同步发力。</p>
+
+  <h2>一、平头哥开源T-Head SAIL：向CUDA霸权宣战</h2>
+
+  <p>在WAIC 2026「基座大模型架构创新与生态合作论坛」上，阿里平头哥半导体正式宣布开源其自研AI软件栈T-Head SAIL，这是平头哥为真武（Zhenwu）系列AI芯片打造的底层软件架构。即日起，全球开发者可在平头哥开发者社区下载SAIL的SDK软件包、内核驱动、性能分析和调试工具等全栈技术文档。</p>
+
+  <p><strong>SAIL软件栈由五层完整技术栈组成：</strong>Driver与Runtime层、编程语言层、编译器层、高性能库层、开发者工具层。从底层驱动到上层工具，全面覆盖芯片算力释放的完整链路。在生态兼容性方面，SAIL已全面适配PyTorch、TensorFlow、vLLM、SGLang等260余个主流训练与推理框架，主流模型即开即用。平头哥声称，程序员可在7天内将SAIL适配到主流AI框架。</p>
+
+  <blockquote>「开源AI软件栈只是开始，平头哥希望与全球开发者、科研机构及产业伙伴，共同打磨工具链、丰富算子生态、优化性能体验。」——平头哥半导体副总裁高慧</blockquote>
+
+  <p>截至今年4月，真武AI芯片已累计出货56万片，服务20多个行业400多家客户，超过60%的算力服务于外部商业化客户。SAIL面向全球开源后，所有企业都能快速使用这一软件能力，开发者可以直接阅读源码、了解芯片运行逻辑、定位并修复Bug，还能根据自身场景做深度定制优化。</p>
+
+  <p><strong>战略意义：</strong>目前全球绝大多数AI开发者使用NVIDIA的CUDA工具包编写GPU软件。这种依赖性本质上是锁定效应——一旦整个生态围绕CUDA构建，迁移至替代硬件的成本极高。平头哥的开源动作，是继华为CANN和摩尔线程GPU软件栈之后，中国AI芯片阵营对CUDA生态发起的又一次系统性挑战。值得注意的是，这一发布发生在Anthropic上月指控阿里Qwen实验室进行「史上最大AI蒸馏运动」、五角大楼6月将阿里列入「中国军事企业黑名单」的背景之下。SAIL的开源将阿里定位为「开放AI基础设施贡献者」，同时使其生态系统更具粘性。</p>
+
+  <h2>二、灵骏真武M890超节点：64卡开箱即用，训练性能3倍提升</h2>
+
+  <p>在同一大会上，阿里云发布了灵骏真武M890超节点实例，以超节点形态为客户提供高速互联、开箱即用的64卡算力单元。这是阿里云首次通过公共云对外提供超节点形态的AI算力服务，标志着阿里云面向Agent时代的全栈AI Native基础设施实现关键跃迁。</p>
+
+  <p><strong>核心参数：</strong>灵骏真武M890支持FP8/FP4低精度计算，通过ICN Switch 1.0芯片将Scale-up互联规模从16卡提升至64卡，卡间互联带宽达到800GB/s。在智能驾驶、具身智能等训练场景中，相比上一代真武810E，训练性能提升三倍。凭借超大显存与全对称高速互联，一台超节点实例即可承载十万亿参数级MoE大模型的推理。</p>
+
+  <p>M890配套的磐久AL128超节点服务器已入选WAIC 2026「镇馆之宝」——这是WAIC展览板块的最高荣誉，从数千件参展成果中遴选。磐久AL128单柜集成128颗芯片，通过自研ALink互连架构实现Pb/s级带宽与百纳秒级延迟。该超节点已上线阿里云百炼，支持Qwen、DeepSeek、Kimi等主流模型。</p>
+
+  <p>在网络和存储层，阿里云同步推出了一系列创新：网络层推出专为Token性能设计的TPN架构，存储层发布KVCacheStore满足百万QPS与千亿级KV存储规模，平台层推出PAI-EAS TokenWorks提供模型部署和推理服务。灵骏超节点实例已在乌兰察布地域开放邀测。</p>
+
+  <h2>三、秒悟团队版（Meoo Team）：从个人工具到组织级生产力平台</h2>
+
+  <p>阿里还在WAIC上发布了企业级AI应用创作平台「秒悟团队版」（Meoo Team）。秒悟（Meoo）是阿里ATH事业群推出的一款低门槛AI应用创作平台，用户无需任何编程基础，只需用自然语言描述想法，就能快速生成应用、网站、H5页面或微信小程序，并一键部署发布。自今年4月上线至今，每天已有上万名用户使用Meoo进行创作，其中一半以上没有技术背景。</p>
+
+  <p>Meoo Team全面升级了企业级协作与管理能力，核心功能包括：</p>
+
+  <ul>
+    <li><strong>统一身份管理：</strong>企业成员可直接使用阿里云账号登录，无需单独注册</li>
+    <li><strong>资源调度：</strong>团队可统一购买席位与积分，管理员根据需求灵活配置额度</li>
+    <li><strong>精细化权限管理：</strong>支持所有者、管理员和普通成员三级角色划分</li>
+    <li><strong>团队资产共享：</strong>企业积累的应用生态、专属技能和业务流程持续沉淀为数字资产</li>
+  </ul>
+
+  <p>在实际应用中，Meoo Team已深入电商、内容创作、产运、营销、教育及企业内部管理等场景。以跨境电商为例，企业可共同搭建客户看板并实时共享数据；营销团队可前后端协作搭建品牌官网并一键发布为真实可用的网页。Meoo Team支持按月或按年订购，可随团队规模灵活增减席位。</p>
+
+  <h2>四、行业观察：中国AI基础设施的「开源+自研」双轮驱动</h2>
+
+  <p>阿里在WAIC 2026的密集发布，折射出中国AI产业在基础设施层面的战略转型。一方面，以SAIL开源为代表的生态建设，正在从芯片层打破CUDA的生态垄断；另一方面，以真武M890为代表的自研硬件持续突破，在性能上紧追国际一流水平。</p>
+
+  <p>从行业格局来看，中国已有三家具备「芯片-云-模型」完整协同能力的公司：华为（昇腾+Huawei Cloud+盘古）、阿里（平头哥+阿里云+通义千问）、百度（昆仑芯+百度智能云+文心）。三家的共同特征是：通过开源降低开发者门槛，通过云服务实现规模化分发，通过自研芯片锁定长期竞争力。</p>
+
+  <p>与此同时，AI行业的算力军备竞赛仍在升级。据报道，Meta正与Anthropic洽谈一项为期两年的算力租赁协议，潜在价值高达100亿美元。这一「大厂出基建、模型厂出技术」的跨界合作模式，折射出AI算力日益稀缺的现实——即使是估值近万亿美元的Anthropic，仍需向竞争对手寻求算力支持。</p>
+
+  <p>阿里此次WAIC收官日的三重发布，从底层的芯片软件生态（SAIL开源），到中层的算力基础设施（M890超节点），再到上层的企业应用平台（Meoo Team），构建了一个完整的AI技术栈叙事。随着WAIC 2026落幕，中国AI产业正式进入「软硬一体、全栈自研」的新阶段。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
