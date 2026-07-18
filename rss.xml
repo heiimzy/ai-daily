@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:04:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ AI编码工具双周进化：Anthropic发布Claude Code动态工作流1000子智能体并行、VS Code 1.128多聊天Claude代理上线、xAI推出Grok 4.5编码智能体</title>
+      <link>https://ai-daily.cc.cd/posts/203-ai-coding-tools-workflows-vscode-grok-browser-patches-july-19-2026.zh.html</link>
+      <description>⚡ Anthropic为Claude Code发布动态工作流功能，支持单个会话中运行最多1000个并行子智能体并内置对抗性验证层；VS Code 1.128引入多聊天Claude代理会话与Copilot Vision GA；xAI推出Grok 4.5编码智能体以Cursor训练数据为基础，定价仅为Opus 4.8的1/4但幻觉率达54%；Firefox 152与Chrome 150同日发布关键安全补丁，开发者CI环境面临手动更新压力。</description>
+      <pubDate>Sun, 19 Jul 2026 00:04:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/203-ai-coding-tools-workflows-vscode-grok-browser-patches-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日WAIC收官日：阿里三箭齐发——平头哥开源SAIL剑指NVIDIA CUDA、M890超节点64卡开箱即用、秒悟团队版上线</title>
       <link>https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html</link>
