@@ -1,5 +1,21 @@
 [
   {
+    "id": "204",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日金融晚报：费城半导体指数确认熊市、原油暴涨14%至88美元、SpaceX六连阴市值蒸发超万亿、比特币反弹至64K",
+      "summary": "⚡ 美股三大指数周线齐跌，费城半导体指数较6月峰值暴跌逾20%正式确认进入技术性熊市；布伦特原油暴涨14%至88.10美元，美伊冲突致霍尔木兹海峡航运近乎瘫痪；SpaceX六连阴跌至123.99美元市值较峰值蒸发逾万亿美元；比特币反弹至64,000美元；苹果短暂超越英伟达重夺全球市值第一；长鑫科技IPO中签率0.47%创科创板纪录；A股融资余额11连降超1700亿元但强平潮未至。",
+      "tags": ["金融经济", "美股", "原油", "半导体", "SpaceX", "比特币", "A股", "长鑫科技"],
+      "file": "posts/204-financial-roundup-oil-sox-bear-spacex-bitcoin-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Financial Evening: SOX Enters Bear Market, Oil Surges 14% to $88, SpaceX Plunges for 6th Day, Bitcoin Bounces to $64K",
+      "summary": "⚡ Wall Street posts weekly losses: S&P 500 -1.6%, Nasdaq -2.9%; Philadelphia Semiconductor Index falls 20.2% from June peak confirming bear market; Brent crude surges 14% weekly to $88.10 amidst US-Iran conflict; SpaceX 6-day losing streak to $123.99, market cap down $1T+ from peak; Bitcoin recovers to $64,000; Apple briefly overtakes Nvidia; CXMT IPO sets STAR Market record.",
+      "tags": ["Finance", "US Markets", "Crude Oil", "Semiconductors", "SpaceX", "Bitcoin", "A-Shares", "CXMT"],
+      "file": "posts/204-financial-roundup-oil-sox-bear-spacex-bitcoin-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "203",
     "date": "2026-07-19",
     "zh": {
