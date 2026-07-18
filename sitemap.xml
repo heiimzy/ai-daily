@@ -2087,4 +2087,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
