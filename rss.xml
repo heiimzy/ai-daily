@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 00:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日金融晚报：费城半导体指数确认熊市、原油暴涨14%至88美元、SpaceX六连阴市值蒸发超万亿、比特币反弹至64K</title>
+      <link>https://ai-daily.cc.cd/posts/204-financial-roundup-oil-sox-bear-spacex-bitcoin-july-18-2026.zh.html</link>
+      <description>⚡ 美股三大指数周线齐跌，费城半导体指数较6月峰值暴跌逾20%正式确认进入技术性熊市；布伦特原油暴涨14%至88.10美元，美伊冲突致霍尔木兹海峡航运近乎瘫痪；SpaceX六连阴跌至123.99美元市值较峰值蒸发逾万亿美元；比特币反弹至64,000美元；苹果短暂超越英伟达重夺全球市值第一；长鑫科技IPO中签率0.47%创科创板纪录；A股融资余额11连降超1700亿元但强平潮未至。</description>
+      <pubDate>Sat, 18 Jul 2026 17:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/204-financial-roundup-oil-sox-bear-spacex-bitcoin-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ AI编码工具双周进化：Anthropic发布Claude Code动态工作流1000子智能体并行、VS Code 1.128多聊天Claude代理上线、xAI推出Grok 4.5编码智能体</title>
       <link>https://ai-daily.cc.cd/posts/203-ai-coding-tools-workflows-vscode-grok-browser-patches-july-19-2026.zh.html</link>
