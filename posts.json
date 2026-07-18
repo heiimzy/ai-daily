@@ -1,5 +1,35 @@
 [
   {
+    "id": "198",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日WAIC第二日：腾讯发布具身智能全栈方案、300台机器人集体上岗、产业化元年正式开启",
+      "summary": "⚡ WAIC 2026第二日：腾讯首次完整发布具身智能全栈解决方案，Hy-Embodied三大专用模型、TairosAgent框架、WorkBuddy独立App齐亮相；300余台真机同台，具身智能从\"能运动\"到\"能干活\"，产业化拐点已至；蚂蚁灵波智慧药房90秒完成药品拣选打包全流程；工业机器人\"今天进厂培训、明天熟练工\"。",
+      "tags": [
+        "科技新闻",
+        "WAIC 2026",
+        "腾讯",
+        "具身智能",
+        "产业化",
+        "机器人"
+      ],
+      "file": "posts/198-waic-2026-day2-tencent-hy-embodied-industrialization-robots-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 WAIC Day 2: Tencent Unveils Full-Stack Embodied AI, 300 Robots Deployed, Industrialization Era Begins",
+      "summary": "⚡ WAIC 2026 Day 2: Tencent unveils full-stack embodied AI with Hy-Embodied models, TairosAgent framework, WorkBuddy app; 300+ robots shift from 'can it move' to 'can it work'; Ant Group robot pharmacy completes order-to-pack in 90 seconds; 'train today, work tomorrow' factory robots go mainstream.",
+      "tags": [
+        "Tech News",
+        "WAIC 2026",
+        "Tencent",
+        "Embodied AI",
+        "Industrialization",
+        "Robotics"
+      ],
+      "file": "posts/198-waic-2026-day2-tencent-hy-embodied-industrialization-robots-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "197",
     "date": "2026-07-18",
     "zh": {
