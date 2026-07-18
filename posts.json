@@ -1,17 +1,65 @@
 [
   {
+    "id": "191",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ WAIC 2026次日现场：智元连发五款新品A3 Ultra获评“镇馆之宝”、均胜电子发布灵巧手与半固态电池、特朗普政府拟建“AI版FINRA”",
+      "summary": "⚡ WAIC 2026第二日：智元机器人连发五款新品，远征A3 Ultra获评“镇馆之宝”具身处理器700TOPS；均胜电子首发灵巧手与固液混合电池，控制器已为头部客户量产供货；特朗普政府考虑建立“AI版FINRA”独立监管机构以规范AI安全审查。上海AI产业市值破万亿，具身智能全面爆发。",
+      "tags": [
+        "科技新闻",
+        "WAIC 2026",
+        "具身智能",
+        "智元机器人",
+        "均胜电子",
+        "AI监管"
+      ],
+      "file": "posts/191-waic-2026-day2-embodied-ai-zhiyuan-junsheng-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ WAIC 2026 Day 2: Zhiyuan Launches 5 Products, A3 Ultra Named “Treasure of the Hall”; Joyson Electronics Debuts Dexterous Hand & Semi-Solid Battery; Trump Admin Plans “AI FINRA”",
+      "summary": "⚡ WAIC 2026 Day 2: Zhiyuan Robotics launches 5 new products including A3 Ultra humanoid robot; Joyson Electronics debuts dexterous hand and semi-solid battery robot components with mass-produced controllers; Trump administration considers establishing an AI FINRA-style independent regulator. Shanghai AI industry market cap surges past $200B.",
+      "tags": [
+        "Tech News",
+        "WAIC 2026",
+        "Embodied AI",
+        "Zhiyuan Robotics",
+        "Joyson Electronics",
+        "AI Regulation"
+      ],
+      "file": "posts/191-waic-2026-day2-embodied-ai-zhiyuan-junsheng-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "190",
     "date": "2026-07-18",
     "zh": {
       "title": "⚡ 7月18日科技综述：商汤U1 Pro成图模型对标GPT-Image 2、WordPress紧急修复wp2shell RCE漏洞、Sashiko AI正式加入Linux内核审查、Vertu推$6,880奢华AI手机",
       "summary": "⚡ 商汤在WAIC 2026发布U1 Pro图像生成模型，原生8K输出对标GPT-Image 2，面向成品级专业设计；WordPress启用强制自动更新修复wp2shell远程代码执行漏洞，影响全球40%+网站；Linus Torvalds正式批准Sashiko AI进入Linux内核代码审查流程，有人已发起Fork；Vertu推出Hermes Agent AI系统加持的$6,880奢华折叠屏手机Alphafold，面向企业高管人群。",
-      "tags": ["科技新闻", "商汤", "WordPress", "网络安全", "Linux", "AI手机", "Vertu", "WAIC"],
+      "tags": [
+        "科技新闻",
+        "商汤",
+        "WordPress",
+        "网络安全",
+        "Linux",
+        "AI手机",
+        "Vertu",
+        "WAIC"
+      ],
       "file": "posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 18 Tech Roundup: SenseTime U1 Pro Challenges GPT-Image 2, WordPress Emergency wp2shell RCE Patch, Sashiko AI Joins Linux Kernel Review, Vertu Launches $6,880 Luxury AI Phone",
       "summary": "⚡ SenseTime unveils U1 Pro at WAIC 2026 with native 8K output targeting GPT-Image 2; WordPress forces auto-updates for critical wp2shell RCE vulnerability affecting 40%+ of websites; Linus Torvalds greenlights Sashiko AI for Linux kernel code review — someone forks it within days; Vertu launches $6,880 Alphafold foldable with Hermes Agent AI concierge system targeting C-suite executives.",
-      "tags": ["Tech News", "SenseTime", "WordPress", "Cybersecurity", "Linux", "AI Phone", "Vertu", "WAIC"],
+      "tags": [
+        "Tech News",
+        "SenseTime",
+        "WordPress",
+        "Cybersecurity",
+        "Linux",
+        "AI Phone",
+        "Vertu",
+        "WAIC"
+      ],
       "file": "posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.en.html"
     }
   },
