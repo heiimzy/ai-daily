@@ -1,5 +1,21 @@
 [
   {
+    "id": "187",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日科技早报：全球芯片指数确认进入熊市、Databricks估值飙至1880亿美元、WAIC第二天荣耀Robot Phone登场",
+      "summary": "⚡ 费城半导体指数从6月高点暴跌20%确认进入熊市，全球芯片股市值蒸发3.3万亿美元；Databricks由Coatue领投完成新一轮融资估值达1880亿美元；WAIC 2026第二天荣耀Robot Phone正式亮相，世界首款内置机械云台的具身智能手机面向公众展示。",
+      "tags": ["科技新闻", "半导体", "Databricks", "WAIC", "荣耀", "AI"],
+      "file": "posts/187-tech-roundup-chip-bear-market-databricks-188b-honor-robot-phone-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Tech Roundup: Chip Index Enters Bear Market, Databricks Hits $188B, Honor Robot Phone Debuts at WAIC",
+      "summary": "⚡ Philadelphia Semiconductor Index crashes 20% from June peak, confirming a bear market — $3.3 trillion in chip market cap erased; Databricks signs $188B valuation round led by Coatue; Honor unveils world's first robotic-gimbal smartphone at WAIC 2026 Day 2 in Shanghai.",
+      "tags": ["Tech News", "Semiconductors", "Databricks", "WAIC", "Honor", "AI"],
+      "file": "posts/187-tech-roundup-chip-bear-market-databricks-188b-honor-robot-phone-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "186",
     "date": "2026-07-18",
     "zh": {
