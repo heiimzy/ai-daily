@@ -1,5 +1,21 @@
 [
   {
+    "id": "203",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ AI编码工具双周进化：Anthropic发布Claude Code动态工作流1000子智能体并行、VS Code 1.128多聊天Claude代理上线、xAI推出Grok 4.5编码智能体",
+      "summary": "⚡ Anthropic为Claude Code发布动态工作流功能，支持单个会话中运行最多1000个并行子智能体并内置对抗性验证层；VS Code 1.128引入多聊天Claude代理会话与Copilot Vision GA；xAI推出Grok 4.5编码智能体以Cursor训练数据为基础，定价仅为Opus 4.8的1/4但幻觉率达54%；Firefox 152与Chrome 150同日发布关键安全补丁，开发者CI环境面临手动更新压力。",
+      "tags": ["科技新闻", "AI编码工具", "Anthropic", "VS Code", "Grok 4.5", "浏览器安全"],
+      "file": "posts/203-ai-coding-tools-workflows-vscode-grok-browser-patches-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ AI Coding Tools Surge: Anthropic's Claude Code Gets 1,000 Parallel Subagents, VS Code 1.128 Ships Multi-Chat, xAI Grok 4.5 at 1/4 Price",
+      "summary": "⚡ Anthropic releases Claude Code Dynamic Workflows with up to 1,000 parallel subagents per session; VS Code 1.128 introduces multi-chat Claude agent sessions and Copilot Vision GA; xAI launches Grok 4.5 coding agent trained on Cursor data at 1/4 the price of Opus 4.8 with 54% hallucination rate; Firefox 152 and Chrome 150 ship critical security patches simultaneously.",
+      "tags": ["Tech News", "AI Coding Tools", "Anthropic", "VS Code", "Grok 4.5", "Browser Security"],
+      "file": "posts/203-ai-coding-tools-workflows-vscode-grok-browser-patches-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "202",
     "date": "2026-07-18",
     "zh": {
