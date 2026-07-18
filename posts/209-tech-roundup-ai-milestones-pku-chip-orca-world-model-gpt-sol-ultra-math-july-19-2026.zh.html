@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7月19日科技早报：北大神经动力学芯片改写脑机规则、智源Orca世界模型问世、OpenAI Sol Ultra攻克五十年数学猜想、Anthropic洽谈微软自研AI芯片 - AI Daily</title>
+  <meta name="description" content="⚡ 北大团队在Science发表全球首款基于相变忆阻器的神经动力学系统芯片，脑皮层重建较GPU提速478倍；北京智源发布悟界·RoboBrain Orca世界模型，首次实现世界状态前后演化推演；OpenAI GPT-5.6 Sol Ultra以64子智能体一小时攻克50年未解图论猜想；Anthropic据报正洽谈租用微软Maia 200自研AI芯片。">
+  <meta name="keywords" content="北大神经动力学芯片,相变忆阻器,神经动力学,Science,智源Orca,世界模型,BAAI,OpenAI Sol Ultra,循环双覆盖猜想,数学猜想,Anthropic,微软,Maia芯片,AI芯片">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-19</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-19</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">神经动力学芯片</span><span class="tag">世界模型</span><span class="tag">OpenAI</span><span class="tag">Anthropic</span><span class="tag">北京大学</span></div>
+  <h1>⚡ 7月19日科技早报：北大神经动力学芯片改写脑机规则、智源 Orca 世界模型问世、OpenAI Sol Ultra 攻克五十年数学猜想</h1>
+
+  <h2>一、北大在Science发表神经动力学芯片：单步2.12毫秒，脑皮层重建较GPU提速478倍</h2>
+  <p>北京大学集成电路学院杨玉超教授团队联合中国科学院上海微系统与信息技术研究所宋志棠研究员团队，在最新一期《科学》（Science）杂志上发表了全球首款基于相变忆阻器的神经动力学系统芯片。这颗采用40纳米工艺的芯片，首次将神经动力学计算的单步时延压缩至2.12毫秒——与生物神经元的突触响应时间相当，标志着中国在类脑计算硬件领域迈出了里程碑式的一步。</p>
+  <p>传统计算架构（冯·诺依曼架构）存在存储与计算分离的核心瓶颈：求解神经动力学方程时，海量中间变量在内存储器和处理器之间反复"奔波"，大量时间消耗在数据搬运上。北大团队的解决方案是提出"可控存内计算"新范式——利用相变存储器独特的"电导漂移"现象，让存储单元本身具备计算能力，在同一个阵列内同步完成矩阵乘加运算。</p>
+  <p>在脑皮层表面高保真重建任务中，该芯片较国外先进GPU提速达478.18倍，功耗降低11.75至24.73倍。两大核心计算任务被统一集成在总面积仅0.28平方毫米的存算阵列中。重建出的脑皮层网格平滑、拓扑一致，能精准刻画复杂的褶皱结构。</p>
+  <p>这一突破为脑机接口和脑疾病诊疗开启了全新想象空间：术中神经导航可以实时进行，阿尔茨海默病早筛及个性化干预将获得可实时运行的硬件底座。杨玉超表示，架构创新正在成为计算性能持续提升的核心驱动力，"当传统工艺逼近物理极限时，架构创新将成为新的突破口。"</p>
+
+  <h2>二、北京智源发布悟界·RoboBrain Orca世界模型：AI首次实现对整体世界状态的前后演化推演</h2>
+  <p>北京智源人工智能研究院（BAAI）近日发布了悟界·RoboBrain Orca——一个全新的多模态表征世界模型，突破了现有大模型仅预测文本、画面或动作单模态输出的技术路径，率先实现对整体"世界状态"的前后演化推演。</p>
+  <p>Orca的核心创新在于构建统一的世界潜在表征空间。当输入视频、图片、文字指令或事件描述等任意多模态信息后，模型将视觉、语言、任务意图等多元信号统一整合，自主学习物体运动规律、场景演变逻辑、动作因果关联和事件时序关系。它既能推演当前场景走向未来的演化路径，也能模拟不同条件下世界发展的多元可能性。</p>
+  <p>为实现这一目标，研究团队设计了"有意识+无意识"双路径互补训练体系：无意识学习依托12.5万小时真实世界视频素材，复刻人类婴幼儿观察自然积累常识的过程；有意识学习依托1.6亿条事件标注数据和1150万条VQA数据，针对性学习具备明确语义的状态转换逻辑。</p>
+  <p>在机器人动作验证中，Orca无需预先学习动作标签即可大幅提升下游复杂任务泛化能力，甚至在抓取失败后能自主重试——展现了传统模型不具备的世界理解能力。Orca-4B已开源至Hugging Face（）。</p>
+  <p>智源方面表示，Orca目前仍是"早期版本"，但其探索的Next-State-Prediction技术路径为通用世界基础模型的构建提供了重要基石。</p>
+
+  <h2>三、OpenAI GPT-5.6 Sol Ultra一小时攻克50年数学猜想：64个子智能体协同作战</h2>
+  <p>2026年7月10日，OpenAI宣布其旗舰大模型GPT-5.6 Sol Ultra在不到一小时内攻克了图论领域悬而未决长达50多年的"循环双覆盖猜想"（Cycle Double Cover Conjecture），成为AI发展史上的分水岭时刻。</p>
+  <p>据介绍，系统被允许最多同时调用64个并行子智能体协同工作。在早期阶段保持研究路线多样性，让不同智能体分别尝试不同数学表示方法、代数思路以及结构归纳；同时安排专门的"对抗智能体"负责寻找漏洞和边界情况。虽然系统原本预留了8小时计算时间，但最终仅耗时约1小时便完成全部证明。</p>
+  <p>循环双覆盖猜想由数学家George Szekeres于1973年和Paul Seymour于1979年分别独立提出，核心命题是：对于任意无桥图，是否存在一组循环，使得图中的每一条边都恰好出现在两个循环中。OpenAI研究员Ethan Knight在X平台宣布了这一成果，并将PDF上传至公司CDN。</p>
+  <p>英国曼彻斯特大学数学家Thomas Bloom最早公开评价这份证明，认为"这是一个非常漂亮的证明"——证明简洁、基础，使用的方法并不复杂。不过他也指出，整篇证明没有引用任何已有文献，这是目前AI自动生成数学论文普遍存在的问题。目前该证明尚未经过正式同行评审。</p>
+
+  <h2>四、Anthropic据报正洽谈采用微软自研AI芯片Maia 200</h2>
+  <p>据两名知情业内高管透露，为应对旗下AI产品日益增长的市场需求和扩充算力资源，Anthropic目前正洽谈租用搭载微软自研AI服务器芯片Maia 200的算力服务器。这一消息标志着Anthropic正在推进"多芯片战略"，以降低对英伟达GPU的单一依赖。</p>
+  <p>微软的Maia 200芯片已于今年1月在Azure云数据中心正式投产。Azure业务负责人Scott Guthrie表示，借助Maia 200芯片，微软有效降低了旗下Copilot的运行成本。Maia芯片主打提速运行现有大模型，性能优于英伟达同类产品，但并未像英伟达芯片那样全面适配客户全新大模型的研发搭建工作。</p>
+  <p>若成功拿下Anthropic这一客户，对微软来说将是重大利好。此前微软自研芯片项目在去年遭遇研发延期，如今意图效仿谷歌、亚马逊等云服务竞品，打造可替代英伟达芯片的自研芯片产品。</p>
+  <p>知情人士称，双方此次芯片算力合作洽谈尚处于初步阶段，最终未必能达成正式合作协议。但Anthropic作为当前全球最受关注的AI公司之一（本季度营收接近110亿美元），其芯片选择策略将对整个AI硬件生态产生深远影响。</p>
+
+  <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://ai-daily.cc.cd/" target="_blank">免费 AI 工具</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
