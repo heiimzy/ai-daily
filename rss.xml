@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 03:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 04:16:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ WAIC 2026次日现场：智元连发五款新品A3 Ultra获评"镇馆之宝"、均胜电子发布灵巧手与半固态电池、特朗普政府拟建"AI版FINRA"</title>
+      <link>https://ai-daily.cc.cd/posts/191-waic-2026-day2-embodied-ai-zhiyuan-junsheng-july-18-2026.zh.html</link>
+      <description>⚡ WAIC 2026第二日：智元机器人连发五款新品，远征A3 Ultra获评"镇馆之宝"具身处理器700TOPS；均胜电子首发灵巧手与固液混合电池，控制器已为头部客户量产供货；特朗普政府考虑建立"AI版FINRA"独立监管机构以规范AI安全审查。上海AI产业市值破万亿，具身智能全面爆发。</description>
+      <pubDate>Sat, 18 Jul 2026 04:16:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/191-waic-2026-day2-embodied-ai-zhiyuan-junsheng-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日科技综述：商汤U1 Pro成图模型对标GPT-Image 2、WordPress紧急修复wp2shell RCE漏洞、Sashiko AI正式加入Linux内核审查、Vertu推$6,880奢华AI手机</title>
       <link>https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html</link>
