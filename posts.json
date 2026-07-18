@@ -1,5 +1,21 @@
 [
   {
+    "id": "206",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 腾讯WAIC一次性补齐机器人、办公、出海AI全能力：具身智能全栈首秀、WorkBuddy登录鸿蒙、Hy3调用量暴增68倍",
+      "summary": "⚡ 腾讯在WAIC 2026首日发布具身智能全栈方案，推出Hy-Embodied三大专用模型；WorkBuddy独立App同步登录iOS/Android/鸿蒙三端，成为业界首款覆盖鸿蒙的通用智能体应用；混元Hy3上线一周调用量暴增68倍登顶OpenRouter全球榜；腾讯云ADP 4.0海外版发布，加速企业出海AI布局；联合中国信通院发布「AI航海家+」出海智能体。",
+      "tags": ["科技新闻", "腾讯", "WAIC 2026", "具身智能", "智能体", "混元Hy3"],
+      "file": "posts/206-tencent-waic-embodied-ai-workbuddy-hy3-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Tencent Unveils Full-Stack Embodied AI at WAIC: WorkBuddy on HarmonyOS, Hy3 Surges 68x, ADP 4.0 Overseas Edition Launches",
+      "summary": "⚡ Tencent unveils full-stack embodied AI at WAIC 2026 with Hy-Embodied model trio; WorkBuddy standalone app launches on iOS, Android and HarmonyOS — first universal agent on Harmony; Hunyuan Hy3 sees 68x call volume surge in week one, tops OpenRouter; Tencent Cloud ADP 4.0 Overseas Edition debuts; AI Navigator+ launched for cross-border enterprises.",
+      "tags": ["Tech News", "Tencent", "WAIC 2026", "Embodied AI", "AI Agent", "Hunyuan Hy3"],
+      "file": "posts/206-tencent-waic-embodied-ai-workbuddy-hy3-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "205",
     "date": "2026-07-18",
     "zh": {
