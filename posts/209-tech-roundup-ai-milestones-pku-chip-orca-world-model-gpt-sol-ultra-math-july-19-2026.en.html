@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 19 Tech Roundup: PKU's Neuromorphic Chip Rewrites BCI Rules, BAAI Orca World Model, OpenAI Sol Ultra Cracks 50-Year Math Conjecture, Anthropic in Talks for Microsoft Maia Chips - AI Daily</title>
+  <meta name="description" content="⚡ Peking University publishes world's first neural dynamical system chip based on phase-change memristors in Science — 478x faster brain cortex reconstruction vs GPU; BAAI releases Wujie·RoboBrain Orca world model enabling state evolution reasoning; OpenAI GPT-5.6 Sol Ultra cracks 50-year Cycle Double Cover Conjecture with 64 subagents in under one hour; Anthropic reportedly in talks to rent Microsoft's Maia 200 AI server chips.">
+  <meta name="keywords" content="PKU neuromorphic chip, phase-change memristor, neural dynamics, Science, BAAI Orca, world model, OpenAI Sol Ultra, Cycle Double Cover Conjecture, math conjecture, Anthropic, Microsoft, Maia chip, AI chip">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-19</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-19</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Neuromorphic Chip</span><span class="tag">World Model</span><span class="tag">OpenAI</span><span class="tag">Anthropic</span><span class="tag">Peking University</span></div>
+  <h1>⚡ July 19 Tech Roundup: PKU Neuromorphic Chip Rewrites BCI Rules, BAAI's Orca World Model Launches, OpenAI Sol Ultra Cracks 50-Year Math Conjecture</h1>
+
+  <h2>1. PKU Publishes Neural Dynamical System Chip in Science: 2.12ms Step Latency, Up to 478x Speedup vs GPU</h2>
+  <p>A team led by Professor Yang Yuchao at Peking University's School of Integrated Circuits, in collaboration with the Shanghai Institute of Microsystem and Information Technology (CAS), has developed the world's first neural dynamical system chip based on phase-change memristors. Published in the latest issue of <em>Science</em>, the 40nm chip achieves a single-step latency of just 2.12 milliseconds — matching biological synaptic response times for the first time in silicon.</p>
+  <p>Traditional von Neumann architectures suffer from the "memory wall" bottleneck: neural dynamics computations require constant shuttling of intermediate variables between memory and processors. The PKU team's breakthrough introduces a "Controlled Compute-in-Memory" paradigm that leverages the conductance drift phenomenon of phase-change memristors to perform matrix multiply-accumulate operations entirely within the storage array.</p>
+  <p>In brain cortex surface reconstruction tasks, the chip outperforms advanced foreign GPUs by up to 478.18x while consuming 11.75x to 24.73x less power. Both core computation tasks are integrated into a single processing array measuring just 0.28mm². The reconstructed cortical meshes are smooth, topologically consistent, and capable of accurately representing complex sulcal and gyral folds.</p>
+  <p>The implications extend to real-time intraoperative surgical navigation, personalized brain digital twins, and early screening for Alzheimer's disease — all of which now have a hardware platform capable of millisecond-level response. Professor Yang noted that architecture innovation is becoming the primary driver of computing performance as traditional process scaling approaches physical limits.</p>
+
+  <h2>2. BAAI Releases Wujie·RoboBrain Orca: A World Model That Predicts State Evolution</h2>
+  <p>The Beijing Academy of Artificial Intelligence (BAAI) has unveiled Wujie·RoboBrain Orca, a multimodal world foundation model that breaks from the dominant "predict next token" paradigm. Instead, Orca models the next state of the world in an abstract internal representation, enabling genuine reasoning about how the world evolves over time.</p>
+  <p>Orca's core innovation is building a unified world latent representation space. When fed video, images, text instructions, or event descriptions, the model integrates visual, linguistic, and task-intent signals to autonomously learn object motion patterns, scene evolution logic, action-causal relationships, and event temporal sequences. It can both predict how a current scenario will evolve and simulate alternative outcomes under different conditions.</p>
+  <p>The team designed a dual-pathway training system: "unconscious learning" uses 125,000 hours of real-world video (emulating how human infants learn through observation), while "conscious learning" leverages 160 million event annotations and 11.5 million VQA items to teach semantically meaningful state transitions.</p>
+  <p>In robotics validation, Orca significantly improved out-of-distribution task generalization without ever seeing action labels during pre-training. Notably, it demonstrated error recovery — retrying after a failed grasp — something prior models could not achieve. The Orca-4B checkpoint is now available on Hugging Face with an Apache 2.0 license.</p>
+
+  <h2>3. OpenAI GPT-5.6 Sol Ultra Cracks 50-Year Math Conjecture in Under One Hour</h2>
+  <p>On July 10, 2026, OpenAI announced that its flagship model GPT-5.6 Sol Ultra had generated a complete proof of the Cycle Double Cover Conjecture — a graph theory problem that had remained unsolved for approximately 50 years — in under one hour, representing a watershed moment for AI in mathematical discovery.</p>
+  <p>The system deployed 64 parallel subagents working in coordination. During early stages, subagents explored diverse mathematical representations, algebraic approaches, and structural induction strategies, while dedicated "adversarial agents" continuously searched for logical gaps, edge cases, and potential errors. Although the system was allocated up to 8 hours of compute time, it delivered the complete proof in roughly one hour.</p>
+  <p>The Cycle Double Cover Conjecture, independently proposed by George Szekeres (1973) and Paul Seymour (1979), asks whether every bridgeless graph contains a collection of cycles such that every edge belongs to exactly two of them. OpenAI researcher Ethan Knight announced the result on X and published both the proof PDF and the full prompt used to generate it.</p>
+  <p>University of Manchester mathematician Thomas Bloom described it as "a very nice proof" — short, elementary, and using methods that "could have been discovered in the 1980s." He noted the proof lacks citations to prior work, a common issue with AI-generated mathematics. The proof has not yet undergone formal peer review.</p>
+
+  <h2>4. Anthropic Reportedly in Talks to Use Microsoft's Self-Developed Maia 200 AI Chips</h2>
+  <p>According to two industry executives familiar with the matter, Anthropic is currently in negotiations to rent server capacity powered by Microsoft's self-developed Maia 200 AI chips, marking a strategic push toward multi-chip diversification and reduced dependence on Nvidia GPUs.</p>
+  <p>Microsoft's Maia 200 chip entered production on Azure cloud data centers in January 2026. Azure head Scott Guthrie has stated that Maia 200 effectively reduced operational costs for Copilot by accelerating inference on existing large models. While the chip outperforms comparable Nvidia products on inference tasks, it is less optimized for training new models from scratch.</p>
+  <p>Landing Anthropic as a customer would be a major win for Microsoft's custom silicon ambitions. The company's in-house chip program faced delays last year, but now aims to follow Google and Amazon in building viable alternatives to Nvidia's dominant GPU ecosystem.</p>
+  <p>The talks remain at an early stage and may not result in a formal agreement. However, given Anthropic's scale (approaching $11 billion in quarterly revenue), its chip procurement strategy carries significant implications for the entire AI hardware ecosystem. Microsoft has already committed up to $5 billion in Anthropic model purchases and $50 billion in potential investment.</p>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://ai-daily.cc.cd/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
