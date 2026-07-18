@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 14:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日WAIC收官日：阿里三箭齐发——平头哥开源SAIL剑指NVIDIA CUDA、M890超节点64卡开箱即用、秒悟团队版上线</title>
+      <link>https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html</link>
+      <description>⚡ WAIC 2026最后一日：阿里平头哥正式开源AI软件栈T-Head SAIL，全面兼容260+主流框架，向NVIDIA CUDA生态发起正面挑战，真武AI芯片累计出货56万片；阿里云发布灵骏真武M890超节点实例，64卡开箱即用训练性能提升3倍，入选WAIC镇馆之宝；阿里发布秒悟团队版（Meoo Team）企业级AI应用创作平台，从个人工具升级为组织级生产力平台；Meta与Anthropic洽谈百亿美元算力租赁协议。</description>
+      <pubDate>Sat, 18 Jul 2026 15:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日国际政治晚报：伊朗首次攻击沙特三个月来首见、正式暂停停火备忘录、处决2022抗议涉案囚犯</title>
       <link>https://ai-daily.cc.cd/posts/201-international-politics-iran-saudi-attacks-mou-suspended-execution-july-18-2026.zh.html</link>
