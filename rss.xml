@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 11:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日WAIC第二日：腾讯发布具身智能全栈方案、300台机器人集体上岗、产业化元年正式开启</title>
+      <link>https://ai-daily.cc.cd/posts/198-waic-2026-day2-tencent-hy-embodied-industrialization-robots-july-18-2026.zh.html</link>
+      <description>⚡ WAIC 2026第二日：腾讯首次完整发布具身智能全栈解决方案，Hy-Embodied三大专用模型、TairosAgent框架、WorkBuddy独立App齐亮相；300余台真机同台，具身智能从"能运动"到"能干活"，产业化拐点已至；蚂蚁灵波智慧药房90秒完成药品拣选打包全流程。</description>
+      <pubDate>Sat, 18 Jul 2026 11:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/198-waic-2026-day2-tencent-hy-embodied-industrialization-robots-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日国际政治晚报：伊朗宣布霍尔木兹海峡完全关闭、两油轮触雷爆炸、1万伊朗人断水、伊朗起诉特朗普和内塔尼亚胡</title>
       <link>https://ai-daily.cc.cd/posts/197-international-politics-iran-hormuz-closed-water-crisis-indictments-july-18-2026.zh.html</link>
