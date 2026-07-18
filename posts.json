@@ -1,5 +1,21 @@
 [
   {
+    "id": "190",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日科技综述：商汤U1 Pro成图模型对标GPT-Image 2、WordPress紧急修复wp2shell RCE漏洞、Sashiko AI正式加入Linux内核审查、Vertu推$6,880奢华AI手机",
+      "summary": "⚡ 商汤在WAIC 2026发布U1 Pro图像生成模型，原生8K输出对标GPT-Image 2，面向成品级专业设计；WordPress启用强制自动更新修复wp2shell远程代码执行漏洞，影响全球40%+网站；Linus Torvalds正式批准Sashiko AI进入Linux内核代码审查流程，有人已发起Fork；Vertu推出Hermes Agent AI系统加持的$6,880奢华折叠屏手机Alphafold，面向企业高管人群。",
+      "tags": ["科技新闻", "商汤", "WordPress", "网络安全", "Linux", "AI手机", "Vertu", "WAIC"],
+      "file": "posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Tech Roundup: SenseTime U1 Pro Challenges GPT-Image 2, WordPress Emergency wp2shell RCE Patch, Sashiko AI Joins Linux Kernel Review, Vertu Launches $6,880 Luxury AI Phone",
+      "summary": "⚡ SenseTime unveils U1 Pro at WAIC 2026 with native 8K output targeting GPT-Image 2; WordPress forces auto-updates for critical wp2shell RCE vulnerability affecting 40%+ of websites; Linus Torvalds greenlights Sashiko AI for Linux kernel code review — someone forks it within days; Vertu launches $6,880 Alphafold foldable with Hermes Agent AI concierge system targeting C-suite executives.",
+      "tags": ["Tech News", "SenseTime", "WordPress", "Cybersecurity", "Linux", "AI Phone", "Vertu", "WAIC"],
+      "file": "posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "189",
     "date": "2026-07-18",
     "zh": {
