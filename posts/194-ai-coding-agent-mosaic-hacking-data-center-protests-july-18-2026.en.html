@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Coding Agent Security Crisis: MOSAIC Attacks Succeed 96%, US Nationwide Data Center Protests Erupt, Trump Admin Considers AI FINRA - AI Daily</title>
+  <meta name="description" content="MOSAIC research framework compromises AI coding agents 96.59% of the time; 50+ US cities stage AI data center protests with 70% public opposition; Trump administration considers establishing AI FINRA-style independent regulator. AI safety and governance reach multiple inflection points this week.">
+  <meta name="keywords" content="AI Security, MOSAIC Attack, AI Coding Agent, Data Center Protests, AI Regulation, HalluSquatting, Trump AI FINRA">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-18</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-18</div>
+  <div class="post-tags"><span class="tag">AI Security</span><span class="tag">AI Regulation</span><span class="tag">Data Centers</span><span class="tag">AI Governance</span></div>
+  <h1>⚡ AI Coding Agent Security Crisis: MOSAIC Attacks Succeed 96%, US Data Center Protests Hit 50+ Cities, Trump Admin Considers AI FINRA</h1>
+
+  <h2>1. AI Coding Agents Face a "Structural" Security Crisis: MOSAIC Attack Succeeds 96% of the Time</h2>
+
+  <p>New research published this month reveals a staggering figure: a novel attack framework called MOSAIC successfully compromised AI coding agents in <strong>96.59% of 2,525 trials</strong>. The paper (arXiv:2607.02857), co-authored by researchers from Seoul National University, UIUC, and Largosoft, introduces an entirely new attack category called CLI Command-Composition Risk (CCR).</p>
+
+  <p>Unlike traditional prompt injection attacks, CCR does not rely on feeding malicious instructions into the model. Instead, it exploits the <strong>shared operating system state</strong> that accumulates as a coding agent executes routine CLI commands. When an agent runs <code>git clone</code>, then <code>npm install</code>, then <code>npm run build</code>, each command reads from and writes to shared state — environment variables, <code>.git/hooks</code>, <code>node_modules</code>, lifecycle scripts. An attacker can pre-load a payload into this state, and the agent unwittingly assembles and executes the attack chain itself.</p>
+
+  <p>The research tested five different LLM backends including GPT-5.6 and Claude Sonnet 5 — the model type had almost no impact on outcomes. The companion MOSAIC-Bench benchmark (arXiv:2605.03952) shows that nine production coding agents from Anthropic, OpenAI, Google, Moonshot, Zhipu, and Minimax completed staged attack chains at 53-86% end-to-end success rates. Across hundreds of attack sequences, the agents refused only twice.</p>
+
+  <blockquote>As Microsoft's security team put it: "The attacker doesn't need to escape the sandbox — the agent's own tool-use is the execution path."</blockquote>
+
+  <h3>Three Attack Methods Emerge in One Week: CCR is Not an Isolated Bug</h3>
+
+  <p>In the first week of July alone, three independent research teams published related findings:</p>
+  <ul>
+    <li><strong>HalluSquatting</strong>: Researchers from Tel Aviv University, Technion, and Intuit demonstrated that when AI models "hallucinate" non-existent package names while generating code, attackers can pre-register those names, implant malicious code, and have the AI automatically fetch and execute it.</li>
+    <li><strong>Friendly Fire</strong>: The AI Now Institute showed that agents designed to audit untrusted code can be tricked into executing payloads through instructions embedded in README.md files.</li>
+    <li><strong>GhostApproval</strong>: Symlink vulnerabilities allow malicious repositories to execute code inside coding agents.</li>
+  </ul>
+
+  <p>All three attack methods point to the same structural problem: AI agents that read untrusted content while possessing execution capabilities cannot reliably distinguish between "data" and "instructions." This is not a CVE-listed vulnerability that can be patched — it is a fundamental architectural flaw in the AI agent paradigm.</p>
+
+  <h2>2. Nationwide Protests Against AI Data Centers Erupt Across 50+ US Cities</h2>
+
+  <p>On July 18, 2026, a "National Day of Protest Against Data Centers" organized by the conservative advocacy group Humans First took place in more than 50 US cities. From Berkeley, California to Abilene, Texas, and from Clearwater, Florida to Aldie, Virginia, protesters demanded stricter local oversight of rapid AI data center expansion.</p>
+
+  <p>Humans First chair Amy Kremer told Newsweek the demonstrations aim to pressure officials at all levels to protect communities from rising utility costs, water consumption, noise pollution, and land-use changes tied to rapid AI expansion. The group notes that over 4,000 data centers have been built in the US, while a recent Gallup poll shows 70% of Americans oppose having one in their community — 48% say they "strongly oppose."</p>
+
+  <h3>The Hidden Costs of Data Centers</h3>
+  <ul>
+    <li><strong>Water Consumption</strong>: A single large AI data center can consume millions of gallons of water daily for cooling, often in drought-prone regions or atop major aquifers</li>
+    <li><strong>Power Grid Strain</strong>: Some facilities require dedicated power plants, diverting electricity from residential users</li>
+    <li><strong>Noise Pollution</strong>: 24/7 industrial cooling systems generate constant low-frequency hum affecting quality of life</li>
+    <li><strong>Land Use Conflicts</strong>: Agricultural and suburban areas rezoned for massive industrial complexes that offer relatively few local jobs</li>
+  </ul>
+
+  <p>According to Data Center Watch, at least 75 data center projects worth approximately $130 billion were blocked or delayed in Q1 2026 alone. Texas Governor Greg Abbott has issued directives requiring data centers to bear 100% of grid infrastructure costs and adopt closed-loop water cooling systems. New York this week became the first US state to enact a statewide moratorium on data centers.</p>
+
+  <p>Environmental activist Erin Brockovich has collected over 7,800 community complaints mapped on her monitoring website. This growing grassroots backlash is reshaping the investment landscape for US AI infrastructure.</p>
+
+  <h2>3. Trump Administration Considers "AI FINRA" — A New Model for AI Safety Oversight</h2>
+
+  <p>Bloomberg reported on July 18 that the Trump administration is considering establishing an independent regulatory agency specifically to review AI model safety, with industry participation. The proposal, dubbed "AI FINRA," would be modeled after the Financial Industry Regulatory Authority (FINRA) — an industry-funded independent regulator that reports to the SEC.</p>
+
+  <p>According to sources familiar with the matter, Treasury Secretary Bessent helped develop the proposal. The plan is currently under review by White House Chief of Staff Susie Wiles, though President Trump has not yet reviewed it. The proposal aims to address concerns from both Wall Street firms seeking lower AI cybersecurity risks and Silicon Valley companies frustrated with what they see as inconsistent government AI regulation.</p>
+
+  <p>The regulatory push accelerated significantly this week. On July 16, Chinese AI startup Moonshot AI released Kimi K3, a 2.8-trillion-parameter model that stunned the global tech community and triggered a major selloff in US tech and chip stocks. This "DeepSeek moment" repeat prompted Washington to accelerate AI industry framework discussions.</p>
+
+  <blockquote>Former White House AI czar and venture capitalist David Sacks warned on X: "This is how you lose the AI race." He argues that US policies blocking new data centers, adding state-level regulations, and pushing federal approval agencies are "tying ourselves in knots."</blockquote>
+
+  <p>The proposal aligns closely with policy recommendations made earlier this week by Google DeepMind CEO Demis Hassabis. His plan suggests an independent technical expert committee review AI models, funded by industry, working with government agencies and national labs to develop testing protocols. The proposal earned rare unified praise from Microsoft CEO Nadella, OpenAI CEO Sam Altman, and Elon Musk — typically fierce competitors.</p>
+
+  <p>These converging events mark a new phase in AI governance, where technical security vulnerabilities, community backlash, and government regulation are simultaneously driving the restructuring of global AI industry frameworks.</p>
+
+  <p style="font-size:0.9rem;color:#666;">Sources: Newsweek, BleepingComputer, Trend Micro, Bloomberg, arXiv:2607.02857, arXiv:2605.03952, Gallup Poll, Data Center Watch</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
