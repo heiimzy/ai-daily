@@ -1,5 +1,37 @@
 [
   {
+    "id": "200",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日金融晚报：美股周线齐跌、原油暴涨16%费城半导体确认熊市、比特币反弹至64K",
+      "summary": "⚡ 美股三大指数周线齐跌，标普500收于7,457点周跌1.6%，费城半导体指数自6月峰值暴跌20%以上确认进入技术性熊市；布伦特原油暴涨4.6%至88.10美元，周涨幅达16%创数年来最大单周涨幅；比特币从62,400美元反弹至64,000美元，加密市场恐慌指数降至25极恐；苹果盘中市值一度超越英伟达重夺全球第一；Netflix暴跌7.3%、Intuitive Surgical重挫14%、SpaceX创IPO新低；Tether冻结1.31亿美元伊朗关联加密地址；黄金在4,000美元关口博弈；消费者信心超预期回升。",
+      "tags": [
+        "金融经济",
+        "美股",
+        "原油",
+        "半导体",
+        "比特币",
+        "黄金",
+        "美伊冲突"
+      ],
+      "file": "posts/200-financial-roundup-wall-street-weekly-loss-oil-sox-bear-market-bitcoin-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Financial Evening: Wall Street Posts Weekly Losses, Oil Surges 16%, SOX Confirms Bear Market, Bitcoin Holds $64K",
+      "summary": "⚡ Wall Street closes lower for the week: S&P 500 ends at 7,457 (-1.6% weekly), Philadelphia Semiconductor Index drops 20.2% from June peak confirming bear market; Brent crude surges 4.6% to $88.10 with 16% weekly gain; Bitcoin recovers from $62,400 to $64,000 amid Extreme Fear at 25; Apple briefly overtakes Nvidia as world's most valuable company; Netflix sinks 7.3% on revenue miss; Tether freezes $131M in Iran-linked addresses; Gold battles at $4,000; Consumer sentiment beats expectations.",
+      "tags": [
+        "Finance",
+        "US Markets",
+        "Crude Oil",
+        "Semiconductors",
+        "Bitcoin",
+        "Gold",
+        "US-Iran Conflict"
+      ],
+      "file": "posts/200-financial-roundup-wall-street-weekly-loss-oil-sox-bear-market-bitcoin-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "199",
     "date": "2026-07-18",
     "zh": {
