@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>商汤U1 Pro发布、WordPress紧急修复RCE漏洞、Sashiko AI审查Linux内核、Vertu推$6,880奢华AI手机 - AI 日报</title>
+  <meta name="description" content="⚡ 商汤在WAIC 2026发布U1 Pro图像生成模型，原生8K输出对标GPT-Image 2；WordPress启用强制自动更新修复wp2shell远程代码执行漏洞；Linus Torvalds正式批准Sashiko AI进入Linux内核代码审查流程，有人已发起Fork；Vertu推出Hermes Agent AI系统加持的$6,880奢华折叠屏手机Alphafold。">
+  <meta name="keywords" content="商汤,U1 Pro,WAIC 2026,WordPress,RCE,wp2shell,Sashiko,Linux内核,Vertu,Alphafold,AI手机">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-18</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="190-tech-roundup-sensetime-u1-pro-wordpress-rce-sashiko-vertu-july-18-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-18</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">商汤</span><span class="tag">WordPress</span><span class="tag">网络安全</span><span class="tag">Linux</span><span class="tag">AI手机</span><span class="tag">WAIC</span></div>
+  <h1>⚡ 7月18日科技综述：商汤U1 Pro成图模型对标GPT-Image 2、WordPress紧急修复wp2shell RCE漏洞、Sashiko AI正式加入Linux内核审查、Vertu推$6,880奢华AI手机</h1>
+
+  <h2>一、商汤U1 Pro发布：对标OpenAI GPT-Image 2，原生8K"成品级"图像生成</h2>
+  <p>2026世界人工智能大会（WAIC 2026）进入第二天，商汤科技董事长兼CEO徐立正式发布旗舰版图片创作模型——商汤日日新SenseNova-U1 Pro。该模型直接对标OpenAI旗下GPT-Image 2，定位为"会思考"的图像生成模型，强调从"辅助工具"到"交付级/成品级"设计的跨越。</p>
+  <p>U1 Pro由商汤科技联合创始人、首席科学家林达华牵头研发。在技术架构上，该模型基于"理解·生成·行动"原生统一为内核的多模态智能体基座，打破了此前多模态模型"模态拼接"的限制，在底层实现了理解、生成与行动能力的有机融合——即模型不只是生成像素，而是在理解场景语义后，有策略地生成图像元素。</p>
+  <p>性能方面，U1 Pro率先支持原生8K分辨率输出，可生成超高清图像，配色风格能精准贴合主题。徐立特别强调，该模型直接面向"成品级"设计——在城市规划方案渲染、影视分镜设计、学术海报制作、商业海报创作等高难度专业场景中，AI输出的结果可以直接交付使用，无需额外后期处理。</p>
+  <p>这一发布标志着多模态AI图像生成赛道进入"成品级"竞争阶段。此前，Midjourney、OpenAI GPT-Image 2、Adobe Firefly等产品已在专业设计市场展开激烈角逐，商汤U1 Pro以8K原生分辨率和真正"可用"的成品级输出试图切入这一市场。</p>
+
+  <h2>二、WordPress紧急修复wp2shell高危RCE漏洞，启用强制自动更新</h2>
+  <p>WordPress官方于7月17日发布紧急安全更新，修复了一个被命名为"wp2shell"的严重远程代码执行（RCE）漏洞。该漏洞由Assetnote（Searchlight Cyber的攻击面管理分支）的安全研究员Adam Kues通过WordPress HackerOne项目提交，CVSS评分极高——允许未认证的匿名用户在无需安装插件或修改默认配置的情况下，直接在目标服务器上执行任意代码。</p>
+  <p>该漏洞由两个独立问题链式组合而成：</p>
+  <ul>
+    <li><strong>CVE-2026-60137</strong>：位于WP_Query的author__not_in参数中的SQL注入漏洞</li>
+    <li><strong>CVE-2026-63030</strong>：位于/wp-json/batch/v1端点的REST API批量路由混淆问题</li>
+  </ul>
+  <p>当两个漏洞被链式利用时，未认证攻击者可触发完整的远程代码执行。受影响版本涵盖WordPress 6.9.0至6.9.4、7.0.0至7.0.1以及7.1 Beta。WordPress已采取罕见的强力措施——<strong>启用强制自动更新</strong>，确保受影响的安装实例自动升级至安全版本（6.9.5 / 7.0.2 / 7.1 beta2）。</p>
+  <p>截至7月18日，尚未有漏洞被大规模利用的报告。但安全专家警告，由于WordPress是开源项目，补丁前后的代码差异公开可见，实际攻击随时可能爆发。SearchLight Cyber提供了临时缓解建议：在WAF层面同时拦截路径/wp-json/batch/v1和查询字符串route=rest_route=/batch/v1，且仅拦截路径是不够的。</p>
+  <p>对于全球超过40%的网站运行WordPress的互联网而言，这是2026年迄今为止最严重的CMS安全事件之一。站长应尽快确认WordPress版本是否已自动更新至安全版本，若自动更新被手动禁用则需立即手动更新。</p>
+
+  <h2>三、Sashiko AI正式成为Linux内核代码审查工具：Torvalds说"Fork It"，真的有人立即Fork了</h2>
+  <p>Linux内核社区正在经历一场AI革命——Linus Torvalds正式批准了由Google工程师Roman Gushchin开发的AI代码审查系统Sashiko进入Linux内核开发工作流，并直言反对者可以"fork it or walk away"。</p>
+  <p>Sashiko（名称源自日本刺绣工艺"刺し子"，意为"装饰性加固针脚"）是一个用Rust编写的自主代码审查工具。它持续监控Linux内核邮件列表（LKML），自动获取补丁，运行多阶段工作流——子系统特定提示、代码分析、报告生成——并以礼貌的内联回复邮件形式将审查结果发回。重要的是，Sashiko是<strong>只读</strong>的，不能合并、批准或修改任何代码，仅提供审查意见。</p>
+  <p>性能数据令人瞩目：在对1000个近期标记为"Fixes:"的上游Linux内核问题测试中，Sashiko成功发现了人类审查者在首次审查中<strong>遗漏的53%的Bug</strong>，误报率约为20%。资深Linux维护者Greg Kroah-Hartman评价道："现在我们有了真实的报告——用AI生成的真实报告，它们不仅真实而且质量很高。"</p>
+  <p>Torvalds在lore.kernel.org上回应社区疑虑时态度明确："Linux不是一个反AI的项目，如果有人对此有意见，他们可以做开源该做的事——fork它，或者走开。"他也补充说AI"只是一个工具，就像我们用的其他工具一样，而且显然是有用的工具。"</p>
+  <p>这一决定在社区中引发轩然大波。长期内核贡献者Laurent Pinchart主张Sashiko的输出应先由维护者筛选再发给补丁作者；内存管理维护者Lorenzo Stoakes抱怨Sashiko的测试环境与主线mm-tree存在兼容问题导致需要重新提交patch，他为此花了一个13小时的工作日。更戏剧性的是：7月17日，确实有人发起了一个不包含Sashiko的Linux内核Fork。这一事件标志着AI在开源基础设施中的角色从"可选插件"变成了"核心基础设施"级别的议题。</p>
+
+  <h2>四、Vertu推出$6,880奢华AI手机Alphafold：Hermes Agent AI系统成核心卖点</h2>
+  <p>奢华手机品牌Vertu正式发布了全新折叠屏手机Alphafold，起售价高达<strong>$6,880（约人民币5万元）</strong>。这款手机定位顶级企业高管人群，核心卖点并非硬件规格，而是内置的<strong>Hermes Agent AI系统</strong>——基于开源Hermes项目构建的自主AI智能体。</p>
+  <p>Hermes Agent与传统数字助手完全不同：它能够自主执行多步骤工作流——分析文档和电子表格、审查合同、规划商务旅行、跨多个应用完成复杂任务。如果AI无法完成任务，系统会自动转发请求给真人管家。Vertu为每位Alphafold购买者提供24个月的AI+人工混合管家服务。</p>
+  <p>硬件方面，Alphafold由Vertu与中兴/努比亚联合开发，采用高通骁龙8 Elite处理器、16GB RAM、6500mAh电池，配备6.53英寸外屏和8.05英寸内屏。机身覆盖小羊皮皮革和钛合金细节，另有鳄鱼皮版（$8,880）和18K金定制版（$13,800起，最高$34,200）。</p>
+  <p>Vertu Alphafold在AI手机赛道中开辟了一个完全不同的方向——不是比拼AI拍照或AI助手语音交互，而是将AI定位为"企业高管的数字化执行助理"，能够主动完成复杂的商业工作流。分析人士认为，这款产品的目标受众是那些愿意为"时间效率"支付高溢价的顶级管理层。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://ai-daily.cc.cd/free-ai-tools" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
