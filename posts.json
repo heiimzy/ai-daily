@@ -1,5 +1,37 @@
 [
   {
+    "id": "192",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日金融综述：苹果市值一度超越英伟达重回全球第一、比特币ETF连续四日净流入、CLARITY Act听证会无民主党出席、人民币中间价报6.4680",
+      "summary": "⚡ 苹果市值盘中一度达4.91万亿美元超越英伟达，收盘以微弱差距屈居第二，为一年多来首超英伟达；比特币现货ETF连续第四日净流入2.57亿美元，机构参与广度扩大；CLARITY Act纽约听证会无民主党议员出席，Senate投票窗口仅剩三周；人民币兑美元中间价调至6.4680，外汇局公布上半年跨境收支创新高；布伦特原油突破88美元。",
+      "tags": [
+        "金融经济",
+        "苹果",
+        "英伟达",
+        "比特币",
+        "加密货币监管",
+        "人民币汇率",
+        "原油"
+      ],
+      "file": "posts/192-financial-roundup-apple-nvidia-bitcoin-etf-clarity-yuan-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Financial Roundup: Apple Briefly Overtakes Nvidia, Bitcoin ETFs Log 4th Day of $257M Inflows, CLARITY Act Hearing Sees Zero Democrats, Yuan Set at 6.4680",
+      "summary": "⚡ Apple surpassed Nvidia intraday with a $4.91T market cap — first time since April 2025; Bitcoin spot ETFs record 4th consecutive day of $257M inflows with broadened institutional participation; CLARITY Act field hearing in NYC draws zero Democrat members; China sets yuan reference rate at 6.4680 with record H1 cross-border settlements; Brent crude breaks above $88 on escalating US-Iran conflict.",
+      "tags": [
+        "Finance",
+        "Apple",
+        "Nvidia",
+        "Bitcoin",
+        "Crypto Regulation",
+        "Yuan",
+        "Crude Oil"
+      ],
+      "file": "posts/192-financial-roundup-apple-nvidia-bitcoin-etf-clarity-yuan-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "191",
     "date": "2026-07-18",
     "zh": {
