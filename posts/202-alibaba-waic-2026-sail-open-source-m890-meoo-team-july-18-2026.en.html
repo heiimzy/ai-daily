@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alibaba's Triple WAIC 2026 Strike: T-Head Open-Sources SAIL vs NVIDIA CUDA, Lingjun Zhenwu M890 Super Node Debuts, Meoo Team Launches - AI Daily</title>
+  <meta name="description" content="WAIC 2026 final day: Alibaba T-Head open-sources SAIL software stack for Zhenwu AI chips, challenging NVIDIA's CUDA dominance with 260+ framework compatibility; Alibaba Cloud launches Lingjun Zhenwu M890 super node instance with 64-card out-of-box compute, 3x training performance; Alibaba debuts Meoo Team enterprise AI creation platform, upgrading from personal tool to organizational productivity platform.">
+  <meta name="keywords" content="WAIC 2026,Alibaba Cloud,T-Head,SAIL,Zhenwu M890,Meoo,AI,AI chip,CUDA,open source,super node">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-18</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="202-alibaba-waic-2026-sail-open-source-m890-meoo-team-july-18-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-18</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">WAIC 2026</span><span class="tag">Alibaba Cloud</span><span class="tag">T-Head</span><span class="tag">AI Chips</span><span class="tag">Open Source</span></div>
+  <h1>⚡ WAIC 2026 Finale: Alibaba Fires Three Salvos — T-Head Open-Sources SAIL to Challenge NVIDIA CUDA, M890 Super Node Delivers 64-Card Compute, Meoo Team Redefines Enterprise AI Creation</h1>
+
+  <p>On the final day of the World AI Conference (WAIC) 2026 in Shanghai, Alibaba delivered a coordinated product and technology barrage across three fronts. T-Head Semiconductor officially open-sourced its SAIL AI software stack, mounting a direct challenge to NVIDIA's dominant CUDA ecosystem. Alibaba Cloud launched the Lingjun Zhenwu M890 super node instance, offering 64-card compute clusters through public cloud for the first time. And the company's Meoo platform introduced Team Edition, transforming from a personal AI creation tool into an enterprise-grade organizational productivity platform. Together, these three moves signal Alibaba's synchronized push across the AI infrastructure, compute, and application layers.</p>
+
+  <h2>1. T-Head Open-Sources SAIL: Declaring War on CUDA's Monopoly</h2>
+
+  <p>At WAIC 2026's "Foundation Model Architecture Innovation Forum," Alibaba's T-Head semiconductor unit announced the open-sourcing of T-Head SAIL, the foundational software stack for its Zhenwu series AI chips. Effective immediately, global developers can download the full SAIL SDK, kernel drivers, performance analysis tools, and debugging utilities from T-Head's developer community.</p>
+
+  <p><strong>The SAIL stack comprises five layers:</strong> Driver & Runtime, Programming Language, Compiler, High-Performance Library, and Developer Tools — covering the complete pipeline from the lowest driver level to production deployment. In terms of ecosystem compatibility, SAIL supports over 260 mainstream training and inference frameworks including PyTorch, TensorFlow, vLLM, and SGLang, with mainstream models working out of the box. T-Head claims developers can adapt SAIL to mainstream AI frameworks within seven days.</p>
+
+  <blockquote>"Open-sourcing the AI software stack is just the beginning. T-Head aims to work with global developers, research institutions, and industry partners to refine toolchains, enrich the operator ecosystem, and optimize performance." — Gao Hui, Vice President of T-Head Semiconductor</blockquote>
+
+  <p>As of April, T-Head had shipped over 560,000 Zhenwu chips to more than 400 customers across 20+ industries, with over 60% of compute serving external commercial clients. With SAIL now open to the global community, enterprises and developers can examine source code, understand chip operation logic, fix bugs directly, and perform deep customization for their specific scenarios.</p>
+
+  <p><strong>Strategic significance:</strong> The vast majority of AI developers worldwide write software using NVIDIA's CUDA toolkit, creating a deep lock-in effect — once an entire ecosystem is built around CUDA, migrating to alternative hardware carries prohibitive costs. T-Head's open-source move joins similar initiatives by Huawei (CANN) and Moore Threads, forming a coordinated Chinese AI chip assault on CUDA's market dominance. The timing is particularly loaded: Anthropic accused Alibaba's Qwen lab of running the largest-ever AI distillation campaign last month, and the Pentagon added Alibaba to its Chinese military companies blacklist in June. Open-sourcing SAIL positions the company as an open infrastructure contributor while making its ecosystem stickier and harder for any single government to shut down.</p>
+
+  <h2>2. Lingjun Zhenwu M890 Super Node: 64 Cards, 3x Performance</h2>
+
+  <p>At the same conference, Alibaba Cloud unveiled the Lingjun Zhenwu M890 super node instance, delivering high-speed interconnect, out-of-box 64-card compute units in a super node form factor. This marks the first time Alibaba Cloud has offered super node AI compute services through public cloud, signaling a critical leap in its AI-native infrastructure for the agentic era.</p>
+
+  <p><strong>Key specifications:</strong> The M890 supports FP8/FP4 low-precision compute and uses the ICN Switch 1.0 chip to scale up interconnect from 16 to 64 cards, achieving 800 GB/s card-to-card bandwidth. In training scenarios such as autonomous driving and embodied AI, it delivers three times the training performance of the previous-generation Zhenwu 810E. With its massive memory and fully symmetrical high-speed interconnect, a single super node instance can handle inference for trillion-parameter MoE models.</p>
+
+  <p>The M890 is paired with the Panjiu AL128 super node server, which was named a WAIC 2026 "Treasure of the Hall" (镇馆之宝) — the highest exhibition honor. The AL128 integrates 128 chips in a single cabinet with Pb/s bandwidth and sub-100-nanosecond latency via Alibaba's proprietary ALink interconnect architecture. The system is already deployed on Alibaba Cloud's Bailian platform, supporting Qwen, DeepSeek, Kimi, and other mainstream models.</p>
+
+  <p>Alibaba Cloud also unveiled a series of supporting innovations: TPN (Token Performance Network) architecture, KVCacheStore for million-QPS KV storage, and PAI-EAS TokenWorks for model deployment and inference services. The Lingjun super node instance is now open for beta testing in the Ulanqab region.</p>
+
+  <h2>3. Meoo Team Edition: From Personal Tool to Organizational Productivity Platform</h2>
+
+  <p>Alibaba also unveiled Meoo Team (秒悟团队版), an enterprise-grade AI application creation platform, at WAIC. Meoo is a low-barrier AI application creation platform from Alibaba's ATH business group — users with no programming experience can describe their ideas in natural language and generate applications, websites, H5 pages, or WeChat Mini Programs, deploying them with one click. Since its launch in April, over 10,000 users create on Meoo daily, more than half of whom have no technical background.</p>
+
+  <p>Meoo Team upgrades enterprise collaboration and management capabilities with the following core features:</p>
+
+  <ul>
+    <li><strong>Unified identity management:</strong> Team members log in directly with Alibaba Cloud accounts</li>
+    <li><strong>Resource orchestration:</strong> Centralized seat and credit purchasing with flexible quota allocation</li>
+    <li><strong>Granular permission management:</strong> Three-tier roles — owner, administrator, and member</li>
+    <li><strong>Team asset sharing:</strong> Applications, skills, and workflows accumulate as proprietary digital assets</li>
+  </ul>
+
+  <p>Meoo Team is already deployed across e-commerce, content creation, marketing, finance, education, and internal enterprise management scenarios. Cross-border e-commerce companies use it to build shared customer dashboards; marketing teams collaboratively build brand websites and publish them as live pages. The platform supports monthly or annual subscriptions with flexible seat scaling.</p>
+
+  <h2>4. Industry Outlook: China's "Open Source + Self-Developed" Two-Wheel Drive</h2>
+
+  <p>Alibaba's密集 releases at WAIC 2026 reflect a strategic transformation in China's AI infrastructure landscape. On one front, ecosystem-building through open source (like SAIL) is breaking CUDA's stranglehold at the software level. On the other, self-developed hardware like the Zhenwu M890 continues to close the performance gap with global leaders.</p>
+
+  <p>From an industry perspective, three Chinese companies now possess complete "chip-cloud-model" synergy: Huawei (Ascend + Huawei Cloud + Pangu), Alibaba (T-Head + Alibaba Cloud + Tongyi Qianwen), and Baidu (Kunlunxin + Baidu AI Cloud + Wenxin). Their common strategy: lower barriers through open source, achieve scale through cloud distribution, and lock in long-term competitiveness through self-developed chips.</p>
+
+  <p>Meanwhile, the AI compute arms race continues to intensify. Reports indicate Meta is in early talks with Anthropic for a two-year compute lease deal potentially worth $10 billion. This "big tech provides infrastructure, model labs provide technology" cross-company cooperation model highlights the growing scarcity of AI compute — even Anthropic, with its near-trillion-dollar valuation, must seek compute capacity from competitors.</p>
+
+  <p>Alibaba's three-pronged WAIC finale — from foundational chip software (SAIL open source) to mid-layer compute infrastructure (M890 super node) to upper-layer enterprise applications (Meoo Team) — constructs a complete AI technology stack narrative. As WAIC 2026 draws to a close, China's AI industry has formally entered a new phase of "software-hardware integration, full-stack self-development."</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
