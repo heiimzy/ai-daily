@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Coding Agent安全危机：MOSAIC攻击96%成功率、全美50城抗议AI数据中心、特朗普政府拟建AI版FINRA - AI日报</title>
+  <meta name="description" content="MOSAIC研究框架在96.59%的测试中成功攻陷AI编程智能体；全美50多城爆发AI数据中心抗议活动，70%美国民众反对本地建设；特朗普政府拟建AI版FINRA独立监管机构。本周AI安全与治理迎来多重拐点。">
+  <meta name="keywords" content="AI安全, MOSAIC攻击, AI coding agent, 数据中心抗议, AI监管, HalluSquatting, Trump AI FINRA">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-18</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-18</div>
+  <div class="post-tags"><span class="tag">科技安全</span><span class="tag">AI监管</span><span class="tag">数据中心</span><span class="tag">AI治理</span></div>
+  <h1>⚡ AI Coding Agent安全危机：MOSAIC攻击96%成功率、全美50城抗议AI数据中心、特朗普政府拟建AI版FINRA</h1>
+
+  <h2>一、AI编程智能体遭遇"结构级"安全危机：MOSAIC攻击成功率96%</h2>
+
+  <p>7月最新发表的研究论文揭示了一个令整个AI开发者生态震惊的数字：一种名为MOSAIC的新型攻击框架成功攻陷了AI编程智能体（Coding Agent）96.59%的测试目标。这份由首尔国立大学、伊利诺伊大学厄巴纳-香槟分校（UIUC）和Largosoft联合发表的研究（arXiv:2607.02857），定义了一类全新的攻击类别——CLI命令组合风险（CCR）。</p>
+
+  <p>与传统的提示注入（Prompt Injection）攻击不同，CCR攻击不依赖向模型输入恶意指令。它利用了AI编程智能体在执行常规CLI命令时积累的**共享操作系统状态**。当AI智能体依次执行<code>git clone</code>、<code>npm install</code>、<code>npm run build</code>等常规操作时，每个命令都会读写共享状态——环境变量、<code>.git/hooks</code>、<code>node_modules</code>、生命周期脚本。攻击者可以在这些共享状态中预载载荷，AI会在"不知情"的情况下自己完成攻击链的组装和执行。</p>
+
+  <p>研究团队在2,525次实验中测试了5种不同的LLM后端（包括GPT-5.6和Claude Sonnet 5），模型类型对结果几乎没有影响。配套基准测试MOSAIC-Bench（arXiv:2605.03952）进一步显示：来自Anthropic、OpenAI、Google、月之暗面、智谱和MiniMax的9款商用编码智能体，端到端攻击链成功率达到53%-86%。在所有实验中，AI智能体仅拒绝了2次。</p>
+
+  <blockquote>微软安全团队的评价值得深思："攻击者不需要逃逸沙箱——智能体自身的工具调用就是执行路径。"</blockquote>
+
+  <h3>三种攻击手法接连曝光：CCR不是孤立漏洞</h3>
+
+  <p>仅7月第一周，就有三组独立研究团队发布了类似的发现：</p>
+  <ul>
+    <li><strong>HalluSquatting（幻觉蹲守）</strong>：特拉维夫大学、Technion和Intuit的研究人员发现，AI模型在生成代码时会"幻觉"出不存在的软件包名，攻击者可以预先注册这些假名，植入恶意代码，让AI自动获取并执行。</li>
+    <li><strong>Friendly Fire（友军火力）</strong>：AI Now Institute展示，被设计用来审计不安全代码的智能体，可以通过在README.md中嵌入指令被诱导执行恶意载荷。</li>
+    <li><strong>GhostApproval（幽灵审批）</strong>：利用符号链接缺陷，让恶意仓库在AI编程智能体内执行代码。</li>
+  </ul>
+
+  <p>这三大攻击手法指向同一个结构性问题：AI智能体读取不受信内容的同时拥有执行能力，但模型本身无法可靠地区分"数据"和"指令"。这不是一个可以通过补丁修复的CVE漏洞，而是整个AI Agent架构层面的设计缺陷。</p>
+
+  <h2>二、全美50多城同步爆发AI数据中心抗议："七成民众说不"</h2>
+
+  <p>2026年7月18日，一场由保守派倡导组织Humans First发起的"全国数据中心抗议日"在美国50多座城市同步举行。从加州伯克利到德克萨斯州阿比林，从佛罗里达州克利尔沃特到弗吉尼亚州阿尔迪，抗议者要求地方政府对AI数据中心的快速扩张施加更严格的监管。</p>
+
+  <p>Humans First主席艾米·克雷默（Amy Kremer）对Newsweek表示，抗议旨在向地方、州和联邦官员施压，要求他们保护社区免受AI基础设施扩张带来的公用事业成本上涨、水资源消耗、噪音污染和土地使用变更等影响。该组织指出，超过4,000座数据中心已在美国建成，但盖洛普最新民调显示70%的美国民众反对在本地建设数据中心，其中48%表示"强烈反对"。</p>
+
+  <h3>数据中心的"隐形代价"</h3>
+  <ul>
+    <li><strong>水资源消耗</strong>：一座大型AI数据中心每日可消耗数百万加仑水用于冷却，而许多设施建在干旱地区或主要含水层之上</li>
+    <li><strong>电力负担</strong>：部分数据中心需要专用发电厂，从居民用电中分流大量电力</li>
+    <li><strong>噪音污染</strong>：24小时运行的工业冷却系统产生持续低频噪音，影响周边居民生活质量</li>
+    <li><strong>土地争议</strong>：农业区和郊区被重新规划为大型工业用地，但创造的本地就业岗位相对有限</li>
+  </ul>
+
+  <p>据Data Center Watch统计，仅2026年第一季度，就有至少75个数据中心项目（总估值约1,300亿美元）被推迟或取消。德克萨斯州州长格雷格·阿博特已发布指令，要求数据中心承担100%的电网基础设施成本，并采用闭环水冷系统。纽约州本周更成为全美首个实施数据中心全州暂停令的州。</p>
+
+  <p>环保活动家艾琳·布罗克维奇（Erin Brockovich）已收集超过7,800份社区投诉，映射在其数据中心监控网站上。这场日益高涨的草根抗议正在改变美国AI基础设施的投资格局。</p>
+
+  <h2>三、特朗普政府拟建"AI版FINRA"：为AI模型安全审查定规矩</h2>
+
+  <p>据彭博社7月18日报道，特朗普政府正在考虑设立一个独立监管机构，专门负责审查人工智能模型的安全性，并由业界参与评议。这一提案被称为"AI版FINRA"，其结构将参照美国金融业监管局（FINRA）——一个由行业资助的独立监管机构，向美国证券交易委员会（SEC）汇报。</p>
+
+  <p>据知情人士透露，财政部长贝森特协助制定了该提案。目前该计划正由白宫幕僚长苏西·威尔斯审查，但美国总统特朗普尚未过目。知情人士称，提案旨在同时安抚两方群体：一是寻求降低AI网络安全风险的华尔街公司，二是因政府在监管AI方面缺乏一贯性而感到沮丧的硅谷公司。</p>
+
+  <p>这一监管构想的推进速度在本周明显加快。7月16日，中国AI初创公司月之暗面发布了Kimi K3模型，2.8万亿参数的规模震惊全球科技界，引发美股科技股和芯片股大幅抛售。这一"DeepSeek时刻"的重现，促使华盛顿加速制定AI产业监管框架。</p>
+
+  <blockquote>前白宫AI事务负责人、风投家大卫·萨克斯在X上警告："这就是你输掉人工智能竞赛的方式。"他认为美国政府通过阻挠新数据中心建设、增加州级法规、推动联邦审批机构，正在"作茧自缚"。</blockquote>
+
+  <p>该提案与谷歌DeepMind首席执行官戴米斯·哈萨比斯本周早些时候的政策建议高度一致。哈萨比斯提出的方案建议由独立技术专家委员会对AI模型进行审查，由行业资助自我监管组织，并与政府机构及国家实验室合作开发安全测试方案。该建议获得了微软CEO纳德拉、OpenAI CEO萨姆·奥特曼、马斯克等科技领袖的罕见一致赞誉。</p>
+
+  <p>这一系列事件标志着AI治理正进入深水区。技术安全、社区抗议、政府监管三股力量同时推动着全球AI产业治理框架的重构。</p>
+
+  <p style="font-size:0.9rem;color:#666;">参考来源：Newsweek、BleepingComputer、Trend Micro、彭博社、arXiv:2607.02857、arXiv:2605.03952、盖洛普民调、Data Center Watch</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
