@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 06:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月19日科技早报：北大神经动力学芯片改写脑机规则、智源Orca世界模型问世、OpenAI Sol Ultra攻克五十年数学猜想、Anthropic洽谈微软自研AI芯片</title>
+      <link>https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html</link>
+      <description>⚡ 北大团队在Science发表全球首款基于相变忆阻器的神经动力学系统芯片，脑皮层重建较GPU提速478倍；北京智源发布悟界·RoboBrain Orca世界模型，首次实现世界状态前后演化推演；OpenAI GPT-5.6 Sol Ultra以64子智能体一小时攻克50年未解图论猜想；Anthropic据报正洽谈租用微软Maia 200自研AI芯片。</description>
+      <pubDate>Sun, 19 Jul 2026 07:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月19日国际政治早报：伊朗袭击约旦基地致两名美军死亡、哈梅内伊宣布备忘录作废、乌克兰379架无人机夜袭莫斯科地区</title>
       <link>https://ai-daily.cc.cd/posts/208-iran-war-us-troops-killed-khamenei-warning-ukraine-drones-july-19-2026.zh.html</link>
