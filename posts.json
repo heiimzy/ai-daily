@@ -1,5 +1,31 @@
 [
   {
+    "id": "193",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日国际政治：美军连续第七晚空袭伊朗、伊朗报复打击科威特巴林美军基地、霍尔木兹海峡油轮爆炸",
+      "summary": "⚡ 美军第七晚空袭伊朗打击监视设施、地下武器库和海上目标，首次公开打击“军事后勤基础设施”；伊朗报复打击科威特、巴林、约旦、沙特四国美军基地，科威特发电厂被毁机场停摆；霍尔木兹海峡两油轮据报触雷爆炸，CENTCOM予以否认；伊朗最高领袖顾问警告若美军继续空袭将进入“全面进攻”阶段；伊拉克与雪佛龙签协议重建叙伊石油管道替代霍尔木兹；布伦特原油突破88美元，联合国表达严重关切。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "中东"
+      ],
+      "file": "posts/193-us-iran-7th-night-strikes-kuwait-bahrain-hormuz-tanker-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 International Politics: US Launches 7th Night of Iran Strikes, Iran Retaliates Across Gulf, Hormuz Tanker Blasts Reported",
+      "summary": "⚡ US strikes Iran for 7th consecutive night, hitting surveillance sites, underground weapons storage, and military logistics infrastructure for the first time; Iran retaliates against US bases in Kuwait, Bahrain, Jordan, and Saudi Arabia — Kuwait power plant destroyed, airport shut down; Two oil tankers reportedly explode in Hormuz minefield — CENTCOM denies; Iran warns of full-scale offensive phase; Iraq signs Chevron deal to rebuild Syria pipeline bypassing Hormuz; Brent crude breaks above $88; UN expresses deep concern.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Middle East"
+      ],
+      "file": "posts/193-us-iran-7th-night-strikes-kuwait-bahrain-hormuz-tanker-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "192",
     "date": "2026-07-18",
     "zh": {
