@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日科技综述：WAIC 2026开幕300款新品全球首发、华为Atlas 950超节点亮相、荣耀Robot Phone今日发布、TSMC业绩引爆芯片股历史性抛售</title>
+      <link>https://ai-daily.cc.cd/posts/195-waic-2026-huawei-atlas-950-honor-robot-phone-tsmc-chip-selloff-july-18-2026.zh.html</link>
+      <description>⚡ WAIC 2026在上海开幕，超1000家企业参展300+产品全球首发；29国签署WAICO人工智能合作组织；华为Atlas 950 SuperPoD首次公开，搭载8192块升腾芯片；荣耀Robot Phone今日上海发布；TSMC Q2营收402亿美元创纪录，但资本开支激增引发芯片股历史性暴跌，台股重挫6.47%，费城半导体指数较6月高点跌近19%。</description>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/195-waic-2026-huawei-atlas-950-honor-robot-phone-tsmc-chip-selloff-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日科技综述：AI Coding Agent安全危机MOSAIC攻击96%成功率、全美50城抗议AI数据中心、特朗普政府拟建AI版FINRA</title>
       <link>https://ai-daily.cc.cd/posts/194-ai-coding-agent-mosaic-hacking-data-center-protests-july-18-2026.zh.html</link>
