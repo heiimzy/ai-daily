@@ -1,5 +1,35 @@
 [
   {
+    "id": "189",
+    "date": "2026-07-18",
+    "zh": {
+      "title": "⚡ 7月18日国际局势：美军连续第七晚空袭伊朗、伊朗打击科威特约旦巴林报复、特朗普暂缓大规模进攻",
+      "summary": "⚡ 美军连续第七晚空袭伊朗，打击地下武器库和军事后勤设施；伊朗报复性打击科威特、约旦美军基地，摧毁巴林AI中心；伊朗击落美军MQ-9无人机；霍尔木兹海峡油轮爆炸争议；伊朗警告再打2-3天将进入全面进攻摧毁阶段；特朗普应海湾国家请求暂缓大规模进攻两至三天。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹",
+        "中东局势",
+        "特朗普",
+        "伊朗"
+      ],
+      "file": "posts/189-iran-war-seventh-night-hormuz-escalation-july-18-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 18 Geopolitical Update: US Strikes Iran for 7th Night, Iran Retaliates Against Kuwait Jordan Bahrain, Trump Delays Major Offensive",
+      "summary": "⚡ US completes 7th consecutive night of strikes on Iran, targeting underground weapons storage and military logistics; Iran retaliates by striking US bases in Kuwait and Jordan, destroying Bahrain's main AI center; IRGC shoots down US MQ-9 Reaper drone; oil tanker explosion dispute in Hormuz; Iran warns of 'offensive and destructive' phase if US continues; Trump delays 'massive offensive' at Gulf leaders' request.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Middle East",
+        "Trump",
+        "Iran"
+      ],
+      "file": "posts/189-iran-war-seventh-night-hormuz-escalation-july-18-2026.en.html"
+    }
+  },
+  {
     "id": "188",
     "date": "2026-07-18",
     "zh": {
