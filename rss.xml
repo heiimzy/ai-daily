@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 18 Jul 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日金融晚报：美股周线齐跌、原油暴涨16%费城半导体确认熊市、比特币反弹至64K</title>
+      <link>https://ai-daily.cc.cd/posts/200-financial-roundup-wall-street-weekly-loss-oil-sox-bear-market-bitcoin-july-18-2026.zh.html</link>
+      <description>⚡ 美股三大指数周线齐跌，标普500收于7,457点周跌1.6%，费城半导体指数自6月峰值暴跌20%以上确认进入技术性熊市；布伦特原油暴涨4.6%至88.10美元，周涨幅达16%创数年来最大单周涨幅；比特币从62,400美元反弹至64,000美元，加密市场恐慌指数降至25极恐；苹果盘中市值一度超越英伟达重夺全球第一；Netflix暴跌7.3%、Intuitive Surgical重挫14%、SpaceX创IPO新低；Tether冻结1.31亿美元伊朗关联加密地址；黄金在4,000美元关口博弈；消费者信心超预期回升。</description>
+      <pubDate>Sat, 18 Jul 2026 13:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/200-financial-roundup-wall-street-weekly-loss-oil-sox-bear-market-bitcoin-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日科技晚间综述：全国首张脑机接口处方成功手术、Capital One开源AI安全工具VulnHunter、OpenAI推全双工语音</title>
       <link>https://ai-daily.cc.cd/posts/199-tech-roundup-bci-surgery-vulnhunter-gptlive-july-18-2026.zh.html</link>
