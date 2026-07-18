@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 17 Jul 2026 23:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月18日科技早报：全球芯片指数确认进入熊市、Databricks估值飙至1880亿美元、WAIC第二天荣耀Robot Phone登场</title>
+      <link>https://ai-daily.cc.cd/posts/187-tech-roundup-chip-bear-market-databricks-188b-honor-robot-phone-july-18-2026.zh.html</link>
+      <description>⚡ 费城半导体指数从6月高点暴跌20%确认进入熊市，全球芯片股市值蒸发3.3万亿美元；Databricks由Coatue领投完成新一轮融资估值达1880亿美元；WAIC 2026第二天荣耀Robot Phone正式亮相，世界首款内置机械云台的具身智能手机面向公众展示。</description>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/187-tech-roundup-chip-bear-market-databricks-188b-honor-robot-phone-july-18-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月18日科技综述：DeepMind研究员因五角大楼AI协议辞职万字抗争、蚂蚁Ring-Zero万亿参数模型自发涌现认知行为、印度首枚私人火箭今日首飞</title>
       <link>https://ai-daily.cc.cd/posts/186-tech-roundup-deepmind-pentagon-ring-zero-vikram1-july-18-2026.zh.html</link>
