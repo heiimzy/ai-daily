@@ -1,17 +1,65 @@
 [
   {
+    "id": "233",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：谷歌Gemini 3.5 Pro因编码缺陷推迟发布、AI自我进化令研究者焦虑、黄仁勋央视专访盛赞中国AI生态",
+      "summary": "⚡ 7月20日科技综合：谷歌Gemini 3.5 Pro因编码能力不足而推迟发布，Alphabet股价从高点下跌15%；OpenAI首席研究官称未来花在AI上的钱可能堪比雇佣人类研究员，AI自我改进时代来临引发研究者职业焦虑；黄仁勋接受央视《面对面》专访，盛赞中国AI市场独一无二，点名阿里巴巴、美团、腾讯、百度、小米、比亚迪为杰出朋友；Anthropic透露Claude 80%代码由自己编写，AI年底接近人类研究员水平。",
+      "tags": [
+        "科技新闻",
+        "谷歌",
+        "Gemini",
+        "AI自我改进",
+        "黄仁勋",
+        "英伟达",
+        "OpenAI"
+      ],
+      "file": "posts/233-tech-roundup-gemini-35-delay-ai-self-research-jensen-huang-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: Google Gemini 3.5 Pro Delayed on Coding Flaws, AI Self-Improvement Sparks Researcher Anxiety, Jensen Huang Praises China's AI Ecosystem on CCTV",
+      "summary": "⚡ July 20 tech roundup: Google Gemini 3.5 Pro delayed indefinitely due to coding performance gaps, Alphabet stock slides 15%; OpenAI CRO warns AI spending may match human researcher budgets as self-improving AI era arrives; Jensen Huang tells CCTV that China's AI market is truly unique, names Alibaba, Meituan, Tencent, Baidu, Xiaomi, and BYD as distinguished friends; Anthropic reveals Claude writes 80% of its own code as AI approaches human-level post-training capabilities.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Gemini",
+        "AI Self-Improvement",
+        "Jensen Huang",
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "file": "posts/233-tech-roundup-gemini-35-delay-ai-self-research-jensen-huang-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "232",
     "date": "2026-07-20",
     "zh": {
       "title": "⚡ 7月20日国际政治深度：霍尔木兹海峡通航量降至零、第三名美军在伊拉克阵亡、特朗普战情室紧急谋划\"毁灭性打击\"",
       "summary": "⚡ 7月20日国际政治深度：伊朗革命卫队宣布霍尔木兹海峡通航量已降至零，任何穿越企图都将遭到打击；第三名美军士兵在伊拉克处理伊朗无人机未爆弹时阵亡，美军累计阵亡升至17人；特朗普在白宫战情室召开紧急会议，酝酿对伊朗\"毁灭性打击\"新计划，不排除派遣地面部队；水源战争全面爆发——美军炸毁伊朗邦吉海水淡化厂切断1万平民供水，伊朗报复打击科威特海水淡化设施威胁该国90%饮用水源；IAEA确认调查伊朗在建核电站遭美军空袭事件；伊朗内部权力斗争白热化",
-      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "水源战争", "特朗普", "美军阵亡", "伊朗核电站"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "水源战争",
+        "特朗普",
+        "美军阵亡",
+        "伊朗核电站"
+      ],
       "file": "posts/232-international-politics-hormuz-zero-traffic-trump-war-room-water-war-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 International Politics: Strait of Hormuz Traffic Hits Zero, Third US Soldier Killed in Iraq, Trump Holds Emergency Situation Room Meeting",
       "summary": "⚡ July 20 international politics deep dive: Iran's IRGC declares Strait of Hormuz traffic has dropped to zero; third US service member killed in Iraq during controlled detonation of Iranian drone ordnance; Trump convenes emergency Situation Room meeting discussing 'devastating strike' plans; water war erupts as US destroys Iran's Bonji desalination plant, Iran retaliates on Kuwait's water supply threatening 90% of drinking water; IAEA investigates Darkhovin nuclear plant strike; Iran internal power struggle intensifies.",
-      "tags": ["International Politics", "US-Iran Conflict", "Strait of Hormuz", "Water War", "Trump Situation Room", "US Casualties", "IAEA"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Water War",
+        "Trump Situation Room",
+        "US Casualties",
+        "IAEA"
+      ],
       "file": "posts/232-international-politics-hormuz-zero-traffic-trump-war-room-water-war-july-20-2026.en.html"
     }
   },
@@ -21,13 +69,29 @@
     "zh": {
       "title": "⚡ 7月20日金融深度：海湾股市周日全线暴跌、美国柴油突破5美元引爆通胀恐慌、半导体确认熊市",
       "summary": "⚡ 7月20日金融深度综述：海湾股市周日全线下跌，卡塔尔跌1.5%巴林跌1.2%；美国柴油零售价突破5美元/加仑，多重地缘冲击叠加引发供应链通胀恐慌；CPC里海管道因无人机袭击暂停装载，威胁每日158万桶供应；费城半导体指数确认进入熊市，全球芯片股市值蒸发3.3万亿美元；日经225一周震荡4000点后收于64,141；黄金在4,010美元附近挣扎。",
-      "tags": ["金融经济", "海湾股市", "柴油", "半导体熊市", "日经225", "黄金", "美伊冲突"],
+      "tags": [
+        "金融经济",
+        "海湾股市",
+        "柴油",
+        "半导体熊市",
+        "日经225",
+        "黄金",
+        "美伊冲突"
+      ],
       "file": "posts/231-financial-roundup-gulf-diesel-semiconductor-bear-market-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Financial Deep Dive: Gulf Markets Plunge Sunday, US Diesel Breaks $5/Gallon, Semiconductor Bear Market Confirmed",
       "summary": "⚡ July 20 financial deep dive: Gulf stock markets fall across the board Sunday with Qatar down 1.5%; US diesel surges past $5/gallon; CPC pipeline halts 1.58M bpd; SOX enters bear market with $3.3T wiped from chip stocks; Nikkei 225 swings 4,000 points in a week; Gold clings to $4,010.",
-      "tags": ["Finance", "Gulf Markets", "Diesel", "Semiconductor Bear Market", "Nikkei 225", "Gold", "US-Iran Conflict"],
+      "tags": [
+        "Finance",
+        "Gulf Markets",
+        "Diesel",
+        "Semiconductor Bear Market",
+        "Nikkei 225",
+        "Gold",
+        "US-Iran Conflict"
+      ],
       "file": "posts/231-financial-roundup-gulf-diesel-semiconductor-bear-market-july-20-2026.en.html"
     }
   },
@@ -37,13 +101,27 @@
     "zh": {
       "title": "⚡ 7月20日科技综合：Anthropic Fable 5订阅大调整、Linus Torvalds怒怼反AI开发者'不接受就分叉'、WAIC 2026今日闭幕",
       "summary": "⚡ 7月20日科技综合：Anthropic Claude Fable 5订阅策略今日变更，Max用户保留50%限额而Pro用户失去捆绑权限；Linus Torvalds在Linux内核邮件列表强势回应反AI开发者，称'不接受就分叉'；WAIC 2026今日闭幕，超1100家企业展出4500余款产品，具身智能与人形机器人成最大亮点。",
-      "tags": ["科技新闻", "Anthropic", "Linus Torvalds", "WAIC", "AI编程", "人形机器人"],
+      "tags": [
+        "科技新闻",
+        "Anthropic",
+        "Linus Torvalds",
+        "WAIC",
+        "AI编程",
+        "人形机器人"
+      ],
       "file": "posts/230-tech-roundup-anthropic-fable5-torvalds-ai-waic-finale-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Tech Roundup: Anthropic Fable 5 Subscriptions Restructured, Linus Torvalds Tells Anti-AI Critics to 'Fork It', WAIC 2026 Concludes",
       "summary": "⚡ July 20 tech roundup: Anthropic's Claude Fable 5 subscription changes take effect with Max users retaining 50% limits while Pro users lose bundled access; Linus Torvalds issues forceful defense of AI coding tools on Linux kernel mailing list; WAIC 2026 closes with over 1,100 exhibitors showcasing embodied AI and humanoid robots.",
-      "tags": ["Tech News", "Anthropic", "Linus Torvalds", "WAIC", "AI Coding", "Humanoid Robot"],
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Linus Torvalds",
+        "WAIC",
+        "AI Coding",
+        "Humanoid Robot"
+      ],
       "file": "posts/230-tech-roundup-anthropic-fable5-torvalds-ai-waic-finale-july-20-2026.en.html"
     }
   },
