@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 08:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:03:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月19日金融早报：A股ETF月内净流入突破3200亿、18只主动ETF正式上报、长鑫科技创科创板IPO纪录、比特币周末持稳64K</title>
+      <link>https://ai-daily.cc.cd/posts/211-financial-roundup-weekend-etf-inflows-cxmt-ipo-bitcoin-july-19-2026.zh.html</link>
+      <description>⚡ A股ETF 7月以来净流入超3200亿元，本周超2000亿创年内单周纪录；18只主动管理ETF正式上报，境内ETF迈入主动+被动新时代；长鑫科技科创板史上最大IPO，募资579亿估值5800亿；比特币周末持稳$64,810，CLARITY法案投票在即；苹果日本全线涨价10%，存储芯片成本与日元贬值双压。</description>
+      <pubDate>Sun, 19 Jul 2026 09:03:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/211-financial-roundup-weekend-etf-inflows-cxmt-ipo-bitcoin-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月19日科技综合：OpenAI任命计算CTO、Capital One开源VulnHunter、GitHub发布Copilot SDK、xAI开源Grok Build</title>
       <link>https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.zh.html</link>
