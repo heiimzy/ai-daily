@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 03:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 04:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月20日科技综合：Anthropic Fable 5订阅大调整、Linus Torvalds怒怼反AI开发者'不接受就分叉'、WAIC 2026今日闭幕</title>
+      <link>https://ai-daily.cc.cd/posts/230-tech-roundup-anthropic-fable5-torvalds-ai-waic-finale-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日科技综合：Anthropic Claude Fable 5订阅策略今日变更，Max用户保留50%限额而Pro用户失去捆绑权限；Linus Torvalds在Linux内核邮件列表强势回应反AI开发者，称"不接受就分叉"；WAIC 2026今日闭幕，超1100家企业展出4500余款产品，具身智能与人形机器人成最大亮点。</description>
+      <pubDate>Mon, 20 Jul 2026 04:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/230-tech-roundup-anthropic-fable5-torvalds-ai-waic-finale-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月20日科技综合：小鹏第二代VLA日均消耗58.8万亿Token、360发布AI漏洞挖掘智能体"图龙锋"、GPT-5.6 Sol删除文件事故持续发酵</title>
       <link>https://ai-daily.cc.cd/posts/229-tech-roundup-xpeng-vla-360-tulongfeng-gpt56-sol-july-20-2026.zh.html</link>
