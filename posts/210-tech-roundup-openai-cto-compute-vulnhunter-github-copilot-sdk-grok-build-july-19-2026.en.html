@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 19 Tech Roundup: OpenAI Names CTO of Compute, Capital One Open-Sources VulnHunter, GitHub Ships Copilot SDK, xAI Open-Sources Grok Build - AI Daily</title>
+  <meta name="description" content="⚡ OpenAI promotes Uday Ruddaraju to CTO of Compute, targeting the world's largest AI compute footprint; Capital One transforms from data breach victim to open-source AI security enabler with VulnHunter's falsification engine cutting false positives by half; GitHub enters the agent framework war with Copilot SDK supporting six languages; xAI open-sources Grok Build under Apache 2.0 but rejects external contributions.">
+  <meta name="keywords" content="OpenAI,CTO of Compute,Uday Ruddaraju,AI compute,Capital One,VulnHunter,AI security,open-source security,Claude Opus,falsification engine,GitHub,Copilot SDK,agent framework,xAI,Grok Build,open-source AI coding,Apache 2.0,AWS billing bug,CISA,SharePoint zero-day,AI Daily">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-19</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-19</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">OpenAI</span><span class="tag">AI Security</span><span class="tag">GitHub</span><span class="tag">xAI</span><span class="tag">Copilot</span></div>
+  <h1>⚡ July 19 Tech Roundup: OpenAI Names CTO of Compute, Capital One Open-Sources VulnHunter, GitHub Ships Copilot SDK, xAI Open-Sources Grok Build</h1>
+
+  <h2>1. OpenAI Names Uday Ruddaraju CTO of Compute, Targeting the World's Largest AI Infrastructure</h2>
+  <p>On July 19, OpenAI officially promoted Uday Ruddaraju to Chief Technology Officer of Compute, just one year after he joined the company. The appointment signals that OpenAI has elevated infrastructure to the same strategic priority as model research.</p>
+  <p>Ruddaraju will lead the build-out and scaling of compute systems that power next-generation models like GPT-5.6 Sol. His stated goal is to create "the world's largest compute footprint," making powerful AI tools accessible across industries. His responsibilities span hardware selection and customization, data center layout, distributed systems engineering, and large-scale compute orchestration platforms.</p>
+  <p>Ruddaraju previously served as head of infrastructure engineering at xAI, with earlier stints at AWS, eBay, and Robinhood. He holds degrees from the University of Hyderabad and the University of Minnesota. His rapid promotion within a year reflects OpenAI's urgency in the compute arms race — as open-source models like Kimi K3 launch with 2.8 trillion parameters and aggressive pricing, compute efficiency has become a make-or-break variable for AI companies.</p>
+  <p>Notably, the announcement comes amid tightened White House controls over early access to frontier models — CNBC reported that the Trump administration has begun directly deciding which partners receive pre-release access to OpenAI and Anthropic models, a power that previously belonged entirely to the labs themselves.</p>
+
+  <h2>2. Capital One Open-Sources VulnHunter: AI Security Tool Uses Falsification Engine to Cut False Positives in Half</h2>
+  <p>On July 18, Capital One released VulnHunter on GitHub under an Apache 2.0 license — an open-source AI security tool built on Anthropic's Claude Opus 4.8 and Claude Code. VulnHunter takes a fundamentally different approach from traditional vulnerability scanners.</p>
+  <p>The tool's first innovation is "attacker-first forward analysis": instead of working backward from dangerous code patterns, VulnHunter starts at attacker-accessible entry points — API endpoints, network message handlers, file upload interfaces — and reasons forward through application logic to determine whether an attacker can actually reach a dangerous code path.</p>
+  <p>More critically, VulnHunter features a built-in "falsification engine." When a potential vulnerability is found, instead of immediately alerting, the engine runs a structured reasoning workflow designed to disprove its own conclusion. It searches for unsupported assumptions, logical gaps in the exploit path, and environmental conditions that would block an attack. Findings that fail this challenge are discarded. Capital One reports that roughly half of all candidate findings are eliminated at this stage, dramatically reducing false positive rates.</p>
+  <p>CISO Chris Nims said advanced AI models have "dramatically lowered the barrier for bad actors to discover and exploit vulnerabilities in software," warning that the window before sophisticated AI attack capabilities become affordable to virtually every adversary is shrinking rapidly. Seven years ago to the day — July 19, 2019 — Capital One disclosed a massive breach where a former AWS employee exploited a misconfigured firewall to steal 100 million customer records. Today, the same institution is open-sourcing AI-driven defensive tools, transforming from breach victim to security enabler.</p>
+
+  <h2>3. GitHub Ships Copilot SDK: Enters the Agent Framework War Against Anthropic and OpenAI</h2>
+  <p>On July 17, GitHub released the Copilot SDK, making the agent runtime behind Copilot CLI available as a software development kit. The SDK ships for Python, TypeScript, Go, .NET, Java, and Rust under an MIT license, allowing developers to embed Copilot's agent capabilities into their own applications.</p>
+  <p>The technical core is "orchestration-as-a-service": developers define what the agent should accomplish, and the Copilot runtime handles planning loops, tool invocation, and file editing. Each SDK communicates with a local Copilot CLI process over JSON-RPC, with the client managing process lifecycle automatically or connecting to an external CLI server.</p>
+  <p>This release positions GitHub directly against Anthropic's Claude Agent SDK and OpenAI's Agents SDK, creating a three-way battle for the agent framework market. Unlike its competitors' usage-billed API model, the Copilot SDK is subscription-gated — each prompt counts against the user's GitHub Copilot quota. For enterprises already standardized on GitHub Copilot seats, this integrates seamlessly; for teams seeking a model-agnostic agent layer, it creates platform lock-in risk.</p>
+  <p>GitHub's SDK also supports BYOK (Bring Your Own Key), allowing teams to use credentials from OpenAI, Azure AI Foundry, or Anthropic to bypass the subscription requirement. However, BYOK is limited to key-based authentication and doesn't support Microsoft Entra ID or third-party identity providers. The community has already contributed unofficial ports for Clojure and C++.</p>
+
+  <h2>4. xAI Open-Sources Grok Build: Terminal AI Coding Agent Under Apache 2.0 — But No External Contributions Accepted</h2>
+  <p>On July 18, xAI (now rebranded as SpaceXAI) open-sourced Grok Build, its terminal-based AI coding agent written in Rust. The tool supports three operating modes: an interactive full-screen TUI interface, headless operation for CI pipelines, and editor embedding through the Agent Client Protocol (ACP).</p>
+  <p>Grok Build's capabilities include file editing, shell command execution, web search, and long-running task management. Unlike a chatbot with a coding hobby, it understands the entire codebase, not just the currently open file. The project ships prebuilt binaries for macOS, Linux, and Windows, installable via curl or PowerShell one-liners.</p>
+  <p>However, xAI's unique restriction has sparked community discussion: the project explicitly states that external contributions are not accepted. Users can fork and modify under the Apache 2.0 license but cannot submit changes back. Commentators describe this as a "source-available" model — showing code to build trust and ecosystem adoption while retaining full control over project direction. For teams prioritizing auditability and self-hosting, Grok Build offers value; for community-driven innovation, alternatives like Cursor and GitHub Copilot maintain more active ecosystems.</p>
+  <p>The open-source release follows a data privacy incident: developers discovered Grok Build's CLI was sending entire code folders to SpaceXAI servers without clear disclosure. xAI responded swiftly by open-sourcing the CLI and switching data retention to opt-in mode by default for all users. xAI staff engineer Akshey Deokule stated: "We heard your feedback loud and clear."</p>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://ai-daily.cc.cd/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
