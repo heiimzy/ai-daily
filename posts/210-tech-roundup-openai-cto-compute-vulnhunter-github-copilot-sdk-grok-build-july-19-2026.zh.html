@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7月19日科技综合：OpenAI任命计算CTO、Capital One开源VulnHunter、GitHub发布Copilot SDK、xAI开源Grok Build - AI Daily</title>
+  <meta name="description" content="⚡ OpenAI提拔Uday Ruddaraju为计算CTO，剑指全球最大算力基座；Capital One时隔七年从数据泄露受害者变身为开源AI安全工具推手，VulnHunter用反证引擎消灭半数误报；GitHub正式发布Copilot SDK，六语言原生支持，与Anthropic和OpenAI展开智能体框架三国杀；xAI开源Grok Build，Apache 2.0许可但不接受外部贡献。">
+  <meta name="keywords" content="OpenAI,CTO of Compute,Uday Ruddaraju,AI算力,Capital One,VulnHunter,AI安全,开源安全,Claude Opus,反证引擎,GitHub,Copilot SDK,智能体框架,xAI,Grok Build,开源AI编程,Apache 2.0,AWS计费故障,CISA,SharePoint零日漏洞,AI日报">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-19</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-19</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">OpenAI</span><span class="tag">AI安全</span><span class="tag">GitHub</span><span class="tag">xAI</span><span class="tag">Copilot</span></div>
+  <h1>⚡ 7月19日科技综合：OpenAI任命计算CTO、Capital One开源VulnHunter、GitHub发布Copilot SDK、xAI开源Grok Build</h1>
+
+  <h2>一、OpenAI任命Uday Ruddaraju为计算CTO：剑指全球最大AI算力基座</h2>
+  <p>7月19日，OpenAI正式宣布提拔Uday Ruddaraju为首席技术官（CTO）of Compute，距离他加入公司仅一年时间。这一任命标志着OpenAI将算力基础设施建设提升至与模型研发同等重要的战略高度。</p>
+  <p>Ruddaraju将全面负责构建和扩展支撑GPT-5.6 Sol等下一代大模型的算力系统。他的目标是打造"全球最大的算力基座"（world's largest compute footprint），让强大的AI工具能够跨越行业壁垒实现广泛可及。具体工作涵盖硬件选型与定制、数据中心布局、分布式系统工程以及大规模算力调度平台。</p>
+  <p>Ruddaraju的履历令人瞩目：此前他在xAI担任基础设施工程主管，更早曾在AWS、eBay和Robinhood等公司担任关键工程岗位。他拥有海得拉巴大学和明尼苏达大学双学位。去年他从xAI跳槽OpenAI时已在业界引起轰动，如今一年内升任计算CTO，反映出OpenAI对算力"军备竞赛"的紧迫感——随着Kimi K3等开源模型以2.8万亿参数规模发起价格战，算力效率已成为决定AI公司生死的关键变量。</p>
+  <p>值得注意的是，就在OpenAI宣布此任命的同时，白宫对前沿模型的提前访问管控正持续收紧——CNBC报道称Trump政府已开始直接决定哪些合作方可获得OpenAI和Anthropic模型的预发布权限，这一权力此前完全掌握在实验室自己手中。</p>
+
+  <h2>二、Capital One开源VulnHunter：AI安全工具用反证引擎消灭半数误报</h2>
+  <p>7月18日（周四），Capital One正式在GitHub上以Apache 2.0许可开源了其内部AI安全工具VulnHunter。这款基于Anthropic Claude Opus 4.8和Claude Code构建的智能安全扫描器，采用了一种与传统漏洞扫描完全不同的方法论。</p>
+  <p>VulnHunter的核心创新在于两点：首先是"攻击者优先前向分析"——它从API端点、网络消息处理器、文件上传接口等攻击者可触及的入口点出发，正向推演数据流经应用逻辑的完整路径，判断攻击者是否真的能够抵达危险代码段。这与传统扫描器从危险代码模式反向搜索的做法形成鲜明对比。</p>
+  <p>更关键的是其内置的"反证引擎"（falsification engine）：当VulnHunter发现一个潜在漏洞后，不会立即报警，而是启动一套结构化的推理工作流，主动寻找该结论中的逻辑漏洞——假设是否成立、利用路径是否存在断点、环境条件是否阻止攻击成功。任何被反证引擎判定为站不住脚的发现将被直接丢弃。Capital One表示，约半数候选发现在这个阶段被消除，大幅降低了误报率。</p>
+  <p>Capital One的CISO Chris Nims在声明中表示，高级AI模型已"显著降低了恶意行为者发现和利用软件漏洞的门槛"，"在越来越短的时间窗口内，下一代AI攻击能力将变得平价且可及"。七年前（2019年7月19日），Capital One因一名前AWS员工利用配置漏洞窃取了1亿条客户记录而遭受重创，如今同一家机构正在开源AI安全防御工具——从数据泄露受害者变成了安全赋能者。</p>
+
+  <h2>三、GitHub发布Copilot SDK：与Anthropic和OpenAI展开智能体框架三国杀</h2>
+  <p>7月17日，GitHub正式发布了Copilot SDK，将Copilot CLI背后的智能体运行环境以软件开发工具包的形式向公众开放。该SDK支持Python、TypeScript、Go、.NET、Java和Rust六种语言，采用MIT许可协议，开发者可在自己的应用中嵌入GitHub Copilot的智能体能力。</p>
+  <p>Copilot SDK的技术核心是"编排即服务"（orchestration-as-a-service）：开发者只需定义智能体的目标，Copilot的运行环境会自动处理规划循环、工具调用和文件编辑。每个SDK通过JSON-RPC协议与本地Copilot CLI进程通信，客户端可自动管理进程生命周期，或连接到外部CLI服务器。</p>
+  <p>这一发布的战略意义在于：GitHub正式将产品从"聊天助手"升级为"可分发基础设施"。Anthropic有Claude Agent SDK，OpenAI有Agents SDK，如今GitHub带着Copilot SDK入局，形成了智能体框架的"三国杀"格局。与竞争对手不同的是，Copilot SDK采用订阅制计费——每次调用消耗GitHub Copilot的配额。对于已在标准化GitHub Copilot席位的大型企业来说，SDK可直接融合现有计费体系；但对于希望搭建模型无关智能体层的团队，这则意味着平台锁定风险。</p>
+  <p>值得注意的是，GitHub SDk同时支持BYOK（自带密钥），允许团队使用OpenAI、Azure AI Foundry或Anthropic等提供商的凭证，规避订阅要求。但BYOK目前仅支持密钥认证，不支持Microsoft Entra ID或第三方身份提供商。社区已贡献Clojure和C++的非官方移植版本。</p>
+
+  <h2>四、xAI开源Grok Build：终端AI编程智能体，Apache 2.0许可但不接受外部贡献</h2>
+  <p>7月18日，xAI（已更名为SpaceXAI）正式开源了其终端AI编程智能体Grok Build。这款用Rust编写的工具支持三种运行模式：交互式全屏终端界面（TUI）、无头模式（适用于CI流水线）、以及通过智能体客户端协议（ACP）嵌入编辑器。</p>
+  <p>Grok Build的核心能力包括文件编辑、Shell命令执行、网络搜索和长任务管理。与普通聊天机器人不同，它是一个"专注的编码智能体"——能理解整个代码库而非仅当前打开的文件。项目已为macOS、Linux和Windows提供预构建二进制文件，也可通过curl或PowerShell一行安装。</p>
+  <p>然而，xAI的一项特殊限制引发了社区讨论：项目明确声明不接受外部贡献（CONTRIBUTING.md写道"外部贡献不会被接受"），用户可基于Apache 2.0许可Fork和修改，但无法将修改提交回主仓库。评论认为，xAI的"开源但不接受贡献"策略本质上是一种"源码可见"模式——展示代码以建立信任和生态系统采用，但保留对项目方向的完全控制。对于追求可审计性和自托管能力的团队，Grok Build仍有价值；但对于需要社区驱动创新的场景，Cursor和GitHub Copilot等选择具有更活跃的生态。</p>
+  <p>此次开源还伴随着一项数据隐私相关的调整：此前开发者发现Grok Build的CLI编程助手在未明确披露的情况下将整个代码文件夹发送到SpaceXAI服务器。xAI迅速做出了响应——开源CLI、将所有用户的数据保留默认设置为关闭（opt-in模式）。xAI技术团队成员Akshey Deokule表示："我们听到了你们的强烈反馈。"</p>
+
+  <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://ai-daily.cc.cd/" target="_blank">免费 AI 工具</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
