@@ -1,5 +1,21 @@
 [
   {
+    "id": "227",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日金融综述：国家队周末增持超600亿、证监会今日召开座谈会、比特币持稳64,800美元",
+      "summary": "⚡ 7月20日金融深度综述：中国诚通与国新控股周末累计增持A股超600亿元，证监会今日召开上市公司与机构座谈会；私募掀自购潮，平方和1亿元领衔；比特币持稳64,800美元，周末霍尔木兹危机凸显影子市场角色；LPR如期持平，货币政策进入观察期；油价因中东局势维持高位。",
+      "tags": ["金融经济", "国家队增持", "A股", "比特币", "油价", "LPR", "证监会座谈会"],
+      "file": "posts/227-financial-roundup-state-backing-buyback-csrc-symposium-bitcoin-oil-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Financial Roundup: China State Giants Inject $8.4B+ into A-Shares, CSRC Holds Symposium, Bitcoin Holds $64,800",
+      "summary": "⚡ July 20 financial roundup: China Chengtong and China Guoxin inject over 60 billion yuan ($8.4B+) into A-shares; CSRC holds symposium with listed companies and brokerages; private equity firms launch buyback spree; Bitcoin holds $64,800 as weekend shadow market role intensifies; LPR unchanged; oil stays above $85.",
+      "tags": ["Finance", "China A-Shares", "State-Backed Buying", "Bitcoin", "Oil", "LPR", "CSRC"],
+      "file": "posts/227-financial-roundup-state-backing-buyback-csrc-symposium-bitcoin-oil-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "226",
     "date": "2026-07-20",
     "zh": {
