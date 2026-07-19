@@ -1,17 +1,63 @@
 [
   {
+    "id": "228",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日国际政治深度：伊朗扣押英国油轮引爆霍尔木兹海峡新危机、沙特遭四个月来首次直接打击、美伊已连续八夜互轰",
+      "summary": "⚡ 7月20日国际政治深度：伊朗革命卫队19日在霍尔木兹海峡扣押英国油轮Stena Impero，英外交大臣警告“严重后果”；伊朗同日直接打击沙特延布SAMREF炼油厂和哈立德国王空军基地，为四个月来首次；美军完成连续第八夜空袭，两名阵亡士兵引发报复；科威特海水淡化厂连续第二天遭袭；德黑兰正式宣布停止履行停火备忘录，全面战争风险飙升。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "英国油轮",
+        "沙特遭袭",
+        "伊朗革命卫队"
+      ],
+      "file": "posts/228-iran-war-british-tanker-stena-impero-seized-saudi-struck-kuwait-desalination-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 International Politics: Iran Seizes British Oil Tanker in Strait of Hormuz, Strikes Saudi Arabia for First Time in 4 Months, US-Iran Exchange Fire for 8th Consecutive Night",
+      "summary": "⚡ July 20 international politics: Iran's IRGC seizes British-flagged tanker Stena Impero in Strait of Hormuz; Iran directly strikes Saudi Arabia's SAMREF refinery and Prince Sultan Air Base for first time in 4 months; US completes 8th consecutive night of airstrikes after 2 troops killed in Jordan; Kuwait desalination plant hit again; Tehran officially suspends ceasefire MoU; full-scale war risk surges.",
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Strait of Hormuz",
+        "British Tanker",
+        "Saudi Arabia",
+        "IRGC"
+      ],
+      "file": "posts/228-iran-war-british-tanker-stena-impero-seized-saudi-struck-kuwait-desalination-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "227",
     "date": "2026-07-20",
     "zh": {
       "title": "⚡ 7月20日金融综述：国家队周末增持超600亿、证监会今日召开座谈会、比特币持稳64,800美元",
       "summary": "⚡ 7月20日金融深度综述：中国诚通与国新控股周末累计增持A股超600亿元，证监会今日召开上市公司与机构座谈会；私募掀自购潮，平方和1亿元领衔；比特币持稳64,800美元，周末霍尔木兹危机凸显影子市场角色；LPR如期持平，货币政策进入观察期；油价因中东局势维持高位。",
-      "tags": ["金融经济", "国家队增持", "A股", "比特币", "油价", "LPR", "证监会座谈会"],
+      "tags": [
+        "金融经济",
+        "国家队增持",
+        "A股",
+        "比特币",
+        "油价",
+        "LPR",
+        "证监会座谈会"
+      ],
       "file": "posts/227-financial-roundup-state-backing-buyback-csrc-symposium-bitcoin-oil-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Financial Roundup: China State Giants Inject $8.4B+ into A-Shares, CSRC Holds Symposium, Bitcoin Holds $64,800",
       "summary": "⚡ July 20 financial roundup: China Chengtong and China Guoxin inject over 60 billion yuan ($8.4B+) into A-shares; CSRC holds symposium with listed companies and brokerages; private equity firms launch buyback spree; Bitcoin holds $64,800 as weekend shadow market role intensifies; LPR unchanged; oil stays above $85.",
-      "tags": ["Finance", "China A-Shares", "State-Backed Buying", "Bitcoin", "Oil", "LPR", "CSRC"],
+      "tags": [
+        "Finance",
+        "China A-Shares",
+        "State-Backed Buying",
+        "Bitcoin",
+        "Oil",
+        "LPR",
+        "CSRC"
+      ],
       "file": "posts/227-financial-roundup-state-backing-buyback-csrc-symposium-bitcoin-oil-july-20-2026.en.html"
     }
   },
@@ -21,13 +67,29 @@
     "zh": {
       "title": "⚡ 7月20日科技综合：阿里Qwen 3.8发布2.4万亿参数模型自称仅次于Fable 5、WAIC 2026闭幕人形机器人量产元年确立、OpenAI设立计算CTO",
       "summary": "⚡ 7月20日科技综合：阿里通义千问发布2.4万亿参数Qwen3.8-Max-Preview，声称仅次于Claude Fable 5并承诺开源；WAIC 2026今日闭幕，人形机器人全面上岗，国产化率突破75%，量产元年正式确立；OpenAI提拔前xAI高管Uday Ruddarraju为计算CTO剑指全球最大算力基座；NVIDIA联合日本22家机器人巨头成立Cosmos联盟；Anthropic Fable 5免费访问今日截止。",
-      "tags": ["科技新闻", "AI模型", "Qwen 3.8", "WAIC 2026", "人形机器人", "OpenAI", "NVIDIA"],
+      "tags": [
+        "科技新闻",
+        "AI模型",
+        "Qwen 3.8",
+        "WAIC 2026",
+        "人形机器人",
+        "OpenAI",
+        "NVIDIA"
+      ],
       "file": "posts/226-tech-roundup-qwen38-waic-finale-openai-cto-compute-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Tech Roundup: Alibaba's Qwen 3.8 with 2.4T Parameters Claims Second Only to Fable 5, WAIC 2026 Closes with Robot Revolution, OpenAI Creates CTO of Compute",
       "summary": "⚡ July 20 tech roundup: Alibaba unveils Qwen3.8-Max-Preview with 2.4T parameters claiming second only to Claude Fable 5 with open weights promised; WAIC 2026 concludes with humanoid robots deployed across venue and 75% domestic supply chain; OpenAI promotes Uday Ruddarraju to CTO of Compute; NVIDIA brings 22 Japanese robot giants into Cosmos alliance; Anthropic Fable 5 free access ends today.",
-      "tags": ["Tech News", "AI Models", "Qwen 3.8", "WAIC 2026", "Humanoid Robots", "OpenAI", "NVIDIA"],
+      "tags": [
+        "Tech News",
+        "AI Models",
+        "Qwen 3.8",
+        "WAIC 2026",
+        "Humanoid Robots",
+        "OpenAI",
+        "NVIDIA"
+      ],
       "file": "posts/226-tech-roundup-qwen38-waic-finale-openai-cto-compute-july-20-2026.en.html"
     }
   },
@@ -37,13 +99,25 @@
     "zh": {
       "title": "⚡ Kimi K3自称Claude引爆AI蒸馏争议：David Sacks警告美国正输掉AI竞赛、Elon Musk回应\"True\"",
       "summary": "⚡ Moonshot AI发布的2.8万亿参数开源模型Kimi K3在Frontend Code Arena登顶后，被曝在对话中自称\"我是Claude，不是Kimi\"，引发工业级AI蒸馏争议。前白宫AI沙皇David Sacks称美国正因过度监管输掉AI竞赛，Elon Musk回复\"True\"。Patreon联手Cloudflare封禁AI爬虫，Socket获6000万美元C轮融资。",
-      "tags": ["科技新闻", "AI模型", "Kimi K3", "模型蒸馏", "中美AI竞赛"],
+      "tags": [
+        "科技新闻",
+        "AI模型",
+        "Kimi K3",
+        "模型蒸馏",
+        "中美AI竞赛"
+      ],
       "file": "posts/225-kimi-k3-claude-distillation-controversy-sacks-musk-july-19-2026.zh.html"
     },
     "en": {
       "title": "⚡ Kimi K3 Identifies as Claude, Igniting Distillation Firestorm: David Sacks Warns US Losing AI Race, Elon Musk Says 'True'",
       "summary": "⚡ Moonshot AI's 2.8T-parameter Kimi K3 tops Frontend Code Arena but is caught identifying as 'Claude, made by Anthropic,' sparking an industrial-scale distillation controversy. Former White House AI Czar David Sacks warns US over-regulation is losing the AI race; Elon Musk agrees. Patreon blocks AI crawlers via Cloudflare; Socket raises $60M Series C.",
-      "tags": ["Tech News", "AI Models", "Kimi K3", "Model Distillation", "US-China AI Race"],
+      "tags": [
+        "Tech News",
+        "AI Models",
+        "Kimi K3",
+        "Model Distillation",
+        "US-China AI Race"
+      ],
       "file": "posts/225-kimi-k3-claude-distillation-controversy-sacks-musk-july-19-2026.en.html"
     }
   },
