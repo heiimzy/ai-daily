@@ -1,5 +1,21 @@
 [
   {
+    "id": "221",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ Meta一周惊天逆转：算力基建狂飙至7GW、自研芯片Iris量产在即、与Anthropic谈百亿合作，OpenAI发布Codex Micro硬件键盘",
+      "summary": "⚡ Meta一周内从被质疑算力过剩到全面反击：7GW算力基建、自研AI芯片Iris 9月量产、Muse Spark 1.1首次收费，与Anthropic谈判百亿美元算力租赁；Meta招募前AWS高管Dave Brown转型云计算；OpenAI推出首款硬件产品Codex Micro机械键盘定价$230，AI编程Agent管理进入物理交互时代。",
+      "tags": ["科技新闻", "Meta", "Anthropic", "OpenAI", "AI算力", "Iris芯片", "Codex Micro", "硬件"],
+      "file": "posts/221-meta-ai-infrastructure-grand-slam-openai-codex-micro-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Meta's Stunning Reversal: 7GW Compute Infrastructure, Iris Chip Nears Production, $10B Anthropic Deal in Talks; OpenAI Launches Codex Micro Hardware Keyboard",
+      "summary": "⚡ Meta stages a stunning reversal in one week: 7GW compute infrastructure deployment, Iris AI chip production by September, Muse Spark 1.1 first paid model, $10B compute lease talks with Anthropic; Meta hires former AWS exec Dave Brown to lead cloud push; OpenAI enters hardware with $230 Codex Micro mechanical keypad for AI coding agent management.",
+      "tags": ["Tech News", "Meta", "Anthropic", "OpenAI", "AI Compute", "Iris Chip", "Codex Micro", "Hardware"],
+      "file": "posts/221-meta-ai-infrastructure-grand-slam-openai-codex-micro-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "220",
     "date": "2026-07-19",
     "zh": {
