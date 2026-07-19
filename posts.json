@@ -1,5 +1,21 @@
 [
   {
+    "id": "211",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日金融早报：A股ETF月内净流入突破3200亿、18只主动ETF正式上报、长鑫科技创科创板IPO纪录、比特币周末持稳64K",
+      "summary": "⚡ A股ETF 7月以来净流入超3200亿元，本周超2000亿创年内单周纪录；18只主动管理ETF正式上报，境内ETF迈入主动+被动新时代；长鑫科技科创板史上最大IPO，募资579亿估值5800亿；比特币周末持稳$64,810，CLARITY法案投票在即；苹果日本全线涨价10%，存储芯片成本与日元贬值双压。",
+      "tags": ["金融", "A股", "ETF", "科创板", "比特币", "苹果", "日元"],
+      "file": "posts/211-financial-roundup-weekend-etf-inflows-cxmt-ipo-bitcoin-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 Financial Briefing: A-Share ETF Inflows Surpass ¥320B, 18 Active ETFs Filed, CXMT Sets STAR IPO Record, Bitcoin Holds $64,810",
+      "summary": "⚡ A-share ETF net inflows surpass ¥320B in July with ¥200B+ in a single week; 18 active management ETFs filed; CXMT sets STAR Market record with ¥57.9B IPO; Bitcoin holds $64,810 ahead of CLARITY Act vote; Apple hikes Japan iPhone prices 10% on chip costs and yen weakness.",
+      "tags": ["Finance", "A-Shares", "ETF", "STAR Market", "Bitcoin", "Apple", "Yen"],
+      "file": "posts/211-financial-roundup-weekend-etf-inflows-cxmt-ipo-bitcoin-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "210",
     "date": "2026-07-19",
     "zh": {
