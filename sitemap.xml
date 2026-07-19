@@ -2327,4 +2327,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/233-tech-roundup-gemini-35-delay-ai-self-research-jensen-huang-july-20-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/233-tech-roundup-gemini-35-delay-ai-self-research-jensen-huang-july-20-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
