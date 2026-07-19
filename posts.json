@@ -1,5 +1,21 @@
 [
   {
+    "id": "219",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日金融周末综述：费城半导体指数确认熊市、黄金4000美元拉锯战、比特币周末\u201c影子市场\u201d角色凸显、SpaceX跌破发行价",
+      "summary": "⚡ 本周金融市场遭遇多重冲击：费城半导体指数暴跌超20%正式确认进入熊市，全球芯片股三周蒸发3.3万亿美元；黄金在4000美元关口反复拉锯，华尔街分析师看空情绪创数周新高；比特币在传统市场关闭的周末成为唯一持续交易的全球风险资产，\u201c影子市场\u201d角色凸显；SpaceX跌破IPO发行价至123.99美元，市值较高点蒸发超万亿美元。",
+      "tags": ["金融经济", "费城半导体指数", "黄金", "比特币", "SpaceX", "熊市", "美伊冲突"],
+      "file": "posts/219-financial-weekend-wrap-oil-gold-chip-bear-bitcoin-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 Financial Weekend Wrap: SOX Confirms Bear Market, Gold Defends $4,000, Bitcoin's Weekend \u2018Shadow Market\u2019 Role, SpaceX Falls Below IPO",
+      "summary": "⚡ Weekend financial roundup: Philadelphia Semiconductor Index confirms bear market (20%+ drop from peak), global chip stocks lose $3.3 trillion; gold fights to hold $4,000 support as Wall Street sentiment turns most bearish in weeks; Bitcoin trades as the only liquid global risk asset through the weekend, playing a \u2018shadow market\u2019 role; SpaceX falls below $135 IPO price to $123.99, losing over $1 trillion from peak.",
+      "tags": ["Finance", "SOX", "Bear Market", "Gold", "Bitcoin", "SpaceX", "US-Iran Conflict"],
+      "file": "posts/219-financial-weekend-wrap-oil-gold-chip-bear-bitcoin-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "218",
     "date": "2026-07-19",
     "zh": {
