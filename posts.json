@@ -1,5 +1,37 @@
 [
   {
+    "id": "215",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日金融晚报：韩国券商降级潮创年内首次、利比亚接入人民币跨境支付系统CIPS",
+      "summary": "⚡ 韩国KOSPI从9,000暴跌至6,000区间，券商研报降级首次反超升级，17个交易日蒸发30%；利比亚央行签约接入中国CIPS系统，直接使用人民币进行跨境结算；全球利率大重置风暴席卷日本，10年期日债收益率创30年新高2.9%；Circle获联邦信托银行牌照，银行界警告稳定币将抽走5000亿美元存款。",
+      "tags": [
+        "金融经济",
+        "韩国股市",
+        "KOSPI",
+        "利比亚",
+        "CIPS",
+        "人民币国际化",
+        "稳定币"
+      ],
+      "file": "posts/215-financial-roundup-kospi-downgrades-cips-libya-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 Financial Briefing: Korea Brokerage Downgrades Surpass Upgrades as KOSPI Crashes 30%, Libya Joins China's CIPS Yuan Payment System",
+      "summary": "⚡ Korea's KOSPI crashes 30% from 9,000 peak to 6,800 range in 17 sessions; brokerage target-price downgrades outpace upgrades for first time in 2026; Libya's central bank signs agreement to join China's CIPS cross-border payment system; Japan's 10Y bond yield hits 30-year high of 2.9%; Circle wins federal trust bank charter as banks warn stablecoins could drain $500B from deposits.",
+      "tags": [
+        "Finance",
+        "KOSPI",
+        "Korea",
+        "Yuan Internationalization",
+        "CIPS",
+        "Libya",
+        "Stablecoins"
+      ],
+      "file": "posts/215-financial-roundup-kospi-downgrades-cips-libya-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "214",
     "date": "2026-07-19",
     "zh": {
