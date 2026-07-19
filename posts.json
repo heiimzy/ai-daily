@@ -1,5 +1,33 @@
 [
   {
+    "id": "224",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日国际政治：IAEA确认伊朗在建核电站遭美军空袭启动调查、伊朗警告阿联酋立即疏散迪拜阿布扎比机场威胁全面攻势",
+      "summary": "⚡ 7月19日国际政治综合：国际原子能机构（IAEA）证实正在调查伊朗Darkhovin在建核电站遭美军空袭，总干事格罗西呼吁军事克制；伊朗通过Fars通讯社警告阿联酋立即疏散迪拜和阿布扎比国际机场及富查伊拉、杰贝阿里港；伊朗最高领袖顾问雷扎伊少将警告若美方继续攻击将启动“全面攻势”，称“任何政治边界都不再安全”；特朗普回应伊朗暂停履行停火协议称“我一点也不在乎”；美军完成连续第八夜空袭，强度有所减弱。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "IAEA",
+        "伊朗核电站",
+        "阿联酋"
+      ],
+      "file": "posts/224-international-politics-iaea-darkhovin-iran-uae-full-scale-offensive-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 International Politics: IAEA Investigates US Strike on Iran’s Darkhovin Nuclear Plant, Iran Threatens UAE Evacuation of Dubai and Abu Dhabi Airports, Warns Full-Scale Offensive",
+      "summary": "⚡ July 19 International Politics roundup: IAEA confirms investigation into US airstrike on Iran’s under-construction Darkhovin nuclear power plant; Iran warns UAE to evacuate Dubai and Abu Dhabi airports and ports of Fujairah and Jebel Ali; Supreme Leader adviser Rezaei warns of ‘full-scale offensive’ with ‘no political border safe’; Trump responds to Iran suspending ceasefire: ‘I couldn’t care less’; US completes eighth consecutive night of strikes with reduced intensity.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "IAEA",
+        "Nuclear Plant",
+        "UAE"
+      ],
+      "file": "posts/224-international-politics-iaea-darkhovin-iran-uae-full-scale-offensive-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "223",
     "date": "2026-07-19",
     "zh": {
