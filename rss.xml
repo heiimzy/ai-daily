@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 02:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 03:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月20日科技综合：小鹏第二代VLA日均消耗58.8万亿Token、360发布AI漏洞挖掘智能体"图龙锋"、GPT-5.6 Sol删除文件事故持续发酵</title>
+      <link>https://ai-daily.cc.cd/posts/229-tech-roundup-xpeng-vla-360-tulongfeng-gpt56-sol-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日科技综合：小鹏发布第二代VLA原生物理世界大模型，日均调用Token达58.8万亿，5000公里路测全程零接管；360 AI漏洞挖掘智能体"图龙锋"正式开放试用，累计挖掘漏洞4000+；GPT-5.6 Sol删除文件事故持续发酵，OpenAI承诺的事故报告仍未发布。</description>
+      <pubDate>Mon, 20 Jul 2026 03:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/229-tech-roundup-xpeng-vla-360-tulongfeng-gpt56-sol-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月20日国际政治深度：伊朗扣押英国油轮引爆霍尔木兹海峡新危机、沙特遭四个月来首次直接打击、美伊已连续八夜互轰</title>
       <link>https://ai-daily.cc.cd/posts/228-iran-war-british-tanker-stena-impero-seized-saudi-struck-kuwait-desalination-july-20-2026.zh.html</link>
