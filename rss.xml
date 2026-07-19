@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 07:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:04:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月19日科技综合：OpenAI任命计算CTO、Capital One开源VulnHunter、GitHub发布Copilot SDK、xAI开源Grok Build</title>
+      <link>https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.zh.html</link>
+      <description>⚡ OpenAI提拔Uday Ruddaraju为计算CTO，剑指全球最大算力基座；Capital One时隔七年从数据泄露受害者变身为开源AI安全工具推手，VulnHunter用反证引擎消灭半数误报；GitHub正式发布Copilot SDK，六语言原生支持，与Anthropic和OpenAI展开智能体框架三国杀；xAI开源Grok Build，Apache 2.0许可但不接受外部贡献。</description>
+      <pubDate>Sun, 19 Jul 2026 08:04:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/210-tech-roundup-openai-cto-compute-vulnhunter-github-copilot-sdk-grok-build-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月19日科技早报：北大神经动力学芯片改写脑机规则、智源Orca世界模型问世、OpenAI Sol Ultra攻克五十年数学猜想、Anthropic洽谈微软自研AI芯片</title>
       <link>https://ai-daily.cc.cd/posts/209-tech-roundup-ai-milestones-pku-chip-orca-world-model-gpt-sol-ultra-math-july-19-2026.zh.html</link>
