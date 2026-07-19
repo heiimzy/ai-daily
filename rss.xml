@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 18:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ Meta一周惊天逆转：算力基建狂飙至7GW、自研芯片Iris量产在即、与Anthropic谈百亿合作，OpenAI发布Codex Micro硬件键盘</title>
+      <link>https://ai-daily.cc.cd/posts/221-meta-ai-infrastructure-grand-slam-openai-codex-micro-july-19-2026.zh.html</link>
+      <description>⚡ Meta一周内从被质疑算力过剩到全面反击：7GW算力基建、自研AI芯片Iris 9月量产、Muse Spark 1.1首次收费，与Anthropic谈判百亿美元算力租赁；Meta招募前AWS高管Dave Brown转型云计算；OpenAI推出首款硬件产品Codex Micro机械键盘定价$230，AI编程Agent管理进入物理交互时代。</description>
+      <pubDate>Sun, 19 Jul 2026 19:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/221-meta-ai-infrastructure-grand-slam-openai-codex-micro-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月19日俄乌战争：俄军对基辅发动史上最大规模弹道导弹袭击、乌军黑海反击重创俄油轮、泽连斯基解职防长引发政治危机</title>
       <link>https://ai-daily.cc.cd/posts/220-russia-kyiv-ballistic-missile-attack-ukraine-black-sea-july-19-2026.zh.html</link>
