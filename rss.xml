@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 12:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:05:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月19日金融晚报：韩国券商降级潮创年内首次、利比亚接入人民币跨境支付系统CIPS</title>
+      <link>https://ai-daily.cc.cd/posts/215-financial-roundup-kospi-downgrades-cips-libya-july-19-2026.zh.html</link>
+      <description>⚡ 韩国KOSPI从9,000暴跌至6,000区间，券商研报降级首次反超升级，17个交易日蒸发30%；利比亚央行签约接入中国CIPS系统，直接使用人民币进行跨境结算；全球利率大重置风暴席卷日本，10年期日债收益率创30年新高2.9%；Circle获联邦信托银行牌照，银行界警告稳定币将抽走5000亿美元存款。</description>
+      <pubDate>Sun, 19 Jul 2026 13:05:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/215-financial-roundup-kospi-downgrades-cips-libya-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月19日科技综合：上海璇相发布百万级原子光镊量子芯片、苹果起诉OpenAI窃取硬件商业机密、Waymo因大停电暂停旧金山自动驾驶</title>
       <link>https://ai-daily.cc.cd/posts/214-tech-roundup-quantum-chip-apple-openai-lawsuit-waymo-july-19-2026.zh.html</link>
