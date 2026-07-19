@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 15:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ WAIC 2026终端大爆发：AI Agent手机三国杀、千问智能眼镜升级、Bose AI耳机首秀</title>
+      <link>https://ai-daily.cc.cd/posts/218-tech-roundup-ai-agent-phones-wearables-waic-july-19-2026.zh.html</link>
+      <description>⚡ WAIC 2026第三日：AI Agent手机三国杀——努比亚NaviX Ultra首批3万台秒罄二手翻倍、StepX Neo搭载自研Step AOS智能体操作系统、荣耀AI Agent年内上市；千问联合Bose发布AI智能体耳机、AI眼镜升级为智能体眼镜支持第三方Skill调用；AGIBOT举办具身智能论坛，国产机器人出海提速。</description>
+      <pubDate>Sun, 19 Jul 2026 16:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/218-tech-roundup-ai-agent-phones-wearables-waic-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ WAIC 2026第三日：腾讯连发三大具身基座模型与小六机器人、蚂蚁灵波全栈大脑2.0发布、智元30台真机全馆服务</title>
       <link>https://ai-daily.cc.cd/posts/217-waic-day3-tencent-embodied-models-ant-lingbot-robots-july-19-2026.zh.html</link>
