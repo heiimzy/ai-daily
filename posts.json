@@ -1,5 +1,35 @@
 [
   {
+    "id": "214",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日科技综合：上海璇相发布百万级原子光镊量子芯片、苹果起诉OpenAI窃取硬件商业机密、Waymo因大停电暂停旧金山自动驾驶",
+      "summary": "⚡ 上海璇相科技联合中器无量发布全球首款百万级原子光镊阵列超表面芯片，量子比特规模从万级跃升至百万级；苹果正式起诉OpenAI盗用硬件商业机密，指控两名前员工窃取iPhone工程文档与供应商信息；Waymo因PG&E大规模停电暂停旧金山Robotaxi服务，旧金山市长推动更严自动驾驶紧急规则。",
+      "tags": [
+        "科技新闻",
+        "量子计算",
+        "芯片",
+        "苹果",
+        "OpenAI",
+        "自动驾驶"
+      ],
+      "file": "posts/214-tech-roundup-quantum-chip-apple-openai-lawsuit-waymo-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 Tech Roundup: Shanghai Xuanshang Unveils Million-Level Atomic Optical Tweezer Chip, Apple Sues OpenAI Over Hardware Trade Secrets, Waymo Pauses SF Robotaxi After Blackout",
+      "summary": "⚡ Shanghai Xuanshang Technology and Zhongqi Wuliang unveil world's first million-level atomic optical tweezer array chip for quantum computing; Apple sues OpenAI alleging two former employees stole hardware trade secrets; Waymo pauses San Francisco robotaxi service after PG&E power outage.",
+      "tags": [
+        "Tech News",
+        "Quantum Computing",
+        "Chips",
+        "Apple",
+        "OpenAI",
+        "Autonomous Driving"
+      ],
+      "file": "posts/214-tech-roundup-quantum-chip-apple-openai-lawsuit-waymo-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "213",
     "date": "2026-07-19",
     "zh": {
