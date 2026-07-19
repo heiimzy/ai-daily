@@ -1,5 +1,39 @@
 [
   {
+    "id": "217",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日WAIC第三日：腾讯连发三大具身基座模型与小六机器人、蚂蚁灵波全栈大脑2.0发布、智元30台真机全馆服务",
+      "summary": "⚡ WAIC 2026第三日：腾讯发布Hy-Embodied-VLM-1.0/RxBrain-1.0/VLA-0.5三大具身基座模型，Apexio智能体与新一带小六机器人首次完整演示；蚂蚁灵波发布全栈大脑2.0，LingBot-World 2.0世界模型实现连续1小时生成零质量衰减引爆海外开发者社区；智元机器人30+台真机全馆提供导览服务，具身智能从证明上限进入划定底线的产业竞争阶段。",
+      "tags": [
+        "科技新闻",
+        "WAIC 2026",
+        "具身智能",
+        "腾讯",
+        "机器人",
+        "世界模型",
+        "蚂蚁灵波",
+        "智元"
+      ],
+      "file": "posts/217-waic-day3-tencent-embodied-models-ant-lingbot-robots-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ WAIC 2026 Day 3: Tencent Unveils Three Embodied AI Models and Xiao Liu Robot, Ant LingBot Launches Brain 2.0, AGIBOT Deploys 30+ Robots",
+      "summary": "⚡ WAIC 2026 Day 3: Tencent releases three embodied AI foundation models - Hy-Embodied-VLM-1.0, RxBrain-1.0, VLA-0.5 - alongside the Apexio persistent agent and Xiao Liu robot; Ant LingBot unveils Brain 2.0 with LingBot-World 2.0 world model achieving hour-long generation with zero quality drift; AGIBOT hosts Embodied AI Forum with 30+ robots serving across venue; embodied AI moves from proving ceilings to defining floors.",
+      "tags": [
+        "Tech News",
+        "WAIC 2026",
+        "Embodied AI",
+        "Tencent",
+        "Robotics",
+        "World Model",
+        "Ant LingBot",
+        "AGIBOT"
+      ],
+      "file": "posts/217-waic-day3-tencent-embodied-models-ant-lingbot-robots-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "216",
     "date": "2026-07-19",
     "zh": {
