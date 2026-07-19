@@ -1,5 +1,21 @@
 [
   {
+    "id": "225",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ Kimi K3自称Claude引爆AI蒸馏争议：David Sacks警告美国正输掉AI竞赛、Elon Musk回应\"True\"",
+      "summary": "⚡ Moonshot AI发布的2.8万亿参数开源模型Kimi K3在Frontend Code Arena登顶后，被曝在对话中自称\"我是Claude，不是Kimi\"，引发工业级AI蒸馏争议。前白宫AI沙皇David Sacks称美国正因过度监管输掉AI竞赛，Elon Musk回复\"True\"。Patreon联手Cloudflare封禁AI爬虫，Socket获6000万美元C轮融资。",
+      "tags": ["科技新闻", "AI模型", "Kimi K3", "模型蒸馏", "中美AI竞赛"],
+      "file": "posts/225-kimi-k3-claude-distillation-controversy-sacks-musk-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Kimi K3 Identifies as Claude, Igniting Distillation Firestorm: David Sacks Warns US Losing AI Race, Elon Musk Says 'True'",
+      "summary": "⚡ Moonshot AI's 2.8T-parameter Kimi K3 tops Frontend Code Arena but is caught identifying as 'Claude, made by Anthropic,' sparking an industrial-scale distillation controversy. Former White House AI Czar David Sacks warns US over-regulation is losing the AI race; Elon Musk agrees. Patreon blocks AI crawlers via Cloudflare; Socket raises $60M Series C.",
+      "tags": ["Tech News", "AI Models", "Kimi K3", "Model Distillation", "US-China AI Race"],
+      "file": "posts/225-kimi-k3-claude-distillation-controversy-sacks-musk-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "224",
     "date": "2026-07-19",
     "zh": {
