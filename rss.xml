@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 19:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 20:03:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ WAIC 2026直击：人形机器人"量产元年"正式开启，300+台真机全馆"打工"、国产化率突破75%、六台机器人15小时搭长城</title>
+      <link>https://ai-daily.cc.cd/posts/222-waic-2026-mass-production-robots-supply-chain-july-19-2026.zh.html</link>
+      <description>⚡ WAIC 2026第四日直击：200+机器人公司参展，300+台真机全馆提供志愿服务，2026正式被行业定义为人形机器人量产元年。智元、乐聚等多家企业进入量产交付阶段；Dexmal六台机器人81,920块积木15小时搭建长城；可骑乘四足机器马亮相；国产化率超75%，核心供应链全面自主；VLA与世界模型双轨并行技术路线成型。</description>
+      <pubDate>Sun, 19 Jul 2026 20:03:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/222-waic-2026-mass-production-robots-supply-chain-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ Meta一周惊天逆转：算力基建狂飙至7GW、自研芯片Iris量产在即、与Anthropic谈百亿合作，OpenAI发布Codex Micro硬件键盘</title>
       <link>https://ai-daily.cc.cd/posts/221-meta-ai-infrastructure-grand-slam-openai-codex-micro-july-19-2026.zh.html</link>
