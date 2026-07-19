@@ -1,5 +1,35 @@
 [
   {
+    "id": "229",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：小鹏第二代VLA日均消耗58.8万亿Token、360发布AI漏洞挖掘智能体'图龙锋'、GPT-5.6 Sol删除文件事故持续发酵",
+      "summary": "⚡ 7月20日科技综合：小鹏发布第二代VLA原生物理世界大模型，日均调用Token达58.8万亿，5000公里路测全程零接管；360 AI漏洞挖掘智能体'图龙锋'正式开放试用，累计挖掘漏洞4000+；GPT-5.6 Sol删除文件事故持续发酵，OpenAI承诺的事故报告仍未发布。",
+      "tags": [
+        "科技新闻",
+        "小鹏汽车",
+        "智能驾驶",
+        "360",
+        "AI安全",
+        "OpenAI"
+      ],
+      "file": "posts/229-tech-roundup-xpeng-vla-360-tulongfeng-gpt56-sol-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: XPeng's 2nd-Gen VLA Consumes 58.8T Tokens Daily, 360 Launches AI Vulnerability-Hunting Agent 'Tulongfeng', GPT-5.6 Sol Deletion Fallout Continues",
+      "summary": "⚡ July 20 tech roundup: XPeng unveils 2nd-gen VLA world model consuming 58.8T tokens daily with zero-intervention 5,000km cross-China drive; 360's AI vulnerability-hunting agent 'Tulongfeng' opens for trial with 4,000+ vulnerabilities found; GPT-5.6 Sol file deletion incidents continue with OpenAI post-mortem still pending.",
+      "tags": [
+        "Tech News",
+        "XPeng",
+        "Autonomous Driving",
+        "360",
+        "AI Security",
+        "OpenAI"
+      ],
+      "file": "posts/229-tech-roundup-xpeng-vla-360-tulongfeng-gpt56-sol-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "228",
     "date": "2026-07-20",
     "zh": {
