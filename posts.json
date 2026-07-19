@@ -1,5 +1,33 @@
 [
   {
+    "id": "223",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日金融周末综述：Circle股价暴跌22%遭Open USD挑战、比特币ETF三日净流入3.68亿美元、华尔街79%分析师看空黄金",
+      "summary": "⚡ 7月19日金融周末深度综述：Circle股价两日暴跌22%，Visa/Mastercard/Stripe等140+机构联合推出的Open USD稳定币直击USDC命脉，Mizuho下调评级；比特币ETF连续三日净流入3.679亿美元，贝莱德IBIT领衔机构回补，BTC持稳64,500美元；Kitco黄金调查显示79%华尔街分析师看空下周金价，汇丰下调年度金价预测至4,560美元。",
+      "tags": [
+        "金融经济",
+        "稳定币",
+        "比特币",
+        "黄金",
+        "Circle"
+      ],
+      "file": "posts/223-financial-weekend-wrap-circle-crash-bitcoin-etf-inflows-gold-kitco-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 Financial Weekend Wrap: Circle Plunges 22% on Open USD Challenge, Bitcoin ETFs See $368M Inflow, 79% of Wall St Analysts Bearish on Gold",
+      "summary": "⚡ July 19 financial weekend wrap: Circle (CRCL) shares crash 22% as Open USD stablecoin consortium backed by Visa, Mastercard, Stripe and 140+ organizations threatens USDC dominance. Bitcoin ETFs see $367.9M in net inflows over three days led by BlackRock's IBIT. Kitco gold survey shows 79% of Wall Street analysts bearish for the week ahead; HSBC cuts 2026 gold forecast to $4,560.",
+      "tags": [
+        "Finance",
+        "Stablecoin",
+        "Bitcoin",
+        "Gold",
+        "Circle"
+      ],
+      "file": "posts/223-financial-weekend-wrap-circle-crash-bitcoin-etf-inflows-gold-kitco-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "222",
     "date": "2026-07-19",
     "zh": {
