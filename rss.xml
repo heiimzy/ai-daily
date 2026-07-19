@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 00:11:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 01:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月20日金融综述：国家队周末增持超600亿、证监会今日召开座谈会、比特币持稳64,800美元</title>
+      <link>https://ai-daily.cc.cd/posts/227-financial-roundup-state-backing-buyback-csrc-symposium-bitcoin-oil-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日金融深度综述：中国诚通与国新控股周末累计增持A股超600亿元，证监会今日召开座谈会；私募掀自购潮，平方和1亿元领衔；比特币持稳64,800美元，周末霍尔木兹危机凸显影子市场角色；LPR如期持平；油价维持高位。</description>
+      <pubDate>Mon, 20 Jul 2026 01:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/227-financial-roundup-state-backing-buyback-csrc-symposium-bitcoin-oil-july-20-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月20日科技综合：阿里Qwen 3.8发布2.4万亿参数模型自称仅次于Fable 5、WAIC 2026闭幕人形机器人量产元年确立、OpenAI设立计算CTO</title>
       <link>https://ai-daily.cc.cd/posts/226-tech-roundup-qwen38-waic-finale-openai-cto-compute-july-20-2026.zh.html</link>
