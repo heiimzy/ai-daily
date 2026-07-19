@@ -1,5 +1,39 @@
 [
   {
+    "id": "213",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日科技综合：阿里云百炼上线HappyOyster世界模型、Anthropic与Meta洽谈百亿美元算力租约、OpenAI发布Codex Micro硬件键盘",
+      "summary": "⚡ 阿里云百炼正式上线开放式世界模型HappyOyster 1.0，提供Android/iOS/Web三端SDK；Anthropic与Meta就百亿美元级算力租赁展开谈判，Meta或将进军云计算；OpenAI发布首款消费级硬件Codex Micro机械键盘，专为AI编程打造。",
+      "tags": [
+        "科技新闻",
+        "阿里云",
+        "世界模型",
+        "Anthropic",
+        "Meta",
+        "算力租赁",
+        "OpenAI",
+        "硬件"
+      ],
+      "file": "posts/213-tech-roundup-happyoyster-bailian-anthropic-meta-compute-codex-micro-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 Tech Roundup: Alibaba Cloud Bailian Launches HappyOyster World Model, Anthropic-Meta $10B Compute Talks, OpenAI Ships Codex Micro",
+      "summary": "⚡ Alibaba Cloud Bailian launches HappyOyster 1.0 open world model with Android/iOS/Web SDKs; Anthropic in talks with Meta for up to $10B AI computing lease; OpenAI unveils Codex Micro, its first consumer hardware — a $230 mechanical keypad for AI coding.",
+      "tags": [
+        "Tech News",
+        "Alibaba Cloud",
+        "World Model",
+        "Anthropic",
+        "Meta",
+        "Computing",
+        "OpenAI",
+        "Hardware"
+      ],
+      "file": "posts/213-tech-roundup-happyoyster-bailian-anthropic-meta-compute-codex-micro-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "212",
     "date": "2026-07-19",
     "zh": {
