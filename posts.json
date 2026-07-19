@@ -1,5 +1,21 @@
 [
   {
+    "id": "232",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日国际政治深度：霍尔木兹海峡通航量降至零、第三名美军在伊拉克阵亡、特朗普战情室紧急谋划\"毁灭性打击\"",
+      "summary": "⚡ 7月20日国际政治深度：伊朗革命卫队宣布霍尔木兹海峡通航量已降至零，任何穿越企图都将遭到打击；第三名美军士兵在伊拉克处理伊朗无人机未爆弹时阵亡，美军累计阵亡升至17人；特朗普在白宫战情室召开紧急会议，酝酿对伊朗\"毁灭性打击\"新计划，不排除派遣地面部队；水源战争全面爆发——美军炸毁伊朗邦吉海水淡化厂切断1万平民供水，伊朗报复打击科威特海水淡化设施威胁该国90%饮用水源；IAEA确认调查伊朗在建核电站遭美军空袭事件；伊朗内部权力斗争白热化",
+      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "水源战争", "特朗普", "美军阵亡", "伊朗核电站"],
+      "file": "posts/232-international-politics-hormuz-zero-traffic-trump-war-room-water-war-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 International Politics: Strait of Hormuz Traffic Hits Zero, Third US Soldier Killed in Iraq, Trump Holds Emergency Situation Room Meeting",
+      "summary": "⚡ July 20 international politics deep dive: Iran's IRGC declares Strait of Hormuz traffic has dropped to zero; third US service member killed in Iraq during controlled detonation of Iranian drone ordnance; Trump convenes emergency Situation Room meeting discussing 'devastating strike' plans; water war erupts as US destroys Iran's Bonji desalination plant, Iran retaliates on Kuwait's water supply threatening 90% of drinking water; IAEA investigates Darkhovin nuclear plant strike; Iran internal power struggle intensifies.",
+      "tags": ["International Politics", "US-Iran Conflict", "Strait of Hormuz", "Water War", "Trump Situation Room", "US Casualties", "IAEA"],
+      "file": "posts/232-international-politics-hormuz-zero-traffic-trump-war-room-water-war-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "231",
     "date": "2026-07-20",
     "zh": {
