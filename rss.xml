@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 19 Jul 2026 10:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:05:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月19日科技综合：阿里云百炼上线HappyOyster世界模型、Anthropic与Meta洽谈百亿美元算力租约、OpenAI发布Codex Micro硬件键盘</title>
+      <link>https://ai-daily.cc.cd/posts/213-tech-roundup-happyoyster-bailian-anthropic-meta-compute-codex-micro-july-19-2026.zh.html</link>
+      <description>⚡ 阿里云百炼正式上线开放式世界模型HappyOyster 1.0，提供Android/iOS/Web三端SDK；Anthropic与Meta就百亿美元级算力租赁展开谈判，Meta或将进军云计算；OpenAI发布首款消费级硬件Codex Micro机械键盘，专为AI编程打造。</description>
+      <pubDate>Sun, 19 Jul 2026 11:05:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/213-tech-roundup-happyoyster-bailian-anthropic-meta-compute-codex-micro-july-19-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 美伊冲突第八夜：美军战斗机首次深入伊朗腹地空袭亚兹德、伊朗预警"全面进攻"称"无政治边界安全"</title>
       <link>https://ai-daily.cc.cd/posts/212-iran-war-8th-night-full-scale-offensive-hormuz-july-19-2026.zh.html</link>
