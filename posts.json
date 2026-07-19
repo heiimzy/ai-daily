@@ -1,5 +1,21 @@
 [
   {
+    "id": "218",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ WAIC 2026终端大爆发：AI Agent手机三国杀、千问智能眼镜升级、Bose AI耳机首秀",
+      "summary": "⚡ WAIC 2026第三日：AI Agent手机三国杀——努比亚NaviX Ultra首批3万台秒罄二手翻倍、StepX Neo搭载自研Step AOS智能体操作系统、荣耀AI Agent年内上市；千问联合Bose发布AI智能体耳机、AI眼镜升级为智能体眼镜支持第三方Skill调用；AGIBOT举办具身智能论坛，国产机器人出海提速。",
+      "tags": ["科技新闻", "WAIC 2026", "AI手机", "智能终端", "智能眼镜", "AI耳机"],
+      "file": "posts/218-tech-roundup-ai-agent-phones-wearables-waic-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ WAIC 2026 Terminal Explosion: AI Agent Phone Wars, Qwen Smart Glasses Upgrade, Bose AI Earbuds Debut",
+      "summary": "⚡ WAIC 2026 Day 3: AI Agent smartphone wars heat up — Nubia NaviX Ultra's first 30,000 units sell out instantly, StepX Neo launches with custom Step AOS operating system, Honor's AI agent coming this year; Qwen and Bose unveil AI agent earbuds, Qwen AI glasses upgraded to agent platform with third-party Skill support; AGIBOT hosts Embodied AI Forum, accelerates global robot exports.",
+      "tags": ["Tech News", "WAIC 2026", "AI Phones", "Smart Terminals", "Smart Glasses", "AI Earbuds"],
+      "file": "posts/218-tech-roundup-ai-agent-phones-wearables-waic-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "217",
     "date": "2026-07-19",
     "zh": {
