@@ -1,5 +1,37 @@
 [
   {
+    "id": "216",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ 7月19日国际政治：美军在约旦遭袭2死1失踪、CENTCOM启动第八夜报复打击、伊朗暂停谅解备忘录",
+      "summary": "⚡ CENTCOM确认两名美军士兵在约旦Azraq基地遭伊朗弹道导弹袭击身亡，第三名士兵仍在搜寻中；美军随即启动第八夜连续打击，目标直指参与袭击的伊斯兰革命卫队部队；伊朗宣布正式暂停履行伊斯兰堡谅解备忘录，最高领袖哈梅内伊警告将给予美国“永生难忘的教训”；科威特首都首次因伊朗袭击实施紧急限电；国际油价单日涨超4%。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东战争",
+        "美军阵亡",
+        "伊朗",
+        "约旦",
+        "霍尔木兹海峡"
+      ],
+      "file": "posts/216-us-iran-troops-killed-centcom-eighth-night-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 19 International Politics: Two US Troops Killed in Jordan, CENTCOM Launches 8th Night of Retaliatory Strikes, Iran Suspends Islamabad MoU",
+      "summary": "⚡ CENTCOM confirms two US service members killed in Iranian ballistic missile strike on Jordan’s Azraq base, one remains missing; US launches eighth consecutive night of strikes targeting IRGC units; Iran formally suspends Islamabad MoU; Khamenei warns of ‘unforgettable lessons’; Kuwait City implements emergency power rationing for first time; oil surges 4%.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Middle East",
+        "CENTCOM",
+        "Iran",
+        "Jordan",
+        "Strait of Hormuz"
+      ],
+      "file": "posts/216-us-iran-troops-killed-centcom-eighth-night-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "215",
     "date": "2026-07-19",
     "zh": {
