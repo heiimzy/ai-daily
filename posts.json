@@ -1,5 +1,21 @@
 [
   {
+    "id": "226",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：阿里Qwen 3.8发布2.4万亿参数模型自称仅次于Fable 5、WAIC 2026闭幕人形机器人量产元年确立、OpenAI设立计算CTO",
+      "summary": "⚡ 7月20日科技综合：阿里通义千问发布2.4万亿参数Qwen3.8-Max-Preview，声称仅次于Claude Fable 5并承诺开源；WAIC 2026今日闭幕，人形机器人全面上岗，国产化率突破75%，量产元年正式确立；OpenAI提拔前xAI高管Uday Ruddarraju为计算CTO剑指全球最大算力基座；NVIDIA联合日本22家机器人巨头成立Cosmos联盟；Anthropic Fable 5免费访问今日截止。",
+      "tags": ["科技新闻", "AI模型", "Qwen 3.8", "WAIC 2026", "人形机器人", "OpenAI", "NVIDIA"],
+      "file": "posts/226-tech-roundup-qwen38-waic-finale-openai-cto-compute-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: Alibaba's Qwen 3.8 with 2.4T Parameters Claims Second Only to Fable 5, WAIC 2026 Closes with Robot Revolution, OpenAI Creates CTO of Compute",
+      "summary": "⚡ July 20 tech roundup: Alibaba unveils Qwen3.8-Max-Preview with 2.4T parameters claiming second only to Claude Fable 5 with open weights promised; WAIC 2026 concludes with humanoid robots deployed across venue and 75% domestic supply chain; OpenAI promotes Uday Ruddarraju to CTO of Compute; NVIDIA brings 22 Japanese robot giants into Cosmos alliance; Anthropic Fable 5 free access ends today.",
+      "tags": ["Tech News", "AI Models", "Qwen 3.8", "WAIC 2026", "Humanoid Robots", "OpenAI", "NVIDIA"],
+      "file": "posts/226-tech-roundup-qwen38-waic-finale-openai-cto-compute-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "225",
     "date": "2026-07-19",
     "zh": {
