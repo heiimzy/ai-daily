@@ -1,5 +1,21 @@
 [
   {
+    "id": "230",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：Anthropic Fable 5订阅大调整、Linus Torvalds怒怼反AI开发者'不接受就分叉'、WAIC 2026今日闭幕",
+      "summary": "⚡ 7月20日科技综合：Anthropic Claude Fable 5订阅策略今日变更，Max用户保留50%限额而Pro用户失去捆绑权限；Linus Torvalds在Linux内核邮件列表强势回应反AI开发者，称'不接受就分叉'；WAIC 2026今日闭幕，超1100家企业展出4500余款产品，具身智能与人形机器人成最大亮点。",
+      "tags": ["科技新闻", "Anthropic", "Linus Torvalds", "WAIC", "AI编程", "人形机器人"],
+      "file": "posts/230-tech-roundup-anthropic-fable5-torvalds-ai-waic-finale-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: Anthropic Fable 5 Subscriptions Restructured, Linus Torvalds Tells Anti-AI Critics to 'Fork It', WAIC 2026 Concludes",
+      "summary": "⚡ July 20 tech roundup: Anthropic's Claude Fable 5 subscription changes take effect with Max users retaining 50% limits while Pro users lose bundled access; Linus Torvalds issues forceful defense of AI coding tools on Linux kernel mailing list; WAIC 2026 closes with over 1,100 exhibitors showcasing embodied AI and humanoid robots.",
+      "tags": ["Tech News", "Anthropic", "Linus Torvalds", "WAIC", "AI Coding", "Humanoid Robot"],
+      "file": "posts/230-tech-roundup-anthropic-fable5-torvalds-ai-waic-finale-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "229",
     "date": "2026-07-20",
     "zh": {
