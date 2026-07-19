@@ -1,17 +1,63 @@
 [
   {
+    "id": "222",
+    "date": "2026-07-19",
+    "zh": {
+      "title": "⚡ WAIC 2026直击：人形机器人“量产元年”正式开启，300+台真机全馆“打工”、国产化率突破75%、六台机器人15小时搭长城",
+      "summary": "⚡ WAIC 2026第四日直击：200+机器人公司参展，300+台真机全馆提供志愿服务，2026正式被行业定义为人形机器人量产元年。智元、乐聚等多家企业进入量产交付阶段；Dexmal六台机器人81,920块积木15小时搭建长城；可骑乘四足机器马亮相；国产化率超75%，核心供应链全面自主；VLA与世界模型双轨并行技术路线成型。",
+      "tags": [
+        "科技新闻",
+        "WAIC 2026",
+        "人形机器人",
+        "具身智能",
+        "量产元年"
+      ],
+      "file": "posts/222-waic-2026-mass-production-robots-supply-chain-july-19-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ WAIC 2026: Humanoid Robot ‘Mass Production Era’ Begins — 300+ Robots Work Across Venue, Domestic Supply Chain Hits 75%, Six Robots Build Great Wall in 15 Hours",
+      "summary": "⚡ WAIC 2026 Day 4 report: 200+ robotics companies exhibit, 300+ robots deployed across venue as service staff, 2026 declared ‘Year of Mass Production’ for humanoid robots. AgiBot, Leju and others enter mass production; Dexmal’s six robots build Great Wall from 81,920 bricks in 15 hours; rideable quadruped robots unveiled; domestic supply chain exceeds 75% for core components.",
+      "tags": [
+        "Tech News",
+        "WAIC 2026",
+        "Humanoid Robots",
+        "Embodied AI",
+        "Mass Production"
+      ],
+      "file": "posts/222-waic-2026-mass-production-robots-supply-chain-july-19-2026.en.html"
+    }
+  },
+  {
     "id": "221",
     "date": "2026-07-19",
     "zh": {
       "title": "⚡ Meta一周惊天逆转：算力基建狂飙至7GW、自研芯片Iris量产在即、与Anthropic谈百亿合作，OpenAI发布Codex Micro硬件键盘",
       "summary": "⚡ Meta一周内从被质疑算力过剩到全面反击：7GW算力基建、自研AI芯片Iris 9月量产、Muse Spark 1.1首次收费，与Anthropic谈判百亿美元算力租赁；Meta招募前AWS高管Dave Brown转型云计算；OpenAI推出首款硬件产品Codex Micro机械键盘定价$230，AI编程Agent管理进入物理交互时代。",
-      "tags": ["科技新闻", "Meta", "Anthropic", "OpenAI", "AI算力", "Iris芯片", "Codex Micro", "硬件"],
+      "tags": [
+        "科技新闻",
+        "Meta",
+        "Anthropic",
+        "OpenAI",
+        "AI算力",
+        "Iris芯片",
+        "Codex Micro",
+        "硬件"
+      ],
       "file": "posts/221-meta-ai-infrastructure-grand-slam-openai-codex-micro-july-19-2026.zh.html"
     },
     "en": {
       "title": "⚡ Meta's Stunning Reversal: 7GW Compute Infrastructure, Iris Chip Nears Production, $10B Anthropic Deal in Talks; OpenAI Launches Codex Micro Hardware Keyboard",
       "summary": "⚡ Meta stages a stunning reversal in one week: 7GW compute infrastructure deployment, Iris AI chip production by September, Muse Spark 1.1 first paid model, $10B compute lease talks with Anthropic; Meta hires former AWS exec Dave Brown to lead cloud push; OpenAI enters hardware with $230 Codex Micro mechanical keypad for AI coding agent management.",
-      "tags": ["Tech News", "Meta", "Anthropic", "OpenAI", "AI Compute", "Iris Chip", "Codex Micro", "Hardware"],
+      "tags": [
+        "Tech News",
+        "Meta",
+        "Anthropic",
+        "OpenAI",
+        "AI Compute",
+        "Iris Chip",
+        "Codex Micro",
+        "Hardware"
+      ],
       "file": "posts/221-meta-ai-infrastructure-grand-slam-openai-codex-micro-july-19-2026.en.html"
     }
   },
