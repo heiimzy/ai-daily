@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月20日WAIC 2026闭幕日深度：具身智能从"炫技"全面转向"打工"，量产元年正式开启</title>
+      <link>https://ai-daily.cc.cd/posts/246-waic-2026-embodied-ai-mass-production-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日WAIC 2026闭幕日深度：具身智能参展企业从80余家跃升至200余家，300余台真机现场"上岗"作业。擎朗智能断言"下半场不拼技术只拼落地"；蓝思科技签下首期万台级机器人产线合作；启智Openmind发布机器人"安卓"通用技术底座；智象未来发布全球首个无限时长视频创作智能体vivago R1；具身智能量产元年格局初现，宇树年产能目标19万台。</description>
+      <pubDate>Mon, 20 Jul 2026 20:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/246-waic-2026-embodied-ai-mass-production-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月20日科技综合：Hugging Face遭首个AI Agent自主攻破、欧盟强令谷歌开放Android给AI对手、OpenAI CFO提「智能性价比」、Oracle裁员3万人投5000亿美元Stargate</title>
       <link>https://ai-daily.cc.cd/posts/245-tech-roundup-huggingface-agent-breach-eu-google-android-oracle-stargate-july-20-2026.zh.html</link>
