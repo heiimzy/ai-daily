@@ -1,5 +1,21 @@
 [
   {
+    "id": "242",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：小米玄戒O3与华为麒麟2026国产3nm芯片对决在即、CodeTracer发布AI代码后门溯源框架、芯原股份AI芯片定制订单爆发",
+      "summary": "⚡ 7月20日科技综合：小米玄戒O3与华为麒麟2026两款国产3nm芯片秋季同台亮相，麒麟2026晶体管密度达238MTr/mm²综合性能超越苹果A18；CodeTracer取证框架可从AI代码补全后门反追踪到投毒数据，漏报率低于0.03；芯原股份两个半月新签订单超64亿，AI算力相关占比超90%。",
+      "tags": ["科技新闻", "国产芯片", "小米", "华为", "AI安全", "芯片定制"],
+      "file": "posts/242-tech-roundup-xiaomi-huawei-chips-codetracer-ai-security-verisilicon-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: Xiaomi Xuanjie O3 vs Huawei Kirin 2026 China 3nm Chip Face-Off; CodeTracer AI Code Backdoor Forensics; VeriSilicon AI Chip Orders Surge",
+      "summary": "⚡ July 20 tech roundup: Xiaomi Xuanjie O3 and Huawei Kirin 2026 — two domestic 3nm chips set for autumn showdown, Kirin 2026 achieves 238MTr/mm² transistor density surpassing Apple A18; CodeTracer traces AI code completion backdoors to poisoned training data with <0.03 FNR; VeriSilicon signs $8.9B in new orders in 10 weeks, 90%+ from AI chips.",
+      "tags": ["Tech News", "China Chips", "Xiaomi", "Huawei", "AI Security", "Chip Design"],
+      "file": "posts/242-tech-roundup-xiaomi-huawei-chips-codetracer-ai-security-verisilicon-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "241",
     "date": "2026-07-20",
     "zh": {
