@@ -1,17 +1,65 @@
 [
   {
+    "id": "244",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日国际政治综合：乌克兰400架无人机夜袭莫斯科、菲律宾控中国海警持棍伤人、俄导弹击中土耳其粮船10死",
+      "summary": "⚡ 7月20日国际政治综合：乌克兰400+架无人机大规模夜袭莫斯科地区，多座油库和物流中心起火，泽连斯基确认打击6艘黑海俄方船只；菲律宾指控中国海警在南海仁爱礁持棍击伤菲海军人员；俄罗斯导弹击中土耳其籍运粮船致10死；泽连斯基面临国内政治危机，多地爆发抗议要求恢复费多罗夫国防部长职务。",
+      "tags": [
+        "国际政治",
+        "俄乌战争",
+        "无人机袭击",
+        "南海争端",
+        "菲律宾",
+        "运粮船",
+        "黑海"
+      ],
+      "file": "posts/244-international-roundup-ukraine-drones-moscow-philippines-south-china-sea-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 International Roundup: Ukraine Launches 400 Drones at Moscow, Philippines Says China Injured Sailor, Russia Strikes Grain Ship Killing 10",
+      "summary": "⚡ July 20 international roundup: Ukraine launches 400+ drones at Moscow in largest attack on Russian capital, setting oil depots ablaze; Philippines accuses China Coast Guard of clubbing sailor at Second Thomas Shoal; Russian missiles strike Turkish grain vessel killing 10; Zelensky faces domestic crisis as protests erupt over defense minister dismissal.",
+      "tags": [
+        "International Politics",
+        "Russia-Ukraine War",
+        "Drone Attack",
+        "South China Sea",
+        "Philippines",
+        "Grain Ship",
+        "Black Sea"
+      ],
+      "file": "posts/244-international-roundup-ukraine-drones-moscow-philippines-south-china-sea-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "243",
     "date": "2026-07-20",
     "zh": {
       "title": "⚡ 7月20日金融收盘综述：韩国杠杆ETF暴跌70%散户爆仓、A股200股跌停极端分化、伊朗释放谈判信号油价震荡",
       "summary": "⚡ 7月20日金融收盘综述：韩国监管紧急收紧单股杠杆ETF规则，CNBC报道散户14万亿韩元押注芯片股爆仓，KODEX SK海力士杠杆ETF较高点暴跌70%；A股收盘极端分化——沪指涨0.85%但科技股200+跌停，国家队护盘难阻科技股踩踏；伊朗外交部发言人称「可根据国家利益与美国谈判」，布伦特原油冲高91美元后回落至88美元；CSRC主席吴清收盘后发声全力维护市场平稳运行。",
-      "tags": ["金融经济", "韩国股市", "杠杆ETF", "A股", "原油", "伊朗谈判", "美联储"],
+      "tags": [
+        "金融经济",
+        "韩国股市",
+        "杠杆ETF",
+        "A股",
+        "原油",
+        "伊朗谈判",
+        "美联储"
+      ],
       "file": "posts/243-financial-roundup-korea-leveraged-etf-ashare-divergence-iran-oil-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Financial Closing Bell: South Korea Leveraged ETFs Crash 70% as Retail Nightmare Unfolds; A-Shares in Extreme Divergence; Iran Signals Possible Talks as Oil Volatility Surges",
       "summary": "⚡ July 20 financial closing bell: South Korea tightens single-stock leveraged ETF rules as CNBC reports retail investors lost 14 trillion won on chip bets — KODEX SK Hynix leveraged ETF crashes 70% from peak; A-shares close with extreme divergence — Shanghai Composite +0.85% but 200+ tech stocks hit limit-down; Iran signals possible negotiations, Brent crude pulls back from $91 to $88; Fed September rate hike odds rise to 61.4%.",
-      "tags": ["Finance", "South Korea", "Leveraged ETF", "A-Shares", "Crude Oil", "Iran Talks", "Federal Reserve"],
+      "tags": [
+        "Finance",
+        "South Korea",
+        "Leveraged ETF",
+        "A-Shares",
+        "Crude Oil",
+        "Iran Talks",
+        "Federal Reserve"
+      ],
       "file": "posts/243-financial-roundup-korea-leveraged-etf-ashare-divergence-iran-oil-july-20-2026.en.html"
     }
   },
@@ -21,13 +69,27 @@
     "zh": {
       "title": "⚡ 7月20日科技综合：小米玄戒O3与华为麒麟2026国产3nm芯片对决在即、CodeTracer发布AI代码后门溯源框架、芯原股份AI芯片定制订单爆发",
       "summary": "⚡ 7月20日科技综合：小米玄戒O3与华为麒麟2026两款国产3nm芯片秋季同台亮相，麒麟2026晶体管密度达238MTr/mm²综合性能超越苹果A18；CodeTracer取证框架可从AI代码补全后门反追踪到投毒数据，漏报率低于0.03；芯原股份两个半月新签订单超64亿，AI算力相关占比超90%。",
-      "tags": ["科技新闻", "国产芯片", "小米", "华为", "AI安全", "芯片定制"],
+      "tags": [
+        "科技新闻",
+        "国产芯片",
+        "小米",
+        "华为",
+        "AI安全",
+        "芯片定制"
+      ],
       "file": "posts/242-tech-roundup-xiaomi-huawei-chips-codetracer-ai-security-verisilicon-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Tech Roundup: Xiaomi Xuanjie O3 vs Huawei Kirin 2026 China 3nm Chip Face-Off; CodeTracer AI Code Backdoor Forensics; VeriSilicon AI Chip Orders Surge",
       "summary": "⚡ July 20 tech roundup: Xiaomi Xuanjie O3 and Huawei Kirin 2026 — two domestic 3nm chips set for autumn showdown, Kirin 2026 achieves 238MTr/mm² transistor density surpassing Apple A18; CodeTracer traces AI code completion backdoors to poisoned training data with <0.03 FNR; VeriSilicon signs $8.9B in new orders in 10 weeks, 90%+ from AI chips.",
-      "tags": ["Tech News", "China Chips", "Xiaomi", "Huawei", "AI Security", "Chip Design"],
+      "tags": [
+        "Tech News",
+        "China Chips",
+        "Xiaomi",
+        "Huawei",
+        "AI Security",
+        "Chip Design"
+      ],
       "file": "posts/242-tech-roundup-xiaomi-huawei-chips-codetracer-ai-security-verisilicon-july-20-2026.en.html"
     }
   },
@@ -37,13 +99,29 @@
     "zh": {
       "title": "⚡ Kimi K3发布48小时算力告急暂停新订阅、Meta发布Muse Spark 1.1并自研AI芯片、中国AI开源大模型全球下载量突破100亿次",
       "summary": "⚡ 7月20日科技综述：Kimi K3上线48小时因用户请求量远超预期导致算力告急，月之暗面紧急暂停C端新用户订阅；Meta发布Muse Spark 1.1百万上下文模型并联合博通/台积电启动自研AI芯片计划，旨在降低对英伟达/AMD依赖；工信部宣布中国AI开源大模型全球累计下载量突破100亿次，量子计算原型机「九章四号」刷新世界纪录。",
-      "tags": ["科技新闻", "Kimi K3", "月之暗面", "算力紧缺", "Meta", "自研芯片", "AI开源"],
+      "tags": [
+        "科技新闻",
+        "Kimi K3",
+        "月之暗面",
+        "算力紧缺",
+        "Meta",
+        "自研芯片",
+        "AI开源"
+      ],
       "file": "posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ Kimi K3 Overwhelms Compute Capacity in 48 Hours; Meta Launches Muse Spark 1.1 and Custom AI Chip; China's Open-Source Models Hit 10B Downloads",
       "summary": "⚡ July 20 tech roundup: Kimi K3 demand overwhelms Moonshot AI compute within 48 hours, forcing subscription suspension; Meta launches Muse Spark 1.1 with 1M context window and begins custom AI chip development with Broadcom/TSMC to reduce Nvidia/AMD reliance; China's MIIT reports open-source AI models surpassed 10B global downloads, Jiuzhang-4 quantum prototype sets world record.",
-      "tags": ["Tech News", "Kimi K3", "Moonshot AI", "Compute Crisis", "Meta", "Custom Chip", "Open Source"],
+      "tags": [
+        "Tech News",
+        "Kimi K3",
+        "Moonshot AI",
+        "Compute Crisis",
+        "Meta",
+        "Custom Chip",
+        "Open Source"
+      ],
       "file": "posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.en.html"
     }
   },
@@ -53,13 +131,29 @@
     "zh": {
       "title": "⚡ 美伊战争第9晚全面升级：布伦特原油突破90美元、伊朗警告发动「惩罚性行动」、IRGC首次打击叙利亚境内美军目标",
       "summary": "⚡ 7月20日国际政治深度：布伦特原油突破90美元大关创一个月新高，霍尔木兹海峡通航量降至零；伊朗哈塔姆安比亚中央总部警告美军准备迎接「惩罚性行动」；IRGC首次打击叙利亚境内坦夫美军基地；卢比欧呼吁各国共同维护海峡安全；科威特海水淡化厂连续第二天遭袭；以色列全面进入战备状态。",
-      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "原油", "IRGC", "叙利亚", "以色列"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "原油",
+        "IRGC",
+        "叙利亚",
+        "以色列"
+      ],
       "file": "posts/240-iran-war-oil-90-punitive-operation-hormuz-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ US-Iran War Night 9: Brent Surges Past $90, Iran Warns of 'Punitive Operation,' IRGC Strikes Syria for First Time",
       "summary": "⚡ July 20 international politics: Brent crude surges past $90/bbl as Strait of Hormuz traffic hits zero; Iran's Khatam al-Anbiya warns US military of 'punitive operation'; IRGC strikes US al-Tanf base in Syria for first time; Rubio urges global powers to secure Hormuz; Kuwait desalination plant hit again; Israel on full combat alert.",
-      "tags": ["International Politics", "US-Iran War", "Strait of Hormuz", "Crude Oil", "IRGC", "Syria", "Israel"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Strait of Hormuz",
+        "Crude Oil",
+        "IRGC",
+        "Syria",
+        "Israel"
+      ],
       "file": "posts/240-iran-war-oil-90-punitive-operation-hormuz-july-20-2026.en.html"
     }
   },
@@ -69,13 +163,31 @@
     "zh": {
       "title": "⚡ 7月20日金融综述：韩国KOSPI暴跌触发行情侧车正式进入技术熊市、中国「国家队」600亿紧急护盘、亚太市场分化",
       "summary": "⚡ 7月20日金融综述：韩国KOSPI暴跌4.36%触发今年第20次卖盘侧车，较峰值回撤超25%正式进入技术熊市，三星电子SK海力士领跌；中国「国家队」紧急出手——中国国新500亿+中国诚通近百亿增持央企股票，证监会火速召开座谈会；A股沪指午盘涨1.18%暂企稳，茅台涨价5%领涨消费白马；布伦特原油站上91美元、黄金徘徊4000美元大关。",
-      "tags": ["金融经济", "韩国股市", "KOSPI", "国家队", "A股", "技术熊市", "AI冲击", "贵州茅台"],
+      "tags": [
+        "金融经济",
+        "韩国股市",
+        "KOSPI",
+        "国家队",
+        "A股",
+        "技术熊市",
+        "AI冲击",
+        "贵州茅台"
+      ],
       "file": "posts/239-financial-roundup-kospi-bear-market-china-national-team-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Financial Roundup: KOSPI Crashes Into Technical Bear Market Triggering Sell-Side Sidecar, China's 'National Team' Deploys $84B Rescue",
       "summary": "⚡ July 20 financial roundup: South Korea's KOSPI plunges 4.36%, triggering 20th sell-side sidecar of 2026, officially entering technical bear market -25% from peak. China's 'national team' deploys $84B emergency rescue, CSRC holds emergency symposium. Shanghai Composite rebounds 1.18% at noon; Brent crude tops $91, gold at $4,014.",
-      "tags": ["Finance", "South Korea", "KOSPI", "National Team", "A-Shares", "Technical Bear", "AI Shock", "Kweichow Moutai"],
+      "tags": [
+        "Finance",
+        "South Korea",
+        "KOSPI",
+        "National Team",
+        "A-Shares",
+        "Technical Bear",
+        "AI Shock",
+        "Kweichow Moutai"
+      ],
       "file": "posts/239-financial-roundup-kospi-bear-market-china-national-team-july-20-2026.en.html"
     }
   },
@@ -85,13 +197,31 @@
     "zh": {
       "title": "⚡ 面壁智能WAIC 2026开源MiniCPM-Robot：1.5B参数VLA模型跻身具身智能第一梯队，端侧模型将搭载三星旗舰",
       "summary": "⚡ 面壁智能在WAIC 2026正式发布并开源MiniCPM-Robot系列具身智能模型——MiniCPM-RobotManip（1.5B）凭借记忆能力与低延迟跻身VLA第一梯队；MiniCPM-RobotTrack（0.9B）让机器狗离线也能持续跟随目标；PhyAI开源推理框架加速1.8-2.85倍。MiniCPM系列端侧模型即将预装于三星多款旗舰机型，开源累计下载量突破3800万，面壁智能已形成从模型到场景的完整商业闭环。",
-      "tags": ["科技新闻", "具身智能", "面壁智能", "VLA模型", "机器人", "WAIC", "端侧AI", "开源"],
+      "tags": [
+        "科技新闻",
+        "具身智能",
+        "面壁智能",
+        "VLA模型",
+        "机器人",
+        "WAIC",
+        "端侧AI",
+        "开源"
+      ],
       "file": "posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ ModelBest Open-Sources MiniCPM-Robot at WAIC 2026: 1.5B VLA Model Joins Embodied AI First Tier, On-Device AI Coming to Samsung Flagships",
       "summary": "⚡ ModelBest open-sources MiniCPM-Robot at WAIC 2026 — MiniCPM-RobotManip (1.5B) enters VLA first tier with 120ms decision latency and superior memory; MiniCPM-RobotTrack (0.9B) enables offline robot dog tracking; PhyAI accelerates inference 1.8-2.85x. MiniCPM on-device AI will be pre-installed on Samsung flagship phones. Cumulative open-source downloads exceed 38 million.",
-      "tags": ["Tech News", "Embodied AI", "ModelBest", "VLA Model", "Robotics", "WAIC", "On-Device AI", "Open Source"],
+      "tags": [
+        "Tech News",
+        "Embodied AI",
+        "ModelBest",
+        "VLA Model",
+        "Robotics",
+        "WAIC",
+        "On-Device AI",
+        "Open Source"
+      ],
       "file": "posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.en.html"
     }
   },
@@ -101,13 +231,31 @@
     "zh": {
       "title": "⚡ 7月20日科技综合：工信部AI终端新政点燃消费电子、SpaceX授予富士康520亿AI服务器大单、上海「星枢计划」首发星座升空在即",
       "summary": "⚡ 7月20日科技综合：工信部国新办发布会宣布AI手机/AI眼镜/AI玩具成为信息消费新热点，5G基站达510万个，制造业AI普及率超30%；SpaceX授予富士康520亿美元AI服务器制造大单，13000台NVIDIA GB300机架打破Dell和Supermicro垄断；上海「星枢计划」首发星座正式发布，布局1000颗天基算力卫星。",
-      "tags": ["科技新闻", "工信部", "AI终端", "5G", "6G", "SpaceX", "富士康", "太空算力"],
+      "tags": [
+        "科技新闻",
+        "工信部",
+        "AI终端",
+        "5G",
+        "6G",
+        "SpaceX",
+        "富士康",
+        "太空算力"
+      ],
       "file": "posts/237-tech-roundup-miot-spending-5g-spacex-foxconn-star-pivot-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Tech Roundup: China MIIT Unveils AI Terminal Policy Push, SpaceX Awards Foxconn $52B AI Server Deal, Shanghai Orbits First Space Computing Constellation",
       "summary": "⚡ July 20 tech roundup: China MIIT announces AI phones, AI glasses, AI toys as new consumption hotspots; 5G base stations reach 5.1 million; manufacturing AI adoption exceeds 30%. SpaceX awards Foxconn a $52 billion AI server contract for 13,000 NVIDIA GB300 racks. Shanghai launches Star Pivot space computing constellation.",
-      "tags": ["Tech News", "MIIT", "AI Terminals", "5G", "6G", "SpaceX", "Foxconn", "Space Computing"],
+      "tags": [
+        "Tech News",
+        "MIIT",
+        "AI Terminals",
+        "5G",
+        "6G",
+        "SpaceX",
+        "Foxconn",
+        "Space Computing"
+      ],
       "file": "posts/237-tech-roundup-miot-spending-5g-spacex-foxconn-star-pivot-july-20-2026.en.html"
     }
   },
@@ -117,13 +265,29 @@
     "zh": {
       "title": "⚡ 7月20日国际政治综合：美军第9晚轰炸扩大至大不里士、伊朗4个月来首次打击沙特本土、特朗普伊朗战事支持率跌至29%",
       "summary": "⚡ 7月20日国际政治综合：美军连续第9晚轰炸伊朗，首次打击西北部城市大不里士；伊朗4个月来首次直接打击沙特本土，延布SAMREF炼油厂和苏丹王子空军基地遭袭；IRGC宣称击落美军MQ-9死神无人机；华盛顿邮报民调显示仅29%美国人认可特朗普处理伊朗战事表现，69%不认可。",
-      "tags": ["国际政治", "美伊冲突", "特朗普", "沙特", "伊朗", "大不里士", "霍尔木兹海峡"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "沙特",
+        "伊朗",
+        "大不里士",
+        "霍尔木兹海峡"
+      ],
       "file": "posts/236-international-roundup-night-9-tabriz-saudi-yanbu-trump-approval-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 International Roundup: US Bombs Iran for 9th Night Expanding to Tabriz; Iran Strikes Saudi Arabia for First Time in 4 Months; Trump's Iran War Approval Plummets to 29%",
       "summary": "⚡ July 20 international roundup: US bombs Iran for 9th consecutive night, expanding strikes to Tabriz in northwestern Iran for the first time; Iran directly strikes Saudi Arabia for first time in 4 months, hitting Yanbu SAMREF refinery and Prince Sultan Air Base; IRGC claims to shoot down US MQ-9 Reaper drones; Washington Post poll shows only 29% approve of Trump's handling of the Iran war, 69% disapprove.",
-      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Saudi Arabia", "Iran", "Tabriz", "Strait of Hormuz"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Trump",
+        "Saudi Arabia",
+        "Iran",
+        "Tabriz",
+        "Strait of Hormuz"
+      ],
       "file": "posts/236-international-roundup-night-9-tabriz-saudi-yanbu-trump-approval-july-20-2026.en.html"
     }
   },
@@ -133,13 +297,25 @@
     "zh": {
       "title": "⚡ 7月20日金融综述：原油飙涨WTI突破85美元创一个月新高、黄金失守4000美元、美联储9月加息概率升至58%",
       "summary": "⚡ 7月20日金融综述：WTI原油突破85美元、布伦特站上91美元创一个月新高，霍尔木兹海峡紧张局势推升战争溢价；现货黄金跌破4000美元关口至3990美元，美伊冲突与加息预期双重压制令金价承压；美联储9月加息概率升至58%，Kitco调查显示79%华尔街分析师看空本周金价。",
-      "tags": ["金融经济", "原油", "黄金", "美联储", "美伊冲突"],
+      "tags": [
+        "金融经济",
+        "原油",
+        "黄金",
+        "美联储",
+        "美伊冲突"
+      ],
       "file": "posts/235-financial-roundup-oil-gold-fed-hormuz-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Financial Roundup: Oil Surges Past $85 to 1-Month High, Gold Breaks Below $4,000, Fed September Rate Hike Odds Hit 58%",
       "summary": "⚡ July 20 financial roundup: WTI crude surges past $85, Brent tops $91 as Strait of Hormuz fears drive war premium; spot gold breaks below $4,000 to $3,990 as US-Iran conflict and rate hike expectations squeeze safe-haven demand; Fed September rate hike probability rises to 58%, Kitco survey shows 79% of Wall Street analysts bearish on gold this week.",
-      "tags": ["Finance", "Crude Oil", "Gold", "Federal Reserve", "US-Iran Conflict"],
+      "tags": [
+        "Finance",
+        "Crude Oil",
+        "Gold",
+        "Federal Reserve",
+        "US-Iran Conflict"
+      ],
       "file": "posts/235-financial-roundup-oil-gold-fed-hormuz-july-20-2026.en.html"
     }
   },
@@ -149,13 +325,27 @@
     "zh": {
       "title": "⚡ 7月20日科技综合：复旦量子闪存登Science、深圳机器人科学家攻克卡脖子材料、360图龙锋开放试用",
       "summary": "⚡ 7月20日科技综合：复旦大学团队在《科学》发表量子闪存成果，全球最大非易失量子存储窗口器件实现室温单电子存储，达到一电子一比特理论极限；深圳先进院明德博士机器人科学家攻克磁性微球、磷酸铁锂等卡脖子材料；360 AI漏洞挖掘智能体图龙锋正式开放试用，累计挖洞4000+。",
-      "tags": ["科技新闻", "复旦", "量子闪存", "机器人科学家", "AI漏洞挖掘", "360"],
+      "tags": [
+        "科技新闻",
+        "复旦",
+        "量子闪存",
+        "机器人科学家",
+        "AI漏洞挖掘",
+        "360"
+      ],
       "file": "posts/234-tech-roundup-quantum-flash-fudan-robot-scientist-360-tulongfeng-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Tech Roundup: Fudan Quantum Flash in Science, Shenzhen Robot Scientist Dr.Mind Cracks Key Materials, 360 Tulongfeng AI Bug Hunter Opens Trial",
       "summary": "⚡ July 20 tech roundup: Fudan University team publishes quantum flash memory in Science achieving room-temperature single-electron storage at theoretical limit; Shenzhen robot scientist Dr.Mind cracks critical materials including magnetic microspheres and lithium iron phosphate with 10x efficiency; 360 AI vulnerability hunting agent Tulongfeng officially opens for trial with 4,000+ bugs discovered.",
-      "tags": ["Tech News", "Fudan", "Quantum Flash", "Robot Scientist", "AI Vulnerability", "360"],
+      "tags": [
+        "Tech News",
+        "Fudan",
+        "Quantum Flash",
+        "Robot Scientist",
+        "AI Vulnerability",
+        "360"
+      ],
       "file": "posts/234-tech-roundup-quantum-flash-fudan-robot-scientist-360-tulongfeng-july-20-2026.en.html"
     }
   },
