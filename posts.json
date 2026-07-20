@@ -1,5 +1,21 @@
 [
   {
+    "id": "253",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技综合：AMD发布Helios机架级AI系统挑战英伟达、谷歌打造Frozen v2芯片、DeepSeek V4百万上下文开源",
+      "summary": "⚡ 7月21日科技综合：AMD发布首款机架级AI系统Helios，微软、Meta、OpenAI等巨头成为客户，正面挑战英伟达Vera Rubin，AMD股价大涨超4%；谷歌被曝打造新型AI服务器芯片\"Frozen v2\"，将Gemini架构嵌入芯片实现6-10倍能效提升，计划2028年部署；DeepSeek V4预览版正式开源，百万字超长上下文迈入普惠时代，Agent能力比肩顶级闭源模型。",
+      "tags": ["科技新闻", "AMD", "谷歌", "DeepSeek V4", "AI芯片", "大模型"],
+      "file": "posts/253-tech-roundup-amd-helios-google-frozen-deepseek-v4-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Roundup: AMD Helios Takes On Nvidia, Google's Frozen v2 Chip Boosts Gemini 6-10x, DeepSeek V4 Open-Sources 1M Context",
+      "summary": "⚡ July 21 tech roundup: AMD launches Helios rack-scale AI system — Microsoft, Meta, OpenAI sign on, challenging Nvidia's Vera Rubin dominance, AMD shares surge 4%+; Google builds \"Frozen v2\" server chip embedding Gemini for 6-10x efficiency gains, targeting 2028 deployment; DeepSeek V4 preview open-sourced with million-character context and Agent capabilities rivaling top closed-source models.",
+      "tags": ["Tech News", "AMD", "Google", "DeepSeek V4", "AI Chips", "LLMs"],
+      "file": "posts/253-tech-roundup-amd-helios-google-frozen-deepseek-v4-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "252",
     "date": "2026-07-21",
     "zh": {
