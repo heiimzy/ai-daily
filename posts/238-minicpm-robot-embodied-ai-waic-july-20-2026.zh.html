@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>面壁智能WAIC开源MiniCPM-Robot 1.5B具身智能模型、端侧模型将搭载三星旗舰、PhyAI推理框架同步开源 - AI Daily</title>
+  <meta name="description" content="⚡ 面壁智能在WAIC 2026正式发布并开源MiniCPM-Robot系列具身智能模型——MiniCPM-RobotManip（1.5B）凭借记忆能力与低延迟跻身VLA第一梯队；MiniCPM-RobotTrack（0.9B）让机器狗离线也能持续跟随目标；PhyAI开源推理框架加速1.8-2.85倍。MiniCPM系列端侧模型即将预装于三星多款旗舰机型，面壁智能已形成从模型到场景的完整商业闭环。">
+  <meta name="keywords" content="面壁智能, MiniCPM-Robot, 具身智能, VLA, 机器人, 开源, WAIC, 端侧AI, PhyAI, 三星, 机器狗, 面壁小钢炮, 密度定律">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-20</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="238-minicpm-robot-embodied-ai-waic-july-20-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-20</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">具身智能</span><span class="tag">面壁智能</span><span class="tag">VLA模型</span><span class="tag">机器人</span><span class="tag">WAIC</span><span class="tag">端侧AI</span><span class="tag">开源</span></div>
+  <h1>⚡ 面壁智能WAIC 2026开源MiniCPM-Robot：1.5B参数VLA模型跻身具身智能第一梯队，端侧模型即将搭载三星旗舰</h1>
+
+  <h2>一、MiniCPM-RobotManip 1.5B：全球最小通用VLA模型跻身第一梯队</h2>
+
+  <p>7月20日上午，面壁智能（ModelBest）在上海2026世界人工智能大会（WAIC）现场正式发布并开源MiniCPM-Robot系列模型，宣告这家以端侧AI闻名的公司正式进军具身智能赛道。其中最引人注目的，是参数量仅1.5B的通用VLA（视觉-语言-动作）模型<strong>MiniCPM-RobotManip</strong>——在LIBERO、Calvin、RoboTwin2等主流VLA评测中，它以极小参数量进入了与π0.5等模型相当的第一梯队。</p>
+
+  <h3>记忆力碾压同行：53分 vs 10分</h3>
+
+  <p>大多数VLA模型在执行动作时仅根据当前帧画面做判断——比如让机器人点击第二个按钮5次，如果看不到历史画面、记不住已经按过几次，就很容易重复按或者提前停下。MiniCPM-RobotManip的突破在于将历史观测与已执行动作一同纳入判断。在专为上下文记忆设计的RMBench评测中，π0.5得分仅约10分（接近随机水平），而MiniCPM-RobotManip达到了约53分。</p>
+
+  <p>"叠衣服、收拾桌面、做三明治，看似日常小事，拆开后却包含一连串动作。"面壁智能团队强调，机器人只看眼前容易"失忆"，能记住此前状态的模型才有机会把长任务完整做完。在现场演示中，两台机械臂协作制作三明治——取面包、夹生菜、加火腿和鸡蛋、层层叠起——全程动作连贯流畅，体现了长程任务记忆能力的实质性突破。</p>
+
+  <h3>响应速度接近减半</h3>
+
+  <p>在H100显卡、bf16精度下，MiniCPM-RobotManip的单次决策延迟约为120毫秒，仅为π0.5（234毫秒）的一半左右。这对机器人落地至关重要：聊天模型多想一秒用户还能等，但机械臂每做一步都停顿一秒，动作立刻变得僵硬。面壁将约200毫秒视为机器人操作体验的临界线——MiniCPM-RobotManip以120毫秒的延迟大幅跨过了这道门槛。</p>
+
+  <p>模型的小尺寸还得益于面壁自研的视觉Token压缩技术和流式计算架构。常规方法每获得一张新画面就要重新计算所有历史信息，而流式计算能复用已有结果，新画面只往下计算——"就像看连续剧，普通方法每更新一集要从第一集重看，流式计算记住之前的剧情直接接着看。"</p>
+
+  <h2>二、MiniCPM-RobotTrack 0.9B：机器狗离线也能精准跟人</h2>
+
+  <p>同样亮相的还有负责跟踪导航的<strong>MiniCPM-RobotTrack</strong>，参数量仅0.9B，以MiniCPM4-0.5B为基础。它把视觉画面、自然语言指令和机器狗的运动控制放进同一个模型里处理——用户说一句"跟着前面穿黑衣服的人"，模型直接结合摄像头画面理解指令，再转换成机器狗的运动控制，无需外接目标检测模块、识别模块和跟踪系统。</p>
+
+  <h3>三大真实场景验证</h3>
+
+  <p>面壁对MiniCPM-RobotTrack进行了三种真实场景测试：</p>
+
+  <ul>
+    <li><strong>单目标跟踪</strong>：给一句明确指令，机器狗持续跟着指定的人，追踪率达<strong>89.8%</strong></li>
+    <li><strong>多人干扰</strong>：周围几个人同时移动、交叉甚至交换位置，模型依然认准最初目标，追踪率<strong>73.4%</strong></li>
+    <li><strong>模糊目标跟踪</strong>：指令模糊如"跟着穿黑衣服的人"，现场有多个衣着相近的人，追踪率仍达<strong>80.4%</strong></li>
+  </ul>
+
+  <p>三项均取得开源方案中的最优结果。相比OpenTrackVLA分别提高7.0、14.6和6.5个百分点；在相同设定下与闭源模型TrackVLA++相比，单目标跟踪高出8.8个百分点，模糊目标跟踪高出17.0个百分点。</p>
+
+  <h3>断网也能正常工作</h3>
+
+  <p>最引人关注的是MiniCPM-RobotTrack的端侧运行能力——整套系统直接跑在宇树Go2 Edu的原生本地算力上，无需联网。演示中团队直接拔掉网卡，机器狗依然能根据摄像头画面和文字指令完成目标识别、持续跟踪和运动控制。电梯和地下停车场等弱网甚至无网环境完全不影响性能，端到端响应延迟仅约180毫秒，稳定保持5Hz以上的控制频率。</p>
+
+  <h2>三、PhyAI开源推理框架：加速VLA模型1.8-2.85倍</h2>
+
+  <p>除了模型本身的发布，面壁、明体科技联合北京邮电大学、北京大学还共同开源了<strong>PhyAI</strong>——一款面向Physical AI的推理框架。具身模型从实验室跑到真实机器人上要经过硬件适配、量化、算子优化和部署，每个新模型都要从头适配一遍，时间和工程成本极高。</p>
+
+  <p>PhyAI的加速效果显著：</p>
+
+  <ul>
+    <li>在RTX 5090上运行π0、π0.5和GR00T时，相较模型官方仓库分别实现约<strong>2.85倍、1.82倍和2.28倍</strong>加速</li>
+    <li>适配MiniCPM-Robot系列时，通过CUDA Graph将推理帧率从10.12Hz提升至33.28Hz，再加入定制融合算子在NVIDIA H20上进一步提高至<strong>36.77Hz</strong></li>
+  </ul>
+
+  <p>PhyAI的出现降低了具身智能的工程门槛——模型效果再好，跑不上硬件或跑得不够快就难以落地。一套统一的开源推理框架让不同VLA和世界模型能够更快部署到真实机器人上。</p>
+
+  <h2>四、端侧智能商业闭环：三星旗舰预装、乐聚与吉利落地</h2>
+
+  <p>此次WAIC上，面壁智能展示的不仅是技术创新，更有清晰的商业落地路径：</p>
+
+  <h3>MiniCPM系列即将搭载三星旗舰手机</h3>
+
+  <p>面壁智能宣布，MiniCPM系列端侧模型即将预装于<strong>三星多款旗舰机型</strong>上市。这是继此前与长安马自达EZ-60、吉利银河M9等量产车型合作后，面壁在消费电子领域的又一次重大突破。截至目前，MiniCPM系列开源模型在GitHub、Hugging Face等平台累计下载量已突破<strong>3800万</strong>，覆盖汽车、智能手机、AIPC、智能家居等多个领域。</p>
+
+  <h3>乐聚机器人展厅Agent：离线运行、数据主权归客户</h3>
+
+  <p>面壁与乐聚机器人联合推出的展厅导览Agent解决方案，可在无网络环境下纯端侧运行，支持基于本地知识库的离线讲解和自由问答。敏感画面就地分析、数据主权归客户——这对政府、军工等敏感行业尤为重要。巡检系统可识别车辆违停、路面异常和公共设施损坏。</p>
+
+  <h3>吉利汽车仓储长程任务</h3>
+
+  <p>面壁与吉利汽车共同训练VLA模型，通过RoboHarness将VLM、VLA、机器人本体和导航系统整合，使机器人执行仓储中的长程任务。机器人每完成一次任务，运行数据进入可治理的数据闭环，持续帮助模型进化。</p>
+
+  <h3>"密度定律"持续验证</h3>
+
+  <p>面壁智能提出的大模型"密度定律"——达到特定智能水平所需参数量每3.5个月减半——在此次MiniCPM-Robot系列中再次得到验证。MiniCPM系列历经两年半、15个主要版本的迭代，已形成覆盖文本、视觉、全模态和语音四大方向的端侧智能矩阵，从非共识起步到如今端侧智能成为WAIC主叙事，面壁走出了一条独特的商业化路径。</p>
+
+  <h2>五、行业展望：具身智能从"炫技"走向"干活"</h2>
+
+  <p>2026年WAIC具身智能展区参展企业从去年的80多家猛增至200多家，摆出真机超过300台。从"后空翻、跳舞"到"拆垛、上料、检药、配送"，行业风向已从秀肌肉转向真实生产力。面壁此次以1.5B和0.9B的超小参数量切入具身智能，走的正是"先通后专"路线——先理解物理世界基本常识，再成为具体场景的专家。</p>
+
+  <p>正如清华大学助理教授、面壁多模态首席科学家姚远所言，"现阶段不少Demo会围绕单一任务采集大量数据针对性优化，展示效果不能完全代表基础模型的真实进度。面壁更看重基础性、泛化性和通用性。"MiniCPM-Robot的意义不止于"小参数"，更在于回答了具身智能商业化的核心问题：机器人除了聪明，还得跑得动、用得起，最后把活干完。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
