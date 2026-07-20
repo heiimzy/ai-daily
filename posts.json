@@ -1,5 +1,21 @@
 [
   {
+    "id": "234",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：复旦量子闪存登Science、深圳机器人科学家攻克卡脖子材料、360图龙锋开放试用",
+      "summary": "⚡ 7月20日科技综合：复旦大学团队在《科学》发表量子闪存成果，全球最大非易失量子存储窗口器件实现室温单电子存储，达到一电子一比特理论极限；深圳先进院明德博士机器人科学家攻克磁性微球、磷酸铁锂等卡脖子材料；360 AI漏洞挖掘智能体图龙锋正式开放试用，累计挖洞4000+。",
+      "tags": ["科技新闻", "复旦", "量子闪存", "机器人科学家", "AI漏洞挖掘", "360"],
+      "file": "posts/234-tech-roundup-quantum-flash-fudan-robot-scientist-360-tulongfeng-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: Fudan Quantum Flash in Science, Shenzhen Robot Scientist Dr.Mind Cracks Key Materials, 360 Tulongfeng AI Bug Hunter Opens Trial",
+      "summary": "⚡ July 20 tech roundup: Fudan University team publishes quantum flash memory in Science achieving room-temperature single-electron storage at theoretical limit; Shenzhen robot scientist Dr.Mind cracks critical materials including magnetic microspheres and lithium iron phosphate with 10x efficiency; 360 AI vulnerability hunting agent Tulongfeng officially opens for trial with 4,000+ bugs discovered.",
+      "tags": ["Tech News", "Fudan", "Quantum Flash", "Robot Scientist", "AI Vulnerability", "360"],
+      "file": "posts/234-tech-roundup-quantum-flash-fudan-robot-scientist-360-tulongfeng-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "233",
     "date": "2026-07-20",
     "zh": {
