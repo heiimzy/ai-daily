@@ -1,5 +1,21 @@
 [
   {
+    "id": "257",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 范堡罗航展首日：Anduril发布\"雷霆\"自主攻击旋翼机、GE混电飞越3万英尺、Vertical完成eVTOL过渡飞行",
+      "summary": "⚡ 7月21日范堡罗航展首日三弹齐发：Anduril与Archer联合发布\"雷霆\"（Thunder）自主攻击倾转旋翼机，定位为\"阿帕奇忠诚僚机\"——搭载10枚地狱火导弹或76枚火箭弹，首飞定于2027年；GE航空航天联手NASA、波音完成全球首次3万英尺高空混电飞行，最长续航超2小时；Vertical Aerospace完成全球首次公开eVTOL过渡飞行，从垂直起降切换到固定翼巡航再返回垂直降落。",
+      "tags": ["泛科技", "范堡罗航展", "自主系统", "eVTOL", "国防科技", "航空航天"],
+      "file": "posts/257-farnborough-thunder-vtol-ge-hybrid-vertical-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Farnborough Day 1: Anduril's 'Thunder' Autonomous Rotorcraft, GE's 30,000ft Hybrid-Electric Flight, Vertical's First Public eVTOL Transition",
+      "summary": "⚡ July 21 Farnborough Airshow Day 1 triple launch: Anduril & Archer unveil 'Thunder' autonomous attack tiltrotor — Apache's loyal wingman carrying 10 Hellfire missiles or 76 rockets, first flight 2027; GE Aerospace reaches 30,000ft in world-first hybrid-electric flight with NASA and Boeing, longest flight over 2 hours; Vertical Aerospace completes world's first public eVTOL transition flight.",
+      "tags": ["Tech News", "Farnborough", "Autonomous Systems", "eVTOL", "Defense Tech", "Aerospace"],
+      "file": "posts/257-farnborough-thunder-vtol-ge-hybrid-vertical-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "256",
     "date": "2026-07-21",
     "zh": {
