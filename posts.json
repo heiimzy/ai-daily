@@ -1,5 +1,21 @@
 [
   {
+    "id": "249",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：CuspAI获4.5亿美元携英伟达/三星成立AI材料联盟、Kimi K3冲击波削去美企3140亿美元估值、SpaceX星舰再推迟股价跌破125美元",
+      "summary": "⚡ 7月20日科技综合：CuspAI获4.5亿美元B轮融资联合英伟达/三星/现代等45+企业成立AI材料联盟，AI驱动材料科学迈入产业化新纪元；彭博社深度分析Kimi K3全球冲击波——两家未上市美企估值合计被削3140亿美元，内存芯片制造商成最大赢家；SpaceX星舰第13飞猛禽引擎点火失败触发自动中止，SPCX股价跌破125美元逼近IPO新低；ACE Robotics在WAIC发布Kairos 3.1具身世界模型，KEENON人形机器人与服务机器人互补战略亮相。",
+      "tags": ["科技新闻", "CuspAI", "AI材料", "Kimi K3", "月之暗面", "SpaceX", "星舰", "WAIC", "具身智能"],
+      "file": "posts/249-tech-roundup-cuspai-450m-materials-foundry-kimi-k3-market-spacex-starship-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: CuspAI Raises $450M Launches AI Materials Foundry with NVIDIA/Meta/Samsung, Kimi K3 Shockwave Wipes $314B from US AI Valuations, SpaceX Starship Delay Drags SPCX Below $125",
+      "summary": "⚡ July 20 tech roundup: CuspAI raises $450M and launches AI Materials Foundry with NVIDIA, Meta, Samsung, Hyundai and 45+ partners — AI-driven materials science enters a new industrial era; Bloomberg deep-dives Kimi K3's global shockwave — $314B wiped from two US unlisted AI companies' combined valuations, memory chip makers emerge as biggest winners; SpaceX Starship Flight 13 auto-abort on Raptor ignition failure sends SPCX below $125; ACE Robotics unveils Kairos 3.1 embodied world model at WAIC 2026 as KEENON showcases humanoid robot strategy.",
+      "tags": ["Tech News", "CuspAI", "AI Materials", "Kimi K3", "Moonshot AI", "SpaceX", "Starship", "WAIC", "Embodied AI"],
+      "file": "posts/249-tech-roundup-cuspai-450m-materials-foundry-kimi-k3-market-spacex-starship-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "248",
     "date": "2026-07-20",
     "zh": {
