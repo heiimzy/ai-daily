@@ -1,5 +1,21 @@
 [
   {
+    "id": "243",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日金融收盘综述：韩国杠杆ETF暴跌70%散户爆仓、A股200股跌停极端分化、伊朗释放谈判信号油价震荡",
+      "summary": "⚡ 7月20日金融收盘综述：韩国监管紧急收紧单股杠杆ETF规则，CNBC报道散户14万亿韩元押注芯片股爆仓，KODEX SK海力士杠杆ETF较高点暴跌70%；A股收盘极端分化——沪指涨0.85%但科技股200+跌停，国家队护盘难阻科技股踩踏；伊朗外交部发言人称「可根据国家利益与美国谈判」，布伦特原油冲高91美元后回落至88美元；CSRC主席吴清收盘后发声全力维护市场平稳运行。",
+      "tags": ["金融经济", "韩国股市", "杠杆ETF", "A股", "原油", "伊朗谈判", "美联储"],
+      "file": "posts/243-financial-roundup-korea-leveraged-etf-ashare-divergence-iran-oil-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Financial Closing Bell: South Korea Leveraged ETFs Crash 70% as Retail Nightmare Unfolds; A-Shares in Extreme Divergence; Iran Signals Possible Talks as Oil Volatility Surges",
+      "summary": "⚡ July 20 financial closing bell: South Korea tightens single-stock leveraged ETF rules as CNBC reports retail investors lost 14 trillion won on chip bets — KODEX SK Hynix leveraged ETF crashes 70% from peak; A-shares close with extreme divergence — Shanghai Composite +0.85% but 200+ tech stocks hit limit-down; Iran signals possible negotiations, Brent crude pulls back from $91 to $88; Fed September rate hike odds rise to 61.4%.",
+      "tags": ["Finance", "South Korea", "Leveraged ETF", "A-Shares", "Crude Oil", "Iran Talks", "Federal Reserve"],
+      "file": "posts/243-financial-roundup-korea-leveraged-etf-ashare-divergence-iran-oil-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "242",
     "date": "2026-07-20",
     "zh": {
