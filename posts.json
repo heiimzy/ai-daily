@@ -1,5 +1,21 @@
 [
   {
+    "id": "255",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日金融收盘综述：纳指标普再创新高突破21000点、韩国KOSPI杠杆踩踏暴跌4.5%、中国\"国家队\"600亿增持护盘",
+      "summary": "⚡ 7月21日金融收盘综述：美股纳指首次突破21000点创历史新高，标普500再创新高；韩国KOSPI因AI杠杆反噬再跌4.5%逼近6250点，SK海力士期权失衡触发连锁抛售；中国证监会召开稳市座谈会，两大央企增持超600亿元；布伦特原油因胡塞封锁沙特涨至$90.47；特朗普签署稳定币法案GENIUS Act，以太坊涨至$3,795。",
+      "tags": ["金融经济", "美股", "韩国股市", "中国A股", "原油", "加密货币"],
+      "file": "posts/255-financial-roundup-nasdaq-kospi-oil-crypto-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Financial Roundup: Nasdaq Breaks 21,000, KOSPI Crashes 4.5% on AI Leverage Unwind, China Injects $60B",
+      "summary": "⚡ July 21 financial roundup: Nasdaq tops 21,000 for the first time, S&P 500 hits new record; South Korea's KOSPI plunges another 4.5% as AI leverage unwinds; China's securities regulator pledges market stability as state-owned funds inject over $60 billion; Brent crude surges to $90.47 on Houthi blockade of Saudi Arabia; Trump signs GENIUS Act, Ether hits 2026 high of $3,795.",
+      "tags": ["Finance", "US Stocks", "KOSPI", "China A-shares", "Oil", "Crypto"],
+      "file": "posts/255-financial-roundup-nasdaq-kospi-oil-crypto-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "254",
     "date": "2026-07-21",
     "zh": {
