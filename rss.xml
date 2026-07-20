@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 12:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月20日金融综述：韩国KOSPI暴跌触发行情侧车正式进入技术熊市、中国「国家队」600亿紧急护盘、亚太市场分化</title>
+      <link>https://ai-daily.cc.cd/posts/239-financial-roundup-kospi-bear-market-china-national-team-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日金融综述：韩国KOSPI暴跌4.36%触发今年第20次卖盘侧车，较峰值回撤超25%正式进入技术熊市，三星电子SK海力士领跌；中国「国家队」紧急出手——中国国新500亿+中国诚通近百亿增持央企股票，证监会火速召开座谈会；A股沪指午盘涨1.18%暂企稳，茅台涨价5%领涨消费白马；布伦特原油站上91美元、黄金徘徊4000美元大关。</description>
+      <pubDate>Mon, 20 Jul 2026 13:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/239-financial-roundup-kospi-bear-market-china-national-team-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 面壁智能WAIC 2026开源MiniCPM-Robot：1.5B参数VLA模型跻身具身智能第一梯队，端侧模型将搭载三星旗舰</title>
       <link>https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html</link>
