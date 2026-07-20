@@ -2402,4 +2402,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
