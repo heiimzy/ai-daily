@@ -1,5 +1,21 @@
 [
   {
+    "id": "236",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日国际政治综合：美军第9晚轰炸扩大至大不里士、伊朗4个月来首次打击沙特本土、特朗普伊朗战事支持率跌至29%",
+      "summary": "⚡ 7月20日国际政治综合：美军连续第9晚轰炸伊朗，首次打击西北部城市大不里士；伊朗4个月来首次直接打击沙特本土，延布SAMREF炼油厂和苏丹王子空军基地遭袭；IRGC宣称击落美军MQ-9死神无人机；华盛顿邮报民调显示仅29%美国人认可特朗普处理伊朗战事表现，69%不认可。",
+      "tags": ["国际政治", "美伊冲突", "特朗普", "沙特", "伊朗", "大不里士", "霍尔木兹海峡"],
+      "file": "posts/236-international-roundup-night-9-tabriz-saudi-yanbu-trump-approval-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 International Roundup: US Bombs Iran for 9th Night Expanding to Tabriz; Iran Strikes Saudi Arabia for First Time in 4 Months; Trump's Iran War Approval Plummets to 29%",
+      "summary": "⚡ July 20 international roundup: US bombs Iran for 9th consecutive night, expanding strikes to Tabriz in northwestern Iran for the first time; Iran directly strikes Saudi Arabia for first time in 4 months, hitting Yanbu SAMREF refinery and Prince Sultan Air Base; IRGC claims to shoot down US MQ-9 Reaper drones; Washington Post poll shows only 29% approve of Trump's handling of the Iran war, 69% disapprove.",
+      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Saudi Arabia", "Iran", "Tabriz", "Strait of Hormuz"],
+      "file": "posts/236-international-roundup-night-9-tabriz-saudi-yanbu-trump-approval-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "235",
     "date": "2026-07-20",
     "zh": {
