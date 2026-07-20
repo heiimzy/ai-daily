@@ -1,5 +1,39 @@
 [
   {
+    "id": "246",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日WAIC 2026闭幕日深度：具身智能从“炫技”全面转向“打工”，量产元年正式开启",
+      "summary": "⚡ 7月20日WAIC 2026闭幕日深度观察：本届大会具身智能参展企业从80余家跃升至200余家，300余台真机现场“上岗”作业。擎朗智能断言“下半场不拼技术只拼落地”；蓝思科技签下首期万台级机器人产线合作；启智Openmind发布机器人“安卓”通用技术底座——Openmind OS与HumanGPT世界模型；智象未来发布全球首个无限时长视频创作智能体vivago R1；具身智能量产元年格局初现，宇树年产能目标19万台，智元累计下线破万台。",
+      "tags": [
+        "科技新闻",
+        "WAIC",
+        "具身智能",
+        "人形机器人",
+        "量产",
+        "AI",
+        "启智Openmind",
+        "智象未来"
+      ],
+      "file": "posts/246-waic-2026-embodied-ai-mass-production-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ WAIC 2026 Closing Day: Embodied AI Transitions from Show to Real Work, Mass Production Era Officially Begins",
+      "summary": "⚡ WAIC 2026 closed July 20 with over 1,100 exhibitors. Embodied AI exhibitors surged from 80 to 200+, with 300+ robots performing real industrial tasks. Key highlights: Keenon Robotics declares ‘second half is about deployment, not technology’; Lansheng signs first-phase 10,000-unit robot production line; Qizhi Openmind launches ‘Android for robots’ universal platform with HumanGPT world model; Intellifuture unveils vivago R1, the world’s first unlimited-duration video creation agent; mass production era takes shape as Unitree targets 190K annual capacity.",
+      "tags": [
+        "Tech News",
+        "WAIC",
+        "Embodied AI",
+        "Humanoid Robots",
+        "Mass Production",
+        "AI",
+        "Qizhi Openmind",
+        "Intellifuture"
+      ],
+      "file": "posts/246-waic-2026-embodied-ai-mass-production-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "245",
     "date": "2026-07-20",
     "zh": {
