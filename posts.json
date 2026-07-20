@@ -1,5 +1,21 @@
 [
   {
+    "id": "256",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日国际政治深度：胡塞武装宣布对沙特海上封锁开辟全球能源新战线、特朗普誓言伊朗\"付出数倍代价\"、美军首次轰炸伊朗北部大不里士",
+      "summary": "⚡ 7月21日国际政治深度：胡塞武装宣布对沙特实施全面海上封锁，威胁曼德海峡全球7%石油供应——叠加霍尔木兹海峡关闭可能阻断全球25%油气运输；特朗普誓言伊朗将为美军士兵阵亡\"付出数倍代价\"，调解方推动10天停火方案；美军第九晚空袭首次轰炸伊朗北部大不里士，伊朗报复打击科威特约旦巴林；乌克兰袭击莫斯科州油库及黑海6艘俄船，俄导弹击中印度籍运粮船致4死。",
+      "tags": ["国际政治", "胡塞武装", "美伊冲突", "红海危机", "俄乌战争", "黑海"],
+      "file": "posts/256-houthi-blockade-saudi-trump-tabriz-ukraine-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 International Politics: Houthis Declare Maritime Blockade of Saudi Arabia, Trump Vows Iran Will 'Pay Many Times Over', US Strikes Tabriz for First Time",
+      "summary": "⚡ July 21 international politics depth: Yemen's Houthis declare comprehensive maritime blockade on Saudi Arabia threatening Bab al-Mandab — combined with Hormuz closure could block 25% of global oil and gas; Trump vows Iran will 'pay many times over' for killing US soldiers as mediators push 10-day ceasefire; US ninth night of strikes hits Tabriz in northern Iran for first time; Ukraine strikes Moscow Oblast oil depot and 6 Russian vessels in Black Sea; Russian missile kills 4 Indian crew on civilian grain ship.",
+      "tags": ["International Politics", "Houthis", "US-Iran Conflict", "Red Sea", "Russia-Ukraine War", "Black Sea"],
+      "file": "posts/256-houthi-blockade-saudi-trump-tabriz-ukraine-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "255",
     "date": "2026-07-21",
     "zh": {
