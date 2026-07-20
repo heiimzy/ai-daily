@@ -1,5 +1,21 @@
 [
   {
+    "id": "248",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日国际政治深度：胡塞武装宣布对沙特海上封锁、伊朗总统称全面战争、巴卡塔尔联合提出10天停火计划",
+      "summary": "⚡ 7月20日国际政治深度：胡塞武装宣布对沙特阿拉伯实施全面海上封锁，以报复沙特对也门港口的封锁和萨那机场袭击，威胁切断沙特红海替代出口路线；伊朗总统佩泽什基安正式宣布国家已处于「全面战争」状态，措辞较此前大幅升级；巴基斯坦与卡塔尔联合提出停火方案呼吁双方退回7月9日前位置——伊朗立即重开霍尔木兹海峡、美国解除封锁和制裁、实施10-14天停火；美军连续第九夜空袭伊朗首次打击大不里士地下导弹城，伊朗向约旦科威特巴林报复打击；布伦特原油突破90美元。",
+      "tags": ["国际政治", "胡塞武装", "沙特阿拉伯", "美伊冲突", "霍尔木兹海峡", "红海危机", "停火谈判", "全面战争"],
+      "file": "posts/248-houthi-blockade-saudi-iran-full-scale-war-ceasefire-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 International Politics: Houthis Declare Maritime Blockade of Saudi Arabia, Iran Announces Full-Scale War, Pakistan-Qatar Propose 10-Day Ceasefire",
+      "summary": "⚡ July 20 international politics: Houthis declare comprehensive maritime blockade of Saudi Arabia, threatening Red Sea alternative export route; Iran President Pezeshkian declares 'full-scale war' with the US — first use of this terminology since Feb 28; Pakistan and Qatar jointly propose de-escalation plan urging return to pre-July 9 positions — Iran reopens Hormuz, US ends blockade and sanctions, 10-14 day ceasefire; US completes 9th consecutive night of strikes hitting Tabriz for first time destroying underground missile city; Iran retaliates against Jordan, Kuwait, Bahrain; Brent crude tops $90.",
+      "tags": ["International Politics", "Houthis", "Saudi Arabia", "US-Iran Conflict", "Strait of Hormuz", "Red Sea", "Ceasefire", "Full-Scale War"],
+      "file": "posts/248-houthi-blockade-saudi-iran-full-scale-war-ceasefire-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "247",
     "date": "2026-07-20",
     "zh": {
