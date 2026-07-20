@@ -1,5 +1,21 @@
 [
   {
+    "id": "254",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技深度：美国科技巨头隐藏AI债务飙升至1.65万亿美元——AI军备竞赛的资产负债表风险曝光",
+      "summary": "⚡ 日经亚洲7月21日独家调查：美国五大科技巨头（Meta、谷歌、甲骨文、微软、亚马逊）因AI基础设施投资导致的隐藏债务四年暴增8倍至1.65万亿美元，超过其表内债务总和。Meta表外负债约4200亿美元接近透明债务3倍，甲骨文CDS利差扩大至多年高位。AI狂潮正从技术竞赛演变为资产负债表上的高风险赌局。",
+      "tags": ["科技新闻", "AI基础设施", "隐藏债务", "科技巨头", "数据中心", "表外负债"],
+      "file": "posts/254-tech-ai-debt-hidden-1.65tn-ai-infrastructure-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Deep Dive: US Tech Giants' Hidden AI Debt Hits $1.65 Trillion — The Balance Sheet Risk Behind the AI Arms Race",
+      "summary": "⚡ A Nikkei Asia investigation published July 21 reveals hidden debt at five US tech giants swelled eightfold in four years to an estimated $1.65 trillion from AI infrastructure buildout, exceeding their actual on-balance-sheet debt. Meta leads with ~$420 billion in off-balance-sheet liabilities from data center leases and GPU supply contracts.",
+      "tags": ["Tech News", "AI Infrastructure", "Hidden Debt", "Big Tech", "Data Centers"],
+      "file": "posts/254-tech-ai-debt-hidden-1.65tn-ai-infrastructure-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "253",
     "date": "2026-07-21",
     "zh": {
