@@ -1,5 +1,21 @@
 [
   {
+    "id": "238",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 面壁智能WAIC 2026开源MiniCPM-Robot：1.5B参数VLA模型跻身具身智能第一梯队，端侧模型将搭载三星旗舰",
+      "summary": "⚡ 面壁智能在WAIC 2026正式发布并开源MiniCPM-Robot系列具身智能模型——MiniCPM-RobotManip（1.5B）凭借记忆能力与低延迟跻身VLA第一梯队；MiniCPM-RobotTrack（0.9B）让机器狗离线也能持续跟随目标；PhyAI开源推理框架加速1.8-2.85倍。MiniCPM系列端侧模型即将预装于三星多款旗舰机型，开源累计下载量突破3800万，面壁智能已形成从模型到场景的完整商业闭环。",
+      "tags": ["科技新闻", "具身智能", "面壁智能", "VLA模型", "机器人", "WAIC", "端侧AI", "开源"],
+      "file": "posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ ModelBest Open-Sources MiniCPM-Robot at WAIC 2026: 1.5B VLA Model Joins Embodied AI First Tier, On-Device AI Coming to Samsung Flagships",
+      "summary": "⚡ ModelBest open-sources MiniCPM-Robot at WAIC 2026 — MiniCPM-RobotManip (1.5B) enters VLA first tier with 120ms decision latency and superior memory; MiniCPM-RobotTrack (0.9B) enables offline robot dog tracking; PhyAI accelerates inference 1.8-2.85x. MiniCPM on-device AI will be pre-installed on Samsung flagship phones. Cumulative open-source downloads exceed 38 million.",
+      "tags": ["Tech News", "Embodied AI", "ModelBest", "VLA Model", "Robotics", "WAIC", "On-Device AI", "Open Source"],
+      "file": "posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "237",
     "date": "2026-07-20",
     "zh": {
