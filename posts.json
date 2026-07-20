@@ -1,5 +1,21 @@
 [
   {
+    "id": "235",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日金融综述：原油飙涨WTI突破85美元创一个月新高、黄金失守4000美元、美联储9月加息概率升至58%",
+      "summary": "⚡ 7月20日金融综述：WTI原油突破85美元、布伦特站上91美元创一个月新高，霍尔木兹海峡紧张局势推升战争溢价；现货黄金跌破4000美元关口至3990美元，美伊冲突与加息预期双重压制令金价承压；美联储9月加息概率升至58%，Kitco调查显示79%华尔街分析师看空本周金价。",
+      "tags": ["金融经济", "原油", "黄金", "美联储", "美伊冲突"],
+      "file": "posts/235-financial-roundup-oil-gold-fed-hormuz-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Financial Roundup: Oil Surges Past $85 to 1-Month High, Gold Breaks Below $4,000, Fed September Rate Hike Odds Hit 58%",
+      "summary": "⚡ July 20 financial roundup: WTI crude surges past $85, Brent tops $91 as Strait of Hormuz fears drive war premium; spot gold breaks below $4,000 to $3,990 as US-Iran conflict and rate hike expectations squeeze safe-haven demand; Fed September rate hike probability rises to 58%, Kitco survey shows 79% of Wall Street analysts bearish on gold this week.",
+      "tags": ["Finance", "Crude Oil", "Gold", "Federal Reserve", "US-Iran Conflict"],
+      "file": "posts/235-financial-roundup-oil-gold-fed-hormuz-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "234",
     "date": "2026-07-20",
     "zh": {
