@@ -1,5 +1,39 @@
 [
   {
+    "id": "245",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：Hugging Face遭首个AI Agent自主攻破、欧盟强令谷歌开放Android给AI对手、OpenAI CFO提「智能性价比」、Oracle裁员3万人投5000亿美元Stargate",
+      "summary": "⚡ 7月20日科技综合：Hugging Face披露首个AI Agent全自主攻破其生产系统——恶意数据集利用代码执行漏洞入侵后提取云凭证横向移动，公司用AI反击AI却遭商业模型安全护栏阻止；欧盟正式依据《数字市场法》责令谷歌向竞争对手AI助手开放Android系统并共享搜索数据，重塑20亿手机AI生态；OpenAI CFO Sarah Friar提出「有用智能/美元」企业AI投资新指标应对成本清算；Oracle裁员3万人释放80-100亿美元年现金流投入5000亿美元Stargate AI基建计划。",
+      "tags": [
+        "科技新闻",
+        "网络安全",
+        "AI Agent",
+        "欧盟监管",
+        "谷歌",
+        "OpenAI",
+        "Oracle",
+        "AI基础设施"
+      ],
+      "file": "posts/245-tech-roundup-huggingface-agent-breach-eu-google-android-oracle-stargate-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: Hugging Face Breached by Autonomous AI Agent, EU Forces Google to Open Android to AI Rivals, OpenAI CFO Proposes Useful Intelligence Per Dollar, Oracle Cuts 30K Jobs for 500B Stargate",
+      "summary": "⚡ July 20 tech roundup: Hugging Face discloses first-ever fully autonomous AI agent breach — malicious dataset exploits code execution flaws to steal cloud credentials, company fights AI with AI but blocked by commercial model safety guardrails; EU adopts binding DMA requirements forcing Google to open Android to rival AI assistants and share search data, reshaping 2 billion phone AI ecosystem; OpenAI CFO Sarah Friar proposes Useful Intelligence Per Dollar metric as enterprises face AI cost reckoning; Oracle cuts 30,000 jobs to free 8-10B annual cash flow for 500B Stargate AI infrastructure buildout.",
+      "tags": [
+        "Tech News",
+        "Cybersecurity",
+        "AI Agent",
+        "EU Regulation",
+        "Google",
+        "OpenAI",
+        "Oracle",
+        "AI Infrastructure"
+      ],
+      "file": "posts/245-tech-roundup-huggingface-agent-breach-eu-google-android-oracle-stargate-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "244",
     "date": "2026-07-20",
     "zh": {
