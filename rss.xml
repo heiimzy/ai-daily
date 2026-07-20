@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 15:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:04:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月20日科技综合：小米玄戒O3与华为麒麟2026国产3nm芯片对决在即、CodeTracer发布AI代码后门溯源框架、芯原股份AI芯片定制订单爆发</title>
+      <link>https://ai-daily.cc.cd/posts/242-tech-roundup-xiaomi-huawei-chips-codetracer-ai-security-verisilicon-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日科技综合：小米玄戒O3与华为麒麟2026两款国产3nm芯片秋季同台亮相，麒麟2026晶体管密度达238MTr/mm²综合性能超越苹果A18；CodeTracer取证框架可从AI代码补全后门反追踪到投毒数据，漏报率低于0.03；芯原股份两个半月新签订单超64亿，AI算力相关占比超90%。</description>
+      <pubDate>Mon, 20 Jul 2026 16:04:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/242-tech-roundup-xiaomi-huawei-chips-codetracer-ai-security-verisilicon-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ Kimi K3发布48小时算力告急暂停新订阅、Meta发布Muse Spark 1.1并自研AI芯片、中国AI开源大模型全球下载量突破100亿次</title>
       <link>https://ai-daily.cc.cd/posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.zh.html</link>
