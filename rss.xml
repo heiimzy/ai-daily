@@ -6,9 +6,16 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 21 Jul 2026 08:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 01:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
+    <item>
+      <title>⚡ 7月21日金融收盘综述：美股芯片股强力反弹纳指涨200点、布伦特冲高$91后回落至$86、A股三大指数齐创年内新高</title>
+      <link>https://ai-daily.cc.cd/posts/251-financial-roundup-wall-street-chip-rebound-oil-volatility-iran-ceasefire-july-21-2026.zh.html</link>
+      <description>⚡ 7月21日金融收盘综述：美股芯片股强势反弹推动纳指涨200点，费城半导体指数涨1.9%美光科技领涨逾5%；布伦特原油冲高$91.42后因伊朗释放10天停火信号急挫至$86.67；A股三大指数齐创年内新高，沪指+0.72%成交1.7万亿建筑材料领涨；Alphabet开发自研Gemini服务器芯片涨2.9%；SpaceX股价逼近$122历史低点；日本执政联盟失去参院多数席位日元走强。</description>
+      <pubDate>Tue, 21 Jul 2026 01:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/251-financial-roundup-wall-street-chip-rebound-oil-volatility-iran-ceasefire-july-21-2026.zh.html</guid>
+    </item>
+    <item>
       <title>⚡ 7月21日科技综合：马斯克宣布特斯拉FSD将整合Robotaxi技术、WAIC 2026闭幕具身智能从展品走向从业者、FSD进入个性化学习时代</title>
       <link>https://ai-daily.cc.cd/posts/250-tech-roundup-tesla-fsd-robotaxi-waic-embodied-july-21-2026.zh.html</link>
       <description>⚡ 7月21日科技综合：马斯克宣布特斯拉将奥斯汀Robotaxi技术全面整合至FSD通用版本，三大核心技术模块迁移；WAIC 2026正式闭幕，1100余家企业参展，具身智能从展品走向从业者；特斯拉FSD将个性化学习车主驾驶偏好；国产算力正式进入生态为王时代。</description>
