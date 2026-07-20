@@ -1,17 +1,71 @@
 [
   {
+    "id": "250",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技综合：马斯克宣布特斯拉FSD将整合Robotaxi技术、WAIC 2026闭幕具身智能从展品走向从业者、FSD进入个性化学习时代",
+      "summary": "⚡ 7月21日科技综合：马斯克宣布特斯拉将奥斯汀Robotaxi技术全面整合至FSD通用版本，三大核心技术模块迁移；WAIC 2026正式闭幕，1100余家企业参展，具身智能从展品走向从业者；特斯拉FSD将个性化学习车主驾驶偏好，告别通用方案；国产算力在WAIC上正式进入生态为王时代。",
+      "tags": [
+        "科技新闻",
+        "特斯拉",
+        "FSD",
+        "Robotaxi",
+        "马斯克",
+        "WAIC",
+        "具身智能",
+        "自动驾驶"
+      ],
+      "file": "posts/250-tech-roundup-tesla-fsd-robotaxi-waic-embodied-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Roundup: Musk Announces Tesla FSD to Integrate Robotaxi Tech, WAIC 2026 Closes With Embodied AI Moving From Exhibits to Employment",
+      "summary": "⚡ July 21 tech roundup: Elon Musk announces Tesla will fully integrate Austin Robotaxi technology upgrades into general FSD; WAIC 2026 concludes with 1,100+ exhibitors as embodied AI shifts from exhibition to real deployment; Tesla FSD enters personalized learning era.",
+      "tags": [
+        "Tech News",
+        "Tesla",
+        "FSD",
+        "Robotaxi",
+        "Elon Musk",
+        "WAIC",
+        "Embodied AI",
+        "Autonomous Driving"
+      ],
+      "file": "posts/250-tech-roundup-tesla-fsd-robotaxi-waic-embodied-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "249",
     "date": "2026-07-20",
     "zh": {
       "title": "⚡ 7月20日科技综合：CuspAI获4.5亿美元携英伟达/三星成立AI材料联盟、Kimi K3冲击波削去美企3140亿美元估值、SpaceX星舰再推迟股价跌破125美元",
       "summary": "⚡ 7月20日科技综合：CuspAI获4.5亿美元B轮融资联合英伟达/三星/现代等45+企业成立AI材料联盟，AI驱动材料科学迈入产业化新纪元；彭博社深度分析Kimi K3全球冲击波——两家未上市美企估值合计被削3140亿美元，内存芯片制造商成最大赢家；SpaceX星舰第13飞猛禽引擎点火失败触发自动中止，SPCX股价跌破125美元逼近IPO新低；ACE Robotics在WAIC发布Kairos 3.1具身世界模型，KEENON人形机器人与服务机器人互补战略亮相。",
-      "tags": ["科技新闻", "CuspAI", "AI材料", "Kimi K3", "月之暗面", "SpaceX", "星舰", "WAIC", "具身智能"],
+      "tags": [
+        "科技新闻",
+        "CuspAI",
+        "AI材料",
+        "Kimi K3",
+        "月之暗面",
+        "SpaceX",
+        "星舰",
+        "WAIC",
+        "具身智能"
+      ],
       "file": "posts/249-tech-roundup-cuspai-450m-materials-foundry-kimi-k3-market-spacex-starship-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Tech Roundup: CuspAI Raises $450M Launches AI Materials Foundry with NVIDIA/Meta/Samsung, Kimi K3 Shockwave Wipes $314B from US AI Valuations, SpaceX Starship Delay Drags SPCX Below $125",
       "summary": "⚡ July 20 tech roundup: CuspAI raises $450M and launches AI Materials Foundry with NVIDIA, Meta, Samsung, Hyundai and 45+ partners — AI-driven materials science enters a new industrial era; Bloomberg deep-dives Kimi K3's global shockwave — $314B wiped from two US unlisted AI companies' combined valuations, memory chip makers emerge as biggest winners; SpaceX Starship Flight 13 auto-abort on Raptor ignition failure sends SPCX below $125; ACE Robotics unveils Kairos 3.1 embodied world model at WAIC 2026 as KEENON showcases humanoid robot strategy.",
-      "tags": ["Tech News", "CuspAI", "AI Materials", "Kimi K3", "Moonshot AI", "SpaceX", "Starship", "WAIC", "Embodied AI"],
+      "tags": [
+        "Tech News",
+        "CuspAI",
+        "AI Materials",
+        "Kimi K3",
+        "Moonshot AI",
+        "SpaceX",
+        "Starship",
+        "WAIC",
+        "Embodied AI"
+      ],
       "file": "posts/249-tech-roundup-cuspai-450m-materials-foundry-kimi-k3-market-spacex-starship-july-20-2026.en.html"
     }
   },
@@ -21,13 +75,31 @@
     "zh": {
       "title": "⚡ 7月20日国际政治深度：胡塞武装宣布对沙特海上封锁、伊朗总统称全面战争、巴卡塔尔联合提出10天停火计划",
       "summary": "⚡ 7月20日国际政治深度：胡塞武装宣布对沙特阿拉伯实施全面海上封锁，以报复沙特对也门港口的封锁和萨那机场袭击，威胁切断沙特红海替代出口路线；伊朗总统佩泽什基安正式宣布国家已处于「全面战争」状态，措辞较此前大幅升级；巴基斯坦与卡塔尔联合提出停火方案呼吁双方退回7月9日前位置——伊朗立即重开霍尔木兹海峡、美国解除封锁和制裁、实施10-14天停火；美军连续第九夜空袭伊朗首次打击大不里士地下导弹城，伊朗向约旦科威特巴林报复打击；布伦特原油突破90美元。",
-      "tags": ["国际政治", "胡塞武装", "沙特阿拉伯", "美伊冲突", "霍尔木兹海峡", "红海危机", "停火谈判", "全面战争"],
+      "tags": [
+        "国际政治",
+        "胡塞武装",
+        "沙特阿拉伯",
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "红海危机",
+        "停火谈判",
+        "全面战争"
+      ],
       "file": "posts/248-houthi-blockade-saudi-iran-full-scale-war-ceasefire-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 International Politics: Houthis Declare Maritime Blockade of Saudi Arabia, Iran Announces Full-Scale War, Pakistan-Qatar Propose 10-Day Ceasefire",
       "summary": "⚡ July 20 international politics: Houthis declare comprehensive maritime blockade of Saudi Arabia, threatening Red Sea alternative export route; Iran President Pezeshkian declares 'full-scale war' with the US — first use of this terminology since Feb 28; Pakistan and Qatar jointly propose de-escalation plan urging return to pre-July 9 positions — Iran reopens Hormuz, US ends blockade and sanctions, 10-14 day ceasefire; US completes 9th consecutive night of strikes hitting Tabriz for first time destroying underground missile city; Iran retaliates against Jordan, Kuwait, Bahrain; Brent crude tops $90.",
-      "tags": ["International Politics", "Houthis", "Saudi Arabia", "US-Iran Conflict", "Strait of Hormuz", "Red Sea", "Ceasefire", "Full-Scale War"],
+      "tags": [
+        "International Politics",
+        "Houthis",
+        "Saudi Arabia",
+        "US-Iran Conflict",
+        "Strait of Hormuz",
+        "Red Sea",
+        "Ceasefire",
+        "Full-Scale War"
+      ],
       "file": "posts/248-houthi-blockade-saudi-iran-full-scale-war-ceasefire-july-20-2026.en.html"
     }
   },
@@ -37,13 +109,31 @@
     "zh": {
       "title": "⚡ 7月20日金融收盘综述：A股极端分化沪指涨0.85%科技股200+跌停、布伦特突破91美元韩国KOSPI重挫4%进入技术熊市",
       "summary": "⚡ 7月20日金融收盘综述：A股极端分化——沪指涨0.85%但科技股超200只跌停，上证50大涨3%煤炭电力油气板块掀涨停潮；布伦特原油突破91美元创一个月新高，霍尔木兹海峡封航致两油轮爆炸，伊朗释放谈判信号油价回落至88美元；韩国KOSPI暴跌逾4%触发Sidecar正式进入技术熊市，30余万账户被券商强制平仓；黄金跌破4000美元关口，比特币持稳64500美元；国家队超600亿增持+五大央企同日宣布回购，证监会召开稳市场座谈会。",
-      "tags": ["金融经济", "A股", "原油", "韩国股市", "国家队", "煤炭", "黄金", "美伊冲突"],
+      "tags": [
+        "金融经济",
+        "A股",
+        "原油",
+        "韩国股市",
+        "国家队",
+        "煤炭",
+        "黄金",
+        "美伊冲突"
+      ],
       "file": "posts/247-financial-roundup-ashare-split-oil-90-kospi-bear-july-20-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 20 Financial Closing Bell: A-Share Extreme Divergence, Brent Surges Past $91, KOSPI Enters Bear Market as China National Team Mounts $84B Rescue",
       "summary": "⚡ July 20 financial closing bell: Shanghai Composite +0.85% but 200+ tech stocks hit limit-down, CSI 300 surges 3% on coal/power/oil rally; Brent crude tops $91 as Strait of Hormuz closes, Iran signals possible talks paring gains; KOSPI plunges 4.4% confirming technical bear market with 300K+ retail accounts force-liquidated; gold breaks below $4,000, bitcoin holds $64.5K; China national team deploys $84B+ rescue with 6 SOEs announcing buybacks as CSRC holds emergency symposium.",
-      "tags": ["Finance", "A-Shares", "Crude Oil", "KOSPI", "Bear Market", "Coal", "Gold", "US-Iran Conflict"],
+      "tags": [
+        "Finance",
+        "A-Shares",
+        "Crude Oil",
+        "KOSPI",
+        "Bear Market",
+        "Coal",
+        "Gold",
+        "US-Iran Conflict"
+      ],
       "file": "posts/247-financial-roundup-ashare-split-oil-90-kospi-bear-july-20-2026.en.html"
     }
   },
