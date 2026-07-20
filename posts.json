@@ -1,5 +1,39 @@
 [
   {
+    "id": "252",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日国际政治综合：美军增派F-16/F-35战机赴中东、俄朝外长战略对话联手反美、哈马斯选出新政治领袖哈雅",
+      "summary": "⚡ 7月21日国际政治综合：美军向中东增派F-16/F-35战斗机及空中加油机，特朗普评估扩大战争选项包括夺取哈格岛或轰炸核设施；俄朝外长莫斯科第三轮战略对话，一致认为美国军事行动推高地区紧张；哈马斯选举哈利勒·哈雅为政治局新主席，接替辛瓦尔；以色列启动南黎巴嫩首个试点区撤军进程；第29次拉姆施泰因会议德国承诺5套爱国者系统援乌。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "中东",
+        "俄朝关系",
+        "哈马斯",
+        "以色列",
+        "黎巴嫩",
+        "俄乌战争"
+      ],
+      "file": "posts/252-international-roundup-us-fighters-mideast-russia-nkorea-hamas-ramstein-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 International Politics Roundup: US Rushes F-16/F-35 Fighters to Middle East, Russia-North Korea Strategic Dialogue, Hamas Elects New Leader",
+      "summary": "⚡ July 21 international politics roundup: US deploys additional F-16/F-35 fighter jets to Middle East as Trump weighs escalation options; Russia and North Korea hold 3rd strategic dialogue in Moscow condemning US military actions; Hamas elects Khalil al-Hayya as new political bureau chairman succeeding Sinwar; Israel begins pilot zone withdrawal in southern Lebanon; 29th Ramstein meeting secures new Patriot systems and drone funding for Ukraine.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Middle East",
+        "Russia-North Korea",
+        "Hamas",
+        "Israel",
+        "Lebanon",
+        "Ukraine War"
+      ],
+      "file": "posts/252-international-roundup-us-fighters-mideast-russia-nkorea-hamas-ramstein-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "251",
     "date": "2026-07-21",
     "zh": {
