@@ -1,5 +1,21 @@
 [
   {
+    "id": "241",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ Kimi K3发布48小时算力告急暂停新订阅、Meta发布Muse Spark 1.1并自研AI芯片、中国AI开源大模型全球下载量突破100亿次",
+      "summary": "⚡ 7月20日科技综述：Kimi K3上线48小时因用户请求量远超预期导致算力告急，月之暗面紧急暂停C端新用户订阅；Meta发布Muse Spark 1.1百万上下文模型并联合博通/台积电启动自研AI芯片计划，旨在降低对英伟达/AMD依赖；工信部宣布中国AI开源大模型全球累计下载量突破100亿次，量子计算原型机「九章四号」刷新世界纪录。",
+      "tags": ["科技新闻", "Kimi K3", "月之暗面", "算力紧缺", "Meta", "自研芯片", "AI开源"],
+      "file": "posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Kimi K3 Overwhelms Compute Capacity in 48 Hours; Meta Launches Muse Spark 1.1 and Custom AI Chip; China's Open-Source Models Hit 10B Downloads",
+      "summary": "⚡ July 20 tech roundup: Kimi K3 demand overwhelms Moonshot AI compute within 48 hours, forcing subscription suspension; Meta launches Muse Spark 1.1 with 1M context window and begins custom AI chip development with Broadcom/TSMC to reduce Nvidia/AMD reliance; China's MIIT reports open-source AI models surpassed 10B global downloads, Jiuzhang-4 quantum prototype sets world record.",
+      "tags": ["Tech News", "Kimi K3", "Moonshot AI", "Compute Crisis", "Meta", "Custom Chip", "Open Source"],
+      "file": "posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "240",
     "date": "2026-07-20",
     "zh": {
