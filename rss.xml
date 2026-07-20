@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 11:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 面壁智能WAIC 2026开源MiniCPM-Robot：1.5B参数VLA模型跻身具身智能第一梯队，端侧模型将搭载三星旗舰</title>
+      <link>https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html</link>
+      <description>⚡ 面壁智能在WAIC 2026正式发布并开源MiniCPM-Robot系列具身智能模型——MiniCPM-RobotManip（1.5B）凭借记忆能力与低延迟跻身VLA第一梯队；MiniCPM-RobotTrack（0.9B）让机器狗离线也能持续跟随目标；PhyAI开源推理框架加速1.8-2.85倍。MiniCPM系列端侧模型即将预装于三星多款旗舰机型。</description>
+      <pubDate>Mon, 20 Jul 2026 12:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月20日科技综合：工信部AI终端新政点燃消费电子、SpaceX授予富士康520亿AI服务器大单、上海「星枢计划」首发星座升空在即</title>
       <link>https://ai-daily.cc.cd/posts/237-tech-roundup-miot-spending-5g-spacex-foxconn-star-pivot-july-20-2026.zh.html</link>
