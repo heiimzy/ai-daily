@@ -1,5 +1,21 @@
 [
   {
+    "id": "237",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 7月20日科技综合：工信部AI终端新政点燃消费电子、SpaceX授予富士康520亿AI服务器大单、上海「星枢计划」首发星座升空在即",
+      "summary": "⚡ 7月20日科技综合：工信部国新办发布会宣布AI手机/AI眼镜/AI玩具成为信息消费新热点，5G基站达510万个，制造业AI普及率超30%；SpaceX授予富士康520亿美元AI服务器制造大单，13000台NVIDIA GB300机架打破Dell和Supermicro垄断；上海「星枢计划」首发星座正式发布，布局1000颗天基算力卫星。",
+      "tags": ["科技新闻", "工信部", "AI终端", "5G", "6G", "SpaceX", "富士康", "太空算力"],
+      "file": "posts/237-tech-roundup-miot-spending-5g-spacex-foxconn-star-pivot-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 20 Tech Roundup: China MIIT Unveils AI Terminal Policy Push, SpaceX Awards Foxconn $52B AI Server Deal, Shanghai Orbits First Space Computing Constellation",
+      "summary": "⚡ July 20 tech roundup: China MIIT announces AI phones, AI glasses, AI toys as new consumption hotspots; 5G base stations reach 5.1 million; manufacturing AI adoption exceeds 30%. SpaceX awards Foxconn a $52 billion AI server contract for 13,000 NVIDIA GB300 racks. Shanghai launches Star Pivot space computing constellation.",
+      "tags": ["Tech News", "MIIT", "AI Terminals", "5G", "6G", "SpaceX", "Foxconn", "Space Computing"],
+      "file": "posts/237-tech-roundup-miot-spending-5g-spacex-foxconn-star-pivot-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "236",
     "date": "2026-07-20",
     "zh": {
