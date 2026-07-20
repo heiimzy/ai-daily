@@ -1,5 +1,39 @@
 [
   {
+    "id": "251",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日金融收盘综述：美股芯片股强力反弹纳指涨200点、布伦特冲高$91后回落至$86、A股三大指数齐创年内新高",
+      "summary": "⚡ 7月21日金融收盘综述：美股芯片股强势反弹推动纳指涨200点，费城半导体指数涨1.9%美光科技领涨逾5%；布伦特原油冲高$91.42后因伊朗释放10天停火信号急挫至$86.67；A股三大指数齐创年内新高，沪指+0.72%成交1.7万亿建筑材料领涨；Alphabet开发自研Gemini服务器芯片涨2.9%；SpaceX股价逼近$122历史低点；日本执政联盟失去参院多数席位日元走强。",
+      "tags": [
+        "金融经济",
+        "美股",
+        "芯片股",
+        "原油",
+        "A股",
+        "伊朗局势",
+        "Alphabet",
+        "SpaceX"
+      ],
+      "file": "posts/251-financial-roundup-wall-street-chip-rebound-oil-volatility-iran-ceasefire-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Financial Roundup: Chipmakers Power Nasdaq's 200-Point Rally, Brent's $91 Spike Reverses on Iran Truce Hopes, China A-Shares Hit Year Highs",
+      "summary": "⚡ July 21 financial roundup: US semiconductors stage powerful rebound — Nasdaq +0.79%, Philadelphia Semi Index +1.9%, Micron +5%; Brent crude surges to $91.42 then crashes to $86.67 on Iran 10-day ceasefire proposal; China A-shares hit year highs with Shanghai Composite +0.72% on 1.7T yuan turnover; Alphabet developing Gemini-integrated server chip +2.9%; SpaceX stock nears all-time low at $122.62; Japan's ruling coalition loses upper house majority strengthening yen; US LEI slips 0.2%.",
+      "tags": [
+        "Finance",
+        "US Stocks",
+        "Semiconductors",
+        "Crude Oil",
+        "A-Shares",
+        "Iran Conflict",
+        "Alphabet",
+        "SpaceX"
+      ],
+      "file": "posts/251-financial-roundup-wall-street-chip-rebound-oil-volatility-iran-ceasefire-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "250",
     "date": "2026-07-21",
     "zh": {
