@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 07:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:05:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月20日科技综合：复旦量子闪存登Science、深圳机器人科学家攻克卡脖子材料、360图龙锋开放试用</title>
+      <link>https://ai-daily.cc.cd/posts/234-tech-roundup-quantum-flash-fudan-robot-scientist-360-tulongfeng-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日科技综合：复旦大学团队在《科学》发表量子闪存成果，全球最大非易失量子存储窗口器件实现室温单电子存储；深圳先进院明德博士机器人科学家攻克磁性微球、磷酸铁锂等卡脖子材料；360 AI漏洞挖掘智能体图龙锋正式开放试用，累计挖洞4000+。</description>
+      <pubDate>Mon, 20 Jul 2026 08:05:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/234-tech-roundup-quantum-flash-fudan-robot-scientist-360-tulongfeng-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月20日科技综合：谷歌Gemini 3.5 Pro因编码缺陷推迟发布、AI自我进化令研究者焦虑、黄仁勋央视专访盛赞中国AI生态</title>
       <link>https://ai-daily.cc.cd/posts/233-tech-roundup-gemini-35-delay-ai-self-research-jensen-huang-july-20-2026.zh.html</link>
