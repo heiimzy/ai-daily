@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ModelBest Open-Sources MiniCPM-Robot 1.5B VLA Model at WAIC 2026, On-Device AI Coming to Samsung Flagships, PhyAI Framework Released - AI Daily</title>
+  <meta name="description" content="⚡ ModelBest (面壁智能) open-sources MiniCPM-Robot at WAIC 2026 — MiniCPM-RobotManip (1.5B) enters VLA first tier with 120ms decision latency and superior memory; MiniCPM-RobotTrack (0.9B) enables offline robot dog tracking; PhyAI accelerates inference 1.8-2.85x. MiniCPM on-device AI will be pre-installed on Samsung flagship phones globally.">
+  <meta name="keywords" content="ModelBest, MiniCPM-Robot, embodied AI, VLA, robotics, open-source, WAIC, on-device AI, PhyAI, Samsung, robot dog, density law">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/238-minicpm-robot-embodied-ai-waic-july-20-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-20</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="238-minicpm-robot-embodied-ai-waic-july-20-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-20</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Embodied AI</span><span class="tag">ModelBest</span><span class="tag">VLA Model</span><span class="tag">Robotics</span><span class="tag">WAIC</span><span class="tag">On-Device AI</span><span class="tag">Open Source</span></div>
+  <h1>⚡ ModelBest Open-Sources MiniCPM-Robot at WAIC 2026: 1.5B VLA Model Joins Embodied AI First Tier, On-Device AI Coming to Samsung Flagships</h1>
+
+  <h2>1. MiniCPM-RobotManip 1.5B: World's Smallest General VLA Model Reaches First Tier</h2>
+
+  <p>On July 20, ModelBest (面壁智能) officially unveiled and open-sourced the MiniCPM-Robot series at the 2026 World Artificial Intelligence Conference (WAIC) in Shanghai, marking the company's formal entry into embodied AI. The highlight was <strong>MiniCPM-RobotManip</strong>, a general VLA (Vision-Language-Action) model with just 1.5 billion parameters — achieving first-tier performance alongside π0.5 on major benchmarks including LIBERO, Calvin, and RoboTwin2.</p>
+
+  <h3>Memory Dominance: 53 vs 10</h3>
+
+  <p>Most VLA models make decisions based only on the current frame — tell a robot to click button #2 five times, and without seeing past frames or remembering how many times it has already pressed, it either stops too early or keeps going indefinitely. MiniCPM-RobotManip's breakthrough lies in incorporating historical observations and past actions into its decision loop. On RMBench, a benchmark specifically designed for contextual memory, π0.5 scored just ~10 (near random), while MiniCPM-RobotManip achieved ~53.</p>
+
+  <p>"Folding laundry, tidying a desk, making a sandwich — these everyday tasks look simple but involve a chain of sequential actions," the ModelBest team explained. "A robot that can only see the present frame will 'lose memory' halfway through." In live demonstrations, two robotic arms collaborated to make a sandwich — picking bread, adding lettuce, ham, and eggs, stacking the layers — with smooth, uninterrupted motion, showcasing a substantial breakthrough in long-horizon task memory.</p>
+
+  <h3>Latency Nearly Halved</h3>
+
+  <p>On an H100 GPU with bf16 precision, MiniCPM-RobotManip achieves single-decision latency of approximately 120 milliseconds — roughly half of π0.5's 234ms. This matters enormously for real-world deployment: a chatbot can pause for a second and users will wait, but a robotic arm that pauses for one second per movement becomes visibly jerky. ModelBest considers ~200ms the critical threshold for natural robot operation — MiniCPM-RobotManip crosses it by a wide margin.</p>
+
+  <p>This efficiency comes from ModelBest's proprietary visual token compression and streaming computation architecture. While conventional methods recompute all historical data for each new frame, streaming computation reuses prior results — "like watching a TV series: the normal approach restarts from episode 1 every time; streaming remembers the plot so far and picks up from the latest episode."</p>
+
+  <h2>2. MiniCPM-RobotTrack 0.9B: Robot Dog Follows Targets Accurately Even Offline</h2>
+
+  <p>Also unveiled was <strong>MiniCPM-RobotTrack</strong> (0.9B parameters, based on MiniCPM4-0.5B), handling robot tracking and navigation. It integrates visual frames, natural language commands, and robot motion control into a single model — when a user says "follow the person in black," the model processes the camera feed, interprets the instruction, and outputs motion controls directly, eliminating the need for separate detection, recognition, and tracking modules.</p>
+
+  <h3>Real-World Validation Across Three Scenarios</h3>
+
+  <ul>
+    <li><strong>Single-target tracking</strong>: Clear instruction, robot dog follows the specified person — <strong>89.8%</strong> success rate</li>
+    <li><strong>Multi-person interference</strong>: Multiple people move, cross paths, and swap positions — the model stays locked on its original target at <strong>73.4%</strong></li>
+    <li><strong>Vague-target tracking</strong>: Ambiguous instruction like "follow the person in black" with multiple similarly dressed people — still <strong>80.4%</strong></li>
+  </ul>
+
+  <p>All three results set new open-source records. Compared to OpenTrackVLA, MiniCPM-RobotTrack improved by 7.0, 14.6, and 6.5 percentage points respectively. Against the closed-source TrackVLA++ under identical settings, it led by 8.8 points in single-target and 17.0 points in vague-target tracking.</p>
+
+  <h3>Full Offline Capability</h3>
+
+  <p>Perhaps most impressively, the entire system runs on the Unitree Go2 Edu's native onboard hardware — no internet connection needed. During the live demo, the team literally removed the network cable, and the robot dog continued tracking targets, recognizing identities, and planning motion based solely on its camera feed and local computing. Elevators, underground parking garages — any weak-signal or no-signal environment poses no problem. End-to-end response latency is ~180ms with a stable control frequency above 5Hz.</p>
+
+  <h2>3. PhyAI Open-Source Framework: Accelerating VLA Models 1.8-2.85x</h2>
+
+  <p>Alongside the model release, ModelBest, Mingti Technology, Beijing University of Posts and Telecommunications, and Peking University jointly open-sourced <strong>PhyAI</strong>, an inference framework for Physical AI. Taking embodied models from the lab to real robots requires hardware adaptation, quantization, operator optimization, and deployment — a process that must be repeated from scratch for each new model, at substantial time and engineering cost.</p>
+
+  <p>PhyAI's acceleration is dramatic:</p>
+
+  <ul>
+    <li>On RTX 5090: π0 runs at ~<strong>2.85x</strong>, π0.5 at <strong>1.82x</strong>, and GR00T at <strong>2.28x</strong> compared to official repositories</li>
+    <li>For MiniCPM-Robot: CUDA Graph optimization boosts inference from 10.12Hz to 33.28Hz, and custom fusion operators push it to <strong>36.77Hz</strong> on NVIDIA H20</li>
+  </ul>
+
+  <p>PhyAI lowers the engineering barrier for embodied AI — a model that cannot run efficiently on real hardware is merely an academic exercise. A unified open-source inference framework enables different VLA and world models to deploy faster onto physical robots.</p>
+
+  <h2>4. Commercial Ecosystem: Samsung Flagships, Leju Robots, Geely Warehouses</h2>
+
+  <p>ModelBest showcased not just technical innovation but a clear path to commercialization at WAIC 2026:</p>
+
+  <h3>MiniCPM Coming to Samsung Flagship Phones</h3>
+
+  <p>ModelBest announced that its MiniCPM series on-device models will be <strong>pre-installed on multiple Samsung flagship phone models</strong> globally. This follows earlier integrations into mass-produced vehicles like the Changan Mazda EZ-60 and Geely Galaxy M9. To date, the MiniCPM open-source family has surpassed <strong>38 million cumulative downloads</strong> on GitHub and Hugging Face, spanning automotive, smartphones, AIPC, and smart home categories.</p>
+
+  <h3>Leju Robotics Exhibition Agent: Offline, Data-Sovereign</h3>
+
+  <p>The exhibition tour Agent co-developed with Leju Robotics runs entirely on-device with no network required, supporting offline讲解 and Q&A based on a local knowledge base. Sensitive data stays on-site, data sovereignty belongs to the customer — critical for government and defense-sector clients. The inspection system can identify illegal parking, road surface anomalies, and public facility damage autonomously.</p>
+
+  <h3>Geely Automotive Warehouse Tasks</h3>
+
+  <p>ModelBest and Geely jointly trained VLA models, connected through RoboHarness — a framework that integrates VLM, VLA, robot hardware, and navigation systems — enabling robots to execute long-horizon warehouse tasks. Each completed task feeds operational data back into a governed data loop, continuously improving model performance.</p>
+
+  <h3>The Density Law in Action</h3>
+
+  <p>ModelBest's "Density Law" — the hypothesis that the number of parameters needed to achieve a given intelligence level halves every 3.5 months — was validated once again by MiniCPM-Robot. After 2.5 years and 15 major versions, the MiniCPM series now covers text, vision, full-modality, and voice, forming a complete on-device AI capability stack. What started as a contrarian bet has become a mainstream narrative at WAIC.</p>
+
+  <h2>5. Industry Outlook: Embodied AI Moves From Stunts to Productivity</h2>
+
+  <p>This year's WAIC embodied intelligence hall saw participating companies surge from ~80 last year to over 200, with more than 300 real robots on display. The shift from "backflips and dancing" to "unloading, loading, pharmacy dispensing, and delivery" marks a decisive turn from spectacle to genuine productivity.</p>
+
+  <p>ModelBest's entry into embodied AI with ultra-small 1.5B and 0.9B models follows a "generalize first, specialize later" philosophy — understand the fundamentals of the physical world before becoming an expert in specific domains. As Dr. Yao Yuan, assistant professor at Tsinghua University and ModelBest's chief multimodal scientist, noted: "Many current demos collect large amounts of data around a single task for targeted optimization, but that doesn't represent the true progress of a foundation model. ModelBest prioritizes foundational capability, generalization, and versatility."</p>
+
+  <p>MiniCPM-Robot's significance goes beyond "small parameters." It answers the core question of embodied AI commercialization: a robot must not only be smart — it must run fast enough, be affordable enough, and ultimately, get the job done.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
