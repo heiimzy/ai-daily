@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 21 Jul 2026 02:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 03:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月21日科技综合：AMD发布Helios机架级AI系统挑战英伟达、谷歌打造Frozen v2芯片、DeepSeek V4百万上下文开源</title>
+      <link>https://ai-daily.cc.cd/posts/253-tech-roundup-amd-helios-google-frozen-deepseek-v4-july-21-2026.zh.html</link>
+      <description>⚡ 7月21日科技综合：AMD发布首款机架级AI系统Helios，微软、Meta、OpenAI等巨头成为客户，正面挑战英伟达Vera Rubin，AMD股价大涨超4%；谷歌被曝打造新型AI服务器芯片"Frozen v2"，将Gemini架构嵌入芯片实现6-10倍能效提升，计划2028年部署；DeepSeek V4预览版正式开源，百万字超长上下文迈入普惠时代，Agent能力比肩顶级闭源模型。</description>
+      <pubDate>Tue, 21 Jul 2026 03:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/253-tech-roundup-amd-helios-google-frozen-deepseek-v4-july-21-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月21日国际政治综合：美军增派F-16/F-35战机赴中东、俄朝外长战略对话联手反美、哈马斯选出新政治领袖哈雅</title>
       <link>https://ai-daily.cc.cd/posts/252-international-roundup-us-fighters-mideast-russia-nkorea-hamas-ramstein-july-21-2026.zh.html</link>
