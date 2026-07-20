@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 14:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:01:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ Kimi K3发布48小时算力告急暂停新订阅、Meta发布Muse Spark 1.1并自研AI芯片、中国AI开源大模型全球下载量突破100亿次</title>
+      <link>https://ai-daily.cc.cd/posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日科技综述：Kimi K3上线48小时因用户请求量远超预期导致算力告急，月之暗面紧急暂停C端新用户订阅；Meta发布Muse Spark 1.1百万上下文模型并联合博通/台积电启动自研AI芯片计划；工信部宣布中国AI开源大模型全球累计下载量突破100亿次。</description>
+      <pubDate>Mon, 20 Jul 2026 15:01:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/241-tech-roundup-kimi-k3-compute-crisis-meta-muse-spark-ai-milestone-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 美伊战争第9晚全面升级：布伦特原油突破90美元、伊朗警告发动「惩罚性行动」、IRGC首次打击叙利亚境内美军目标</title>
       <link>https://ai-daily.cc.cd/posts/240-iran-war-oil-90-punitive-operation-hormuz-july-20-2026.zh.html</link>
