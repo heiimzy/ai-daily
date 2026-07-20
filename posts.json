@@ -1,5 +1,21 @@
 [
   {
+    "id": "240",
+    "date": "2026-07-20",
+    "zh": {
+      "title": "⚡ 美伊战争第9晚全面升级：布伦特原油突破90美元、伊朗警告发动「惩罚性行动」、IRGC首次打击叙利亚境内美军目标",
+      "summary": "⚡ 7月20日国际政治深度：布伦特原油突破90美元大关创一个月新高，霍尔木兹海峡通航量降至零；伊朗哈塔姆安比亚中央总部警告美军准备迎接「惩罚性行动」；IRGC首次打击叙利亚境内坦夫美军基地；卢比欧呼吁各国共同维护海峡安全；科威特海水淡化厂连续第二天遭袭；以色列全面进入战备状态。",
+      "tags": ["国际政治", "美伊冲突", "霍尔木兹海峡", "原油", "IRGC", "叙利亚", "以色列"],
+      "file": "posts/240-iran-war-oil-90-punitive-operation-hormuz-july-20-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ US-Iran War Night 9: Brent Surges Past $90, Iran Warns of 'Punitive Operation,' IRGC Strikes Syria for First Time",
+      "summary": "⚡ July 20 international politics: Brent crude surges past $90/bbl as Strait of Hormuz traffic hits zero; Iran's Khatam al-Anbiya warns US military of 'punitive operation'; IRGC strikes US al-Tanf base in Syria for first time; Rubio urges global powers to secure Hormuz; Kuwait desalination plant hit again; Israel on full combat alert.",
+      "tags": ["International Politics", "US-Iran War", "Strait of Hormuz", "Crude Oil", "IRGC", "Syria", "Israel"],
+      "file": "posts/240-iran-war-oil-90-punitive-operation-hormuz-july-20-2026.en.html"
+    }
+  },
+  {
     "id": "239",
     "date": "2026-07-20",
     "zh": {
