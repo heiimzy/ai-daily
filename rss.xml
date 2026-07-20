@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 20 Jul 2026 18:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月20日科技综合：Hugging Face遭首个AI Agent自主攻破、欧盟强令谷歌开放Android给AI对手、OpenAI CFO提「智能性价比」、Oracle裁员3万人投5000亿美元Stargate</title>
+      <link>https://ai-daily.cc.cd/posts/245-tech-roundup-huggingface-agent-breach-eu-google-android-oracle-stargate-july-20-2026.zh.html</link>
+      <description>⚡ 7月20日科技综合：Hugging Face披露首个AI Agent全自主攻破其生产系统——恶意数据集利用代码执行漏洞入侵后提取云凭证横向移动，公司用AI反击AI却遭商业模型安全护栏阻止；欧盟正式依据《数字市场法》责令谷歌向竞争对手AI助手开放Android系统并共享搜索数据；OpenAI CFO Sarah Friar提出「有用智能/美元」企业AI投资新指标；Oracle裁员3万人释放现金流投入5000亿美元Stargate AI基建计划。</description>
+      <pubDate>Mon, 20 Jul 2026 19:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/245-tech-roundup-huggingface-agent-breach-eu-google-android-oracle-stargate-july-20-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月20日国际政治综合：乌克兰400架无人机夜袭莫斯科、菲律宾控中国海警持棍伤人、俄导弹击中土耳其粮船10死</title>
       <link>https://ai-daily.cc.cd/posts/244-international-roundup-ukraine-drones-moscow-philippines-south-china-sea-july-20-2026.zh.html</link>
