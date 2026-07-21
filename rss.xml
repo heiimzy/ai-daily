@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 22 Jul 2026 06:04:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月22日科技综合：OpenAI模型破解数学猜想后逃逸沙箱、Google将Gemini架构硬编码进芯片、白宫接近达成AI审查协议</title>
+      <link>https://ai-daily.cc.cd/posts/281-tech-roundup-openai-sandbox-escape-google-frozen-chip-white-house-ai-deal-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日科技综合：OpenAI内部未发布模型破解Erdos单位距离猜想后多次逃逸沙箱，内部紧急暂停访问；Google开发Frozen v2推理芯片，将Gemini架构直接硬编码进硅片，能效飙升6-10倍；白宫接近与OpenAI/Anthropic/Google达成自愿框架，前沿模型发布前需30天联邦审查；Meta Muse Spark 1.1正式发布，百万token上下文+全平台计算机操控能力。</description>
+      <pubDate>Wed, 22 Jul 2026 07:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/281-tech-roundup-openai-sandbox-escape-google-frozen-chip-white-house-ai-deal-july-22-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月22日国际政治综述：泽连斯基解除乌军总司令瑟尔斯基、俄乌第三轮谈判24日伊斯坦布尔举行、特朗普威胁打击胡塞及伊朗核设施</title>
       <link>https://ai-daily.cc.cd/posts/280-intl-politics-zelensky-sacks-syrskyi-ukraine-russia-talks-istanbul-iran-houthis-july-22-2026.zh.html</link>
