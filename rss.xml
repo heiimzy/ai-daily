@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 22 Jul 2026 03:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 04:01:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月22日科技综合：Jack Dorsey发布Buzz AI原生协作平台挑战Slack；Sila融资3亿美元扩建下一代电池工厂；数据中心用电2035年翻四倍</title>
+      <link>https://ai-daily.cc.cd/posts/278-tech-roundup-dorsey-buzz-sila-battery-data-center-energy-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日科技综合：Jack Dorsey正式发布AI Agent原生协作平台Buzz，以AI智能体为原生参与者重构团队协作体验，正面挑战Slack与Microsoft Teams；Sila Nanotechnologies融资3亿美元扩建华盛顿州电池材料工厂，硅基负极技术有望将电池能量密度提升20-40%；国际能源署IEA发出重磅预警，受AI算力需求驱动全球数据中心用电量将在2035年翻四倍至1600 TWh，AI产业从算力竞赛进入电力竞赛新阶段。</description>
+      <pubDate>Wed, 22 Jul 2026 04:01:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/278-tech-roundup-dorsey-buzz-sila-battery-data-center-energy-july-22-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月22日科技双响炮：Google Play开放第三方应用商店，Android生态迎历史转折；深夜突袭发布三款Gemini新模型</title>
       <link>https://ai-daily.cc.cd/posts/277-google-play-third-party-stores-gemini-models-july-22-2026.zh.html</link>
