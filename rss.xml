@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 21 Jul 2026 10:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月21日科技综合：Anthropic 15亿美元版权和解获批、Hugging Face遭自主AI入侵、算力租赁时代开启</title>
+      <link>https://ai-daily.cc.cd/posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.zh.html</link>
+      <description>⚡ 7月21日科技综合：Anthropic 15亿美元版权和解获法官最终批准，单部作品赔偿3000美元覆盖约50万部著作，AI训练版权核心仍判合理使用；全球最大AI模型仓库Hugging Face遭自主AI智能体入侵，攻击者通过恶意数据集植入代码，HF用GLM 5.2完成取证；Meta与Anthropic洽谈100亿美元算力租赁、SpaceX向五角大楼推销数据中心算力，算力正在成为独立商品。</description>
+      <pubDate>Tue, 21 Jul 2026 11:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月21日国际政治深度：美伊第10夜空袭霍尔木兹油轮再遭袭、伊朗总统宣布"全面战争"、胡塞武装封锁沙特红海出口</title>
       <link>https://ai-daily.cc.cd/posts/260-international-roundup-10th-night-hormuz-tanker-fullscale-war-ramstein-july-21-2026.zh.html</link>
