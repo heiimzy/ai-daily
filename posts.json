@@ -1,17 +1,71 @@
 [
   {
+    "id": "279",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日金融晨间综述：美股芯片暴涨4.9%强势反弹、A股三大指数齐创年内新高、Alphabet与Tesla今夜财报重磅来袭",
+      "summary": "⚡ 7月22日金融晨间综述：美股三大指数终结三连跌，芯片板块暴涨4.9%强势反弹，Micron与Sandisk飙升12%；A股三大指数齐创年内新高，沪指收报3581.86点，煤炭板块暴涨6.18%，北向资金净流入127亿创7月单日新高；Alphabet与Tesla今夜公布Q2财报，AI资本开支效率成焦点，Google Cloud营收预计增长65%至225亿美元；布伦特原油维持90美元以上高位；美联储利率路径仍存分歧，7月按兵不动概率约62%。",
+      "tags": [
+        "金融经济",
+        "美股",
+        "A股",
+        "芯片反弹",
+        "煤炭板块",
+        "财报",
+        "美联储",
+        "原油"
+      ],
+      "file": "posts/279-financial-roundup-us-chip-rebound-ashare-record-alphabet-tesla-earnings-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Financial Morning Roundup: US Chip Stocks Surge 4.9% in Strong Rebound, China A-Share Indices Hit Yearly Highs, Alphabet & Tesla Earnings Take Center Stage",
+      "summary": "⚡ July 22 financial morning roundup: US major indices break 3-day losing streak as chip stocks surge 4.9% with Micron and Sandisk jumping 12%; China A-share indices hit new yearly highs with Shanghai Composite closing at 3,581.86 and coal sector soaring 6.18%, northbound capital net inflow hits July record at 12.7B yuan; Alphabet and Tesla report Q2 earnings tonight with AI capex efficiency in focus; Google Cloud revenue expected to grow 65% to $22.5B; Brent crude holds above $90; Fed rate path remains divided with ~62% probability of July hold.",
+      "tags": [
+        "Financial",
+        "US Stocks",
+        "A-Shares",
+        "Chip Stocks",
+        "Coal",
+        "Earnings",
+        "Federal Reserve",
+        "Crude Oil"
+      ],
+      "file": "posts/279-financial-roundup-us-chip-rebound-ashare-record-alphabet-tesla-earnings-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "278",
     "date": "2026-07-22",
     "zh": {
       "title": "⚡ 7月22日科技综合：Jack Dorsey发布Buzz AI原生协作平台挑战Slack；Sila融资3亿美元扩建下一代电池工厂；数据中心用电2035年翻四倍",
       "summary": "⚡ 7月22日科技综合：Jack Dorsey正式发布AI Agent原生协作平台Buzz，以AI智能体为原生参与者重构团队协作体验，正面挑战Slack与Microsoft Teams；Sila Nanotechnologies融资3亿美元扩建华盛顿州电池材料工厂，硅基负极技术有望将电池能量密度提升20-40%；国际能源署IEA发出重磅预警，受AI算力需求驱动全球数据中心用电量将在2035年翻四倍至1600 TWh，AI产业从算力竞赛进入电力竞赛新阶段。",
-      "tags": ["泛科技", "Jack Dorsey", "Buzz", "AI协作", "Sila", "电池", "数据中心", "能耗", "IEA"],
+      "tags": [
+        "泛科技",
+        "Jack Dorsey",
+        "Buzz",
+        "AI协作",
+        "Sila",
+        "电池",
+        "数据中心",
+        "能耗",
+        "IEA"
+      ],
       "file": "posts/278-tech-roundup-dorsey-buzz-sila-battery-data-center-energy-july-22-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 22 Tech Roundup: Jack Dorsey Launches Buzz AI-Native Platform Challenging Slack; Sila Raises $300M for Battery Factory; IEA Warns Data Center Power to Quadruple by 2035",
       "summary": "⚡ July 22 tech roundup: Jack Dorsey launches Buzz, an AI-native team collaboration platform embedding AI agents as first-class citizens, directly challenging Slack and Microsoft Teams; Sila Nanotechnologies raises $300M to expand Washington battery materials factory with silicon anode tech boosting energy density 20-40%; IEA warns global data center electricity consumption will quadruple to 1,600 TWh by 2035 driven by AI compute demand, marking the transition from a compute race to a power race.",
-      "tags": ["Tech News", "Jack Dorsey", "Buzz", "AI Collaboration", "Sila", "Battery", "Data Center", "Energy", "IEA"],
+      "tags": [
+        "Tech News",
+        "Jack Dorsey",
+        "Buzz",
+        "AI Collaboration",
+        "Sila",
+        "Battery",
+        "Data Center",
+        "Energy",
+        "IEA"
+      ],
       "file": "posts/278-tech-roundup-dorsey-buzz-sila-battery-data-center-energy-july-22-2026.en.html"
     }
   },
@@ -21,13 +75,29 @@
     "zh": {
       "title": "⚡ 7月22日科技双响炮：Google Play开放第三方应用商店，Android生态迎历史转折；深夜突袭发布三款Gemini新模型",
       "summary": "⚡ 7月22日科技双响炮：Google Play在美国正式开放第三方应用商店，Android生态迎历史性变革，Epic反垄断诉讼五周年禁令终生效；Google深夜发布三款Gemini新模型——3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber，定价大幅低于GPT-5.6和Kimi K3，在Alphabet财报前夜发起AI价格战。",
-      "tags": ["泛科技", "Google", "Android", "第三方应用商店", "Gemini", "AI模型", "反垄断"],
+      "tags": [
+        "泛科技",
+        "Google",
+        "Android",
+        "第三方应用商店",
+        "Gemini",
+        "AI模型",
+        "反垄断"
+      ],
       "file": "posts/277-google-play-third-party-stores-gemini-models-july-22-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 22 Double Feature: Google Play Opens to Third-Party App Stores, Android at Historic Crossroads; Google Launches Three New Gemini Models Overnight",
       "summary": "⚡ July 22 tech double whammy: Google Play officially opens to third-party app stores in the US as Epic antitrust injunction takes effect after five years; Google drops three new Gemini models — 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber — at prices undercutting GPT-5.6 and Kimi K3, launching an AI price war on the eve of Alphabet earnings.",
-      "tags": ["Tech News", "Google", "Android", "Third-Party App Stores", "Gemini", "AI Model", "Antitrust"],
+      "tags": [
+        "Tech News",
+        "Google",
+        "Android",
+        "Third-Party App Stores",
+        "Gemini",
+        "AI Model",
+        "Antitrust"
+      ],
       "file": "posts/277-google-play-third-party-stores-gemini-models-july-22-2026.en.html"
     }
   },
@@ -37,13 +107,27 @@
     "zh": {
       "title": "⚡ 7月22日国际政治深度：美伊第10夜空袭持续升级、特朗普对加加征50%关税、胡塞武装封锁沙特威胁全球7%石油供应",
       "summary": "⚡ 7月22日国际政治深度：美军完成第10夜连续空袭伊朗，伊朗回击科威特巴林美军基地3名美军阵亡；特朗普签署行政令对加拿大加征50%关税，美墨双边谈判启动加拿大被边缘化；胡塞武装宣布对沙特全面海上封锁威胁曼德海峡7%全球石油供应；内塔尼亚胡向特朗普提供情报推动打击伊朗皮克克斯山地下核设施。",
-      "tags": ["国际政治", "美伊冲突", "特朗普", "加拿大关税", "胡塞武装", "霍尔木兹海峡"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "加拿大关税",
+        "胡塞武装",
+        "霍尔木兹海峡"
+      ],
       "file": "posts/276-international-roundup-iran-10th-night-canada-tariffs-houthi-blockade-july-22-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 22 International Politics: US Strikes Iran for 10th Night, Trump Hits Canada with 50% Tariffs, Houthis Blockade Saudi Arabia",
       "summary": "⚡ July 22 international politics deep dive: US completes 10th consecutive night of strikes on Iran, Iran retaliates against US bases; Trump invokes 1930 Tariff Act to impose 50% tariffs on Canadian goods; Houthis declare full naval blockade on Saudi Arabia threatening 7% of global oil supply; Netanyahu pushes Trump to strike Pickaxe Mountain nuclear site.",
-      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Canada Tariffs", "Houthi Blockade", "Strait of Hormuz"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Trump",
+        "Canada Tariffs",
+        "Houthi Blockade",
+        "Strait of Hormuz"
+      ],
       "file": "posts/276-international-roundup-iran-10th-night-canada-tariffs-houthi-blockade-july-22-2026.en.html"
     }
   },
@@ -53,13 +137,27 @@
     "zh": {
       "title": "⚡ 7月22日金融收盘综述：道指暴涨384点终结三连跌、布伦特突破91美元创五周新高、Q2财报季88%超预期",
       "summary": "⚡ 7月22日凌晨金融深度：道指暴涨384点领涨三大指数终结三连跌，纳指涨1.3%芯片股强劲反弹；布伦特原油突破91美元创五周新高，美伊冲突第10夜霍尔木兹海峡通行量骤降至个位数；Q2财报季88%公司超预期，3M飙升9%+；美联储进入议息前静默期，市场定价86%概率7月按兵不动。",
-      "tags": ["金融经济", "美股", "道琼斯", "原油", "财报", "美联储"],
+      "tags": [
+        "金融经济",
+        "美股",
+        "道琼斯",
+        "原油",
+        "财报",
+        "美联储"
+      ],
       "file": "posts/275-financial-roundup-djia-oil-earnings-july-22-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 22 Financial Roundup: Dow Surges 384 Points to Break 3-Day Slide, Brent Breaks $91 on Hormuz Crisis, Q2 Earnings 88% Beat Rate",
       "summary": "⚡ July 22 financial deep dive: Dow surges 384 points leading broad market rebound, Nasdaq jumps 1.3% on chip stock recovery; Brent crude breaks above $91 per barrel hitting 5-week high on 10th night of US-Iran strikes with Hormuz traffic collapsing to single digits; Q2 earnings season delivers 88% beat rate with 3M soaring 9%+; Fed enters blackout period pricing 86% hold for July.",
-      "tags": ["Financial", "US Stocks", "Dow Jones", "Crude Oil", "Earnings", "Federal Reserve"],
+      "tags": [
+        "Financial",
+        "US Stocks",
+        "Dow Jones",
+        "Crude Oil",
+        "Earnings",
+        "Federal Reserve"
+      ],
       "file": "posts/275-financial-roundup-djia-oil-earnings-july-22-2026.en.html"
     }
   },
@@ -69,13 +167,31 @@
     "zh": {
       "title": "⚡ 7月22日AI芯片与机器人双突破：Nvidia Vera Rubin每瓦Token飙升10倍，字节跳动GR-3仅需10条示范学会新任务",
       "summary": "⚡ 7月22日凌晨科技双重磅：Nvidia发布Vera Rubin最新基准，CoreWeave实测每瓦Token数飙升10倍，Vera CPU性能翻倍碾压AMD EPYC；字节跳动Seed团队发布GR-3 VLA模型，仅需10条VR示范即可学会叠衣擦桌等复杂任务。",
-      "tags": ["泛科技", "Nvidia", "AI芯片", "Vera Rubin", "字节跳动", "GR-3", "机器人", "VLA"],
+      "tags": [
+        "泛科技",
+        "Nvidia",
+        "AI芯片",
+        "Vera Rubin",
+        "字节跳动",
+        "GR-3",
+        "机器人",
+        "VLA"
+      ],
       "file": "posts/274-nvidia-vera-rubin-bytedance-gr3-july-22-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 22 Dual Breakthrough: Nvidia Vera Rubin Delivers 10x Tokens Per Watt, ByteDance GR-3 Masters Tasks With Just 10 Demonstrations",
       "summary": "⚡ July 22 dual tech breakthrough: Nvidia unveils Vera Rubin benchmarks showing 10x tokens per watt vs Blackwell, Vera CPU doubles AMD EPYC Turin; ByteDance Seed releases GR-3 VLA model achieving 77% task success with just 10 VR demonstrations.",
-      "tags": ["Tech News", "Nvidia", "AI Chip", "Vera Rubin", "ByteDance", "GR-3", "Robotics", "VLA"],
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "AI Chip",
+        "Vera Rubin",
+        "ByteDance",
+        "GR-3",
+        "Robotics",
+        "VLA"
+      ],
       "file": "posts/274-nvidia-vera-rubin-bytedance-gr3-july-22-2026.en.html"
     }
   },
@@ -85,13 +201,29 @@
     "zh": {
       "title": "⚡ 7月21日科技晚间：Google发布AI安全模型硬刚Anthropic Mythos，Stellantis联手Mobileye推L2级自动驾驶",
       "summary": "⚡ 7月21日科技动态：Google发布Gemini 3.5 Flash Cyber AI安全模型，以低成本方案挑战Anthropic旗舰Mythos 5，在V8引擎中发现55个漏洞含10个未被其他模型发现的漏洞；Stellantis联手Intel Mobileye，2027年起量产L2级脱手驾驶系统，ADAS市场未来十年预计达900亿美元。",
-      "tags": ["泛科技", "Google", "AI安全", "Mobileye", "自动驾驶", "Stellantis", "汽车科技"],
+      "tags": [
+        "泛科技",
+        "Google",
+        "AI安全",
+        "Mobileye",
+        "自动驾驶",
+        "Stellantis",
+        "汽车科技"
+      ],
       "file": "posts/273-tech-night-google-gemini-flash-cyber-stellantis-mobileye-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 Tech Evening: Google Launches AI Security Model to Challenge Anthropic Mythos, Stellantis Teams Up with Mobileye for L2 Driving",
       "summary": "⚡ July 21 tech evening: Google launches Gemini 3.5 Flash Cyber AI security model as cost-effective alternative to Anthropic's Mythos 5, finding 55 unique issues in V8 engine including 10 missed by all other models; Stellantis partners with Intel's Mobileye for L2 hands-free driving starting 2027, ADAS market projected at $90B over next decade.",
-      "tags": ["Tech News", "Google", "AI Security", "Mobileye", "Self-Driving", "Stellantis", "Automotive"],
+      "tags": [
+        "Tech News",
+        "Google",
+        "AI Security",
+        "Mobileye",
+        "Self-Driving",
+        "Stellantis",
+        "Automotive"
+      ],
       "file": "posts/273-tech-night-google-gemini-flash-cyber-stellantis-mobileye-july-21-2026.en.html"
     }
   },
@@ -101,13 +233,29 @@
     "zh": {
       "title": "⚡ 7月21日国际政治深度：以军开始从南黎巴嫩试点撤军、特朗普将出席阵亡将士遗骸移交、伊朗内政部长赴巴基斯坦斡旋",
       "summary": "⚡ 7月21日国际政治深度：以军启动南黎巴嫩安全试点区撤军计划，黎巴嫩军队进驻首村；特朗普今晚赴多佛空军基地出席三名阵亡美军遗骸尊荣移交仪式；近100名美军本月在伊朗袭击中受伤；伊朗内政部长率团访巴基斯坦，调解方持续推动10天停火方案；科威特发电和海水淡化设施遭伊朗袭击受损；美国对加拿大加征50%关税。",
-      "tags": ["国际政治", "美伊战争", "以黎停火", "特朗普", "南黎巴嫩", "巴基斯坦斡旋", "加拿大关税"],
+      "tags": [
+        "国际政治",
+        "美伊战争",
+        "以黎停火",
+        "特朗普",
+        "南黎巴嫩",
+        "巴基斯坦斡旋",
+        "加拿大关税"
+      ],
       "file": "posts/272-international-roundup-idf-lebanon-pilot-zone-dover-transfer-pakistan-talks-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 International Politics: IDF Begins South Lebanon Pilot Withdrawal, Trump Attends Dignified Transfer, Iran Envoys in Pakistan",
       "summary": "⚡ July 21 International Politics: IDF launches South Lebanon safe-zone pilot withdrawal, Lebanese army enters first village; Trump to attend dignified transfer of 3 fallen US soldiers at Dover AFB; Pentagon reveals nearly 100 US troops injured in Iranian strikes; Iran interior minister visits Pakistan as mediators push 10-day ceasefire; Kuwait power plants damaged; Trump slaps 50% tariffs on Canada.",
-      "tags": ["International Politics", "US-Iran War", "Israel Lebanon", "Trump", "Pakistan Mediation", "Canada Tariffs", "Houthi Blockade"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Israel Lebanon",
+        "Trump",
+        "Pakistan Mediation",
+        "Canada Tariffs",
+        "Houthi Blockade"
+      ],
       "file": "posts/272-international-roundup-idf-lebanon-pilot-zone-dover-transfer-pakistan-talks-july-21-2026.en.html"
     }
   },
@@ -117,13 +265,29 @@
     "zh": {
       "title": "⚡ 7月21日金融收盘综述：美联储五大工作组引爆政策大辩论，纳指盘中首次突破21000点，黄金突破3410美元，韩国KOSPI暴涨熔断",
       "summary": "⚡ 7月21日金融深度综述：美联储沃什五大工作组引发政策大辩论，高盛称降息预期难兑现；纳指盘中首次突破21000点再创新高，财报季85%超预期；黄金涨1.55%突破3410美元；韩国KOSPI暴涨4.7%触发熔断；A股沪指涨1.79%创年内新高；布伦特原油冲高91美元后因停火信号回落至86.67美元。",
-      "tags": ["金融经济", "美联储", "美股", "黄金", "原油", "韩国股市", "A股"],
+      "tags": [
+        "金融经济",
+        "美联储",
+        "美股",
+        "黄金",
+        "原油",
+        "韩国股市",
+        "A股"
+      ],
       "file": "posts/271-financial-roundup-fed-gold-oil-kospi-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 Financial Roundup: Fed's Five Working Groups Ignite Policy Debate, Nasdaq Breaks 21,000 Intraday, Gold Surges Past $3,410, KOSPI Rally Triggers Circuit Breaker",
       "summary": "⚡ July 21 financial roundup: Fed Chair Warsh's five working groups spark policy debate; Goldman Sachs pours cold water on rate cut hopes; Nasdaq tops 21,000 intraday as 85% of S&P companies beat earnings; COMEX gold surges 1.55% to $3,410; South Korea's KOSPI jumps 4.7% triggering Sidecar; A-share markets sees V-shaped reversal with STAR 50 surging 10.73%; Brent crude spikes to $91 then plunges to $86.67 on Iran ceasefire signals.",
-      "tags": ["Finance", "Federal Reserve", "US Stocks", "Gold", "Crude Oil", "Korea Stock Market", "A-Shares"],
+      "tags": [
+        "Finance",
+        "Federal Reserve",
+        "US Stocks",
+        "Gold",
+        "Crude Oil",
+        "Korea Stock Market",
+        "A-Shares"
+      ],
       "file": "posts/271-financial-roundup-fed-gold-oil-kospi-july-21-2026.en.html"
     }
   },
@@ -133,13 +297,27 @@
     "zh": {
       "title": "⚡ 小鹏发布TuringViT视觉基座模型：统一智驾、座舱、机器人三大场景感知入口",
       "summary": "⚡ 7月21日晚间消息：小鹏正式发布TuringViT高效视觉编码器，面向VLM/VLA时代重构视觉架构。TuringViT以线性注意力机制实现3.04倍吞吐量提升，仅用10%数据超越开源基线，将全面支撑智能驾驶、智能座舱与IRON人形机器人三大业务场景的物理AI感知需求。",
-      "tags": ["泛科技", "小鹏", "视觉编码器", "物理AI", "智能驾驶", "人形机器人"],
+      "tags": [
+        "泛科技",
+        "小鹏",
+        "视觉编码器",
+        "物理AI",
+        "智能驾驶",
+        "人形机器人"
+      ],
       "file": "posts/270-xpeng-turingvit-vision-encoder-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ XPENG Unveils TuringViT Vision Foundation Model: Unified Perception for ADAS, Cockpit, and Humanoid Robots",
       "summary": "⚡ July 21 evening: XPENG officially releases TuringViT, a high-efficiency vision encoder redefining visual architecture for the VLM/VLA era. TuringViT achieves 3.04x throughput with linear attention, surpasses open-source baselines with just 10% of training data, and powers smart driving, smart cockpit, and IRON humanoid robots under a unified physical AI perception system.",
-      "tags": ["Tech News", "XPENG", "Vision Encoder", "Physical AI", "Autonomous Driving", "Humanoid Robot"],
+      "tags": [
+        "Tech News",
+        "XPENG",
+        "Vision Encoder",
+        "Physical AI",
+        "Autonomous Driving",
+        "Humanoid Robot"
+      ],
       "file": "posts/270-xpeng-turingvit-vision-encoder-july-21-2026.en.html"
     }
   },
