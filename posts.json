@@ -1,5 +1,21 @@
 [
   {
+    "id": "274",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日AI芯片与机器人双突破：Nvidia Vera Rubin每瓦Token飙升10倍，字节跳动GR-3仅需10条示范学会新任务",
+      "summary": "⚡ 7月22日凌晨科技双重磅：Nvidia发布Vera Rubin最新基准，CoreWeave实测每瓦Token数飙升10倍，Vera CPU性能翻倍碾压AMD EPYC；字节跳动Seed团队发布GR-3 VLA模型，仅需10条VR示范即可学会叠衣擦桌等复杂任务。",
+      "tags": ["泛科技", "Nvidia", "AI芯片", "Vera Rubin", "字节跳动", "GR-3", "机器人", "VLA"],
+      "file": "posts/274-nvidia-vera-rubin-bytedance-gr3-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Dual Breakthrough: Nvidia Vera Rubin Delivers 10x Tokens Per Watt, ByteDance GR-3 Masters Tasks With Just 10 Demonstrations",
+      "summary": "⚡ July 22 dual tech breakthrough: Nvidia unveils Vera Rubin benchmarks showing 10x tokens per watt vs Blackwell, Vera CPU doubles AMD EPYC Turin; ByteDance Seed releases GR-3 VLA model achieving 77% task success with just 10 VR demonstrations.",
+      "tags": ["Tech News", "Nvidia", "AI Chip", "Vera Rubin", "ByteDance", "GR-3", "Robotics", "VLA"],
+      "file": "posts/274-nvidia-vera-rubin-bytedance-gr3-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "273",
     "date": "2026-07-21",
     "zh": {
