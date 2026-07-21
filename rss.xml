@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 21 Jul 2026 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 小鹏发布TuringViT视觉基座模型：统一智驾、座舱、机器人三大场景感知入口</title>
+      <link>https://ai-daily.cc.cd/posts/270-xpeng-turingvit-vision-encoder-july-21-2026.zh.html</link>
+      <description>⚡ 7月21日晚间消息：小鹏正式发布TuringViT高效视觉编码器，面向VLM/VLA时代重构视觉架构。TuringViT以线性注意力机制实现3.04倍吞吐量提升，仅用10%数据超越开源基线，将全面支撑智能驾驶、智能座舱与IRON人形机器人三大业务场景的物理AI感知需求。</description>
+      <pubDate>Tue, 21 Jul 2026 20:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/270-xpeng-turingvit-vision-encoder-july-21-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月21日科技综合：UTSA发布"不忘却"神经形态芯片Genesis、Medtronic推出AI手术计算平台、诺格太空机器人今日发射</title>
       <link>https://ai-daily.cc.cd/posts/269-tech-roundup-genesis-neuromorphic-chip-medtronic-ai-surgery-mrv-launch-july-21-2026.zh.html</link>
