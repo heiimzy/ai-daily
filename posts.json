@@ -1,5 +1,21 @@
 [
   {
+    "id": "275",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日金融收盘综述：道指暴涨384点终结三连跌、布伦特突破91美元创五周新高、Q2财报季88%超预期",
+      "summary": "⚡ 7月22日凌晨金融深度：道指暴涨384点领涨三大指数终结三连跌，纳指涨1.3%芯片股强劲反弹；布伦特原油突破91美元创五周新高，美伊冲突第10夜霍尔木兹海峡通行量骤降至个位数；Q2财报季88%公司超预期，3M飙升9%+；美联储进入议息前静默期，市场定价86%概率7月按兵不动。",
+      "tags": ["金融经济", "美股", "道琼斯", "原油", "财报", "美联储"],
+      "file": "posts/275-financial-roundup-djia-oil-earnings-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Financial Roundup: Dow Surges 384 Points to Break 3-Day Slide, Brent Breaks $91 on Hormuz Crisis, Q2 Earnings 88% Beat Rate",
+      "summary": "⚡ July 22 financial deep dive: Dow surges 384 points leading broad market rebound, Nasdaq jumps 1.3% on chip stock recovery; Brent crude breaks above $91 per barrel hitting 5-week high on 10th night of US-Iran strikes with Hormuz traffic collapsing to single digits; Q2 earnings season delivers 88% beat rate with 3M soaring 9%+; Fed enters blackout period pricing 86% hold for July.",
+      "tags": ["Financial", "US Stocks", "Dow Jones", "Crude Oil", "Earnings", "Federal Reserve"],
+      "file": "posts/275-financial-roundup-djia-oil-earnings-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "274",
     "date": "2026-07-22",
     "zh": {
