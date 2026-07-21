@@ -1,5 +1,21 @@
 [
   {
+    "id": "263",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日金融收盘综述：A股三大指数齐创年内新高、港股恒指突破25000点、布伦特原油高位震荡",
+      "summary": "⚡ 7月21日金融收盘综述：A股三大指数齐创年内新高，沪指涨0.72%收报3559.79点成交额1.7万亿超4000股飘红；港股恒指涨0.68%站上25000点创近四年新高，雅下水电站1.2万亿投资引爆基建行情，东方电气现乌龙指盘中暴涨520%；布伦特原油88.87美元高位震荡，美伊冲突进入第10晚霍尔木兹海峡通行量骤降；韩国总统李在明承认股市需时间企稳，拟提高杠杆ETF门槛。",
+      "tags": ["金融经济", "A股", "港股", "原油", "韩国股市", "基建"],
+      "file": "posts/263-financial-roundup-ashare-hk-stocks-oil-korea-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Financial Roundup: China A-Share Indices Hit Yearly Highs, Hang Seng Breaks 25,000, Brent at $88.87, Korea Targets Leverage ETFs",
+      "summary": "⚡ July 21 financial roundup: China's three major A-share indices hit new yearly highs, Shanghai Composite up 0.72% at 3,559.79 on 1.7 trillion yuan turnover; Hong Kong Hang Seng breaks 25,000 for first time since Feb 2022; Brent crude holds at $88.87 amid 10th night of US-Iran strikes; South Korea's President Lee says market needs time to stabilize, proposes raising leverage ETF thresholds.",
+      "tags": ["Financial Markets", "A-Shares", "Hong Kong Stocks", "Crude Oil", "South Korea", "Infrastructure"],
+      "file": "posts/263-financial-roundup-ashare-hk-stocks-oil-korea-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "262",
     "date": "2026-07-21",
     "zh": {
