@@ -1,5 +1,21 @@
 [
   {
+    "id": "259",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日金融早盘综述：亚洲市场分化、A股超级水电概念爆发、国家队600亿护盘跟进、美股芯片绝地反攻",
+      "summary": "⚡ 7月21日金融早盘综述：亚洲股市周二开盘分化，日经225反弹0.39%，KOSPI先跌后涨收红，A股受1.2万亿超级水电工程消息刺激大基建板块全线爆发沪指涨0.44%；隔夜美股芯片股绝地反攻费城半导体指数收涨0.6%；中国证监会紧急召开稳市座谈会，国家队ETF单周净流入超400亿，五大险资联合发声；布伦特原油回落至88.86美元；印度Sensex涨442点银行股领涨。",
+      "tags": ["金融经济", "A股", "亚洲股市", "超级水电", "国家队护盘", "美股芯片", "布伦特原油"],
+      "file": "posts/259-financial-roundup-asia-super-hydro-csrc-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Financial Morning Roundup: Asian Markets Diverge, A-Share Mega Hydro Project Explodes, China Deploys $84B Rescue, US Chip Stocks Fight Back",
+      "summary": "⚡ July 21 financial morning roundup: Asian markets open mixed; Nikkei +0.39%, KOSPI reverses to +0.23%; A-shares surge on 1.2T yuan super hydropower project; US semiconductor stocks rebound after entering bear territory; China's CSRC holds emergency symposium, national team injects 60B+ yuan into ETFs; Brent crude eases to $88.86; Sensex rallies 442 points on strong bank earnings.",
+      "tags": ["Finance", "A-Shares", "Asian Markets", "Super Hydro", "China Bailout", "US Semiconductors", "Brent Crude"],
+      "file": "posts/259-financial-roundup-asia-super-hydro-csrc-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "258",
     "date": "2026-07-21",
     "zh": {
