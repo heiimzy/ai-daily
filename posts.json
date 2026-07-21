@@ -1,17 +1,63 @@
 [
   {
+    "id": "269",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技综合：UTSA发布\"不忘却\"神经形态芯片Genesis、Medtronic推出AI手术计算平台、诺格太空机器人今日发射",
+      "summary": "⚡ 7月21日科技综合：UTSA MATRIX AI联盟发布Genesis神经形态加速器芯片，解决AI\"灾难性遗忘\"问题，能效提升30-100倍；美敦力基于NVIDIA基础设施推出AI原生手术计算平台Touch Surgery Aide，首款FDA获批应用IEP实现实时器械追踪；诺格SpaceLogistics MRV太空机器人今日搭载猎鹰9号发射，为美国首个私人多任务卫星服务飞行器。",
+      "tags": [
+        "泛科技",
+        "神经形态芯片",
+        "AI医疗",
+        "太空机器人",
+        "UTSA",
+        "Medtronic",
+        "Northrop Grumman"
+      ],
+      "file": "posts/269-tech-roundup-genesis-neuromorphic-chip-medtronic-ai-surgery-mrv-launch-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Roundup: UTSA Unveils 'Non-Forgetting' Neuromorphic Chip Genesis, Medtronic Launches AI Surgery Platform, Northrop Grumman Space Robot Launches Today",
+      "summary": "⚡ July 21 Tech Roundup: UTSA MATRIX AI Consortium unveils Genesis neuromorphic accelerator chip solving AI's catastrophic forgetting with 30-100x energy efficiency; Medtronic launches NVIDIA-powered Touch Surgery Aide AI-native surgical computing platform with FDA-cleared IEP; Northrop Grumman SpaceLogistics MRV set to launch on Falcon 9 as America's first privately-owned multi-mission satellite servicing spacecraft.",
+      "tags": [
+        "Tech News",
+        "Neuromorphic Chip",
+        "AI Surgery",
+        "Space Robotics",
+        "UTSA",
+        "Medtronic",
+        "Northrop Grumman"
+      ],
+      "file": "posts/269-tech-roundup-genesis-neuromorphic-chip-medtronic-ai-surgery-mrv-launch-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "268",
     "date": "2026-07-21",
     "zh": {
       "title": "⚡ 7月21日国际政治深度：伊朗主动提出10天停火、胡塞武装封锁沙特、美军第10夜连炸伊朗",
       "summary": "⚡ 7月21日国际政治深度：伊朗主动通过调解方提出10天停火方案，特朗普政府内部分歧，部分官员称方案\"荒谬\"；胡塞武装宣布对沙特实施海上封锁，威胁曼德海峡——全球7%石油供应面临新风险；美军完成连续第10夜空袭伊朗，3名美军士兵阵亡，特朗普今日出席遗骸尊荣移交；美国汽油价突破4美元/加仑，布伦特原油或突破120美元/桶。",
-      "tags": ["国际政治", "美伊冲突", "伊朗停火", "胡塞武装", "曼德海峡", "霍尔木兹海峡"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "伊朗停火",
+        "胡塞武装",
+        "曼德海峡",
+        "霍尔木兹海峡"
+      ],
       "file": "posts/268-international-roundup-tehran-ceasefire-houthi-blockade-hormuz-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 International Politics: Iran Initiates 10-Day Ceasefire Push, Houthis Blockade Saudi Arabia, US Bombs Iran for 10th Straight Night",
       "summary": "⚡ July 21 international politics deep dive: Tehran initiated a 10-day ceasefire proposal now being advanced by mediators — White House divided, some call it 'absurd'; Houthis declare maritime embargo on Saudi Arabia, threatening Bab el-Mandeb strait and 7% of global oil supply; CENTCOM completes 10th consecutive night of airstrikes on Iran as Trump weighs return to full-scale war; US gas prices hit $4/gallon; Brent crude could break $120/barrel if Hormuz remains closed.",
-      "tags": ["International Politics", "US-Iran War", "Ceasefire", "Houthi Blockade", "Bab el-Mandeb", "Energy Crisis"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Ceasefire",
+        "Houthi Blockade",
+        "Bab el-Mandeb",
+        "Energy Crisis"
+      ],
       "file": "posts/268-international-roundup-tehran-ceasefire-houthi-blockade-hormuz-july-21-2026.en.html"
     }
   },
