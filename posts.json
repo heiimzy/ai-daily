@@ -1,17 +1,61 @@
 [
   {
+    "id": "267",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日金融收盘综述：科创50暴涨10.73%创年内最大涨幅 \"国家队+险资\"联手护盘 A股三大指数齐创年内新高",
+      "summary": "⚡ 7月21日金融收盘综述：A股迎来\"大奇迹日\"——科创50暴涨10.73%创年内最大单日涨幅，沪指涨1.79%报3864.37点，深成指涨4.81%，创业板指涨7.05%，三大指数齐创年内新高；芯片产业链批量涨停，两市成交2.96万亿放量2550亿；国家资本500亿+险资百亿联手护盘，五大险企集体承诺加仓；花旗上调中国股市至\"超配\"全球资本转向中国；港股恒指站上25000点创近四年新高。",
+      "tags": [
+        "金融经济",
+        "A股",
+        "科创50",
+        "国家队",
+        "花旗",
+        "芯片"
+      ],
+      "file": "posts/267-financial-roundup-ashare-star-50-surge-national-team-citi-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Financial Roundup: China's STAR 50 Soars 10.73% in 'Miracle Day', National Team + Insurers Inject $70B+, Citi Upgrades China to Overweight",
+      "summary": "⚡ July 21 financial roundup: China's A-shares stage 'Miracle Day' — STAR 50 surges 10.73% in biggest single-day gain this year, Shanghai Composite +1.79% to 3,864.37, ChiNext +7.05%, all three indices hit yearly highs; chip stocks en masse hit circuit breakers with 316B yuan net inflow; state funds deploy 50B yuan + five major insurers pledge long-term equity allocation; Citi upgrades China stocks to 'overweight', downgrades South Korea; Hang Seng breaks 25,000 for first time in 4 years.",
+      "tags": [
+        "Financial Markets",
+        "A-Shares",
+        "STAR 50",
+        "National Team",
+        "Citi",
+        "Chip Stocks"
+      ],
+      "file": "posts/267-financial-roundup-ashare-star-50-surge-national-team-citi-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "266",
     "date": "2026-07-21",
     "zh": {
       "title": "⚡ 7月21日科技综合：智谱建成1GW全国产芯片AI数据中心、壁仞发布1024 GPU光学超节点、AI芯片初创集体转向边缘设备",
       "summary": "⚡ 7月21日科技综合：智谱Z.ai宣布建成1GW级全国产AI芯片数据中心并已部分投产，为国内首个全栈国产化超大规模AI算力设施；壁仞科技发布BR2xx系列1024 GPU光学互连超节点架构，采用近封装光学技术实现标准服务器部署；中国AI芯片初创公司集体转向机器人、智能硬件等边缘设备市场，避云端红海竞争。",
-      "tags": ["泛科技", "智谱", "AI数据中心", "国产芯片", "壁仞", "边缘计算"],
+      "tags": [
+        "泛科技",
+        "智谱",
+        "AI数据中心",
+        "国产芯片",
+        "壁仞",
+        "边缘计算"
+      ],
       "file": "posts/266-tech-roundup-zai-1gw-datacenter-biren-1024-gpu-edge-chips-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 Tech Roundup: Z.ai Completes 1GW Data Center With Only Chinese AI Chips, Biren Unveils 1,024-GPU Optical Super Node, Chinese AI Chip Startups Pivot to Edge",
       "summary": "⚡ July 21 tech roundup: Z.ai completes 1GW-class AI data center built entirely with Chinese-made AI chips, part already operational — a milestone for AI compute self-sufficiency under US chip export controls; Biren Technology unveils 1,024-GPU optical interconnect super node using near-packaged optics; Chinese AI chip startups collectively pivot from cloud to edge devices — robots, smart hardware — to escape hyper-competitive cloud chip market.",
-      "tags": ["Tech News", "Z.ai", "AI Data Center", "Domestic Chips", "Biren", "Edge Computing"],
+      "tags": [
+        "Tech News",
+        "Z.ai",
+        "AI Data Center",
+        "Domestic Chips",
+        "Biren",
+        "Edge Computing"
+      ],
       "file": "posts/266-tech-roundup-zai-1gw-datacenter-biren-1024-gpu-edge-chips-july-21-2026.en.html"
     }
   },
@@ -21,13 +65,27 @@
     "zh": {
       "title": "⚡ 7月21日科技综合：特斯拉Optimus Gen 3千人上岗三班倒、三星Galaxy Unpacked明天发布新形态折叠屏、Mozilla报告称开源AI逼近闭源",
       "summary": "⚡ 7月21日科技综合：特斯拉Optimus Gen 3人形机器人突破千台，22自由度灵巧手在弗里蒙特工厂24/7三班倒执行3000多种任务；三星Galaxy Unpacked明日伦敦登场，Z Fold 8大幅加宽、Z Flip 8及智能眼镜或同步亮相；Mozilla发布《2026年开源AI现状报告》，开源模型推理成本仅为闭源1/6，性能已逼近顶级闭源模型。",
-      "tags": ["泛科技", "特斯拉", "人形机器人", "三星", "折叠屏", "开源AI"],
+      "tags": [
+        "泛科技",
+        "特斯拉",
+        "人形机器人",
+        "三星",
+        "折叠屏",
+        "开源AI"
+      ],
       "file": "posts/265-tech-roundup-tesla-optimus-samsung-unpacked-open-source-ai-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 Tech Roundup: Tesla Optimus Gen 3 Goes 24/7 at Fremont, Samsung Galaxy Unpacked Tomorrow, Mozilla: Open Source AI Nears Parity",
       "summary": "⚡ July 21 tech roundup: 1,000+ Tesla Optimus Gen 3 humanoid robots with 22-DOF hands now working 24/7 at Fremont factory; Samsung Galaxy Unpacked tomorrow in London — Z Fold 8 wider redesign, Z Flip 8, Watch 9, and possible smart glasses; Mozilla's 2026 State of Open Source AI report finds open models matching proprietary on performance at 1/6 the cost.",
-      "tags": ["Tech News", "Tesla", "Humanoid Robot", "Samsung", "Foldable", "Open Source AI"],
+      "tags": [
+        "Tech News",
+        "Tesla",
+        "Humanoid Robot",
+        "Samsung",
+        "Foldable",
+        "Open Source AI"
+      ],
       "file": "posts/265-tech-roundup-tesla-optimus-samsung-unpacked-open-source-ai-july-21-2026.en.html"
     }
   },
@@ -37,13 +95,29 @@
     "zh": {
       "title": "⚡ 7月21日国际政治深度：调解方提议美伊10天停火、中俄军舰首次在日本EEZ内实弹演习、美国一面谈停火一面增兵2500人",
       "summary": "⚡ 7月21日国际政治深度：调解方巴基斯坦和卡塔尔联合提出10天停火提议，特朗普面临停火与全面升级抉择，Axios称白宫评估两条路径；中俄军舰首次在日本EEZ内实弹射击，日本防卫大臣在范堡罗航展披露此事并强烈抗议；美国一面释放逐步结束信号一面增派F-16/F-35及2500名海军陆战队赴中东；美国国务院发布全球安全警示称伊朗可能在全球范围袭击美国人；欧盟第21轮对俄制裁谈判4天破裂多国否决达极限。",
-      "tags": ["国际政治", "美伊冲突", "10天停火", "中俄军演", "日本EEZ", "霍尔木兹海峡", "欧盟制裁"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "10天停火",
+        "中俄军演",
+        "日本EEZ",
+        "霍尔木兹海峡",
+        "欧盟制裁"
+      ],
       "file": "posts/264-international-roundup-iran-ceasefire-china-russia-eez-drills-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 International Politics: Mediators Propose 10-Day Iran-US Ceasefire, China-Russia Warships Fire in Japan's EEZ, US Sends Conflicting Signals",
       "summary": "⚡ July 21 international politics deep dive: Pakistan and Qatar propose 10-day ceasefire as Trump weighs peace vs all-out war; China-Russia warships conduct first-ever confirmed live-fire drills inside Japan's EEZ, Tokyo protests unprecedented move; US sends contradictory signals, Trump floats winding down while Pentagon deploys 2,500 more Marines and F-16/F-35 fighters; State Department issues global security alert warning of potential Iranian attacks; EU's 21st Russia sanctions package collapses.",
-      "tags": ["International Politics", "US-Iran Conflict", "Ceasefire", "China-Russia Drills", "Japan EEZ", "Strait of Hormuz", "EU Sanctions"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Ceasefire",
+        "China-Russia Drills",
+        "Japan EEZ",
+        "Strait of Hormuz",
+        "EU Sanctions"
+      ],
       "file": "posts/264-international-roundup-iran-ceasefire-china-russia-eez-drills-july-21-2026.en.html"
     }
   },
@@ -53,13 +127,27 @@
     "zh": {
       "title": "⚡ 7月21日金融收盘综述：A股三大指数齐创年内新高、港股恒指突破25000点、布伦特原油高位震荡",
       "summary": "⚡ 7月21日金融收盘综述：A股三大指数齐创年内新高，沪指涨0.72%收报3559.79点成交额1.7万亿超4000股飘红；港股恒指涨0.68%站上25000点创近四年新高，雅下水电站1.2万亿投资引爆基建行情，东方电气现乌龙指盘中暴涨520%；布伦特原油88.87美元高位震荡，美伊冲突进入第10晚霍尔木兹海峡通行量骤降；韩国总统李在明承认股市需时间企稳，拟提高杠杆ETF门槛。",
-      "tags": ["金融经济", "A股", "港股", "原油", "韩国股市", "基建"],
+      "tags": [
+        "金融经济",
+        "A股",
+        "港股",
+        "原油",
+        "韩国股市",
+        "基建"
+      ],
       "file": "posts/263-financial-roundup-ashare-hk-stocks-oil-korea-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 Financial Roundup: China A-Share Indices Hit Yearly Highs, Hang Seng Breaks 25,000, Brent at $88.87, Korea Targets Leverage ETFs",
       "summary": "⚡ July 21 financial roundup: China's three major A-share indices hit new yearly highs, Shanghai Composite up 0.72% at 3,559.79 on 1.7 trillion yuan turnover; Hong Kong Hang Seng breaks 25,000 for first time since Feb 2022; Brent crude holds at $88.87 amid 10th night of US-Iran strikes; South Korea's President Lee says market needs time to stabilize, proposes raising leverage ETF thresholds.",
-      "tags": ["Financial Markets", "A-Shares", "Hong Kong Stocks", "Crude Oil", "South Korea", "Infrastructure"],
+      "tags": [
+        "Financial Markets",
+        "A-Shares",
+        "Hong Kong Stocks",
+        "Crude Oil",
+        "South Korea",
+        "Infrastructure"
+      ],
       "file": "posts/263-financial-roundup-ashare-hk-stocks-oil-korea-july-21-2026.en.html"
     }
   },
@@ -69,13 +157,27 @@
     "zh": {
       "title": "⚡ 7月21日半导体产业深度：台积电2650亿美元美国扩厂、费城半导体指数入熊、全球芯片版图重构",
       "summary": "⚡ 7月21日半导体产业深度：台积电确认2650亿美元美国亚利桑那州建设12座设施——美国史上最大外国直接投资，承认建设成本为台湾4-5倍；费城半导体指数较6月峰值暴跌21.6%正式入熊，全球芯片股市值蒸发超3万亿美元；摩根大通认为回调是资本再配置而非基本面恶化；日本新设AI芯片标准事务高级职位。",
-      "tags": ["半导体", "台积电", "AI芯片", "熊市", "美国建厂", "芯片投资"],
+      "tags": [
+        "半导体",
+        "台积电",
+        "AI芯片",
+        "熊市",
+        "美国建厂",
+        "芯片投资"
+      ],
       "file": "posts/262-semiconductor-tsmc-arizona-265b-sox-bear-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 Semiconductor Deep Dive: TSMC's Historic $265B Arizona Buildout, SOX Enters Bear Market, Global Chip Landscape Reshapes",
       "summary": "⚡ July 21 semiconductor deep dive: TSMC confirms $265B Arizona buildout with 12 facilities — largest foreign direct investment in US history, acknowledges 4-5x higher construction costs; Philadelphia Semi Index plunges 21.6% from June peak into bear territory, wiping over $3T in chip stock value; JPMorgan calls pullback a buying opportunity; Japan creates senior AI/chip standards post.",
-      "tags": ["Semiconductors", "TSMC", "AI Chips", "Bear Market", "Arizona", "Chip Investment"],
+      "tags": [
+        "Semiconductors",
+        "TSMC",
+        "AI Chips",
+        "Bear Market",
+        "Arizona",
+        "Chip Investment"
+      ],
       "file": "posts/262-semiconductor-tsmc-arizona-265b-sox-bear-july-21-2026.en.html"
     }
   },
@@ -85,13 +187,27 @@
     "zh": {
       "title": "⚡ 7月21日科技综合：Anthropic 15亿美元版权和解获批、Hugging Face遭自主AI入侵、算力租赁时代开启",
       "summary": "⚡ 7月21日科技综合：Anthropic 15亿美元版权和解获法官最终批准，单部作品赔偿3000美元覆盖约50万部著作，AI训练版权核心仍判合理使用；全球最大AI模型仓库Hugging Face遭自主AI智能体入侵，攻击者通过恶意数据集植入代码，HF用GLM 5.2完成取证；Meta与Anthropic洽谈100亿美元算力租赁、SpaceX向五角大楼推销数据中心算力，算力正在成为独立商品。",
-      "tags": ["泛科技", "Anthropic", "Hugging Face", "AI安全", "算力租赁", "版权"],
+      "tags": [
+        "泛科技",
+        "Anthropic",
+        "Hugging Face",
+        "AI安全",
+        "算力租赁",
+        "版权"
+      ],
       "file": "posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 21 Tech Roundup: Anthropic's $1.5B Copyright Settlement Approved, Hugging Face Breached by Autonomous AI, Compute Rental Era Begins",
       "summary": "⚡ July 21 tech roundup: Federal judge approves Anthropic's landmark $1.5B copyright settlement — $3,000 per work across 500,000 works; Hugging Face discloses intrusion by autonomous AI agent; Meta negotiates $10B compute lease with Anthropic, SpaceX pitches data center compute to Pentagon.",
-      "tags": ["Tech News", "Anthropic", "Hugging Face", "AI Security", "Compute Rental", "Copyright"],
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Hugging Face",
+        "AI Security",
+        "Compute Rental",
+        "Copyright"
+      ],
       "file": "posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.en.html"
     }
   },
