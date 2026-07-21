@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anthropic's $1.5B Copyright Settlement Approved, Hugging Face Breached by Autonomous AI Agent, Compute Rental Era Begins - AI Daily</title>
+  <meta name="description" content="July 21 tech roundup: Federal judge approves Anthropic's landmark $1.5B copyright settlement — $3,000 per work across 500,000 works, fair use ruling stands; Hugging Face discloses intrusion by autonomous AI agent via malicious dataset code execution; Meta negotiates $10B compute lease with Anthropic, SpaceX pitches data center compute to Pentagon; compute becomes a tradable commodity.">
+  <meta name="keywords" content="Anthropic, copyright settlement, Hugging Face, AI breach, AI security, compute rental, Meta, SpaceX, tech news, July 2026">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-21</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-21</div>
+  <div class="post-tags">
+    <span class="tag">Tech News</span>
+    <span class="tag">Anthropic</span>
+    <span class="tag">Hugging Face</span>
+    <span class="tag">AI Security</span>
+    <span class="tag">Compute Rental</span>
+    <span class="tag">Copyright</span>
+  </div>
+  <h1>⚡ July 21 Tech Roundup: Anthropic's $1.5B Copyright Settlement Approved, Hugging Face Breached by Autonomous AI, Compute as a Commodity Era Begins</h1>
+
+  <h2>1. Anthropic's $1.5B Copyright Settlement Wins Final Approval</h2>
+
+  <p>Federal Judge Araceli Martinez-Olguin on Monday granted final approval to Anthropic's landmark $1.5 billion settlement of a class action copyright lawsuit — the largest settlement in the history of U.S. copyright law.</p>
+
+  <p>Under the terms, Anthropic will pay $3,000 per work across an estimated 500,000 copyrighted works. While the payout is record-breaking, many authors and creators do not view it as a win — because the core legal question remains unresolved.</p>
+
+  <h3>Core Ruling: AI Training = Fair Use</h3>
+
+  <p>Retired Judge William Alsup had previously ruled that training AI models on copyrighted text constitutes "fair use" — a decision widely seen as a turning point for the AI industry. However, the ruling did not excuse how Anthropic obtained the books. Anthropic sourced its training library from two channels: legally purchased and scanned books (compliant), and books downloaded from pirate sites like Library Genesis and Pirate Library Mirror (illegal).</p>
+
+  <p>Alsup found the second method independently illegal and said it could go to trial; Anthropic settled shortly after to avoid a jury trial and potentially higher damages.</p>
+
+  <blockquote>Because Anthropic chose to settle, the case will never reach an appeals court to become binding precedent — other judges remain free to reach different conclusions on their own facts.</blockquote>
+
+  <p>A string of copyright lawsuits against Google, Meta, Midjourney, and OpenAI continues. Just last week, publishers including Hachette, Cengage, and Elsevier filed a class action against Google over training Gemini on copyrighted works.</p>
+
+  <h2>2. Hugging Face Breached by Autonomous AI Agent: The First AI-vs-AI Infrastructure Attack</h2>
+
+  <p>Hugging Face, the world's largest AI model repository, disclosed an intrusion into its production infrastructure — carried out by an autonomous AI agent system. This marks the first publicly confirmed case of an AI system being deployed to attack AI infrastructure end-to-end.</p>
+
+  <h3>Attack Vector: Malicious Dataset + Code Execution</h3>
+
+  <p>According to Hugging Face's disclosure, the attack began in the company's data-processing pipeline. A malicious dataset exploited two code-execution paths — a remote-code dataset loader and a template injection in a dataset configuration — to run code on a processing worker. The attacker then escalated to node-level access, harvested cloud and cluster credentials, and moved laterally into several internal clusters over a weekend.</p>
+
+  <p>The campaign involved many thousands of individual actions across a swarm of short-lived sandboxes, with command-and-control infrastructure staged on public cloud services.</p>
+
+  <h3>AI Detective Strikes Back: GLM 5.2 Replaces GPT-5.6 for Forensics</h3>
+
+  <p>In a remarkable twist, Hugging Face fought AI with AI. Its anomaly-detection pipeline uses LLM-based triage over security telemetry, sorting significant signals from routine activity — and correlating those signals flagged the compromise.</p>
+
+  <p>During forensic analysis, Hugging Face first attempted to use frontier closed-source models via commercial APIs (GPT-5.6 Sol Ultra), but those requests were blocked by the providers' safety guardrails because they required submitting real attack commands, exploit payloads, and C2 artifacts. Instead, Hugging Face used GLM 5.2 — an open-weight model running on its own infrastructure — to reconstruct the complete attack timeline.</p>
+
+  <blockquote>"This one was different from anything we had handled before: it was driven, end to end, by an autonomous AI agent system — and we detected and dissected it largely with AI of our own." — Hugging Face official statement</blockquote>
+
+  <p>Hugging Face has closed the dataset code-execution paths, cleaned affected clusters, rebuilt compromised nodes, rotated credentials, and recommended users rotate their access tokens.</p>
+
+  <h2>3. The Compute Rental Era: Meta and SpaceX's Two High-Stakes Bets</h2>
+
+  <p>In July 2026, two compute deals simultaneously captured the market's attention: Meta is negotiating a compute lease agreement with Anthropic potentially worth up to $10 billion over two years; SpaceX is in talks with the U.S. Department of Defense to provide billions of dollars in data center compute capacity for military AI models.</p>
+
+  <h3>Meta: From Consumer to Supplier of AI Compute</h3>
+
+  <p>By 2026, Meta's data center available capacity reached 5GW. With internal AI products unable to absorb all that compute, leasing it out became inevitable. A $10 billion deal would represent about 7% of Meta's 2026 expected capital expenditure. Former AWS senior leader Dave Brown is joining Meta as infrastructure head, reinforcing the message that Meta is entering the cloud computing business.</p>
+
+  <h3>SpaceX: From Space Company to AI Infrastructure Giant</h3>
+
+  <p>After merging with xAI in early 2026, SpaceX reached a $1.25 trillion valuation. Compute leasing quickly became a core revenue stream: a $45 billion three-year deal with Anthropic in May (~$1.25B/month), followed by a ~$30 billion deal with Google in June. Together, these two contracts generate nearly $28 billion in annualized revenue — exceeding SpaceX's rocket launch and Starlink businesses combined. Now SpaceX is targeting Pentagon compute contracts.</p>
+
+  <h3>Compute as a Commodity: A Historic Shift</h3>
+
+  <p>Industry analysts identify four driving trends: First, compute is moving from "shortage" to "stratification" — low-end general compute is oversupplied but high-end AI compute remains scarce. Second, tech giants' business models are restructuring as massive CapEx becomes revenue-generating infrastructure. Third, military AI is becoming a new compute battleground. Fourth, compute is emerging as an independent, tradable commodity — analogous to early-stage AWS cloud computing.</p>
+
+  <blockquote>"The market's pricing for compute is quite attractive — better to lease it out than use it for internal projects." — Mark Zuckerberg</blockquote>
+
+  <p>This marks a new phase for the AI industry: when compute itself becomes a scalable, tradeable commodity, the competitive dynamics of the entire industry are rewritten.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
