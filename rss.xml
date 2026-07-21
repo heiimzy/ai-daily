@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 21 Jul 2026 23:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:09:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月22日AI芯片与机器人双突破：Nvidia Vera Rubin每瓦Token飙升10倍，字节跳动GR-3仅需10条示范学会新任务</title>
+      <link>https://ai-daily.cc.cd/posts/274-nvidia-vera-rubin-bytedance-gr3-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日凌晨科技双重磅：Nvidia发布Vera Rubin最新基准，CoreWeave实测每瓦Token数飙升10倍，Vera CPU性能翻倍碾压AMD EPYC；字节跳动Seed团队发布GR-3 VLA模型，仅需10条VR示范即可学会叠衣擦桌等复杂任务。</description>
+      <pubDate>Wed, 22 Jul 2026 00:09:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/274-nvidia-vera-rubin-bytedance-gr3-july-22-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月21日科技晚间：Google发布AI安全模型硬刚Anthropic Mythos，Stellantis联手Mobileye推L2级自动驾驶</title>
       <link>https://ai-daily.cc.cd/posts/273-tech-night-google-gemini-flash-cyber-stellantis-mobileye-july-21-2026.zh.html</link>
