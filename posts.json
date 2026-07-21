@@ -1,5 +1,21 @@
 [
   {
+    "id": "268",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日国际政治深度：伊朗主动提出10天停火、胡塞武装封锁沙特、美军第10夜连炸伊朗",
+      "summary": "⚡ 7月21日国际政治深度：伊朗主动通过调解方提出10天停火方案，特朗普政府内部分歧，部分官员称方案\"荒谬\"；胡塞武装宣布对沙特实施海上封锁，威胁曼德海峡——全球7%石油供应面临新风险；美军完成连续第10夜空袭伊朗，3名美军士兵阵亡，特朗普今日出席遗骸尊荣移交；美国汽油价突破4美元/加仑，布伦特原油或突破120美元/桶。",
+      "tags": ["国际政治", "美伊冲突", "伊朗停火", "胡塞武装", "曼德海峡", "霍尔木兹海峡"],
+      "file": "posts/268-international-roundup-tehran-ceasefire-houthi-blockade-hormuz-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 International Politics: Iran Initiates 10-Day Ceasefire Push, Houthis Blockade Saudi Arabia, US Bombs Iran for 10th Straight Night",
+      "summary": "⚡ July 21 international politics deep dive: Tehran initiated a 10-day ceasefire proposal now being advanced by mediators — White House divided, some call it 'absurd'; Houthis declare maritime embargo on Saudi Arabia, threatening Bab el-Mandeb strait and 7% of global oil supply; CENTCOM completes 10th consecutive night of airstrikes on Iran as Trump weighs return to full-scale war; US gas prices hit $4/gallon; Brent crude could break $120/barrel if Hormuz remains closed.",
+      "tags": ["International Politics", "US-Iran War", "Ceasefire", "Houthi Blockade", "Bab el-Mandeb", "Energy Crisis"],
+      "file": "posts/268-international-roundup-tehran-ceasefire-houthi-blockade-hormuz-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "267",
     "date": "2026-07-21",
     "zh": {
