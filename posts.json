@@ -1,5 +1,21 @@
 [
   {
+    "id": "265",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技综合：特斯拉Optimus Gen 3千人上岗三班倒、三星Galaxy Unpacked明天发布新形态折叠屏、Mozilla报告称开源AI逼近闭源",
+      "summary": "⚡ 7月21日科技综合：特斯拉Optimus Gen 3人形机器人突破千台，22自由度灵巧手在弗里蒙特工厂24/7三班倒执行3000多种任务；三星Galaxy Unpacked明日伦敦登场，Z Fold 8大幅加宽、Z Flip 8及智能眼镜或同步亮相；Mozilla发布《2026年开源AI现状报告》，开源模型推理成本仅为闭源1/6，性能已逼近顶级闭源模型。",
+      "tags": ["泛科技", "特斯拉", "人形机器人", "三星", "折叠屏", "开源AI"],
+      "file": "posts/265-tech-roundup-tesla-optimus-samsung-unpacked-open-source-ai-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Roundup: Tesla Optimus Gen 3 Goes 24/7 at Fremont, Samsung Galaxy Unpacked Tomorrow, Mozilla: Open Source AI Nears Parity",
+      "summary": "⚡ July 21 tech roundup: 1,000+ Tesla Optimus Gen 3 humanoid robots with 22-DOF hands now working 24/7 at Fremont factory; Samsung Galaxy Unpacked tomorrow in London — Z Fold 8 wider redesign, Z Flip 8, Watch 9, and possible smart glasses; Mozilla's 2026 State of Open Source AI report finds open models matching proprietary on performance at 1/6 the cost.",
+      "tags": ["Tech News", "Tesla", "Humanoid Robot", "Samsung", "Foldable", "Open Source AI"],
+      "file": "posts/265-tech-roundup-tesla-optimus-samsung-unpacked-open-source-ai-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "264",
     "date": "2026-07-21",
     "zh": {
