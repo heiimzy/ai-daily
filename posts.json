@@ -1,5 +1,21 @@
 [
   {
+    "id": "270",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 小鹏发布TuringViT视觉基座模型：统一智驾、座舱、机器人三大场景感知入口",
+      "summary": "⚡ 7月21日晚间消息：小鹏正式发布TuringViT高效视觉编码器，面向VLM/VLA时代重构视觉架构。TuringViT以线性注意力机制实现3.04倍吞吐量提升，仅用10%数据超越开源基线，将全面支撑智能驾驶、智能座舱与IRON人形机器人三大业务场景的物理AI感知需求。",
+      "tags": ["泛科技", "小鹏", "视觉编码器", "物理AI", "智能驾驶", "人形机器人"],
+      "file": "posts/270-xpeng-turingvit-vision-encoder-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ XPENG Unveils TuringViT Vision Foundation Model: Unified Perception for ADAS, Cockpit, and Humanoid Robots",
+      "summary": "⚡ July 21 evening: XPENG officially releases TuringViT, a high-efficiency vision encoder redefining visual architecture for the VLM/VLA era. TuringViT achieves 3.04x throughput with linear attention, surpasses open-source baselines with just 10% of training data, and powers smart driving, smart cockpit, and IRON humanoid robots under a unified physical AI perception system.",
+      "tags": ["Tech News", "XPENG", "Vision Encoder", "Physical AI", "Autonomous Driving", "Humanoid Robot"],
+      "file": "posts/270-xpeng-turingvit-vision-encoder-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "269",
     "date": "2026-07-21",
     "zh": {
