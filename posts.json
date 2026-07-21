@@ -1,5 +1,21 @@
 [
   {
+    "id": "262",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日半导体产业深度：台积电2650亿美元美国扩厂、费城半导体指数入熊、全球芯片版图重构",
+      "summary": "⚡ 7月21日半导体产业深度：台积电确认2650亿美元美国亚利桑那州建设12座设施——美国史上最大外国直接投资，承认建设成本为台湾4-5倍；费城半导体指数较6月峰值暴跌21.6%正式入熊，全球芯片股市值蒸发超3万亿美元；摩根大通认为回调是资本再配置而非基本面恶化；日本新设AI芯片标准事务高级职位。",
+      "tags": ["半导体", "台积电", "AI芯片", "熊市", "美国建厂", "芯片投资"],
+      "file": "posts/262-semiconductor-tsmc-arizona-265b-sox-bear-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Semiconductor Deep Dive: TSMC's Historic $265B Arizona Buildout, SOX Enters Bear Market, Global Chip Landscape Reshapes",
+      "summary": "⚡ July 21 semiconductor deep dive: TSMC confirms $265B Arizona buildout with 12 facilities — largest foreign direct investment in US history, acknowledges 4-5x higher construction costs; Philadelphia Semi Index plunges 21.6% from June peak into bear territory, wiping over $3T in chip stock value; JPMorgan calls pullback a buying opportunity; Japan creates senior AI/chip standards post.",
+      "tags": ["Semiconductors", "TSMC", "AI Chips", "Bear Market", "Arizona", "Chip Investment"],
+      "file": "posts/262-semiconductor-tsmc-arizona-265b-sox-bear-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "261",
     "date": "2026-07-21",
     "zh": {
