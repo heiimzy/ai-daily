@@ -1,5 +1,21 @@
 [
   {
+    "id": "272",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日国际政治深度：以军开始从南黎巴嫩试点撤军、特朗普将出席阵亡将士遗骸移交、伊朗内政部长赴巴基斯坦斡旋",
+      "summary": "⚡ 7月21日国际政治深度：以军启动南黎巴嫩安全试点区撤军计划，黎巴嫩军队进驻首村；特朗普今晚赴多佛空军基地出席三名阵亡美军遗骸尊荣移交仪式；近100名美军本月在伊朗袭击中受伤；伊朗内政部长率团访巴基斯坦，调解方持续推动10天停火方案；科威特发电和海水淡化设施遭伊朗袭击受损；美国对加拿大加征50%关税。",
+      "tags": ["国际政治", "美伊战争", "以黎停火", "特朗普", "南黎巴嫩", "巴基斯坦斡旋", "加拿大关税"],
+      "file": "posts/272-international-roundup-idf-lebanon-pilot-zone-dover-transfer-pakistan-talks-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 International Politics: IDF Begins South Lebanon Pilot Withdrawal, Trump Attends Dignified Transfer, Iran Envoys in Pakistan",
+      "summary": "⚡ July 21 International Politics: IDF launches South Lebanon safe-zone pilot withdrawal, Lebanese army enters first village; Trump to attend dignified transfer of 3 fallen US soldiers at Dover AFB; Pentagon reveals nearly 100 US troops injured in Iranian strikes; Iran interior minister visits Pakistan as mediators push 10-day ceasefire; Kuwait power plants damaged; Trump slaps 50% tariffs on Canada.",
+      "tags": ["International Politics", "US-Iran War", "Israel Lebanon", "Trump", "Pakistan Mediation", "Canada Tariffs", "Houthi Blockade"],
+      "file": "posts/272-international-roundup-idf-lebanon-pilot-zone-dover-transfer-pakistan-talks-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "271",
     "date": "2026-07-21",
     "zh": {
