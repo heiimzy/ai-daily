@@ -1,5 +1,21 @@
 [
   {
+    "id": "276",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日国际政治深度：美伊第10夜空袭持续升级、特朗普对加加征50%关税、胡塞武装封锁沙特威胁全球7%石油供应",
+      "summary": "⚡ 7月22日国际政治深度：美军完成第10夜连续空袭伊朗，伊朗回击科威特巴林美军基地3名美军阵亡；特朗普签署行政令对加拿大加征50%关税，美墨双边谈判启动加拿大被边缘化；胡塞武装宣布对沙特全面海上封锁威胁曼德海峡7%全球石油供应；内塔尼亚胡向特朗普提供情报推动打击伊朗皮克克斯山地下核设施。",
+      "tags": ["国际政治", "美伊冲突", "特朗普", "加拿大关税", "胡塞武装", "霍尔木兹海峡"],
+      "file": "posts/276-international-roundup-iran-10th-night-canada-tariffs-houthi-blockade-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 International Politics: US Strikes Iran for 10th Night, Trump Hits Canada with 50% Tariffs, Houthis Blockade Saudi Arabia",
+      "summary": "⚡ July 22 international politics deep dive: US completes 10th consecutive night of strikes on Iran, Iran retaliates against US bases; Trump invokes 1930 Tariff Act to impose 50% tariffs on Canadian goods; Houthis declare full naval blockade on Saudi Arabia threatening 7% of global oil supply; Netanyahu pushes Trump to strike Pickaxe Mountain nuclear site.",
+      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Canada Tariffs", "Houthi Blockade", "Strait of Hormuz"],
+      "file": "posts/276-international-roundup-iran-10th-night-canada-tariffs-houthi-blockade-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "275",
     "date": "2026-07-22",
     "zh": {
