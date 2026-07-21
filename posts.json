@@ -1,5 +1,21 @@
 [
   {
+    "id": "271",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日金融收盘综述：美联储五大工作组引爆政策大辩论，纳指盘中首次突破21000点，黄金突破3410美元，韩国KOSPI暴涨熔断",
+      "summary": "⚡ 7月21日金融深度综述：美联储沃什五大工作组引发政策大辩论，高盛称降息预期难兑现；纳指盘中首次突破21000点再创新高，财报季85%超预期；黄金涨1.55%突破3410美元；韩国KOSPI暴涨4.7%触发熔断；A股沪指涨1.79%创年内新高；布伦特原油冲高91美元后因停火信号回落至86.67美元。",
+      "tags": ["金融经济", "美联储", "美股", "黄金", "原油", "韩国股市", "A股"],
+      "file": "posts/271-financial-roundup-fed-gold-oil-kospi-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Financial Roundup: Fed's Five Working Groups Ignite Policy Debate, Nasdaq Breaks 21,000 Intraday, Gold Surges Past $3,410, KOSPI Rally Triggers Circuit Breaker",
+      "summary": "⚡ July 21 financial roundup: Fed Chair Warsh's five working groups spark policy debate; Goldman Sachs pours cold water on rate cut hopes; Nasdaq tops 21,000 intraday as 85% of S&P companies beat earnings; COMEX gold surges 1.55% to $3,410; South Korea's KOSPI jumps 4.7% triggering Sidecar; A-share markets sees V-shaped reversal with STAR 50 surging 10.73%; Brent crude spikes to $91 then plunges to $86.67 on Iran ceasefire signals.",
+      "tags": ["Finance", "Federal Reserve", "US Stocks", "Gold", "Crude Oil", "Korea Stock Market", "A-Shares"],
+      "file": "posts/271-financial-roundup-fed-gold-oil-kospi-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "270",
     "date": "2026-07-21",
     "zh": {
