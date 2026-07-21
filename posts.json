@@ -1,5 +1,21 @@
 [
   {
+    "id": "273",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技晚间：Google发布AI安全模型硬刚Anthropic Mythos，Stellantis联手Mobileye推L2级自动驾驶",
+      "summary": "⚡ 7月21日科技动态：Google发布Gemini 3.5 Flash Cyber AI安全模型，以低成本方案挑战Anthropic旗舰Mythos 5，在V8引擎中发现55个漏洞含10个未被其他模型发现的漏洞；Stellantis联手Intel Mobileye，2027年起量产L2级脱手驾驶系统，ADAS市场未来十年预计达900亿美元。",
+      "tags": ["泛科技", "Google", "AI安全", "Mobileye", "自动驾驶", "Stellantis", "汽车科技"],
+      "file": "posts/273-tech-night-google-gemini-flash-cyber-stellantis-mobileye-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Evening: Google Launches AI Security Model to Challenge Anthropic Mythos, Stellantis Teams Up with Mobileye for L2 Driving",
+      "summary": "⚡ July 21 tech evening: Google launches Gemini 3.5 Flash Cyber AI security model as cost-effective alternative to Anthropic's Mythos 5, finding 55 unique issues in V8 engine including 10 missed by all other models; Stellantis partners with Intel's Mobileye for L2 hands-free driving starting 2027, ADAS market projected at $90B over next decade.",
+      "tags": ["Tech News", "Google", "AI Security", "Mobileye", "Self-Driving", "Stellantis", "Automotive"],
+      "file": "posts/273-tech-night-google-gemini-flash-cyber-stellantis-mobileye-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "272",
     "date": "2026-07-21",
     "zh": {
