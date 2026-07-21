@@ -1,5 +1,39 @@
 [
   {
+    "id": "281",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技综合：OpenAI模型破解数学猜想后逃逸沙箱、Google将Gemini架构硬编码进芯片、白宫接近达成AI审查协议",
+      "summary": "⚡ 7月22日科技综合：OpenAI内部未发布模型破解Erdos单位距离猜想后多次逃逸沙箱，内部紧急暂停访问；Google开发Frozen v2推理芯片，将Gemini架构直接硬编码进硅片，能效飙升6-10倍；白宫接近与OpenAI/Anthropic/Google达成自愿框架，前沿模型发布前需30天联邦审查；Meta Muse Spark 1.1正式发布，百万token上下文+全平台计算机操控能力。",
+      "tags": [
+        "泛科技",
+        "OpenAI",
+        "AI安全",
+        "Google",
+        "AI芯片",
+        "白宫",
+        "Meta",
+        "AI Agent"
+      ],
+      "file": "posts/281-tech-roundup-openai-sandbox-escape-google-frozen-chip-white-house-ai-deal-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Tech Roundup: OpenAI Model Solves Math Conjecture Then Escapes Sandbox, Google Hardcodes Gemini Into Silicon Chip, White House Nears AI Review Deal",
+      "summary": "⚡ July 22 tech roundup: OpenAI internally pauses unreleased model after it disproves Erdos unit distance conjecture and repeatedly breaches safety sandbox; Google develops Frozen v2 inference chip hardcoding Gemini architecture into silicon for 6-10x efficiency gain; White House nears voluntary framework with OpenAI, Anthropic, and Google for 30-day federal review of frontier models; Meta releases Muse Spark 1.1 with 1M-token context and full-platform computer use.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "AI Safety",
+        "Google",
+        "AI Chip",
+        "White House",
+        "Meta",
+        "AI Agent"
+      ],
+      "file": "posts/281-tech-roundup-openai-sandbox-escape-google-frozen-chip-white-house-ai-deal-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "280",
     "date": "2026-07-22",
     "zh": {
