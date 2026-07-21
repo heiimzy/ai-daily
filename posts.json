@@ -1,5 +1,39 @@
 [
   {
+    "id": "280",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日国际政治综述：泽连斯基解除乌军总司令瑟尔斯基、俄乌第三轮谈判24日伊斯坦布尔举行、特朗普威胁打击胡塞及伊朗核设施",
+      "summary": "⚡ 7月22日国际政治综述：泽连斯基解除乌军总司令瑟尔斯基职务任命德拉帕蒂接替；俄乌第三轮直接谈判确认将于7月24日在伊斯坦布尔举行；特朗普威胁将'解决'胡塞武装并誓言打击伊朗核设施'镐山'；美伊连续第10夜空袭，伊朗袭击霍尔木兹海峡油轮；黎巴嫩军队在以色列撤军后进驻'试点区'。",
+      "tags": [
+        "国际政治",
+        "乌克兰",
+        "俄乌谈判",
+        "美伊冲突",
+        "胡塞武装",
+        "特朗普",
+        "霍尔木兹",
+        "黎巴嫩"
+      ],
+      "file": "posts/280-intl-politics-zelensky-sacks-syrskyi-ukraine-russia-talks-istanbul-iran-houthis-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 International Politics Roundup: Zelensky Fires Ukraine's Army Chief Syrskyi, Russia-Ukraine Talks Set for Istanbul, Trump Threatens Houthis and Iran's Nuclear Site",
+      "summary": "⚡ July 22 international politics roundup: Zelensky dismisses Commander-in-Chief Syrskyi, appoints Drapatyi as replacement; Russia-Ukraine 3rd round talks confirmed for July 24 in Istanbul; Trump says US will 'take care of' Houthis and threatens to strike Iran's 'Pickaxe Mountain' nuclear site; US-Iran exchange 10th consecutive night of strikes; Lebanese army deploys in pilot zone after Israeli withdrawal.",
+      "tags": [
+        "International Politics",
+        "Ukraine",
+        "Russia-Ukraine Talks",
+        "US-Iran Conflict",
+        "Houthis",
+        "Trump",
+        "Strait of Hormuz",
+        "Lebanon"
+      ],
+      "file": "posts/280-intl-politics-zelensky-sacks-syrskyi-ukraine-russia-talks-istanbul-iran-houthis-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "279",
     "date": "2026-07-22",
     "zh": {
