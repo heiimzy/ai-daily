@@ -1,5 +1,21 @@
 [
   {
+    "id": "266",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技综合：智谱建成1GW全国产芯片AI数据中心、壁仞发布1024 GPU光学超节点、AI芯片初创集体转向边缘设备",
+      "summary": "⚡ 7月21日科技综合：智谱Z.ai宣布建成1GW级全国产AI芯片数据中心并已部分投产，为国内首个全栈国产化超大规模AI算力设施；壁仞科技发布BR2xx系列1024 GPU光学互连超节点架构，采用近封装光学技术实现标准服务器部署；中国AI芯片初创公司集体转向机器人、智能硬件等边缘设备市场，避云端红海竞争。",
+      "tags": ["泛科技", "智谱", "AI数据中心", "国产芯片", "壁仞", "边缘计算"],
+      "file": "posts/266-tech-roundup-zai-1gw-datacenter-biren-1024-gpu-edge-chips-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Roundup: Z.ai Completes 1GW Data Center With Only Chinese AI Chips, Biren Unveils 1,024-GPU Optical Super Node, Chinese AI Chip Startups Pivot to Edge",
+      "summary": "⚡ July 21 tech roundup: Z.ai completes 1GW-class AI data center built entirely with Chinese-made AI chips, part already operational — a milestone for AI compute self-sufficiency under US chip export controls; Biren Technology unveils 1,024-GPU optical interconnect super node using near-packaged optics; Chinese AI chip startups collectively pivot from cloud to edge devices — robots, smart hardware — to escape hyper-competitive cloud chip market.",
+      "tags": ["Tech News", "Z.ai", "AI Data Center", "Domestic Chips", "Biren", "Edge Computing"],
+      "file": "posts/266-tech-roundup-zai-1gw-datacenter-biren-1024-gpu-edge-chips-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "265",
     "date": "2026-07-21",
     "zh": {
