@@ -1,5 +1,21 @@
 [
   {
+    "id": "277",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技双响炮：Google Play开放第三方应用商店，Android生态迎历史转折；深夜突袭发布三款Gemini新模型",
+      "summary": "⚡ 7月22日科技双响炮：Google Play在美国正式开放第三方应用商店，Android生态迎历史性变革，Epic反垄断诉讼五周年禁令终生效；Google深夜发布三款Gemini新模型——3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber，定价大幅低于GPT-5.6和Kimi K3，在Alphabet财报前夜发起AI价格战。",
+      "tags": ["泛科技", "Google", "Android", "第三方应用商店", "Gemini", "AI模型", "反垄断"],
+      "file": "posts/277-google-play-third-party-stores-gemini-models-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Double Feature: Google Play Opens to Third-Party App Stores, Android at Historic Crossroads; Google Launches Three New Gemini Models Overnight",
+      "summary": "⚡ July 22 tech double whammy: Google Play officially opens to third-party app stores in the US as Epic antitrust injunction takes effect after five years; Google drops three new Gemini models — 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber — at prices undercutting GPT-5.6 and Kimi K3, launching an AI price war on the eve of Alphabet earnings.",
+      "tags": ["Tech News", "Google", "Android", "Third-Party App Stores", "Gemini", "AI Model", "Antitrust"],
+      "file": "posts/277-google-play-third-party-stores-gemini-models-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "276",
     "date": "2026-07-22",
     "zh": {
