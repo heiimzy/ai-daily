@@ -1,5 +1,21 @@
 [
   {
+    "id": "264",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日国际政治深度：调解方提议美伊10天停火、中俄军舰首次在日本EEZ内实弹演习、美国一面谈停火一面增兵2500人",
+      "summary": "⚡ 7月21日国际政治深度：调解方巴基斯坦和卡塔尔联合提出10天停火提议，特朗普面临停火与全面升级抉择，Axios称白宫评估两条路径；中俄军舰首次在日本EEZ内实弹射击，日本防卫大臣在范堡罗航展披露此事并强烈抗议；美国一面释放逐步结束信号一面增派F-16/F-35及2500名海军陆战队赴中东；美国国务院发布全球安全警示称伊朗可能在全球范围袭击美国人；欧盟第21轮对俄制裁谈判4天破裂多国否决达极限。",
+      "tags": ["国际政治", "美伊冲突", "10天停火", "中俄军演", "日本EEZ", "霍尔木兹海峡", "欧盟制裁"],
+      "file": "posts/264-international-roundup-iran-ceasefire-china-russia-eez-drills-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 International Politics: Mediators Propose 10-Day Iran-US Ceasefire, China-Russia Warships Fire in Japan's EEZ, US Sends Conflicting Signals",
+      "summary": "⚡ July 21 international politics deep dive: Pakistan and Qatar propose 10-day ceasefire as Trump weighs peace vs all-out war; China-Russia warships conduct first-ever confirmed live-fire drills inside Japan's EEZ, Tokyo protests unprecedented move; US sends contradictory signals, Trump floats winding down while Pentagon deploys 2,500 more Marines and F-16/F-35 fighters; State Department issues global security alert warning of potential Iranian attacks; EU's 21st Russia sanctions package collapses.",
+      "tags": ["International Politics", "US-Iran Conflict", "Ceasefire", "China-Russia Drills", "Japan EEZ", "Strait of Hormuz", "EU Sanctions"],
+      "file": "posts/264-international-roundup-iran-ceasefire-china-russia-eez-drills-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "263",
     "date": "2026-07-21",
     "zh": {
