@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>小鹏发布TuringViT视觉基座模型：统一智驾、座舱、机器人三大场景感知入口 - AI Daily</title>
+  <meta name="description" content="⚡ 7月21日晚间消息：小鹏正式发布TuringViT高效视觉编码器，面向VLM/VLA时代重构视觉架构。TuringViT以线性注意力机制实现3.04倍吞吐量提升，仅用10%数据超越开源基线，将全面支撑智能驾驶、智能座舱与IRON人形机器人三大业务场景的物理AI感知需求。">
+  <meta name="keywords" content="小鹏, TuringViT, 视觉编码器, 物理AI, 智能驾驶, 人形机器人, VLA, 感知, 2026年7月">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/270-xpeng-turingvit-vision-encoder-july-21-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/270-xpeng-turingvit-vision-encoder-july-21-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/270-xpeng-turingvit-vision-encoder-july-21-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-21</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="270-xpeng-turingvit-vision-encoder-july-21-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-21</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">小鹏</span><span class="tag">视觉编码器</span><span class="tag">物理AI</span><span class="tag">智能驾驶</span><span class="tag">人形机器人</span></div>
+  <h1>⚡ 小鹏发布TuringViT视觉基座模型：以线性注意力重构物理AI感知入口，统一智驾、座舱、机器人三大场景</h1>
+
+  <h2>TuringViT：面向VLM/VLA时代的视觉编码器革命</h2>
+
+  <p>7月21日晚间消息，小鹏集团正式发布TuringViT高效视觉编码器，这是面向VLM/VLA（视觉-语言模型/视觉-语言-行动模型）时代的一次系统性视觉架构重构。视觉编码器被称为物理AI的"感知入口"——所有场景理解、状态判断和动作决策的第一步，都始于高质量的视觉特征提取。行业此前普遍采用的"复用开源通用ViT"方案，已难以匹配智能驾驶、具身机器人等真实场景对性能、延迟与定制化的综合需求。</p>
+
+  <p>TuringViT从架构、数据、训练三个维度同步突破，打造了"线性注意力主导 + 高质量数据治理 + 原生动态分辨率"的完整技术体系，实现了效果、效率与落地性的三重提升。该模型将全面支撑小鹏的三大核心业务场景：智能驾驶（XNGP）、智能座舱以及IRON人形机器人。</p>
+
+  <h2>技术突破：线性注意力架构实现3倍吞吐量提升</h2>
+
+  <p>TuringViT的核心创新在于其三大关键技术设计：</p>
+
+  <p><strong>第一，Turing Linear Attention（TLA）。</strong>传统Vision Transformer中的Softmax注意力机制在高分辨率输入下计算复杂度呈平方级增长，成为实时推理的瓶颈。TLA通过线性注意力机制对序列建模进行根本性重构，大幅降低了高分辨率图像处理的计算开销。在1536×1536分辨率下，TuringViT-18L达到了Seed1.5-ViT的3.04倍吞吐量、SigLIP2-ViT-L的2.16倍吞吐量——这意味着车端和机器人端可以同时处理更高分辨率的视觉信息，而不牺牲推理速度。</p>
+
+  <p><strong>第二，VISTA-Curation数据治理体系。</strong>TuringViT仅使用8.5亿图像-文本对进行训练，却在六个零样本基准测试中取得平均83.6%的成绩，超越了使用100亿样本训练的开源基线。这一"10%数据量超越"的成果源于VISTA-Curation的质量优先策略——通过构建富含监督信号的图像-视频训练数据，实现数据效率的跃升。</p>
+
+  <p><strong>第三，原生动态分辨率预训练。</strong>传统ViT通常采用低分辨率预训练后再做后处理适配的方案，导致高分辨率场景下的性能折损。TuringViT从预训练阶段就原生支持动态分辨率输入，允许灵活适配从车载摄像头到机器人传感器等多种视觉硬件的不同分辨率和宽高比，实现了从训练到部署的无缝迁移。</p>
+
+  <h2>三大场景落地：从智驾到机器人的统一视觉基座</h2>
+
+  <p>TuringViT的发布标志着小鹏全栈自研物理AI底层技术能力的进一步完善。其覆盖的三个核心场景各有侧重：</p>
+
+  <p><strong>智能驾驶——赋能VLA 2.0。</strong>高分辨率感知真正落地车端。TuringViT的低延迟特性使得VLA 2.0能够在高速行驶场景中实时处理多路高清摄像头数据，准确识别道路标志、行人、障碍物及复杂交通场景。此前小鹏已在第二代VLA中验证了720亿参数基座模型的能力，TuringViT为这套系统提供了更高效的视觉前端。</p>
+
+  <p><strong>智能座舱——视觉与语言的自然融合。</strong>通过将TuringViT与语言模型协同，座舱系统不仅能"看到"乘客的面部表情和手势，还能理解这些视觉信号背后的意图，实现真正自然的多模态人机交互。</p>
+
+  <p><strong>IRON人形机器人——通用视觉能力基座。</strong>IRON机器人需要面对比自动驾驶更复杂的非结构化环境。TuringViT为其提供了通用的视觉感知基础——从室内家具识别到动态物体的跟踪抓取，同一个视觉编码器可以在不同机器人本体间复用。据小鹏透露，IRON人形机器人面向量产版本的软硬件研发进展顺利，即将进入软硬件合围阶段。</p>
+
+  <h2>物理AI战略拼图：从汽车到机器人的统一智能</h2>
+
+  <p>TuringViT的发布是小鹏"物理AI"战略的重要一步。小鹏集团通用智能中心负责人刘先明此前在CVPR 2026上首次完整展示物理世界基座模型技术图谱时曾表示，基座模型需要理解物理世界，而理解物理世界的前提是摄入足够密度的物理世界信息——这正是视觉编码器的核心价值所在。</p>
+
+  <p>小鹏的物理AI战略布局已形成多层技术体系：底层是TuringViT视觉编码器作为感知入口；中间层是第二代VLA与世界模型双轨并行的基座模型体系，前者让模型学会"像人一样行动"，后者让模型理解"行动之后世界会怎样变化"；顶层则是覆盖自动驾驶、智能座舱、IRON机器人、飞行汽车等具身载体的应用落地。</p>
+
+  <p>TuringViT的论文和技术报告已在arXiv上公开发布，小鹏同时也开放了部分模型权重和评估代码，以推动视觉编码器领域的社区发展。分析人士认为，TuringViT的出现可能加速物理AI视觉感知从"复用通用ViT"向"场景定制化视觉编码"的范式转变——正如NLP领域从通用BERT到专业领域模型的演进路径一样。</p>
+
+  <p>在小鹏的战略蓝图中，同一套物理AI基座模型将支撑从汽车到机器人再到飞行汽车的全部具身智能场景。TuringViT作为这个统一智能体系的"眼睛"，其性能直接决定了上层模型对物理世界的理解上限。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
