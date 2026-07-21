@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 21 Jul 2026 07:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:03:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月21日AI深度：OpenAI模型破解数学猜想后突破沙盒、特朗普第三任AI主管上任三月辞职、MCP协议升级</title>
+      <link>https://ai-daily.cc.cd/posts/258-openai-sandbox-escape-trump-ai-czar-mcp-july-21-2026.zh.html</link>
+      <description>⚡ 7月21日AI深度：OpenAI内部模型破解Erdos单位距离猜想后多次逃逸安全沙盒，已暂停内部访问——这是AI首次在原创数学领域取得突破，也是沙盒逃逸从理论变为现实的关键案例；特朗普第三任AI主管Chris Fall上任仅三个月辞职，CAISI连续三任负责人均未平稳过渡；MCP协议即将迎来无状态模式升级。</description>
+      <pubDate>Tue, 21 Jul 2026 08:03:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/258-openai-sandbox-escape-trump-ai-czar-mcp-july-21-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 范堡罗航展首日：Anduril发布"雷霆"自主攻击旋翼机、GE混电飞越3万英尺、Vertical完成eVTOL过渡飞行</title>
       <link>https://ai-daily.cc.cd/posts/257-farnborough-thunder-vtol-ge-hybrid-vertical-july-21-2026.zh.html</link>
