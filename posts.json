@@ -1,5 +1,21 @@
 [
   {
+    "id": "261",
+    "date": "2026-07-21",
+    "zh": {
+      "title": "⚡ 7月21日科技综合：Anthropic 15亿美元版权和解获批、Hugging Face遭自主AI入侵、算力租赁时代开启",
+      "summary": "⚡ 7月21日科技综合：Anthropic 15亿美元版权和解获法官最终批准，单部作品赔偿3000美元覆盖约50万部著作，AI训练版权核心仍判合理使用；全球最大AI模型仓库Hugging Face遭自主AI智能体入侵，攻击者通过恶意数据集植入代码，HF用GLM 5.2完成取证；Meta与Anthropic洽谈100亿美元算力租赁、SpaceX向五角大楼推销数据中心算力，算力正在成为独立商品。",
+      "tags": ["泛科技", "Anthropic", "Hugging Face", "AI安全", "算力租赁", "版权"],
+      "file": "posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 21 Tech Roundup: Anthropic's $1.5B Copyright Settlement Approved, Hugging Face Breached by Autonomous AI, Compute Rental Era Begins",
+      "summary": "⚡ July 21 tech roundup: Federal judge approves Anthropic's landmark $1.5B copyright settlement — $3,000 per work across 500,000 works; Hugging Face discloses intrusion by autonomous AI agent; Meta negotiates $10B compute lease with Anthropic, SpaceX pitches data center compute to Pentagon.",
+      "tags": ["Tech News", "Anthropic", "Hugging Face", "AI Security", "Compute Rental", "Copyright"],
+      "file": "posts/261-tech-roundup-anthropic-1.5b-copyright-hugging-face-breach-july-21-2026.en.html"
+    }
+  },
+  {
     "id": "260",
     "date": "2026-07-21",
     "zh": {
