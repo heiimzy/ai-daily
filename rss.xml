@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Tue, 21 Jul 2026 15:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月21日科技综合：智谱建成1GW全国产芯片AI数据中心、壁仞发布1024 GPU光学超节点、AI芯片初创集体转向边缘设备</title>
+      <link>https://ai-daily.cc.cd/posts/266-tech-roundup-zai-1gw-datacenter-biren-1024-gpu-edge-chips-july-21-2026.zh.html</link>
+      <description>⚡ 7月21日科技综合：智谱Z.ai宣布建成1GW级全国产AI芯片数据中心并已部分投产，为国内首个全栈国产化超大规模AI算力设施；壁仞科技发布BR2xx系列1024 GPU光学互连超节点架构，采用近封装光学技术实现标准服务器部署；中国AI芯片初创公司集体转向机器人、智能硬件等边缘设备市场，避云端红海竞争。</description>
+      <pubDate>Tue, 21 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/266-tech-roundup-zai-1gw-datacenter-biren-1024-gpu-edge-chips-july-21-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月21日科技综合：特斯拉Optimus Gen 3千人上岗三班倒、三星Galaxy Unpacked明天发布新形态折叠屏、Mozilla报告称开源AI逼近闭源</title>
       <link>https://ai-daily.cc.cd/posts/265-tech-roundup-tesla-optimus-samsung-unpacked-open-source-ai-july-21-2026.zh.html</link>
