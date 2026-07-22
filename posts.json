@@ -1,5 +1,21 @@
 [
   {
+    "id": "287",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日金融午间综述：布伦特原油突破92美元创六周新高、特朗普宣布200%仿制药关税、韩国KOSPI暴涨5.5%重回7000点",
+      "summary": "⚡ 7月22日金融午间综述：布伦特原油突破92美元/桶创六周新高，胡塞武装封锁红海致两艘沙特油轮掉头返航；特朗普宣布仿制药零关税两年后逐步升至200%，印度药企股价承压；韩国KOSPI暴涨5.56%重新收复7000点触发买入侧车；日元跌破163创40年新低；A股早盘分化沪指涨0.5%，港股恒指跌0.83%腾讯重挫5%。",
+      "tags": ["金融经济", "原油", "KOSPI", "日元", "特朗普关税", "仿制药", "美股", "A股"],
+      "file": "posts/287-financial-roundup-brent-92-houthi-blockade-trump-generic-tariff-kospi-7000-yen-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Financial Midday Roundup: Brent Breaks $92 to 6-Week High, Trump Unveils 200% Generic Drug Tariff, KOSPI Surges 5.5% to Reclaim 7,000",
+      "summary": "⚡ July 22 financial midday roundup: Brent crude surges above $92/bbl to six-week high as Houthi Red Sea blockade forces two Saudi tankers to reverse course; Trump announces phased generic drug tariff rising to 200%, Indian pharma stocks slide; KOSPI skyrockets 5.56% reclaiming 7,000 with buy-sidecar triggered; Yen plunges past 163 to 40-year low; Asian markets mixed with Shanghai up 0.5% while Hang Seng falls 0.83% on Tencent 5% drop.",
+      "tags": ["Financial Markets", "Crude Oil", "KOSPI", "Yen", "Trump Tariffs", "Generic Drugs", "US Stocks", "A-Shares"],
+      "file": "posts/287-financial-roundup-brent-92-houthi-blockade-trump-generic-tariff-kospi-7000-yen-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "286",
     "date": "2026-07-22",
     "zh": {
