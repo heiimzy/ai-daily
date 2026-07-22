@@ -1,5 +1,37 @@
 [
   {
+    "id": "283",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日金融综述：美股芯片股强势反弹费城半导体指数暴涨5.2%、布伦特原油突破91美元创五周新高、美国25%对巴西关税正式生效、日元跌破163创39年半新低",
+      "summary": "⚡ 7月22日金融综报：美股三大指数全线收涨，费城半导体指数暴涨5.21%创6月22日以来最大单日涨幅；布伦特原油突破91美元/桶，中东紧张局势推高能源价格，高盛警告Q4或突破120美元；美国25%对巴西关税今日正式生效，巴西宣布将反制；日元跌破163关口创39年半新低；A股三大指数齐刷年内新高，成交额逼近1.89万亿元；英国6月CPI超预期2.8%，印尼央行意外降息25基点至5.75%。",
+      "tags": [
+        "金融经济",
+        "美股",
+        "原油",
+        "关税",
+        "日元",
+        "A股",
+        "英国通胀"
+      ],
+      "file": "posts/283-financial-roundup-wall-street-rally-oil-hormuz-brazil-tariffs-yen-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Financial Roundup: Wall Street Semiconductor Rebound, Brent Above $91, US 25% Brazil Tariffs Take Effect, Yen at 39.5-Year Low",
+      "summary": "⚡ July 22 financial roundup: Wall Street rallies with Philadelphia Semiconductor Index surging 5.21%; Brent crude tops $91/bbl on escalating Middle East tensions; US 25% tariffs on Brazil officially take effect today, Brazil vows retaliation; Yen plunges past 163 for first time since December 1986; China A-shares hit new 2026 highs with 1.89 trillion yuan turnover; UK CPI beats expectations at 2.8%, Indonesia surprises with 25bp rate cut.",
+      "tags": [
+        "Financial Markets",
+        "Wall Street",
+        "Crude Oil",
+        "Tariffs",
+        "Yen",
+        "China A-Shares",
+        "UK Inflation"
+      ],
+      "file": "posts/283-financial-roundup-wall-street-rally-oil-hormuz-brazil-tariffs-yen-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "282",
     "date": "2026-07-22",
     "zh": {
