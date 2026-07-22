@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 23 Jul 2026 03:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 04:03:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月23日凌晨科技：Kalanick创办Atoms获17亿美元造机器人、前Neuralink联合创始人视觉芯片获欧盟批准、Monday.com裁员630人全面转向AI</title>
+      <link>https://ai-daily.cc.cd/posts/302-atoms-kalanick-robotics-prima-vision-chip-monday-ai-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日凌晨科技综述：Uber创始人Travis Kalanick创立的机器人公司Atoms获17亿美元融资a16z领投，前Neuralink联合创始人Max Hodak创办的Science Corporation旗下PRIMA视觉恢复芯片获欧盟批准为失明患者带来光明，Monday.com宣布裁员630人（20%）全力转向AI工作平台。</description>
+      <pubDate>Thu, 23 Jul 2026 04:03:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/302-atoms-kalanick-robotics-prima-vision-chip-monday-ai-july-23-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月23日科技双响炮：阿里通义千问开源Qwen3-Coder 480B参数代码模型媲美Claude Sonnet4，OpenAI正式开放ChatGPT广告自助投放</title>
       <link>https://ai-daily.cc.cd/posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.zh.html</link>
