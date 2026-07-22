@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 22 Jul 2026 11:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 12:02:00 +0000</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月22日科技综述：Google Play正式向第三方商店敞开大门、Block推出Buzz人机协作平台、Claude Cowork学会看人做事</title>
+      <link>https://ai-daily.cc.cd/posts/286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日科技综述：Google Play今日起在美国正式启动Play目录访问计划，Epic六年反垄断诉讼终见分晓；Jack Dorsey旗下Block发布Buzz开源协作平台，人类与AI智能体在Nostr协议上同室协作；Anthropic为Claude Cowork新增Record a Skill功能，屏幕录制即可教会AI自动化工作流。</description>
+      <pubDate>Wed, 22 Jul 2026 12:02:00 +0000</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月22日科技三连发：三星伦敦发布会三款折叠屏齐发、苹果诉OpenAI案升级向40名前员工发传票、Robinhood开放AI智能体自主炒股</title>
       <link>https://ai-daily.cc.cd/posts/285-samsung-unpacked-galaxy-z-fold8-apple-openai-lawsuit-robinhood-ai-trading-july-22-2026.zh.html</link>
