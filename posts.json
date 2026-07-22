@@ -1,5 +1,21 @@
 [
   {
+    "id": "286",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技综述：Google Play正式向第三方商店敞开大门、Block推出Buzz人机协作平台、Claude Cowork学会看人做事",
+      "summary": "⚡ 7月22日科技综述：Google Play今日起在美国正式启动Play目录访问计划，Epic六年反垄断诉讼终见分晓；Jack Dorsey旗下Block发布Buzz开源协作平台，人类与AI智能体在Nostr协议上同室协作；Anthropic为Claude Cowork新增Record a Skill功能，屏幕录制即可教会AI自动化工作流。",
+      "tags": ["泛科技", "Google Play", "第三方应用商店", "Block", "Buzz", "Claude Cowork", "Anthropic", "AI智能体"],
+      "file": "posts/286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Tech Roundup: Google Play Opens to Rival Stores, Block Launches Buzz, Claude Cowork Gets Record a Skill",
+      "summary": "⚡ July 22 tech roundup: Google Play's Play Catalog Access Program goes live today ending six-year Epic antitrust battle; Block releases Buzz open-source workspace where humans and AI agents collaborate on Nostr protocol; Anthropic launches Record a Skill for Claude Cowork, turning screen recordings into reusable AI workflows.",
+      "tags": ["Tech News", "Google Play", "Third-Party App Stores", "Block", "Buzz", "Claude Cowork", "Anthropic", "AI Agents"],
+      "file": "posts/286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "285",
     "date": "2026-07-22",
     "zh": {
