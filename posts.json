@@ -1,5 +1,21 @@
 [
   {
+    "id": "291",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日金融收盘综述：A股创业板跌3.23%黄金突破4120美元，SMCI盘后暴涨18%订单积压破600亿",
+      "summary": "⚡ 7月22日金融收盘综述：A股三大指数涨跌不一，创业板指大跌3.23%，贵金属、电力板块逆势走强；美股盘前三大期指走低，SMCI盘后暴涨18%订单积压超600亿美元；现货黄金站上4120美元；全国用电负荷创历史新高。市场聚焦Alphabet和特斯拉财报。",
+      "tags": ["金融经济", "A股", "黄金", "SMCI", "美股", "电力"],
+      "file": "posts/291-financial-roundup-ashare-close-smci-surge-gold-4120-power-load-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Financial Close: China ChiNext Plunges 3.23%, Gold Breaks $4,120, SMCI Surges 18% After Hours on Record Backlog",
+      "summary": "⚡ July 22 financial roundup: China A-shares closed mixed with ChiNext plunging 3.23%; gold breaks above $4,120; SMCI surges 18% after hours with record $60B+ backlog; U.S. futures edge lower ahead of Alphabet and Tesla earnings; China's power load hits record high.",
+      "tags": ["Financial News", "A-Share", "Gold", "SMCI", "US Stocks", "Power"],
+      "file": "posts/291-financial-roundup-ashare-close-smci-surge-gold-4120-power-load-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "290",
     "date": "2026-07-22",
     "zh": {
