@@ -1,5 +1,21 @@
 [
   {
+    "id": "297",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技晚间：AMD斥50亿美元投资Anthropic签AI芯片大单、Meta内容水印被曝55%失效、Swimlane推出AI安全运营中心",
+      "summary": "⚡ 7月22日科技晚间综述：AMD与Anthropic签署最高50亿美元AI芯片协议，将部署2GW Instinct MI450 GPU，AI芯片格局生变；Meta Content Seal水印系统被Reuters实测55%无法检测裁剪后AI图像，遭遇尴尬开局；Swimlane推出AI安全运营中心，以AI Agent驱动MSSP安全自动化。",
+      "tags": ["泛科技", "AMD", "Anthropic", "AI芯片", "Meta", "Content Seal", "AI安全", "Swimlane", "MSSP"],
+      "file": "posts/297-amd-5b-anthropic-content-seal-swimlane-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Tech Evening: AMD Invests $5B in Anthropic in Landmark AI Chip Deal, Meta Content Seal Fails 55% Tests, Swimlane Launches AI SOC",
+      "summary": "⚡ July 22 tech evening roundup: AMD signs landmark deal with Anthropic — up to $5B equity investment and 2GW Instinct MI450 GPUs; Reuters tests Meta's Content Seal watermark and finds it fails 55% of the time on cropped images; Swimlane debuts AI SOC for MSSPs with agentic AI-driven security operations.",
+      "tags": ["Tech News", "AMD", "Anthropic", "AI Chips", "Meta", "Content Seal", "AI Safety", "Swimlane", "MSSP"],
+      "file": "posts/297-amd-5b-anthropic-content-seal-swimlane-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "296",
     "date": "2026-07-22",
     "zh": {
