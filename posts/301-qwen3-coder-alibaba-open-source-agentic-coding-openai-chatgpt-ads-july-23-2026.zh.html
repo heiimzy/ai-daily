@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>阿里通义千问发布Qwen3-Coder开源代码模型可媲美Claude Sonnet4、OpenAI正式开放ChatGPT广告自助投放 - AI Daily</title>
+  <meta name="description" content="阿里通义千问正式开源Qwen3-Coder-480B-A35B-Instruct代码模型，480B参数MoE架构在Agentic Coding三项任务上取得开源SOTA媲美Claude Sonnet4，同步发布Qwen Code命令行工具。OpenAI正式向所有广告主开放ChatGPT广告自助投放平台Ads Manager，支持CPC/CPM竞价首批品牌含Best Buy、Lowe's、VistaPrint。">
+  <meta name="keywords" content="Qwen3-Coder,阿里,通义千问,开源,AI编程,智能体,Agentic Coding,OpenAI,ChatGPT广告,Ads Manager,AI变现">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-23</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-23</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">阿里</span><span class="tag">开源</span><span class="tag">AI编程</span><span class="tag">Qwen3-Coder</span><span class="tag">OpenAI</span><span class="tag">ChatGPT广告</span></div>
+  <h1>⚡ 7月23日科技双响炮：阿里通义千问开源Qwen3-Coder 480B参数代码模型媲美Claude Sonnet4，OpenAI正式开放ChatGPT广告自助投放</h1>
+
+  <h2>阿里通义千问正式开源Qwen3-Coder：开源代码智能体新标杆</h2>
+  <p>7月23日凌晨，阿里云通义千问团队正式发布并开源了其迄今为止最具Agent能力的代码模型——<strong>Qwen3-Coder-480B-A35B-Instruct</strong>。该模型采用混合专家（MoE）架构，总参数量高达4800亿（480B），每次推理仅激活350亿参数（35B），在保证强大性能的同时实现了高效推理。</p>
+  <p>据阿里官方介绍，Qwen3-Coder在<strong>Agentic Coding（智能体编程）、Agentic Browser-Use（智能体浏览器使用）和Agentic Tool-Use（智能体工具调用）</strong>三大核心任务上全部取得了开源模型的SOTA（当前最优）效果，综合能力可媲美Anthropic的闭源旗舰模型Claude Sonnet 4。模型已在魔搭社区和Hugging Face等平台同步开源上线。</p>
+
+  <h3>训练与架构：7.5万亿Token数据 + 两万并行环境强化学习</h3>
+  <p>Qwen3-Coder的预训练使用了总计<strong>7.5万亿Token</strong>的数据，其中代码占比高达70%，在保持通用与数学能力的同时具备卓越的编程能力。模型原生支持256K上下文窗口，通过YaRN扩展技术可进一步延伸至100万Token，专为仓库级代码理解和动态数据场景（如Pull Request审查）进行了深度优化。</p>
+  <p>在后训练阶段，阿里团队采用了独特的双轨强化学习策略。Code RL方面，团队在广泛的真实代码任务上扩展了执行驱动的大规模强化学习训练，通过自动扩展测试样例构造大量高质量训练实例，显著提升代码执行成功率。Agent RL（长程强化学习）方面，团队借助阿里云基础设施构建了可扩展验证系统，实现<strong>同时运行2万个独立环境</strong>进行并行强化学习训练。最终，Qwen3-Coder在SWE-Bench Verified基准上取得了开源模型最佳成绩，且无需测试时扩展（test-time scaling）。</p>
+
+  <h3>Qwen Code命令行工具同步开源</h3>
+  <p>除模型本身外，阿里还开源了配套的<strong>Qwen Code</strong>命令行工具。该工具基于Gemini Code二次开发，针对Qwen3-Coder系列模型增强了解析器和工具支持。开发者可通过npm一键安装，也可与Claude Code、Cline等社区流行编程工具无缝配合使用，大大降低了Agentic Coding的落地门槛。</p>
+  <p>值得关注的是，GitHub上线仅数小时，Qwen3-Coder仓库已斩获超过1.6万Star，社区反响极为热烈。阿里还透露，Qwen3-Coder后续将推出更多尺寸版本，在保证效果的同时进一步降低部署成本，并积极探索Coding Agent的自我迭代（Self-Improving）能力。</p>
+
+  <h2>OpenAI正式开放ChatGPT广告自助投放：AI对话变商业平台</h2>
+  <p>同日（美国时间7月22日），OpenAI宣布正式推出ChatGPT广告自助投放平台<strong>Ads Manager</strong>，这标志着AI行业从订阅付费向广告变现的重大战略转向。广告主现在可以通过自助工具创建广告活动、设置预算和目标，直接在ChatGPT对话场景中投放广告。</p>
+  <p>这一举措距离OpenAI CEO Sam Altman所说的"广告是最后的商业模式选择"仅过去两年。据悉，首批参与测试的品牌包括<strong>Best Buy、Lowe's、VistaPrint</strong>等大型零售商。Best Buy媒体副总裁Amy Adams表示，消费者越来越多地使用ChatGPT进行研究和决策，"在这些时刻出现至关重要"。</p>
+
+  <h3>广告机制：对话语境定向 + 零影响ChatGPT回答</h3>
+  <p>与传统搜索引擎的关键词匹配广告不同，ChatGPT广告的定向逻辑基于<strong>对话语境信号</strong>。用户在对话中分享的背景信息越丰富，广告推送就越精准——覆盖"探索选项→比较选择→做出决策"的完整意图链条。OpenAI强调，广告由独立系统运行，<strong>完全不会影响ChatGPT回答的质量和内容</strong>。</p>
+  <p>广告投放流程分为三步：创建广告活动并设置预算和目标→批量上传或直接在工具中创建广告详情→启动后衡量效果并持续优化。平台支持CPM（千次展示付费）和CPC（每次点击付费）两种竞价模式，苹果App Store风格的免打扰设计确保广告体验与对话自然融合。</p>
+
+  <h3>用户分层：免费和Go用户可看到广告，Plus/Pro用户豁免</h3>
+  <p>OpenAI明确表示，广告仅面向<strong>免费版（Free）和Go版</strong>用户展示，Plus、Pro及所有商业计划（Business）订阅用户完全不受广告影响。18岁以下用户也不在广告投放范围内。首批投放市场包括美国、英国、加拿大、澳大利亚、新西兰和日本。</p>
+  <p>分析人士指出，ChatGPT拥有数亿免费用户，即使广告出现在约0.8%的响应中，也意味着巨大的商业潜力。随着ChatGPT从纯对话工具进化为"对话即商业"平台，AI原生广告格式——围绕对话、上下文和实时决策构建——可能成为数字广告领域的新变量。不过，早期测试显示广告效果与成熟搜索广告渠道仍有差距，部分广告主反馈"成本偏高而回报有限"，OpenAI的广告商业化之路仍在早期探索阶段。</p>
+
+  <h2>影响与展望</h2>
+  <p>Qwen3-Coder的开源意味着中国在AI代码生成领域再次拉近了与全球最先进水平的距离。继Kimi K3引发"DeepSeek 2.0时刻"后，阿里以480B参数的MoE架构证明，开源模型在Agentic Coding等前沿任务上已具备与顶级闭源模型同台竞技的实力。对于全球开发者而言，这意味着在Claude Code之外又多了一个强大的免费选择。</p>
+  <p>而OpenAI开放广告投放，则标志着AI行业从"订阅付费"单一模式向"广告+订阅"双轨制的关键转折。两大动作共同指向一个趋势：AI正在从技术能力竞赛转向商业模式和生态建设的新战场。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
