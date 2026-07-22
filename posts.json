@@ -1,5 +1,21 @@
 [
   {
+    "id": "285",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技三连发：三星伦敦发布会三款折叠屏齐发、苹果诉OpenAI案升级向40名前员工发传票、Robinhood开放AI智能体自主炒股",
+      "summary": "⚡ 7月22日科技三连发：三星在伦敦Galaxy Unpacked发布Galaxy Z Fold 8/Z Fold 8 Ultra/Z Flip 8三款折叠屏及Watch 9系列，全新宽幅折叠形态对标苹果折叠iPhone；苹果诉OpenAI商业机密案全面升级向40余名前员工发法律保全通知，案件范围急剧扩大；Robinhood正式开放AI智能体自主股票交易，AI Agent可经MCP协议直接操作真实账户下单。",
+      "tags": ["泛科技", "三星", "折叠屏", "苹果", "OpenAI", "商业机密", "Robinhood", "AI交易", "智能体"],
+      "file": "posts/285-samsung-unpacked-galaxy-z-fold8-apple-openai-lawsuit-robinhood-ai-trading-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Tech Triple: Samsung Unveils Three Foldables at London Unpacked, Apple-OpenAI Lawsuit Escalates with 40+ Preservation Letters, Robinhood Launches AI Agent Trading",
+      "summary": "⚡ July 22 tech triple: Samsung unveils Galaxy Z Fold 8 (wide format), Z Fold 8 Ultra, Z Flip 8, Watch 9 & Watch Ultra 2 at London Unpacked; Apple escalates trade secret lawsuit against OpenAI sending preservation letters to 40+ former employees; Robinhood officially launches Agentic Trading allowing Claude, ChatGPT, Grok and other AI agents to autonomously trade stocks via MCP protocol.",
+      "tags": ["Tech News", "Samsung", "Foldables", "Apple", "OpenAI", "Trade Secrets", "Robinhood", "AI Trading", "AI Agents"],
+      "file": "posts/285-samsung-unpacked-galaxy-z-fold8-apple-openai-lawsuit-robinhood-ai-trading-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "284",
     "date": "2026-07-22",
     "zh": {
