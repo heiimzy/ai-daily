@@ -1,5 +1,21 @@
 [
   {
+    "id": "304",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日国际政治综述：美伊第11夜空袭持续、鲁比奥东盟会称伊朗「不认真」、拉夫罗夫鲁比奥今在马尼拉会晤",
+      "summary": "⚡ 7月23日国际政治综述：美国完成对伊朗第11夜连续打击，特朗普威胁每打一艘船就炸一座桥或电厂；鲁比奥在东盟外长会上称伊朗释放谈判信号但「不认真」，拉夫罗夫确认23日上午在马尼拉与鲁比奥会晤；欧盟航空安全局建议航司8月底前避免飞越约旦领空；荷兰宣布9月起禁止进口以色列定居点产品；DP World在阿联酋东海岸建新港绕开霍尔木兹海峡。",
+      "tags": ["国际政治", "美伊冲突", "特朗普", "鲁比奥", "东盟", "约旦", "欧盟"],
+      "file": "posts/304-us-iran-11th-night-rubio-asean-lavrov-eu-jordan-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 International Politics Roundup: US 11th Night Strikes on Iran, Rubio Says Iran 'Not Serious' at ASEAN, Lavrov Confirms Meeting with Rubio in Manila",
+      "summary": "⚡ July 23 international politics roundup: US completes 11th consecutive night of strikes on Iran targeting Bushehr province; Trump vows to destroy a bridge or power plant per ship attack; Rubio says Iran not serious about talks at ASEAN; Lavrov-Rubio meeting confirmed for July 23 in Manila; EASA advises airlines avoid Jordan airspace; Netherlands bans Israeli settlement imports; DP World builds Fujairah terminals to bypass Hormuz.",
+      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Rubio", "ASEAN", "Jordan", "EASA"],
+      "file": "posts/304-us-iran-11th-night-rubio-asean-lavrov-eu-jordan-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "303",
     "date": "2026-07-23",
     "zh": {
