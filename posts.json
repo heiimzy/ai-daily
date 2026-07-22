@@ -1,5 +1,21 @@
 [
   {
+    "id": "293",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技大事件：三星Galaxy Unpacked今登场、Google Play开放第三方商店、Anthropic冲刺万亿美元IPO",
+      "summary": "⚡ 7月22日科技综述：三星Galaxy Unpacked 2026伦敦发布Z Fold 8/Fold 8 Ultra/Z Flip 8折叠屏及One UI 9；Google Play今日起在美国开放第三方应用商店入驻，Android生态迎巨变；Anthropic向SEC秘密提交IPO招股书，估值或达万亿美元，AI IPO竞赛白热化。",
+      "tags": ["泛科技", "Samsung", "Google Play", "Anthropic", "IPO", "折叠屏", "Android 17"],
+      "file": "posts/293-tech-roundup-samsung-unpacked-google-play-anthropic-ipo-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Tech Mega-Roundup: Samsung Galaxy Unpacked Goes Live, Google Play Opens to Rivals, Anthropic Files for IPO",
+      "summary": "⚡ July 22 tech roundup: Samsung Galaxy Unpacked 2026 unveils Z Fold 8, Fold 8 Ultra, Z Flip 8 with Flex Titanium & One UI 9; Google Play begins hosting rival app stores in the US, reshaping Android distribution; Anthropic confidentially files S-1 for IPO targeting ~$1T valuation, intensifying the AI IPO race.",
+      "tags": ["Tech News", "Samsung", "Google Play", "Anthropic", "IPO", "Foldable", "Android 17"],
+      "file": "posts/293-tech-roundup-samsung-unpacked-google-play-anthropic-ipo-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "292",
     "date": "2026-07-22",
     "zh": {
