@@ -1,5 +1,43 @@
 [
   {
+    "id": "284",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日国际政治深度：特朗普威胁打击伊朗镐山核隧道设施、B-1轰炸机从英国起飞、英首相伯纳姆批准美军使用英军基地",
+      "summary": "⚡ 7月22日国际政治深度：特朗普在访谈中首次明确点名伊朗镐山（Pickaxe Mountain）地下核设施为打击目标，声称要'给大门来一发狠的'并称打击将'很快发生'；多架美军B-1B兰瑟战略轰炸机已于22日凌晨从英国基地起飞奔赴中东；英国新首相伯纳姆上任48小时内批准美军使用RAF费尔福德和迪戈加西亚基地对伊朗实施'防御性打击'；美伊冲突进入第10夜空袭，胡塞武装宣布封锁沙特；卡塔尔和巴基斯坦调解方提出10天停火方案但特朗普政府内部分歧严重。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "镐山",
+        "核设施",
+        "B-1轰炸机",
+        "英国",
+        "伯纳姆",
+        "霍尔木兹海峡",
+        "胡塞武装"
+      ],
+      "file": "posts/284-trump-pickaxe-mountain-b1-bombers-uk-bases-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 International Politics: Trump Threatens Strike on Iran's Pickaxe Mountain Nuclear Bunker, B-1 Bombers Depart UK, Burnham Approves UK Bases",
+      "summary": "⚡ July 22 international politics deep dive: Trump explicitly names Iran's Pickaxe Mountain underground nuclear facility as a target vowing 'a nice big fat shot right in the front door' soon; Multiple US B-1B Lancer bombers depart UK bases early Wednesday heading for the Middle East; New UK PM Andy Burnham within 48 hours approves US use of RAF Fairford and Diego Garcia for 'defensive strikes' on Iran; US-Iran conflict enters 10th consecutive night of airstrikes; Houthis declare naval blockade on Saudi Arabia threatening Bab el-Mandeb Strait; Qatar and Pakistan mediators propose 10-day ceasefire as Trump administration remains deeply divided.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Trump",
+        "Pickaxe Mountain",
+        "Nuclear Facility",
+        "B-1 Bomber",
+        "UK",
+        "Burnham",
+        "Strait of Hormuz",
+        "Houthis"
+      ],
+      "file": "posts/284-trump-pickaxe-mountain-b1-bombers-uk-bases-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "283",
     "date": "2026-07-22",
     "zh": {
