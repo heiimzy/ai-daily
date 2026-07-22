@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Play正式开放第三方应用商店、Block发布Buzz协作平台、Claude Cowork新增屏幕录制教学技能 - AI Daily</title>
+  <meta name="description" content="7月22日科技综述：Google Play今日起正式向第三方应用商店开放美国区目录，六年反垄断诉讼尘埃落定；Jack Dorsey旗下Block发布Buzz开源协作平台，人类与AI智能体同室协作；Anthropic为Claude Cowork新增"Record a Skill"功能，屏幕录制即可教会AI自动化工作流。">
+  <meta name="keywords" content="Google Play,第三方应用商店,Epic Games,反垄断,Buzz,Block,Jack Dorsey,Claude Cowork,Anthropic,Record a Skill,AI智能体">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-22</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="286-tech-roundup-google-play-third-party-stores-block-buzz-claude-cowork-skills-july-22-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-22</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">Google Play</span><span class="tag">第三方应用商店</span><span class="tag">Block</span><span class="tag">Buzz</span><span class="tag">Claude Cowork</span><span class="tag">AI智能体</span></div>
+  <h1>⚡ 7月22日科技综述：Google Play正式向第三方商店敞开大门、Block推出Buzz人机协作平台、Claude Cowork学会"看人做事"</h1>
+
+  <h2>一、Google Play今日起正式开放第三方应用商店：六年反垄断诉讼终结</h2>
+
+  <p>2026年7月22日，一个改写Android应用分发历史的日子。Google Play今日起正式在美国启动"Play目录访问计划"（Play Catalog Access Program），允许经过认证的第三方Android应用商店直接入驻Google Play，并访问Play Store的完整应用目录。</p>
+
+  <p>这一变革的根源可追溯至2020年Epic Games对Google提起的反垄断诉讼。2023年12月，加州陪审团一致裁定Google在Android应用分发市场拥有非法垄断地位；2024年10月，美国地方法院法官James Donato发布永久禁令，要求Google允许第三方商店入驻Play Store。Google在历经上诉至第九巡回法院、最高法院均败诉后，于2025年11月与Epic达成和解协议，但和解方案在上周被双方共同撤回——原禁令立即全面恢复执行。</p>
+
+  <h3>参与条件与费用</h3>
+  <p>第三方商店须支付5000美元年费以覆盖安全与合规审查，仅限美国区运营，必须保持恶意软件感染率低于安装尝试量的1%，并对所有符合条件的开发者一视同仁。Google将继续处理所有应用的下载交易并收取服务费，开发者可在Play Console中选择"全量发布""逐店管理"或"完全退出"三种模式，未做选择的应用列表将默认被共享。</p>
+
+  <p>Epic、Amazon Appstore、Samsung Galaxy Store被认为是最可能首批入驻的候选者。分析人士指出，此举虽未改变Google在下载通道和服务费上的控制权，但打破了Google Play在应用发现环节的垄断——对美国Android用户而言，这是有史以来第一次能在Google Play内部直接发现并安装竞争商店。</p>
+
+  <h2>二、Block发布Buzz：开源协作平台让人类与AI智能体同室办公</h2>
+
+  <p>Twitter联合创始人Jack Dorsey旗下金融科技公司Block于7月21日正式发布Buzz——一款基于Nostr协议的开源协作平台，将团队聊天、项目管理、代码仓库和AI智能体协作整合在同一个工作空间中。</p>
+
+  <p>Buzz的核心设计理念是"人类与AI智能体是平等的参与者"。平台基于Nostr去中心化协议构建，每个参与者（无论是人还是AI）都持有一对加密密钥对，身份独立于平台，可跨系统携带。项目采用Apache 2.0许可证，代码已托管至GitHub（github.com/block/buzz），支持自托管部署。桌面客户端目前支持macOS、Windows和Linux，使用Tauri 2框架和React 19构建。</p>
+
+  <h3>技术架构与特色</h3>
+  <p>Buzz的服务端以Rust为主力语言，集成了Postgres存储、Redis实时状态、Schnorr签名认证和哈希链审计日志。内置工作流引擎支持YAML配置的自动化流程，可通过消息、时间、Webhook等触发器执行。最引人注目的是"Buzz Mesh"功能——允许团队成员将GPU算力池化，AI智能体可通过本地兼容OpenAI的端点消费集群算力，实现去中心化的AI计算共享。</p>
+
+  <p>在功能层面，Buzz支持频道/私信/语音群聊、Git代码托管、PR审核、看板管理、MCP智能体接入等。Block官方表示，Buzz的诞生源于减少对Slack和GitHub依赖的愿望，其去中心化架构确保用户的身份和数据不被任何单一商业平台绑架。发布后数小时内，GitHub仓库即获得超过2000星，社区反应热烈。</p>
+
+  <h2>三、Anthropic为Claude Cowork新增"Record a Skill"：录制屏幕即可教会AI自动化</h2>
+
+  <p>Anthropic于7月21日为旗下桌面AI助手Claude Cowork推出了一项突破性功能——"Record a Skill"（录制技能）。用户只需在Claude桌面应用中录制屏幕操作并配合语音解说，Claude便会分析录制的点击序列、键盘输入和语音上下文，自动生成可重复运行的自动化技能。</p>
+
+  <p>该功能的核心理念是"你做一遍，Claude就学会了"。以往设置自动化要么需要编写代码，要么需要精确描述每一步操作——现在只需实际操作一次。Claude不仅能自动生成技能，还会智能判断当前步骤是否存在API连接器可用，优先使用结构化集成而非脆弱的像素级界面操作。</p>
+
+  <h3>实际应用场景</h3>
+  <p>早期用户反馈显示，最常见的应用场景集中在"过去不值得写脚本"的重复性任务上：交易提醒设置、LinkedIn运营操作、邮件模板回复、费用报告自动提交等。Anthropic工程师Lydia Hallie表示，她用它来自动化那些"一直想自动化但从未动手"的工作流。该功能面向Pro、Max和Team订阅用户分阶段推送。</p>
+
+  <p>当然，屏幕录制功能也引发了隐私担忧——录制的画面可能包含账号密码、财务数据等敏感信息。业界建议在录制工作流时避免暴露凭证信息，优先使用API连接器方式完成敏感环节的自动化。</p>
+
+  <h2>四、行业动态速览</h2>
+
+  <ul>
+    <li><strong>Cisco发布Antares安全AI模型</strong>：思科推出面向源代码漏洞定位的小型语言模型Antares-350M和Antares-1B，以开源权重形式在Hugging Face发布。500项评估仅需1美元、15分钟即可完成，定位为预算有限的安全团队提供"准前沿级"代码安全检测能力。</li>
+    <li><strong>Dimension Capital完成8亿美元第三期基金</strong>：纽约风投Dimension Capital宣布完成8亿美元第三期基金募集，规模较18个月前第二期增长60%。基金聚焦"科学与算力"交叉领域，投资组合包括Chai Discovery（AI制药，最新估值38亿美元）和Anthropic等。</li>
+    <li><strong>AMD Helios AI系统登陆Azure</strong>：AMD于7月20日交付首款机架级AI系统Helios，每机架配备72颗MI455X GPU和31TB HBM4内存，FP4算力达2.9 exaFLOPS，性能约为Nvidia GB200 NVL72的两倍。微软Azure已确认将在2026年下半年部署。</li>
+  </ul>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://free-ai-tools.vercel.app/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
