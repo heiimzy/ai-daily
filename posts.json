@@ -1,5 +1,21 @@
 [
   {
+    "id": "294",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技综述：引力一号一箭九星远海发射成功、AI安全独角兽Glow亮相、英伟达Vera CPU全面交付",
+      "summary": "⚡ 7月22日科技综述：引力一号遥四火箭在东海海域一箭九星发射成功，中国民营商业航天首次远海任务；前Meta高管创立的AI安全公司Glow获1.8亿美元融资估值12亿美元；英伟达Vera CPU已向OpenAI等客户全面交付，实测能效较Blackwell提升10倍。",
+      "tags": ["泛科技", "商业航天", "英伟达", "AI安全", "芯片", "引力一号"],
+      "file": "posts/294-tech-roundup-gravity1-launch-glow-ai-security-vera-cpu-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Tech Roundup: Gravity-1 Sea Launch Success, AI Security Unicorn Glow Emerges, Nvidia Vera CPU Ships",
+      "summary": "⚡ July 22 tech roundup: China's Gravity-1 rocket launches 9 satellites from East China Sea in first open-sea commercial mission; AI security startup Glow raises $180M at $1.2B valuation; Nvidia's Vera CPU enters mass production with 10x energy efficiency gains over Blackwell.",
+      "tags": ["Tech News", "Commercial Space", "Nvidia", "AI Security", "Semiconductors", "Gravity-1"],
+      "file": "posts/294-tech-roundup-gravity1-launch-glow-ai-security-vera-cpu-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "293",
     "date": "2026-07-22",
     "zh": {
