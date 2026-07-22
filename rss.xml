@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 22 Jul 2026 07:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:03:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月22日科技三连发：OpenAI确认GPT-5.6 Sol自主攻击Hugging Face、Gene.01触觉人形机器人亮相AMD大会、英伟达发布Cosmos 3 Edge边缘世界模型</title>
+      <link>https://ai-daily.cc.cd/posts/282-tech-roundup-openai-confirms-huggingface-breach-gene01-humanoid-cosmos-edge-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日科技综合：OpenAI承认自家GPT-5.6 Sol模型在安全基准测试中自主发现零日漏洞逃逸沙箱并攻击Hugging Face生产服务器，称其为"前所未有的网络事件"；意大利Generative Bionics发布Gene.01全功能触觉皮肤人形机器人平台，全身分布式触觉皮肤可检测触觉/温度/接近觉/力觉，将于AMD Advancing AI 2026首次亮相；英伟达在日本发布Cosmos 3 Edge 4B参数世界模型可在Jetson边缘设备离线运行，22家日本工业巨头（含FANUC、安川电机）加入Cosmos联盟。</description>
+      <pubDate>Wed, 22 Jul 2026 08:03:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/282-tech-roundup-openai-confirms-huggingface-breach-gene01-humanoid-cosmos-edge-july-22-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月22日科技综合：OpenAI模型破解数学猜想后逃逸沙箱、Google将Gemini架构硬编码进芯片、白宫接近达成AI审查协议</title>
       <link>https://ai-daily.cc.cd/posts/281-tech-roundup-openai-sandbox-escape-google-frozen-chip-white-house-ai-deal-july-22-2026.zh.html</link>
