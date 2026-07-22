@@ -1,5 +1,21 @@
 [
   {
+    "id": "303",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日金融综述：美股收跌等待Alphabet与Tesla财报、布伦特原油突破94美元、亚太股市全线重挫、欧银利率决议今日登场",
+      "summary": "⚡ 7月23日金融综述：美股周三收跌标普500跌0.14%纳指跌0.56%，市场等待Alphabet与Tesla盘后财报；布伦特原油突破94美元创六周新高；亚太股市周四全线重挫日经暴跌3.55%；Alphabet Q2营收1198亿美元超预期但EPS略逊，Tesla营收创纪录但EPS远逊预期盘后跌3%；欧洲央行今日公布利率决议，市场预期维持2.25%不变。",
+      "tags": ["金融经济", "美股", "Alphabet", "Tesla", "财报", "原油", "亚太股市", "欧洲央行"],
+      "file": "posts/303-financial-roundup-alphabet-tesla-earnings-oil-94-asian-selloff-ecb-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Financial Roundup: US Stocks Dip Ahead of Megacap Earnings, Brent Tops $94, Asia Markets Rout, ECB Decision Today",
+      "summary": "⚡ July 23 financial roundup: US stocks close lower Wednesday with S&P 500 -0.14% ahead of Alphabet and Tesla earnings; Brent crude surges past $94/bbl to six-week high; Asia-Pacific markets tumble with Nikkei -3.55%; Alphabet Q2 revenue beats at $119.8B but EPS slightly misses; Tesla revenue beats at $28.24B but EPS far below consensus; ECB expected to hold at 2.25%.",
+      "tags": ["Financial Markets", "US Stocks", "Alphabet", "Tesla", "Earnings", "Crude Oil", "Asia Markets", "ECB"],
+      "file": "posts/303-financial-roundup-alphabet-tesla-earnings-oil-94-asian-selloff-ecb-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "302",
     "date": "2026-07-23",
     "zh": {
