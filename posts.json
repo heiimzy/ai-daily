@@ -1,5 +1,21 @@
 [
   {
+    "id": "305",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技财报综述：Alphabet云业务飙升82%至248亿美元、Tesla净利润下滑5%自由现金流转负、IBM下调全年预测",
+      "summary": "⚡ 7月23日科技财报综述：Alphabet Q2营收1198亿美元超预期，Google Cloud飙升82%至248亿美元，但2026资本支出上调至1950-2050亿美元引发市场担忧；Tesla营收创纪录但EPS远逊预期，净利润下滑5%至11亿美元，自由现金流转负11亿美元，Cybercab量产延后；IBM下调全年预测。",
+      "tags": ["科技新闻", "Alphabet", "Google Cloud", "Tesla", "IBM", "财报", "AI投资"],
+      "file": "posts/305-big-tech-earnings-alphabet-tesla-ibm-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Earnings Roundup: Alphabet Cloud Revenue Soars 82% to $24.8B, Tesla Net Income Falls 5% with Negative FCF, IBM Cuts Forecast",
+      "summary": "⚡ July 23 tech earnings roundup: Alphabet Q2 revenue of $119.8B beats estimates, Google Cloud surges 82% to $24.8B, but 2026 capex raised to $195-205B sparks concerns. Tesla revenue beats but EPS misses badly, net income drops 5% to $1.1B, FCF turns negative at -$1.1B. IBM cuts full-year forecast amid enterprise IT spending slowdown.",
+      "tags": ["Tech News", "Alphabet", "Google Cloud", "Tesla", "IBM", "Earnings", "AI Investment"],
+      "file": "posts/305-big-tech-earnings-alphabet-tesla-ibm-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "304",
     "date": "2026-07-23",
     "zh": {
