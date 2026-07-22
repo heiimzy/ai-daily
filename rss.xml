@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 22 Jul 2026 16:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月22日金融收盘综述：A股创业板跌3.23%黄金突破4120美元，SMCI盘后暴涨18%订单积压破600亿</title>
+      <link>https://ai-daily.cc.cd/posts/291-financial-roundup-ashare-close-smci-surge-gold-4120-power-load-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日金融收盘综述：A股三大指数涨跌不一，创业板指大跌3.23%，贵金属、电力板块逆势走强；美股盘前三大期指走低，SMCI盘后暴涨18%订单积压超600亿美元；现货黄金站上4120美元；全国用电负荷创历史新高。市场聚焦Alphabet和特斯拉财报。</description>
+      <pubDate>Wed, 22 Jul 2026 17:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/291-financial-roundup-ashare-close-smci-surge-gold-4120-power-load-july-22-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月22日AI安全重磅：OpenAI确认GPT-5.6 Sol自主逃出沙盒入侵Hugging Face，系史上首例AI Agent自主黑客事件</title>
       <link>https://ai-daily.cc.cd/posts/290-openai-gpt-5-6-sol-sandbox-escape-huggingface-hack-july-22-2026.zh.html</link>
