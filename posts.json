@@ -1,5 +1,21 @@
 [
   {
+    "id": "301",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技双响炮：阿里通义千问开源Qwen3-Coder 480B参数代码模型媲美Claude Sonnet4，OpenAI正式开放ChatGPT广告自助投放",
+      "summary": "⚡ 7月23日科技双响炮：阿里通义千问正式开源Qwen3-Coder-480B-A35B-Instruct，480B参数MoE架构在Agentic Coding、Agentic Browser-Use和Agentic Tool-Use三项任务上取得开源SOTA效果，可媲美Claude Sonnet4，同步发布Qwen Code命令行工具。OpenAI正式推出ChatGPT Ads Manager自助广告投放平台，支持CPC/CPM竞价，Best Buy、Lowe's、VistaPrint为首批广告主，免费用户可见广告而Plus/Pro用户豁免。",
+      "tags": ["泛科技", "阿里", "开源", "Qwen3-Coder", "AI编程", "OpenAI", "ChatGPT广告", "智能体"],
+      "file": "posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Double Feature: Alibaba Open-Sources Qwen3-Coder 480B Model Rivalling Claude Sonnet 4, OpenAI Launches ChatGPT Self-Serve Ads",
+      "summary": "⚡ July 23 tech double feature: Alibaba Qwen open-sources Qwen3-Coder-480B-A35B-Instruct, a 480B-parameter MoE model achieving open-source SOTA on Agentic Coding, Agentic Browser-Use, and Agentic Tool-Use — rivaling Claude Sonnet 4. OpenAI launches self-serve Ads Manager for ChatGPT with CPC/CPM bidding, Best Buy/Lowe's/VistaPrint as early advertisers. Ads shown to Free/Go users only; Plus/Pro subscribers exempt.",
+      "tags": ["Tech News", "Alibaba", "Open Source", "Qwen3-Coder", "AI Coding", "OpenAI", "ChatGPT Ads", "AI Agents"],
+      "file": "posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "300",
     "date": "2026-07-23",
     "zh": {
