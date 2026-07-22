@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 22 Jul 2026 22:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 23:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月22日科技晚间：AMD斥50亿美元投资Anthropic签AI芯片大单、Meta内容水印被曝55%失效、Swimlane推出AI安全运营中心</title>
+      <link>https://ai-daily.cc.cd/posts/297-amd-5b-anthropic-content-seal-swimlane-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日科技晚间综述：AMD与Anthropic签署最高50亿美元AI芯片协议，将部署2GW Instinct MI450 GPU，AI芯片格局生变；Meta Content Seal水印系统被Reuters实测55%无法检测裁剪后AI图像，遭遇尴尬开局；Swimlane推出AI安全运营中心，以AI Agent驱动MSSP安全自动化。</description>
+      <pubDate>Wed, 22 Jul 2026 23:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/297-amd-5b-anthropic-content-seal-swimlane-july-22-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月22日国际政治深度：特朗普威胁"每打一艘船就炸一座桥"、伊朗警告全面扩战、乌克兰新总司令誓师反攻、中菲南海外交对决</title>
       <link>https://ai-daily.cc.cd/posts/296-international-politics-trump-bridge-powerplant-iran-drapatyi-ukraine-south-china-sea-july-22-2026.zh.html</link>
