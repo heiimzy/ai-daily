@@ -1,5 +1,21 @@
 [
   {
+    "id": "300",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日凌晨国际政治综述：特朗普威胁每打一艘船就炸一座电厂、俄美乌首次三方会谈阿布扎比登场、美沙签署30年民用核协议",
+      "summary": "⚡ 7月23日凌晨国际政治综述：特朗普在Truth Social上宣布新威慑策略——每袭击一艘船只就炸毁一座伊朗桥梁或发电厂，伊朗警告将反击美国中东基础设施；俄美乌三方安全工作组首次会议23日在阿布扎比举行，普京与美特使克里姆林宫密谈3.5小时；美沙签署30年民用核协议，美国公司将承建沙特铀浓缩设施；泽连斯基与特朗普特使讨论恢复俄乌谈判；拉夫罗夫与鲁比奥23日上午在马尼拉举行会谈。",
+      "tags": ["国际政治", "美伊冲突", "特朗普", "俄乌谈判", "普京", "泽连斯基", "美沙核协议"],
+      "file": "posts/300-international-politics-trump-bridge-threat-us-saudi-nuclear-ukraine-russia-talks-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 International Politics Roundup: Trump Vows to Destroy Bridge/Power Plant Per Ship Attack, Russia-US-Ukraine Hold First Tripartite Talks, US-Saudi Nuclear Deal Signed",
+      "summary": "⚡ July 23 international politics roundup: Trump announces new Hormuz deterrence — one bridge or power plant destroyed per ship attacked, Iran warns of retaliation; Russia-US-Ukraine hold first-ever tripartite talks in Abu Dhabi after 3.5-hour Putin-Witkoff meeting; US and Saudi Arabia sign 30-year civilian nuclear deal; Zelensky discusses restarting talks with Trump envoys; Lavrov and Rubio meet in Manila.",
+      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Ukraine-Russia Talks", "Putin", "Zelensky", "US-Saudi Nuclear Deal"],
+      "file": "posts/300-international-politics-trump-bridge-threat-us-saudi-nuclear-ukraine-russia-talks-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "299",
     "date": "2026-07-23",
     "zh": {
