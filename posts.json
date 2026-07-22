@@ -1,5 +1,21 @@
 [
   {
+    "id": "295",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日金融综述：日元跌破163创40年新低、布伦特原油飙至94美元、黄金逆势突破4120美元、Fed加息概率骤升",
+      "summary": "⚡ 7月22日金融综述：日元兑美元跌破163关口创1986年以来新低，日本当局干预压力骤升；美伊冲突第11夜，布伦特原油飙涨4%至94美元/桶创两个月新高；黄金逆势突破4120美元，无视利率利空演绎新范式；Fed 9月加息概率从58%飙升至71%；韩国KOSPI暴涨5%半导体引领反弹。",
+      "tags": ["金融经济", "日元", "原油", "黄金", "美联储", "KOSPI"],
+      "file": "posts/295-financial-roundup-yen-163-oil-94-gold-4120-fed-hike-kospi-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Financial Roundup: Yen Crashes Through 163 (40-Year Low), Brent Oil Surges to $94, Gold Breaks $4,120, Fed Rate Hike Odds Soar",
+      "summary": "⚡ July 22 financial roundup: Japanese yen breaks through 163 per dollar for first time since 1986, intervention fears mount; Brent crude surges 4% to $94 on 11th consecutive night of US-Iran strikes; Gold defies higher yields and oil, reclaiming $4,120; Fed September rate hike probability jumps from 58% to 71%; South Korea's KOSPI surges 5% led by semiconductor rebound.",
+      "tags": ["Financial News", "Yen", "Crude Oil", "Gold", "Federal Reserve", "KOSPI"],
+      "file": "posts/295-financial-roundup-yen-163-oil-94-gold-4120-fed-hike-kospi-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "294",
     "date": "2026-07-22",
     "zh": {
