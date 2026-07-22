@@ -1,5 +1,21 @@
 [
   {
+    "id": "298",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日凌晨科技：三星伦敦发布Galaxy Z Fold8/Ultra/Flip8折叠屏、Watch 9系列智能手表",
+      "summary": "⚡ 7月23日凌晨科技综述：三星在伦敦Galaxy Unpacked 2026发布三款折叠屏手机——全新宽屏设计的Galaxy Z Fold8、首款Ultra折叠屏Z Fold8 Ultra和Galaxy Z Flip8，同步推出Galaxy Watch 9和Galaxy Watch Ultra 2智能手表。Z Fold8采用全新宽幅设计，主打更舒适的握持感；Z Fold8 Ultra首次将Ultra标准引入折叠屏，配备8英寸内屏、骁龙8 Elite Gen 5芯片和5000mAh电池。新品即日起开启预购，8月7日上市。",
+      "tags": ["消费电子", "三星", "折叠屏", "智能手机", "Galaxy Unpacked"],
+      "file": "posts/298-samsung-galaxy-unpacked-z-fold8-ultra-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech: Samsung Unveils Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch 9 & Watch Ultra 2 at London Unpacked",
+      "summary": "⚡ July 23 tech roundup: Samsung's Galaxy Unpacked 2026 in London unveiled three new foldables — the redesigned Galaxy Z Fold8 with a wider form factor, the first Galaxy Z Fold8 Ultra, and the Galaxy Z Flip8 — alongside the Galaxy Watch 9 and Watch Ultra 2. The Z Fold8 Ultra features an 8-inch display, Snapdragon 8 Elite Gen 5 for Galaxy, and a 5,000mAh battery. Pre-orders open today.",
+      "tags": ["Consumer Electronics", "Samsung", "Foldables", "Smartphones", "Galaxy Unpacked"],
+      "file": "posts/298-samsung-galaxy-unpacked-z-fold8-ultra-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "297",
     "date": "2026-07-22",
     "zh": {
