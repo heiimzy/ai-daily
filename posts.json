@@ -1,5 +1,21 @@
 [
   {
+    "id": "289",
+    "date": "2026-07-22",
+    "zh": {
+      "title": "⚡ 7月22日科技综述：大众联手地平线攻坚L3自动驾驶、Block发布Buzz人机协作平台、Feyn开源Text-to-SQL模型SQRL",
+      "summary": "⚡ 7月22日科技综述：大众集团官宣与地平线深化合作加速L3自动驾驶研发，最快2027年下半年交付；Jack Dorsey旗下Block发布Buzz开源协作平台，人类与AI智能体在Nostr协议上同室协作；Feyn Labs发布SQRL开源Text-to-SQL模型，70.6%执行准确率超越Claude Opus。",
+      "tags": ["泛科技", "自动驾驶", "大众集团", "地平线", "Buzz", "Block", "SQRL", "开源", "AI智能体"],
+      "file": "posts/289-tech-roundup-vw-l3-autonomous-buzz-sqrl-july-22-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 22 Tech Roundup: VW Partners with Horizon for L3 Autonomous Driving, Block Launches Buzz, Feyn Releases Open-Source SQRL",
+      "summary": "⚡ July 22 tech roundup: VW Group China deepens partnership with Horizon Robotics to accelerate L3 autonomous driving, targeting delivery by H2 2027; Jack Dorsey's Block launches Buzz, an open-source Nostr-based workspace where humans and AI agents collaborate; Feyn Labs ships SQRL, an open-source text-to-SQL model achieving 70.6% accuracy on BIRD Dev.",
+      "tags": ["Tech News", "Autonomous Driving", "VW", "Horizon Robotics", "Buzz", "Block", "SQRL", "Open Source", "AI Agents"],
+      "file": "posts/289-tech-roundup-vw-l3-autonomous-buzz-sqrl-july-22-2026.en.html"
+    }
+  },
+  {
     "id": "288",
     "date": "2026-07-22",
     "zh": {
