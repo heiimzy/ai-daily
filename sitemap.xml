@@ -2862,4 +2862,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/287-financial-roundup-brent-92-houthi-blockade-trump-generic-tariff-kospi-7000-yen-july-22-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/287-financial-roundup-brent-92-houthi-blockade-trump-generic-tariff-kospi-7000-yen-july-22-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
