@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 23 Jul 2026 02:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 03:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月23日科技双响炮：阿里通义千问开源Qwen3-Coder 480B参数代码模型媲美Claude Sonnet4，OpenAI正式开放ChatGPT广告自助投放</title>
+      <link>https://ai-daily.cc.cd/posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日科技双响炮：阿里通义千问正式开源Qwen3-Coder-480B-A35B-Instruct，480B参数MoE架构在Agentic Coding、Agentic Browser-Use和Agentic Tool-Use三项任务上取得开源SOTA效果，可媲美Claude Sonnet4，同步发布Qwen Code命令行工具。OpenAI正式推出ChatGPT Ads Manager自助广告投放平台，支持CPC/CPM竞价，Best Buy、Lowe's、VistaPrint为首批广告主，免费用户可见广告而Plus/Pro用户豁免。</description>
+      <pubDate>Thu, 23 Jul 2026 03:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/301-qwen3-coder-alibaba-open-source-agentic-coding-openai-chatgpt-ads-july-23-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月23日凌晨国际政治综述：特朗普威胁每打一艘船就炸一座电厂、俄美乌首次三方会谈阿布扎比登场、美沙签署30年民用核协议</title>
       <link>https://ai-daily.cc.cd/posts/300-international-politics-trump-bridge-threat-us-saudi-nuclear-ukraine-russia-talks-july-23-2026.zh.html</link>
