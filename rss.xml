@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 22 Jul 2026 19:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:04:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月22日科技综述：引力一号一箭九星远海发射成功、AI安全独角兽Glow亮相、英伟达Vera CPU全面交付</title>
+      <link>https://ai-daily.cc.cd/posts/294-tech-roundup-gravity1-launch-glow-ai-security-vera-cpu-july-22-2026.zh.html</link>
+      <description>⚡ 7月22日科技综述：引力一号遥四火箭在东海海域一箭九星发射成功，中国民营商业航天首次远海任务；前Meta高管创立的AI安全公司Glow获1.8亿美元融资估值12亿美元；英伟达Vera CPU已向OpenAI等客户全面交付，实测能效较Blackwell提升10倍。</description>
+      <pubDate>Wed, 22 Jul 2026 20:04:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/294-tech-roundup-gravity1-launch-glow-ai-security-vera-cpu-july-22-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月22日科技大事件：三星Galaxy Unpacked今登场、Google Play开放第三方商店、Anthropic冲刺万亿美元IPO</title>
       <link>https://ai-daily.cc.cd/posts/293-tech-roundup-samsung-unpacked-google-play-anthropic-ipo-july-22-2026.zh.html</link>
