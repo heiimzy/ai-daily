@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 22 Tech Roundup: VW Partners with Horizon for L3 Autonomous Driving, Block Launches Buzz, Feyn Releases Open-Source SQRL - AI Daily</title>
+  <meta name="description" content="⚡ July 22 tech roundup: VW Group China deepens partnership with Horizon Robotics to accelerate L3 autonomous driving, targeting delivery by H2 2027; Jack Dorsey's Block launches Buzz, an open-source Nostr-based workspace where humans and AI agents collaborate; Feyn Labs ships SQRL, an open-source text-to-SQL model achieving 70.6% accuracy on BIRD Dev.">
+  <meta name="keywords" content="Tech News,Autonomous Driving,VW,Horizon Robotics,Buzz,Block,Jack Dorsey,SQRL,Feyn Labs,Text-to-SQL,AI Agents">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/289-tech-roundup-vw-l3-autonomous-buzz-sqrl-july-22-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/289-tech-roundup-vw-l3-autonomous-buzz-sqrl-july-22-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/289-tech-roundup-vw-l3-autonomous-buzz-sqrl-july-22-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-22</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="289-tech-roundup-vw-l3-autonomous-buzz-sqrl-july-22-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-22</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Autonomous Driving</span><span class="tag">VW</span><span class="tag">Horizon Robotics</span><span class="tag">Buzz</span><span class="tag">Block</span><span class="tag">SQRL</span><span class="tag">Open Source</span><span class="tag">AI Agents</span></div>
+  <h1>⚡ July 22 Tech Roundup: VW Partners with Horizon for L3 Autonomous Driving, Block Launches Buzz, Feyn Releases Open-Source SQRL</h1>
+
+  <h2>1. VW Deepens Horizon Robotics Partnership: L3 Autonomous Driving by H2 2027</h2>
+
+  <p>On the afternoon of July 22, Volkswagen Group China announced a deepened partnership with Horizon Robotics to accelerate the development of L3 and L4 autonomous driving technology. This marks a critical escalation in the collaboration that began in 2022 when VW invested in Horizon and established the joint venture CARIZON.</p>
+
+  <p>Under the new agreement, VW will leverage Horizon's AI foundation model capabilities through a <strong>white-box licensing model</strong> — a shift from "black-box procurement" to "white-box in-house development," meaning VW's engineers will have full visibility into the underlying technology rather than simply integrating a finished product.</p>
+
+  <p>The company's first L3 autonomous driving solution is expected to begin delivery in the <strong>second half of 2027</strong>. Before that, CARIZON's full-scenario advanced driver assistance system (ADAS) has already entered mass production and will hit the road in Q3 2026, debuting across <strong>seven all-electric models</strong> from VW's three joint venture partners in China, expanding to the broader CEA product lineup from 2027 onward.</p>
+
+  <p>Volkswagen Group CEO Oliver Blume commented: "China has become one of the group's most important innovation engines globally, especially in software, AI, and autonomous driving. This deepened cooperation will further strengthen our ability to develop and scale AI-driven autonomous driving solutions."</p>
+
+  <p>The strategic significance is clear: Chinese EV startups have already deployed city-wide NOA (Navigation on Autopilot) capabilities, while traditional joint venture automakers have moved more cautiously. VW's commitment to a specific L3 timeline, combined with a fully localized technology development approach, signals that global automakers are now racing to match "China speed" in intelligent driving.</p>
+
+  <h2>2. Block Launches Buzz: Open-Source Human-Agent Collaboration Workspace</h2>
+
+  <p>Jack Dorsey's Block has officially released <strong>Buzz</strong>, an open-source collaboration platform built on the Nostr protocol where humans and AI agents work side by side in shared channels.</p>
+
+  <p>Buzz was born from a simple observation: most teams today use AI by having each person run their own agent in a separate window, then copy-paste outputs into Slack. This pattern makes "individuals faster but teams slower." Buzz solves this by merging chat, code hosting, workflow automation, and AI agents into a single platform.</p>
+
+  <p>In Buzz, AI agents are <strong>first-class citizens</strong> — not chatbots tethered to a text box. Each agent has its own cryptographic keypair, defined permissions, and a complete audit trail for every action. Every message, workflow step, code review approval, and git event is a signed event in a unified event log. Block also adds a second signature tying the agent back to its human owner, creating what the company calls a "cryptographic passport" that neither human nor agent could produce alone.</p>
+
+  <p><strong>Key technical highlights:</strong></p>
+  <ul>
+    <li><strong>Nostr-native:</strong> Every action is a signed event — same identity model for humans and agents, same audit trail</li>
+    <li><strong>Model & agent agnostic:</strong> Works with Claude Code, Codex, goose, or any custom agent framework via ACP</li>
+    <li><strong>Native Git integration:</strong> Agents can clone repos, push code, open PRs, and review changes</li>
+    <li><strong>Self-hosted or managed:</strong> Run your own Nostr relay, or use Block's free beta hosted service</li>
+  </ul>
+
+  <p>Buzz is available on GitHub (github.com/block/buzz) under Apache 2.0 license, with desktop apps for macOS, Windows, and Linux. Current release is v0.4.22 — mobile clients and workflow approval gates are still in development. TechCrunch describes Buzz as a challenger to Slack and GitHub's dominance in team collaboration. SiliconANGLE calls it a major step in Block's transformation from a fintech company into an AI infrastructure provider.</p>
+
+  <p>Jack Dorsey announced on X: "We're launching BUZZ! A new group chat platform for teams of people and agents of all sizes, built to reduce our dependency on Slack and GitHub. Model-agnostic, decentralized, self-sovereign, and open source."</p>
+
+  <h2>3. Feyn Labs Ships SQRL: Open-Source Text-to-SQL Model That Inspects Before It Writes</h2>
+
+  <p>Feyn Labs released the <strong>SQRL</strong> family of open-source text-to-SQL models on July 19, featuring a unique "inspect-before-you-write" architecture that achieves <strong>70.6%</strong> execution accuracy on BIRD Dev — surpassing Claude Opus 4.6 at 68.77%.</p>
+
+  <p>The fundamental problem with traditional text-to-SQL models is that they generate queries from schema metadata alone (table names, column names), with no awareness of actual data content. When faced with ambiguous column names, NULL values, or date ranges with no matching rows, they produce syntactically correct but semantically wrong SQL — no error message, just wrong answers.</p>
+
+  <p>SQRL's innovation is the <strong>inspection loop</strong>: before writing the final SQL, the model sends read-only probe queries to the database (SELECT DISTINCT, COUNT, LIMIT samplers), using the returned data to resolve ambiguity. The inspection cost is only paid when the question needs it — simple queries stay fast.</p>
+
+  <p>Feyn ships three model sizes on Hugging Face:</p>
+  <ul>
+    <li><strong>SQRL-4B:</strong> Tiny footprint, matches Claude Opus 4.6 accuracy — ideal for on-premise deployment</li>
+    <li><strong>SQRL-9B:</strong> Mid-sized, balancing efficiency and performance</li>
+    <li><strong>SQRL-35B-A3B:</strong> Mixture-of-Experts, 35B total / ~3B active parameters, flagship performance</li>
+  </ul>
+
+  <p>The BIRD benchmark is notably rigorous: 95 real databases, 33.4 GB of actual data across 37 professional domains, with execution-verified accuracy scoring. SQRL-35B-A3B's 70.6% sits against a human expert baseline of 92.96% — a 22-point gap remains, but SQRL is the first open-weight model to directly attack the core "look before you write" problem.</p>
+
+  <p>For enterprise teams with data sovereignty requirements, SQRL-4B is particularly compelling: it delivers near-frontier accuracy fully self-hostable, with inference costs comparable to a 3B-parameter model. In an era where data cannot leave organizational boundaries, this combination of accuracy and deployability is becoming table stakes.</p>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://ai-daily.cc.cd/free-ai-tools" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
