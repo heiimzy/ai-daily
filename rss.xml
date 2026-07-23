@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 24 Jul 2026 06:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 15:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月24日科技综述：OpenAI为Codex注入全双工语音、Anthropic CMA塞入500技能、GPT与Grok同时推翻30年数学猜想</title>
+      <link>https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html</link>
+      <description>⚡ 7月24日科技综述：OpenAI GPT-Live全双工语音正式接入Codex桌面端，5万+开发者可双手离键盘写代码；Anthropic CMA六项大更新，单会话技能上限从20暴拉至500，子Agent实时流可观测；GPT-5.6 Pro与Grok 4.5八分钟内推翻困扰数学界30年的Dinitz-Garg-Goemans猜想；IMO 2026三大AI同时满分——Claude Fable 5、GPT-5.6 Sol、Kimi K3全部42/42。</description>
+      <pubDate>Fri, 24 Jul 2026 15:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月24日国际政治综述：特朗普称认真考虑重启对伊大规模作战、胡塞武装全面封锁曼德海峡、东盟外长会美俄激烈博弈</title>
       <link>https://ai-daily.cc.cd/posts/328-international-politics-trump-iran-large-scale-houthi-blockade-asean-july-24-2026.zh.html</link>
