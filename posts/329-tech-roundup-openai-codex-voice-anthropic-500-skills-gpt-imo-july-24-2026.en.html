@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 24 Tech Roundup: OpenAI Brings Full-Duplex Voice to Codex, Anthropic CMA Hits 500 Skills, GPT-5.6 & Grok 4.5 Topple 30-Year Conjecture - AI Daily</title>
+  <meta name="description" content="⚡ July 24 tech roundup: OpenAI integrates GPT-Live full-duplex voice into Codex desktop, enabling hands-free coding for 5M+ weekly users; Anthropic drops six CMA updates pushing skill limits from 20 to 500 with real-time sub-agent streaming; GPT-5.6 Pro and Grok 4.5 independently disprove the 30-year-old Dinitz-Garg-Goemans graph theory conjecture in minutes; IMO 2026 sees three AI models score a perfect 42/42, outperforming 99.3% of human competitors.">
+  <meta name="keywords" content="OpenAI,GPT-Live,Codex,full-duplex voice,Anthropic,CMA,500 skills,Agent,Grok 4.5,GPT-5.6,IMO 2026,AI math,graph theory,July 24,tech news">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-24</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-24</div>
+  <div class="post-tags">
+    <span class="tag">Tech</span>
+    <span class="tag">OpenAI</span>
+    <span class="tag">Codex</span>
+    <span class="tag">GPT-Live</span>
+    <span class="tag">Anthropic</span>
+    <span class="tag">Grok 4.5</span>
+    <span class="tag">IMO 2026</span>
+    <span class="tag">Math</span>
+  </div>
+  <h1>⚡ July 24 Tech Roundup: OpenAI Brings Full-Duplex Voice to Codex, Anthropic Packs 500 Skills Into CMA, GPT & Grok Topple 30-Year Math Conjecture</h1>
+
+  <h2>1. OpenAI Integrates GPT-Live Full-Duplex Voice Into Codex Desktop</h2>
+
+  <p>On July 23, OpenAI announced that its full-duplex voice model GPT-Live is now integrated into the ChatGPT desktop application, connecting directly with Codex and ChatGPT Work agentic systems. More than 5 million weekly active Codex users can now write code hands-free — speaking naturally while AI agents execute reasoning tasks in the background.</p>
+
+  <p>GPT-Live launched on July 8 with full-duplex capabilities: the AI can listen and speak simultaneously, eliminating rigid turn-taking and making conversations feel more natural. The capability has now been extended to developer workflows, enabling engineers to orchestrate multi-threaded coding jobs, review pull requests, and debug applications using voice commands.</p>
+
+  <p>OpenAI released a promotional video showing two engineers speaking to the same ChatGPT desktop session in the same room, each issuing different instructions to the same model simultaneously. On macOS, the desktop app integrates "Appshots" and screen context features, allowing ChatGPT Voice to analyze foreground windows, local files, codebase structures, and active plugins.</p>
+
+  <p>Architecturally, GPT-Live decouples the real-time voice layer from underlying execution engines: the voice layer maintains fluid conversation (inserting natural acknowledgments like "got it" without interrupting), while heavy computational workloads are passed to background reasoning models like GPT-5.5. This creates a pair-programming dynamic where developers talk through problems conversationally while agents execute tasks asynchronously.</p>
+
+  <blockquote>
+    <p>"Today OpenAI will release voice and remote guidance for Codex! One step closer to personal AGI." — AI journalist @ChrisGPT</p>
+  </blockquote>
+
+  <p>The update is the latest in a series of intense Codex product iterations in July. On July 9, OpenAI launched the GPT-5.6 family (Sol, Terra, Luna) and merged Codex into the ChatGPT desktop app, creating a unified platform for chat, coding, and autonomous work. Industry analysts see voice integration as marking a key transition from keyboard input to voice-commanded AI coding.</p>
+
+  <h2>2. Anthropic CMA Drops Six Major Updates: 500 Skills, Real-Time Sub-Agent Streaming</h2>
+
+  <p>On the same day, Anthropic rolled out six major updates to its Claude Managed Agent (CMA) platform, focused on pushing agent capability density to operating-system levels.</p>
+
+  <h3>Skill Limit Jumps from 20 to 500</h3>
+  <p>The previous 20-skill cap severely constrained complex enterprise deployments. A financial services customer service agent often needs to cover multiple product lines, regulatory differences, and language variants. The new 500-skill ceiling means a single session can house an entire enterprise knowledge base. All 500 skill slots are shared across agents within the same session, running in a unified managed sandbox with shared memory and environment variables.</p>
+
+  <h3>Five-Tier Thinking Effort Control</h3>
+  <p>Anthropic introduced five reasoning effort tiers: low, medium, high, xhigh, and max. In multi-agent systems, different agents can now use different reasoning depths as needed — routing coordinators use low, product Q&A uses medium, escalation agents use high, and legal compliance uses max. For the first time, there is a continuous cost-quality dial within a single session.</p>
+
+  <h3>Sub-Agent Black Box Opened</h3>
+  <p>In late June, CMA introduced session-level real-time event previews, but sub-agent status remained a black box. This update pushes observability down to the thread level: subscribing to a sub-agent's independent thread stream now shows every step of its reasoning in real time. Session creation is also streamlined — POST /v1/sessions can now include up to 50 initial events in a single call, significantly reducing cold-start latency.</p>
+
+  <h3>Seven New Webhooks Complete the Picture</h3>
+  <p>Anthropic filled the remaining two operational gaps: 4 environment events + 3 memory storage events. CMA's entire lifecycle — environment setup, agent deployment, runtime status, memory management — is now fully event-driven and integrable with external systems. Environment pauses trigger alerts, memory updates sync to enterprise databases, and new environments automatically attach monitoring.</p>
+
+  <blockquote>
+    <p>"From 20 to 500, Anthropic is betting on when agents can become as fundamental as operating systems. The answer, by the pace of updates, is: soon." — Xinzhiyuan</p>
+  </blockquote>
+
+  <p>The AI agent infrastructure race has entered deep waters: OpenAI bets on the super-app gateway, Google bets on infrastructure, and Anthropic bets on OS-level depth — maximizing capability density within a single agent through the CMA managed sandbox.</p>
+
+  <h2>3. GPT-5.6 Pro and Grok 4.5 Topple 30-Year Graph Theory Conjecture in Minutes</h2>
+
+  <p>A graph theory conjecture that had stumped mathematicians for nearly 30 years — the Dinitz-Garg-Goemans conjecture — was disproven by AI on July 23. Remarkably, both OpenAI's GPT-5.6 Pro and xAI's Grok 4.5 independently reached the same conclusion within hours, using entirely different approaches.</p>
+
+  <h3>GPT-5.6 Pro: 4 Prompts, 58 Words</h3>
+  <p>Researcher Dmitry Rybin published the complete conversation log with GPT-5.6 Pro. He entered just 4 prompts totaling 58 English words — no elaborate prompt engineering, no complex formulas. First round: no counterexample found. Second: narrowed the search. Third: closing in. Fourth: "Let's wrap up with a complete, unconditional counterexample." The model delivered a 7-node, 9-edge graph counterexample, along with four pages of proof certificate, exhaustive verification code, and LaTeX source.</p>
+
+  <p>The conjecture concerns the cost relationship between fractional flow and unsplittable flow. GPT-5.6 Pro found a graph with fractional flow cost 58, where any capacity-compliant unsplittable flow costs at least 60 — a 2-unit gap that directly disproves the conjecture.</p>
+
+  <h3>Grok 4.5: 8 Minutes in a Slack Thread</h3>
+  <p>Even more dramatically, xAI's Grok 4.5 (running as "Capy" on the Medium tier) triggered the breakthrough accidentally during routine team discussion in Slack. After Rybin's post was shared internally, Capy spontaneously attempted the problem and found a novel counterexample in 8 minutes, completing independent reasoning and verification. Elon Musk personally liked and shared: "Grok 4.5 just solved a 30-year-old open graph theory conjecture."</p>
+
+  <p>What makes this remarkable is that Grok 4.5 wasn't specifically deployed on the problem in a controlled research environment — it autonomously intervened during random team discussion and completed the task independently.</p>
+
+  <h2>4. IMO 2026: Three AI Models Score Perfect 42/42, Beating 99.3% of Humans</h2>
+
+  <p>The 67th International Mathematical Olympiad (IMO 2026) has concluded, and an AI benchmark has stunned the mathematics community. Former Google engineer Deedy Das organized an AI competition: 7 frontier models autonomously tackling all 6 IMO 2026 problems. Three AI models scored a perfect 42/42.</p>
+
+  <ul>
+    <li><strong>Claude Fable 5</strong>: 2.5 hours, $51 in cost, clean perfect score</li>
+    <li><strong>GPT-5.6 Sol (xhigh)</strong>: 3.8 hours, just $20 — the most cost-efficient perfect score</li>
+    <li><strong>Kimi K3</strong>: 17.4 hours, $31 — the 2.8-trillion-parameter "beast" fought through</li>
+  </ul>
+
+  <p>For context, over the past seven years, 4,347 human competitors participated in IMO, and only 30 scored a perfect 42/42 — just 0.69%. That three general-purpose AI models simultaneously achieved this without any specialized math training marks a watershed moment.</p>
+
+  <p>Notably, last year's IMO 2025 Problem 6 — a number theory challenge solved by only 6 humans worldwide — was solved by Claude Fable 5 in just 26 minutes (2 rounds), GPT-5.6 Sol in 60 minutes (2 rounds), and Kimi K3 after 381 minutes (4 rounds).</p>
+
+  <p>In just three years, AI has gone from DeepMind's AlphaProof barely reaching silver medal level (2024), to OpenAI solving 5 problems for a 35-point gold (2025), to three general-purpose models all scoring perfect 42/42 simultaneously (2026). All without specialized math training, and one of them (Kimi K3) is completely open-source.</p>
+
+  <p>The benchmark was made possible by Axiom Math, which translated all 6 IMO 2026 problems into machine-readable Lean 4 formalized statements, allowing AI to output Lean proofs verified automatically by a compiler — creating a repeatable standardized framework for evaluating AI math capabilities.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
