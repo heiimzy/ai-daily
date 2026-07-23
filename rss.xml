@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 23 Jul 2026 23:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:13:50 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>⚡ 7月23日科技综述：AI芯片新星Etched估值103亿美元、英伟达GPU首次登月、美国AI一键关闭法案出台、谷歌Gemini逼近10亿用户</title>
+      <link>https://ai-daily.cc.cd/posts/322-etched-chip-nvidia-moon-kill-switch-gemini-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日科技综述：AI芯片创业公司Etched完成3亿美元C轮融资估值103亿美元，专用推理芯片挑战英伟达；英伟达Jetson GPU将首次登陆月球表面；美国两党众议员提出AI Kill Switch Act，授权国土安全部关闭危险AI系统日罚2000万美元；谷歌Gemini月活跃用户逼近10亿里程碑。</description>
+      <pubDate>Thu, 23 Jul 2026 16:13:50 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/322-etched-chip-nvidia-moon-kill-switch-gemini-july-23-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月23日科技综述：OpenAI因医疗建议被起诉索赔、三星洽购Mistral AI估值200亿欧元、谷歌Gemini 3.5 Pro三度跳票</title>
       <link>https://ai-daily.cc.cd/posts/321-openai-lawsuit-samsung-mistral-gemini-pro-delay-july-23-2026.zh.html</link>
