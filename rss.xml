@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 23 Jul 2026 14:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:14:38 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月23日科技午间综述：阿里平头哥开源AI软件栈SAIL五层技术栈；BrainChip联手CELUS推动神经形态芯片普及；ITC Infotech全面部署Google Cloud Agentic平台</title>
+      <link>https://ai-daily.cc.cd/posts/313-tech-roundup-t-head-sail-brainchip-celus-itc-google-cloud-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日科技午间综述：阿里平头哥在WAIC现场开源五层AI软件栈T-Head SAIL；BrainChip与CELUS达成战略合作将神经形态芯片AKD1500引入主流硬件设计；ITC Infotech全面部署Google Cloud Gemini Enterprise推动企业Agentic转型。</description>
+      <pubDate>Thu, 23 Jul 2026 15:14:38 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/313-tech-roundup-t-head-sail-brainchip-celus-itc-google-cloud-july-23-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月23日国际政治深度：美众院216-214通过950亿伊朗战争预算、胡塞武装首次击中沙特油轮、伊朗革命卫队声称埋雷封锁霍尔木兹、对科威特美军基地发动打击</title>
       <link>https://ai-daily.cc.cd/posts/312-us-house-95b-iran-war-budget-houthi-tanker-attack-hormuz-mine-oil-95-july-23-2026.zh.html</link>
