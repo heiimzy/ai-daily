@@ -1,5 +1,21 @@
 [
   {
+    "id": "318",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技晚间综述：SpaceX星舰第13飞今晚窗口开启首载20颗V3星链；亚马逊裁撤AGI部门聚焦客户AI；SpaceX股价承压三重利空",
+      "summary": "⚡ 7月23日科技晚间综述：SpaceX星舰Flight 13今晚发射窗口开启，首载20颗Starlink V3卫星为首次实战部署，替换两颗猛禽发动机后再度尝试；亚马逊裁撤AGI部门部分岗位聚焦客户AI产品，累计裁员超3万但年资本支出达2000亿美元；SpaceX股价跌至$116.72三重利空齐袭——600亿美元Cursor收购稀释、9.1亿股解禁潮、猛禽发动机可靠性疑虑。",
+      "tags": ["泛科技", "SpaceX", "星舰", "Starlink", "亚马逊", "AGI", "AI裁员"],
+      "file": "posts/318-starship-flight-13-amazon-agi-tech-roundup-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Evening: SpaceX Starship Flight 13 Targets Tonight with First Starlink V3 Deploy; Amazon Cuts AGI Staff; SPCX Stock Down 48% from Peak",
+      "summary": "⚡ July 23 tech evening roundup: SpaceX Starship Flight 13 launch window opens tonight at 6:45 PM ET carrying 20 Starlink V3 satellites for first operational payload deployment after Raptor engine abort on July 16; Amazon cuts jobs in AGI unit behind Nova AI models amid $200B annual capex plan and 30,000+ total layoffs since late 2025; SpaceX stock (SPCX) falls to $116.72 weighed by $60B Cursor dilution, 911M share lock-up expiry, and Raptor reliability concerns.",
+      "tags": ["Tech News", "SpaceX", "Starship", "Starlink V3", "Amazon", "AGI", "AI Layoffs"],
+      "file": "posts/318-starship-flight-13-amazon-agi-tech-roundup-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "317",
     "date": "2026-07-23",
     "zh": {
