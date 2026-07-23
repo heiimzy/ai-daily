@@ -1,5 +1,21 @@
 [
   {
+    "id": "308",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日国际政治重磅升级：美军第12夜轰炸伊朗、胡塞武装参战袭击沙特油轮、特朗普声称\"我们不需要海峡\"、伊朗宣布\"以眼还眼\"、布伦特原油冲破95美元",
+      "summary": "⚡ 7月23日国际政治重磅升级：美军已完成第12夜对伊朗打击，胡塞武装宣布袭击两艘沙特油轮开辟红海新战线；特朗普在佐治亚集会宣称\"我们不需要海峡\"，并威胁摧毁伊朗桥梁电厂；伊朗外长阿拉格奇宣布\"以眼还眼\"防御原则；油价突破95美元创六周新高；美国防长披露战争成本已达375亿美元；巴基斯坦调解宣告失败。",
+      "tags": ["国际政治", "美伊冲突", "胡塞武装", "红海", "特朗普", "油价", "霍尔木兹"],
+      "file": "posts/308-us-iran-12th-night-houthi-red-sea-trump-threat-oil-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 International Politics Escalation: US 12th Night Strikes on Iran, Houthis Attack Saudi Tankers, Trump Says 'We Don't Need Straits,' Iran Vows 'Eye for an Eye,' Oil Hits $95",
+      "summary": "⚡ July 23 international politics escalation: US completes 12th consecutive night of strikes on Iran; Houthis enter war striking 2 Saudi oil tankers in Red Sea, threatening Bab el-Mandeb; Trump says 'we don't need straits' at Georgia rally, threatens bridge/power plant per ship attack; Iran declares 'eye for an eye'; Brent crude tops $95; Pentagon reveals $37.5B war cost; Pakistan mediation collapses.",
+      "tags": ["International Politics", "US-Iran Conflict", "Houthi", "Red Sea", "Trump", "Oil", "Hormuz"],
+      "file": "posts/308-us-iran-12th-night-houthi-red-sea-trump-threat-oil-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "307",
     "date": "2026-07-23",
     "zh": {
