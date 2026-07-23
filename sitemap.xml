@@ -3227,4 +3227,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/324-trump-major-punishment-iran-oil-100-houthi-red-sea-july-24-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/324-trump-major-punishment-iran-oil-100-houthi-red-sea-july-24-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
