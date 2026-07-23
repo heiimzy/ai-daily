@@ -1,5 +1,21 @@
 [
   {
+    "id": "310",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日AMD大会开幕：Zen 6 Venice 256核2nm CPU首秀、Helios机架级AI系统全面反击英伟达",
+      "summary": "⚡ 7月23日AMD科技重磅：AMD Advancing AI 2026大会在旧金山开幕，发布EPYC Venice（全球首款TSMC 2nm x86服务器CPU，256核512线程）、Instinct MI450系列GPU与Helios机架级AI系统。Anthropic签署2GW Instinct GPU大单，AMD承诺最高50亿美元战略投资。苏姿丰主题演讲将披露MI500 2027路线图。AMD正对英伟达发起全面反击，全球Top 10 AI公司中已有8家在Instinct GPU上运行工作负载。",
+      "tags": ["泛科技", "AMD", "AI芯片", "Zen 6", "2nm", "数据中心"],
+      "file": "posts/310-amd-advancing-ai-2026-zen6-venice-2nm-epyc-helios-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 AMD Event: Zen 6 Venice 256-Core 2nm CPU Debuts, Helios Rack-Scale AI Mounts Full Counter-Offensive Against NVIDIA",
+      "summary": "⚡ July 23 AMD bombshell: AMD Advancing AI 2026 opens in San Francisco with EPYC Venice (industry's first 2nm x86 server CPU, 256 cores/512 threads), Instinct MI450 GPU series, and Helios rack-scale AI system. Anthropic signs 2GW Instinct GPU deal with up to $5B equity investment from AMD. Dr. Lisa Su's keynote expected to preview MI500 2027 roadmap. AMD mounts comprehensive counter-offensive against NVIDIA, with 8 of Top 10 AI companies already running workloads on Instinct GPUs.",
+      "tags": ["Tech News", "AMD", "AI Chips", "Zen 6", "2nm", "Data Center"],
+      "file": "posts/310-amd-advancing-ai-2026-zen6-venice-2nm-epyc-helios-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "309",
     "date": "2026-07-23",
     "zh": {
