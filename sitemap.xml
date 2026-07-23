@@ -3177,4 +3177,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/319-ecb-holds-rates-225-stock-futures-plunge-pboc-mlf-brent-99-july-23-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/319-ecb-holds-rates-225-stock-futures-plunge-pboc-mlf-brent-99-july-23-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
