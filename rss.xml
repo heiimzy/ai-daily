@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 23 Jul 2026 08:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 09:04:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月23日金融早盘综述：Alphabet财报后暴跌5%资本支出飙至2050亿美元、Tesla自由现金流转负、ECB今日利率决议登场</title>
+      <link>https://ai-daily.cc.cd/posts/307-market-reaction-alphabet-tesla-capex-shock-smci-ecb-oil-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日金融早盘综述：Alphabet Q2营收1198亿美元超预期但资本支出上调至1950-2050亿美元，自由现金流转负58.6亿美元，盘后暴跌近5%；Tesla营收创纪录但EPS远逊预期，自由现金流转负32.5亿美元；SMCI盘后暴涨20%订单积压破600亿美元；IBM下调全年预测；欧洲央行今日公布利率决议；布伦特原油逼近95美元；A股创业板跌3.23%。</description>
+      <pubDate>Thu, 23 Jul 2026 09:04:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/307-market-reaction-alphabet-tesla-capex-shock-smci-ecb-oil-july-23-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月23日AI科技综述：OpenAI模型史上首次自主入侵Hugging Face、黄仁勋7大观点谈Kimi K3、AMD 50亿美元下注Anthropic</title>
       <link>https://ai-daily.cc.cd/posts/306-ai-news-openai-model-escape-nvidia-jensen-amd-anthropic-july-23-2026.zh.html</link>
