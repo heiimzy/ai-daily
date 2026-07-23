@@ -1,5 +1,21 @@
 [
   {
+    "id": "311",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日金融午间深度：布伦特原油冲破$95创七周新高，特朗普威胁打击德黑兰市区；Alphabet/Tesla财报后盘后暴跌，自由现金流转负；亚太股市全线下挫韩国KOSPI暴跌3.7%；欧银今夜公布利率决议",
+      "summary": "⚡ 7月23日金融午间综述：布伦特原油突破$95.83创七周新高，特朗普威胁打击德黑兰市区设施，三艘沙特油轮红海掉头。Alphabet Q2营收$1198亿超预期但自由现金流转负$58.6亿，2026资本支出上调至$2050亿，盘后暴跌4%。Tesla营收创纪录但FCF转负$10.9亿，盘后跌3%。SMCI暴涨19.8%订单积压$600亿。亚太股市全线下挫韩国KOSPI暴跌3.72%进入技术熊市，日经跌1.67%。欧洲央行今夜公布利率决议，市场预期维持2.25%不变但9月加息概率升至68%。世界银行警告美伊冲突或致全球经济增速降至1.3%。黄金站上$4,135，日元在163低位徘徊。",
+      "tags": ["金融经济", "原油", "布伦特", "Alphabet", "特斯拉", "亚太股市", "欧洲央行", "黄金"],
+      "file": "posts/311-financial-roundup-brent-oil-95-trump-tehran-alphabet-tesla-fcf-asia-selloff-ecb-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Financial Midday Report: Brent Crude Breaks $95 to 7-Week High, Trump Threatens Tehran; Alphabet/Tesla Plunge After-Hours as Free Cash Flow Turns Negative; Asia Markets Rout KOSPI -3.72%; ECB Decision Tonight",
+      "summary": "⚡ July 23 financial midday report: Brent crude surges to $95.83 (7-week high) as Trump threatens to strike infrastructure inside Tehran; three Saudi tankers rerouted in Red Sea. Alphabet Q2 revenue beats at $119.8B but FCF turns negative -$5.86B, stock -4% after hours, 2026 capex raised to $205B. Tesla revenue record but FCF turns -$1.09B, stock -3% after hours. SMCI surges 19.8% on $60B+ backlog. Asia markets tumble — KOSPI -3.72% enters technical bear market, Nikkei -1.67%. ECB holds rate at 2.25% expected, but September hike odds rise to 68%. World Bank warns global growth could fall to 1.3%. Gold at $4,135, yen at 163.",
+      "tags": ["Financial Markets", "Crude Oil", "Brent", "Alphabet", "Tesla", "Asia Markets", "ECB", "Gold"],
+      "file": "posts/311-financial-roundup-brent-oil-95-trump-tehran-alphabet-tesla-fcf-asia-selloff-ecb-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "310",
     "date": "2026-07-23",
     "zh": {
