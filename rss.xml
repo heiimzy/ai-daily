@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 23 Jul 2026 11:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月23日AMD大会开幕：Zen 6 Venice 256核2nm CPU首秀、Helios机架级AI系统全面反击英伟达</title>
+      <link>https://ai-daily.cc.cd/posts/310-amd-advancing-ai-2026-zen6-venice-2nm-epyc-helios-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日AMD科技重磅：AMD Advancing AI 2026大会在旧金山开幕，发布EPYC Venice（全球首款TSMC 2nm x86服务器CPU，256核512线程）、Instinct MI450系列GPU与Helios机架级AI系统。AMD正对英伟达发起全面反击，全球Top 10 AI公司中已有8家在Instinct GPU上运行工作负载。</description>
+      <pubDate>Thu, 23 Jul 2026 12:02:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/310-amd-advancing-ai-2026-zen6-venice-2nm-epyc-helios-july-23-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月23日科技重磅：高德ABot具身体系完成全栈升级——五款模型拿下17项SOTA，机器人实现"身随眼动、手脚并用、过目不忘"</title>
       <link>https://ai-daily.cc.cd/posts/309-gaode-abot-embodied-upgrade-july-23-2026.zh.html</link>
