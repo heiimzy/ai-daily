@@ -1,5 +1,21 @@
 [
   {
+    "id": "309",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技重磅：高德ABot具身体系完成全栈升级——五款模型拿下17项SOTA，机器人实现\"身随眼动、手脚并用、过目不忘\"",
+      "summary": "⚡ 7月23日科技重磅：阿里巴巴旗下高德宣布ABot具身体系完成全栈升级，一次性发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS、ABot-C0五款模型，在17项权威基准测试中拿下SOTA，横跨导航、操作、推理、智能体中枢与运动控制五大模块，成为全球首个在具身导航与操作上同步达到SOTA的厂商。",
+      "tags": ["泛科技", "具身智能", "高德", "阿里巴巴", "AI机器人"],
+      "file": "posts/309-gaode-abot-embodied-upgrade-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech: Gaode Unveils Full-Stack ABot Embodied AI Upgrade — 5 Models Achieve 17 SOTA Records",
+      "summary": "⚡ July 23 tech bombshell: Alibaba's Gaode announces full-stack ABot embodied AI system upgrade, releasing five models — ABot-N1, ABot-M0.5, ABot-ER, ABot-AgentOS, ABot-C0 — achieving SOTA on 17 authoritative benchmarks across navigation, manipulation, reasoning, agent middleware, and motion control, becoming the first company globally to reach SOTA in both embodied navigation and manipulation simultaneously.",
+      "tags": ["Tech News", "Embodied AI", "Gaode", "Alibaba", "Robotics"],
+      "file": "posts/309-gaode-abot-embodied-upgrade-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "308",
     "date": "2026-07-23",
     "zh": {
