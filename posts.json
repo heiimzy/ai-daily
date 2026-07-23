@@ -1,5 +1,43 @@
 [
   {
+    "id": "323",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日金融早间综述：布伦特原油冲破100美元、特朗普亲赴美联储施压降息、道指暴跌522点AI资本开支恐慌蔓延",
+      "summary": "⚡ 7月24日金融早间综述：布伦特原油冲破$100大关创七周新高，胡塞武装红海袭船+美伊冲突持续升级；特朗普亲赴美联储总部施压鲍威尔降息声称将有重大动作；道指暴跌522点标普500跌1.08%纳指重挫2.1%，Alphabet上调年度资本开支至$2050亿自由现金流转负，特斯拉两年来首现季度负自由现金流；中国央行今日开展5000亿元MLF操作；ECB维持利率2%不变但9月加息概率升温至34%。",
+      "tags": [
+        "金融经济",
+        "原油",
+        "布伦特",
+        "美联储",
+        "特朗普",
+        "道琼斯",
+        "Alphabet",
+        "AI资本开支",
+        "MLF",
+        "ECB"
+      ],
+      "file": "posts/323-financial-roundup-oil-100-trump-fed-plunge-pboc-mlf-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Financial Morning: Brent Crude Breaks $100, Trump Visits Fed to Pressure for Rate Cuts, Dow Plunges 522 Points on AI Capex Fears",
+      "summary": "⚡ July 24 financial morning roundup: Brent crude surges past $100/barrel for the first time since June as Middle East conflict escalates with Houthi tanker attacks; Trump visits Fed headquarters, pressures Powell for rate cuts; Dow plunges 522 points as Alphabet $205B capex plan and Tesla negative FCF spark AI spending panic; PBOC conducts 500 billion yuan MLF; ECB holds rates at 2%.",
+      "tags": [
+        "Financial Markets",
+        "Crude Oil",
+        "Brent",
+        "Federal Reserve",
+        "Trump",
+        "Dow Jones",
+        "Alphabet",
+        "AI Capex",
+        "MLF",
+        "ECB"
+      ],
+      "file": "posts/323-financial-roundup-oil-100-trump-fed-plunge-pboc-mlf-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "322",
     "date": "2026-07-23",
     "zh": {
