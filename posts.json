@@ -1,5 +1,21 @@
 [
   {
+    "id": "328",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日国际政治综述：特朗普称认真考虑重启对伊大规模作战、胡塞武装全面封锁曼德海峡、东盟外长会美俄激烈博弈",
+      "summary": "⚡ 7月24日国际政治综述：特朗普接受采访时称正'认真考虑'重启对伊朗大规模作战行动，规模空前；胡塞武装在红海袭击沙特油轮、封锁曼德海峡，全球7%石油供应面临瘫痪；第59届东盟外长会议在菲律宾马尼拉闭幕，美俄外长会晤讨论乌克兰局势，中美外长会谈为9月元首峰会铺路；拉夫罗夫称俄不再支持朝鲜半岛无核化。",
+      "tags": ["国际政治", "美伊冲突", "胡塞武装", "特朗普", "中东战争", "东盟外长会", "地缘政治"],
+      "file": "posts/328-international-politics-trump-iran-large-scale-houthi-blockade-asean-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "🌍 July 24 International Politics: Trump Considers Large-Scale Iran Strikes, Houthis Blockade Bab el-Mandeb, US-Russia Talks at ASEAN",
+      "summary": "🌍 July 24 International Politics Roundup: Trump says he is 'seriously considering' resuming large-scale combat operations against Iran; Houthi rebels attack Saudi oil tankers in the Red Sea, blockading the Bab el-Mandeb Strait; 59th ASEAN Foreign Ministers' Meeting concludes in Manila with US-Russia talks on Ukraine and US-China summit preparations; Lavrov signals Russia no longer supports Korean Peninsula denuclearization.",
+      "tags": ["International Politics", "US-Iran War", "Houthi", "Trump", "Middle East", "ASEAN", "Geopolitics"],
+      "file": "posts/328-international-politics-trump-iran-large-scale-houthi-blockade-asean-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "327",
     "date": "2026-07-24",
     "zh": {
