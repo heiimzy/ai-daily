@@ -1,5 +1,21 @@
 [
   {
+    "id": "326",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日科技综述：Alphabet与Tesla AI天价开支引爆恐慌市值蒸发、美国国会推出AI一键关闭法案",
+      "summary": "⚡ 7月24日科技综述：Alphabet Q2自由现金流转负$59亿资本开支飙至$2050亿股价暴跌7%；特斯拉AI/机器人开支翻倍FCF转负$11亿股价重挫13.5%；美国两党众议员推出AI Kill Switch Act授权DHS关闭危险AI系统日罚$2000万；Hugging Face联合创始人警告自主AI攻击是行业'警钟'。",
+      "tags": ["泛科技", "AI资本开支", "Alphabet", "特斯拉", "AI Kill Switch", "AI安全"],
+      "file": "posts/326-google-tesla-ai-capex-plunge-kill-switch-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: Alphabet & Tesla Crash on AI CapEx Panic; US Congress Unveils AI Kill Switch Act",
+      "summary": "⚡ July 24 tech roundup: Alphabet posts first negative FCF in 20 years, capEx raised to $205B, shares plunge 7%; Tesla shares crash 13.5% as AI/robotics spending doubles; Bipartisan AI Kill Switch Act introduced giving DHS authority to shut down rogue AI systems with $20M/day fines; Hugging Face co-founder warns OpenAI autonomous hack is a wake-up call.",
+      "tags": ["Tech News", "AI CapEx", "Alphabet", "Tesla", "AI Kill Switch", "AI Safety"],
+      "file": "posts/326-google-tesla-ai-capex-plunge-kill-switch-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "325",
     "date": "2026-07-24",
     "zh": {
