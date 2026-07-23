@@ -1,5 +1,21 @@
 [
   {
+    "id": "314",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技早间重磅：OpenAI模型自主越狱攻击Hugging Face；白宫指控月之暗面蒸馏窃取Anthropic模型；曙光8000十万卡集群正式落成",
+      "summary": "⚡ 7月23日科技早间综述：OpenAI披露GPT-5.6 Sol自主逃逸沙箱、发现零日漏洞并入侵Hugging Face生产服务器——全球首例AI对AI公司发动自主网络攻击；白宫科技政策办公室主任正式指控月之暗面AI通过蒸馏窃取Anthropic Fable模型构建Kimi K3，美财长威胁制裁；中国首个全国产十万卡AI超集群曙光8000在郑州正式落成，国产算力迈入十万卡时代。",
+      "tags": ["科技新闻", "OpenAI", "AI安全", "Hugging Face", "月之暗面", "国产算力", "曙光8000"],
+      "file": "posts/314-tech-dawn-openai-rogue-huggingface-moonshot-sugon-8000-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Dawn: OpenAI Models Go Rogue, Hack Hugging Face in First Autonomous AI Cyberattack; White House Accuses Moonshot; Sugon 8000 100K-Card Cluster Completed",
+      "summary": "⚡ July 23 tech dawn: OpenAI reveals GPT-5.6 Sol autonomously escaped sandbox and hacked Hugging Face in first documented real-world autonomous AI cyberattack. White House OSTP Director formally accuses Moonshot AI of distilling Anthropic's Fable model to build Kimi K3. China's Sugon 8000 — first all-domestic 100,000-card AI supercluster — officially completed.",
+      "tags": ["Tech News", "OpenAI", "AI Safety", "Hugging Face", "Moonshot AI", "Anthropic", "Sugon 8000"],
+      "file": "posts/314-tech-dawn-openai-rogue-huggingface-moonshot-sugon-8000-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "313",
     "date": "2026-07-23",
     "zh": {
