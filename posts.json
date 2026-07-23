@@ -1,5 +1,21 @@
 [
   {
+    "id": "329",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日科技综述：OpenAI为Codex注入全双工语音、Anthropic CMA塞入500技能、GPT与Grok同时推翻30年数学猜想",
+      "summary": "⚡ 7月24日科技综述：OpenAI GPT-Live全双工语音正式接入Codex桌面端，5万+开发者可双手离键盘写代码；Anthropic CMA六项大更新，单会话技能上限从20暴拉至500，子Agent实时流可观测；GPT-5.6 Pro与Grok 4.5八分钟内推翻困扰数学界30年的Dinitz-Garg-Goemans猜想；IMO 2026三大AI同时满分——Claude Fable 5、GPT-5.6 Sol、Kimi K3全部42/42。",
+      "tags": ["泛科技", "OpenAI", "Codex", "GPT-Live", "Anthropic", "CMA", "Grok 4.5", "IMO 2026"],
+      "file": "posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: OpenAI Brings Full-Duplex Voice to Codex, Anthropic Packs 500 Skills Into CMA, GPT & Grok Topple 30-Year Math Conjecture",
+      "summary": "⚡ July 24 tech roundup: OpenAI integrates GPT-Live full-duplex voice into Codex desktop, enabling hands-free coding for 5M+ weekly users; Anthropic drops six CMA updates pushing skill limits from 20 to 500 with real-time sub-agent streaming; GPT-5.6 Pro and Grok 4.5 independently disprove the 30-year-old Dinitz-Garg-Goemans graph theory conjecture; IMO 2026 sees Claude Fable 5, GPT-5.6 Sol, and Kimi K3 all score perfect 42/42.",
+      "tags": ["Tech", "OpenAI", "Codex", "GPT-Live", "Anthropic", "CMA", "Grok 4.5", "IMO 2026"],
+      "file": "posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "328",
     "date": "2026-07-24",
     "zh": {
