@@ -1,5 +1,21 @@
 [
   {
+    "id": "327",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日金融综述：Brent原油冲破100美元、美股全线暴跌、Alphabet与特斯拉AI开支引爆恐慌",
+      "summary": "⚡ 7月24日凌晨金融综述：Brent原油暴涨7%突破100美元大关创七周新高；美股全线暴跌纳指重挫600点、道指跌530点；Alphabet资本开支飙至2050亿美元自由现金流转负盘后暴跌6.9%；特斯拉财报暴雷运营利润率仅1.4%股价暴跌14.3%；美联储加息概率从10%飙至35%美债收益率创19个月新高。",
+      "tags": ["金融经济", "美股", "原油", "布伦特原油", "美联储", "Alphabet", "特斯拉", "中东冲突"],
+      "file": "posts/327-financial-us-stocks-crash-brent-100-alphabet-tesla-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Financial Roundup: Brent Breaks $100, US Stocks Routed, Alphabet & Tesla AI Spending Triggers Market Panic",
+      "summary": "⚡ July 24 financial roundup: Brent crude surges 7% past $100/barrel to 7-week high; US stocks crash with Nasdaq plunging 600 points, Dow down 530; Alphabet CapEx soars to $205B pushing FCF negative for first time, shares fall 6.9%; Tesla operating margin collapses to 1.4%, shares crater 14.3%; Fed rate hike probability jumps from 10% to 35%, 10-year yield at 19-month high.",
+      "tags": ["Financial", "US Stocks", "Crude Oil", "Brent", "Federal Reserve", "Alphabet", "Tesla", "Middle East"],
+      "file": "posts/327-financial-us-stocks-crash-brent-100-alphabet-tesla-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "326",
     "date": "2026-07-24",
     "zh": {
