@@ -1,5 +1,21 @@
 [
   {
+    "id": "319",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日金融晚间综述：欧央行按兵不动维持2.25%利率但9月加息概率飙至73%；美股期货全线重挫纳指跌超1.3% AI资本开支恐慌蔓延；中国央行提前落地5000亿MLF净投放1000亿；布伦特原油冲破$99创七周新高",
+      "summary": "⚡ 7月23日金融晚间综述：欧央行7月利率决议维持2.25%不变，9月加息概率升至73%，拉加德强调数据依赖逐会决策；美股期货暴跌道指-1.03%纳指-1.33%，AI资本开支恐慌与油价飙升双重施压——Alphabet上调年度资本支出至$2050亿，特斯拉自由现金流转负，IBM下调全年指引；中国央行提前落地5000亿MLF净投放1000亿护航A股；布伦特原油冲破$99创七周新高逼近$100大关，WTI突破$91，霍尔木兹与红海双重封锁威胁全球9%石油供应。",
+      "tags": ["金融经济", "欧央行", "ECB", "美股", "原油", "MLF", "美联储", "布伦特", "Alphabet", "特斯拉"],
+      "file": "posts/319-ecb-holds-rates-225-stock-futures-plunge-pboc-mlf-brent-99-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Financial Evening: ECB Holds at 2.25% with 73% September Hike Probability; US Futures Plunge 1%+ on AI Capex Fears; PBOC Front-Loads 500B Yuan MLF; Brent Crude Breaks $99",
+      "summary": "⚡ July 23 financial evening roundup: ECB unanimously holds rates at 2.25% with 73% probability of September hike. US stock futures plunge - Dow -1.03%, Nasdaq -1.33% as Alphabet's $205B capex, Tesla's FCF turning negative, and oil surge to $99+ batter sentiment. PBOC front-loads 500B yuan MLF with net 100B yuan injection to stabilize A-shares. Brent crude breaks $99/barrel, WTI above $91 as dual Red Sea-Strait of Hormuz blockade threatens 9% of global oil supply.",
+      "tags": ["Financial Markets", "ECB", "Rate Decision", "US Stocks", "Crude Oil", "PBOC", "MLF", "Brent", "Alphabet", "Tesla"],
+      "file": "posts/319-ecb-holds-rates-225-stock-futures-plunge-pboc-mlf-brent-99-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "318",
     "date": "2026-07-23",
     "zh": {
