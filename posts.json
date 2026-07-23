@@ -1,5 +1,21 @@
 [
   {
+    "id": "321",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技综述：OpenAI因医疗建议被起诉索赔、三星洽购Mistral AI估值200亿欧元、谷歌Gemini 3.5 Pro三度跳票",
+      "summary": "⚡ 7月23日科技综述：佛罗里达前牧师起诉OpenAI称ChatGPT医疗建议导致肺栓塞险丧命，律师指控AI无证行医；三星据报拟投资10亿欧元入股法国AI独角兽Mistral AI估值200亿欧元；谷歌Gemini 3.5 Pro第三次错过发布窗口，6月训练数据修复效果令人失望，谷歌已启动Gemini 4预训练。",
+      "tags": ["科技新闻", "OpenAI", "AI医疗", "三星", "Mistral AI", "谷歌", "Gemini", "AI投资"],
+      "file": "posts/321-openai-lawsuit-samsung-mistral-gemini-pro-delay-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Roundup: OpenAI Sued Over ChatGPT Medical Advice; Samsung in Talks for €1B Mistral AI Investment; Google Gemini 3.5 Pro Misses Third Launch Window",
+      "summary": "⚡ July 23 tech roundup: Florida pastor sues OpenAI after ChatGPT's medical advice delayed treatment for life-threatening pulmonary embolism; Samsung reportedly in talks to invest up to €1B in Mistral AI at ~€20B valuation; Google Gemini 3.5 Pro misses third consecutive launch window as late-June training data fix disappoints, Gemini 4 pretraining begins.",
+      "tags": ["Tech News", "OpenAI", "AI Healthcare", "Samsung", "Mistral AI", "Google", "Gemini", "AI Investment"],
+      "file": "posts/321-openai-lawsuit-samsung-mistral-gemini-pro-delay-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "320",
     "date": "2026-07-23",
     "zh": {
