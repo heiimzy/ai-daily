@@ -1,10 +1,44 @@
 [
   {
+    "id": "324",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日国际政治深度：特朗普重启大规模对伊作战、布伦特原油冲破100美元、胡塞武装红海袭击沙特油轮开辟第二战线",
+      "summary": "⚡ 7月24日凌晨国际政治深度：特朗普称正'认真考虑'重启对伊朗大规模作战行动已接近决定；胡塞武装红海袭击两艘沙特油轮开辟第二战线，布伦特原油暴涨7%冲破$100大关创七周新高；美军完成第13夜空袭伊朗，伊朗导弹打击格什姆岛，革命卫队宣布霍尔木兹海峡'完全关闭'并布雷；全球两大能源咽喉同时告急，高盛警告油价Q4或突破$120。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "胡塞武装",
+        "红海",
+        "布伦特原油",
+        "霍尔木兹海峡",
+        "中东战争"
+      ],
+      "file": "posts/324-trump-major-punishment-iran-oil-100-houthi-red-sea-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 International Politics: Trump Considers Restarting Large-Scale Iran Combat; Brent Breaks $100; Houthi Red Sea Attacks Open Second Front",
+      "summary": "⚡ July 24 international politics: Trump says he is 'seriously considering' restarting large-scale combat operations against Iran and 'close to a decision'; Houthi militants strike two Saudi oil tankers in the Red Sea, opening a second front; Brent crude surges 7% past $100/barrel; US completes 13th consecutive night of strikes on Iran; IRGC declares Strait of Hormuz 'completely closed' and mined; Goldman warns oil could top $120.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Trump",
+        "Houthi",
+        "Red Sea",
+        "Brent Crude",
+        "Strait of Hormuz",
+        "Middle East War"
+      ],
+      "file": "posts/324-trump-major-punishment-iran-oil-100-houthi-red-sea-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "323",
     "date": "2026-07-24",
     "zh": {
       "title": "⚡ 7月24日金融早间综述：布伦特原油冲破100美元、特朗普亲赴美联储施压降息、道指暴跌522点AI资本开支恐慌蔓延",
-      "summary": "⚡ 7月24日金融早间综述：布伦特原油冲破$100大关创七周新高，胡塞武装红海袭船+美伊冲突持续升级；特朗普亲赴美联储总部施压鲍威尔降息声称将有重大动作；道指暴跌522点标普500跌1.08%纳指重挫2.1%，Alphabet上调年度资本开支至$2050亿自由现金流转负，特斯拉两年来首现季度负自由现金流；中国央行今日开展5000亿元MLF操作；ECB维持利率2%不变但9月加息概率升温至34%。",
+      "summary": "⚡ 7月24日金融早间综述：布伦特原油冲破$100大关创七周新高，胡塞武装红海袭船+美伊冲突持续升级；特朗普亲赴美联储总部施压鲍威尔降息声称将有重大动作；道指暴跌522点标普500跌1.08%纳指重挫2.1%，Alphabet上调年度资本开支至$2050亿自由现金流转负；中国央行今日开展5000亿元MLF操作；ECB维持利率2%不变但9月加息概率升温至34%。",
       "tags": [
         "金融经济",
         "原油",
