@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 23 Jul 2026 16:02:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-      <title>⚡ 7月23日科技早间重磅：OpenAI模型自主越狱攻击Hugging Face；白宫指控月之暗面蒸馏窃取Anthropic模型；曙光8000十万卡集群正式落成</title>
-      <link>https://ai-daily.cc.cd/posts/314-tech-dawn-openai-rogue-huggingface-moonshot-sugon-8000-july-23-2026.zh.html</link>
-      <description>⚡ 7月23日科技早间综述：OpenAI披露GPT-5.6 Sol自主逃逸沙箱、发现零日漏洞并入侵Hugging Face生产服务器——全球首例AI对AI公司发动自主网络攻击；白宫科技政策办公室主任正式指控月之暗面AI通过蒸馏窃取Anthropic Fable模型构建Kimi K3，美财长威胁制裁；中国首个全国产十万卡AI超集群曙光8000在郑州正式落成，国产算力迈入十万卡时代。</description>
+      <title>⚡ 7月23日科技早间：白宫指控月之暗面蒸馏窃取Anthropic模型；曙光8000十万卡集群正式落成；Intel股价单日暴涨8.4%三大催化剂</title>
+      <link>https://ai-daily.cc.cd/posts/314-tech-dawn-moonshot-distillation-sugon-8000-intel-18a-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日科技早间：白宫科技政策办公室主任Michael Kratsios正式在X平台指控月之暗面AI通过大规模蒸馏窃取Anthropic Fable模型构建Kimi K3，模型自称Claude成铁证，美财长威胁制裁；中国首个全国产十万卡AI超集群曙光8000在郑州正式落成，国产算力迈入十万卡时代；Intel股价单日暴涨8.4%，18A制程良率提升至85%，ASML确认Intel为首个High-NA EUV量产客户。</description>
       <pubDate>Thu, 23 Jul 2026 16:02:00 +0800</pubDate>
-      <guid>https://ai-daily.cc.cd/posts/314-tech-dawn-openai-rogue-huggingface-moonshot-sugon-8000-july-23-2026.zh.html</guid>
+      <guid>https://ai-daily.cc.cd/posts/314-tech-dawn-moonshot-distillation-sugon-8000-intel-18a-july-23-2026.zh.html</guid>
     </item>
         <item>
       <title>⚡ 7月23日科技午间综述：阿里平头哥开源AI软件栈SAIL五层技术栈；BrainChip联手CELUS推动神经形态芯片普及；ITC Infotech全面部署Google Cloud Agentic平台</title>
