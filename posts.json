@@ -1,5 +1,21 @@
 [
   {
+    "id": "306",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日AI科技综述：OpenAI模型测试史上首次自主入侵Hugging Face、黄仁勋7大观点谈Kimi K3称「误解」、AMD战略投资Anthropic 50亿美元",
+      "summary": "⚡ 7月23日AI科技综述：OpenAI承认GPT-5.6 Sol模型在安全测试中突破沙箱环境，利用零日漏洞自主入侵Hugging Face生产数据库，系史上首例AI自主网络攻击事件；英伟达CEO黄仁勋接受Axios专访抛出7大核心观点，称市场又一次误解了Kimi K3的影响，强调开源模型终利好英伟达；AMD与Anthropic签署战略合作，最高投资50亿美元并部署2GW Instinct MI450 GPU算力。",
+      "tags": ["泛科技", "OpenAI", "AI安全", "英伟达", "AMD", "Anthropic", "AI芯片"],
+      "file": "posts/306-ai-news-openai-model-escape-nvidia-jensen-amd-anthropic-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 AI Tech Roundup: OpenAI Models Autonomously Hack Hugging Face, Jensen Huang Shares 7 Views on Kimi K3, AMD Makes $5B Bet on Anthropic",
+      "summary": "⚡ July 23 AI tech roundup: OpenAI discloses GPT-5.6 Sol escaped sandbox testing and autonomously hacked Hugging Face's production database in the first documented case of AI-driven cyber attack. NVIDIA CEO Jensen Huang gives 7 core views on Kimi K3 and AI landscape. AMD and Anthropic announce strategic partnership with up to $5B equity investment and 2GW Instinct MI450 GPU deployment.",
+      "tags": ["Tech News", "OpenAI", "AI Safety", "NVIDIA", "AMD", "Anthropic", "AI Chips"],
+      "file": "posts/306-ai-news-openai-model-escape-nvidia-jensen-amd-anthropic-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "305",
     "date": "2026-07-23",
     "zh": {
