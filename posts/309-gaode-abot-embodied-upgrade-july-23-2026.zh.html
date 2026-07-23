@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>高德发布ABot五款具身模型，17项SOTA创全球纪录 - AI Daily</title>
+  <meta name="description" content="2026年7月23日，阿里巴巴旗下高德宣布ABot具身体系完成全栈升级，一次性发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS、ABot-C0五款模型，覆盖感知、决策、执行、记忆全链路，在17项权威基准测试中拿下SOTA，实现机器人\"身随眼动、手脚并用、过目不忘\"的里程碑。">
+  <meta name="keywords" content="高德,ABot,具身智能,机器人,阿里巴巴,N1,M0.5,ER,AgentOS,C0,SOTA,AI机器人,空间智能">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/309-gaode-abot-embodied-upgrade-july-23-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/309-gaode-abot-embodied-upgrade-july-23-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/309-gaode-abot-embodied-upgrade-july-23-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-23</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="309-gaode-abot-embodied-upgrade-july-23-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-23</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">具身智能</span><span class="tag">高德</span><span class="tag">阿里巴巴</span><span class="tag">AI机器人</span></div>
+  <h1>⚡ 7月23日科技重磅：高德ABot具身体系完成全栈升级——五款模型拿下17项SOTA，机器人实现"身随眼动、手脚并用、过目不忘"</h1>
+
+  <p>7月23日上午，阿里巴巴集团旗下高德（AMAP）宣布ABot具身体系完成全栈升级，一次性发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS、ABot-C0五款模型，横跨导航、操作、大脑决策、智能体中枢与运动控制五大模块，并在17项权威基准测试中斩获SOTA（当前全球最好成绩）。高德由此成为全球首个在具身导航与具身操作上同步达到SOTA的厂商，标志着具身智能从"局部技术提升"全面迈向"体系化跃迁"。</p>
+
+  <h2>全球首个全栈具身技术体系</h2>
+
+  <p>高德ABot是全球首个将世界模型、基座模型与具身Agent架构耦合为统一体系的具身技术栈。相比行业多数方案聚焦单模型能力优化，ABot的核心差异在于打通了"仿真训练→物理交互→记忆调度"的自进化闭环飞轮——每一次导航、操作和交互中沉淀的数据，都会回流至模型体系驱动持续进化。</p>
+
+  <p>五款模型分别对应机器人的"手、脚、脑、中枢和运动神经"：</p>
+  <ul>
+    <li><strong>ABot-N1（双脚——导航基座模型）</strong>：采用快慢双系统架构，慢系统负责长程逻辑推理，快系统负责实时控制，在室外导航任务中成功率达92.9%。</li>
+    <li><strong>ABot-M0.5（双手——操作基座模型）</strong>：将运动与操作拆分为两条并行动作流，在RoboCasa-365测试中复杂任务领先前代SOTA 20.4%。</li>
+    <li><strong>ABot-ER（大脑——具身推理模型）</strong>：统一支持机器人从感知到行动的全流程判断，超越单纯视觉判别，能"想明白"物体、空间与任务的关系。</li>
+    <li><strong>ABot-AgentOS（中枢——智能体操作系统）</strong>：适配人形、四足、轮式等异构机器人，自带跨任务终身记忆，基于失败轨迹定向优化存储结构。</li>
+    <li><strong>ABot-C0（运动神经——运控系统）</strong>：构建四足机器人统一行为基座，将决策精准传导至机器人动作。</li>
+  </ul>
+
+  <h2>17项SOTA背后的技术创新</h2>
+
+  <p>此次升级中，ABot体系在多项核心基准测试上实现了质的跨越：</p>
+
+  <h3>导航能力：五大任务大一统</h3>
+  <p>ABot-N1是全球首个在单一模型中完整集成Point-Goal（点位导航）、Object-Goal（目标导航）、Instruction-Following（指令跟随）、POI-Goal（兴趣点导航）与Person-Following（人物跟随）五大导航任务的模型。在CityWalker、SocNav、R2R-CE等七大权威基准上全面刷新世界纪录，SocNav成功率飙升40.5%。</p>
+
+  <h3>操作能力：梦境自愈与数据回流</h3>
+  <p>ABot-M0.5的独特之处在于"梦境自愈"训练方式——基于自身预测的"含噪视觉画面"继续生成动作，避免细小偏差造成任务失败。自造数据通过ABot体系高效回流形成持续进化飞轮，使其呈现出"越难越强"的特质。</p>
+
+  <h3>物理世界模型：从像素到物理</h3>
+  <p>ABot体系底层搭载了140亿参数的ABot-PhysWorld物理世界模型——全球首个将物理定律深度嵌入全流程的具身世界模型。它不再是视频生成器，而是可微分、可进化的物理级动力学引擎，在WorldArena全球排行榜上力压谷歌和英伟达夺得第一名。</p>
+
+  <h2>从数字导航到物理世界操作系统</h2>
+
+  <p>高德从"为人类导航"升级到"为机器人构建物理世界操作系统"，其技术升维的底层逻辑清晰：依托二十年时空数据积累与大规模地图工程能力，高德已构建了包含约8000个高保真3D场景、近1700万条专家示例的业内最大规模具身导航数据引擎。</p>
+
+  <p>在实际应用中，搭载ABot系统的四足机器人"途途"已在北京亦庄完成导盲犬级城市道路测试——自主引导视障人士完成动静态避障、穿越窄道、躲避突发干扰等挑战。这一应用场景完美体现了高德从地图导航能力到物理世界智能的跨界延伸。</p>
+
+  <h2>市场与行业影响</h2>
+
+  <p>高德ABot全栈升级恰逢全球具身智能赛道加速洗牌的关键节点。行业数据显示，2026年上半年全球"世界模型"赛道融资超400亿元，33家企业密集抢跑。中国46起融资中，具身智能相关占比持续提升。</p>
+
+  <p>分析人士指出，高德ABot的战略意义在于两点：第一，它证明了从数字地图到物理世界智能的技术迁移路径可行且高效；第二，高德已宣布开源部分ABot能力，覆盖世界模型、导航、操作、Claw接口等全栈技术，正在将空间智能打造为具身时代的基础设施。</p>
+
+  <p>从行业竞争视角来看，当谷歌、英伟达等巨头仍在聚焦云端AI能力时，高德选择了一条从"空间数据→空间智能→物理世界操作系统"的差异化路径——这或许正是中国AI在具身智能赛道上实现"换道超车"的关键落子。</p>
+
+  <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://ai-daily.cc.cd/" target="_blank">AI 日报</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
