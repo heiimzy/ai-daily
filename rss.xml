@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 23 Jul 2026 19:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:06:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月23日科技晚间综述：SpaceX星舰第13飞今晚窗口开启首载20颗V3星链；亚马逊裁撤AGI部门聚焦客户AI；SpaceX股价承压三重利空</title>
+      <link>https://ai-daily.cc.cd/posts/318-starship-flight-13-amazon-agi-tech-roundup-july-23-2026.zh.html</link>
+      <description>⚡ 7月23日科技晚间综述：SpaceX星舰Flight 13今晚发射窗口开启，首载20颗Starlink V3卫星为首次实战部署，替换两颗猛禽发动机后再度尝试；亚马逊裁撤AGI部门部分岗位聚焦客户AI产品，累计裁员超3万但年资本支出达2000亿美元；SpaceX股价跌至$116.72三重利空齐袭——600亿美元Cursor收购稀释、9.1亿股解禁潮、猛禽发动机可靠性疑虑。</description>
+      <pubDate>Thu, 23 Jul 2026 20:06:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/318-starship-flight-13-amazon-agi-tech-roundup-july-23-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月23日科技晚间：阿里开源Qwen-Image-Layered实现PS级图层图像生成；OpenAI签署380亿美元AWS算力协议；智源发布RoboBrain Orca世界模型</title>
       <link>https://ai-daily.cc.cd/posts/317-qwen-image-layered-openai-aws-robrain-orca-july-23-2026.zh.html</link>
