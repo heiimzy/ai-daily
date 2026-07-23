@@ -1,5 +1,21 @@
 [
   {
+    "id": "320",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日国际政治深度：特朗普为美沙核协议增设亚伯拉罕协议前提；伊朗革命卫队拦截三艘油轮封锁霍尔木兹；美军空袭布什尔核电站附近电站；科威特拦截伊朗无人机",
+      "summary": "⚡ 7月23日国际政治深度：特朗普在Truth Social发帖称美沙民用核协议\"完全取决于\"沙特加入亚伯拉罕协议，明确禁止铀浓缩；伊朗革命卫队宣布拦截三艘油轮阻止通过霍尔木兹海峡；美军第13夜空袭打击布什尔核电站附近电站致周边停电；科威特防空部队在阿卜杜勒边境口岸拦截伊朗无人机攻击；伊朗外交部谴责英国允许美军使用英军基地参与打击伊朗的行动；布伦特原油逼近$100/桶大关，全球两大能源咽喉同时受威胁。",
+      "tags": ["国际政治", "美伊冲突", "特朗普", "沙特核协议", "亚伯拉罕协议", "霍尔木兹海峡", "伊朗", "科威特", "英国", "布什尔核电站"],
+      "file": "posts/320-trump-saudi-abraham-accords-nuclear-iran-hormuz-tankers-bushehr-kuwait-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 International Politics: Trump Conditions Saudi Nuclear Deal on Abraham Accords; Iran Stops Three Oil Tankers at Hormuz; US Strikes Near Bushehr Nuclear Plant; Kuwait Intercepts Iranian Drones",
+      "summary": "⚡ July 23 international politics deep dive: Trump posts on Truth Social that US-Saudi civil nuclear deal is 'totally subject' to Saudi Arabia joining the Abraham Accords, bans uranium enrichment. Iran's IRGC intercepts three oil tankers at Strait of Hormuz. US 13th night of strikes hits power station near Bushehr nuclear plant. Kuwait air defenses intercept hostile Iranian drones at Al-Abdali border crossing. Iran's Foreign Ministry condemns UK for allowing US to use British bases. Brent crude surges toward $100/barrel as two global energy chokepoints come under simultaneous threat.",
+      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Saudi Nuclear Deal", "Abraham Accords", "Strait of Hormuz", "Iran", "Kuwait", "UK", "Bushehr"],
+      "file": "posts/320-trump-saudi-abraham-accords-nuclear-iran-hormuz-tankers-bushehr-kuwait-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "319",
     "date": "2026-07-23",
     "zh": {
