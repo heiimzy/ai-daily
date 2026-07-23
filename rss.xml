@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 24 Jul 2026 02:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 03:03:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月24日科技前沿：Anthropic升级Claude语音模式、前Google高管打造AI防御平台获3600万美元、OpenAI向全美开放ChatGPT Health</title>
+      <link>https://ai-daily.cc.cd/posts/325-anthropic-voice-upgrade-aegisai-cyber-chatgpt-health-july-24-2026.zh.html</link>
+      <description>⚡ 7月24日凌晨科技前沿：Anthropic升级Claude语音模式支持Opus/Sonnet/Haiku三模型，接入Gmail/Calendar/Slack/Canva/Notion等办公应用；前Google安全高管创立AegisAI获3600万美元A轮融资，用AI Agent防御AI驱动的鱼叉式钓鱼攻击；OpenAI向全美18岁以上用户开放ChatGPT Health，已接入Epic/Oracle Health医疗系统，每周健康查询量达3亿次。</description>
+      <pubDate>Fri, 24 Jul 2026 03:03:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/325-anthropic-voice-upgrade-aegisai-cyber-chatgpt-health-july-24-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月24日国际政治深度：特朗普重启大规模对伊作战、布伦特原油冲破100美元、胡塞武装红海袭击沙特油轮开辟第二战线</title>
       <link>https://ai-daily.cc.cd/posts/324-trump-major-punishment-iran-oil-100-houthi-red-sea-july-24-2026.zh.html</link>
