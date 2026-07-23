@@ -1,5 +1,39 @@
 [
   {
+    "id": "313",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技午间综述：阿里平头哥开源AI软件栈SAIL五层技术栈；BrainChip联手CELUS推动神经形态芯片普及；ITC Infotech全面部署Google Cloud Agentic平台",
+      "summary": "⚡ 7月23日科技午间综述：阿里平头哥在WAIC现场开源五层AI软件栈T-Head SAIL；BrainChip与CELUS达成战略合作将神经形态芯片AKD1500引入主流硬件设计；ITC Infotech全面部署Google Cloud Gemini Enterprise推动企业Agentic转型。开源、开放、生态共建正在成为AI产业竞争的新关键词。",
+      "tags": [
+        "科技新闻",
+        "阿里平头哥",
+        "开源",
+        "BrainChip",
+        "神经形态计算",
+        "Google Cloud",
+        "Agentic AI",
+        "WAIC 2026"
+      ],
+      "file": "posts/313-tech-roundup-t-head-sail-brainchip-celus-itc-google-cloud-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Roundup: Alibaba T-Head Open-Sources SAIL AI Stack; BrainChip Partners with CELUS for Neuromorphic Edge AI; ITC Infotech Deploys Google Cloud Gemini Enterprise",
+      "summary": "⚡ July 23 tech roundup: Alibaba's T-Head open-sources its full five-layer AI software stack SAIL at WAIC 2026. BrainChip and CELUS partner to bring neuromorphic edge AI processor AKD1500 to mainstream hardware design. ITC Infotech goes all-in on Google Cloud Gemini Enterprise for enterprise agentic transformation.",
+      "tags": [
+        "Tech News",
+        "Alibaba",
+        "T-Head",
+        "Open Source",
+        "BrainChip",
+        "Neuromorphic",
+        "Google Cloud",
+        "Agentic AI"
+      ],
+      "file": "posts/313-tech-roundup-t-head-sail-brainchip-celus-itc-google-cloud-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "312",
     "date": "2026-07-23",
     "zh": {
