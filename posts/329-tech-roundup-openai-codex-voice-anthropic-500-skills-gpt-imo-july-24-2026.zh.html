@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7月24日科技综述：OpenAI为Codex注入全双工语音、Anthropic CMA塞入500技能、GPT-5.6 Pro推翻30年图论猜想 - AI Daily</title>
+  <meta name="description" content="⚡ 7月24日科技综述：OpenAI GPT-Live全双工语音正式接入Codex桌面端，5万+开发者可双手离键盘写代码；Anthropic CMA六项大更新，单会话技能上限从20暴拉至500，子Agent实时流可观测；GPT-5.6 Pro与Grok 4.5八分钟内推翻困扰数学界30年的Dinitz-Garg-Goemans猜想；IMO 2026三大AI同时满分。">
+  <meta name="keywords" content="OpenAI,GPT-Live,Codex,全双工语音,Anthropic,CMA,500技能,Agent,图论猜想,Grok 4.5,GPT-5.6,IMO 2026,AI满分,7月24日,科技新闻">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-24</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-24</div>
+  <div class="post-tags">
+    <span class="tag">泛科技</span>
+    <span class="tag">OpenAI</span>
+    <span class="tag">Codex</span>
+    <span class="tag">GPT-Live</span>
+    <span class="tag">Anthropic</span>
+    <span class="tag">Grok 4.5</span>
+    <span class="tag">IMO 2026</span>
+    <span class="tag">数学突破</span>
+  </div>
+  <h1>⚡ 7月24日科技综述：OpenAI为Codex注入全双工语音、Anthropic CMA塞入500技能、GPT与Grok同时推翻30年数学猜想</h1>
+
+  <h2>一、OpenAI GPT-Live 全双工语音正式接入 Codex 桌面端</h2>
+
+  <p>OpenAI 于7月23日正式宣布，其全双工语音模型 GPT-Live 现已集成至 ChatGPT 桌面应用，并直接接入 Codex 和 ChatGPT Work 两大智能体系统。这意味着超过500万 Codex 周活跃用户现在可以用自然语言对话的方式编程——一边说话一边写代码，AI 在后台同步执行推理任务。</p>
+
+  <p>GPT-Live 于7月8日首次发布，其核心特点是全双工（full-duplex）能力：AI 能够同时听和说，无需等待用户说完再回应，对话节奏更接近真人交互。如今这一能力被扩展至开发者工作流，工程师可通过语音命令启动多线程编码任务、审查 Pull Request、调试应用，甚至多人同房间与同一个AI对话协作编程。</p>
+
+  <p>OpenAI 发布的演示视频中，两位工程师同时在同一个 ChatGPT 桌面会话中说话，分别发出不同的指令，模型能同时理解两人的意图并分别回应。在 macOS 上，桌面应用集成了"Appshots"和屏幕上下文功能，允许 ChatGPT Voice 分析前台窗口的内容、本地文件、代码库结构和活跃插件。</p>
+
+  <p>技术架构上，GPT-Live 将实时语音层与底层执行引擎解耦：语音层负责流畅对话（插入"好的""嗯"等自然语气词而不打断用户），而繁重的计算工作负载则交给后台推理模型（如 GPT-5.5）处理。这种架构创造了一种"结对编程"的实时协作体验——开发者通过对话梳理思路，Agent 异步执行具体任务。</p>
+
+  <blockquote>
+    <p>"今天 OpenAI 将发布 Codex 语音和远程引导功能！离个人 AGI 又近了一步。"——AI 记者 @ChrisGPT</p>
+  </blockquote>
+
+  <p>此次更新是 Codex 7月份一系列密集产品迭代的最新动作。此前，OpenAI 已于7月9日发布了 GPT-5.6 系列三款模型（Sol、Terra、Luna），并将 Codex 与 ChatGPT 桌面应用合并，形成了集聊天、编程、自主工作于一体的统一平台。业内分析认为，语音集成标志着 AI 编程工具从"键盘输入"向"语音指挥"的关键转型。</p>
+
+  <h2>二、Anthropic CMA 大更新：500个技能 + 子 Agent 实时流，押注智能体 OS 级深度</h2>
+
+  <p>同日，Anthropic 在其托管智能体平台 CMA（Claude Managed Agent）上一口气推出了六项重大更新，核心方向是将 Agent 的能力密度推向操作系统级别。</p>
+
+  <h3>技能上限从20拉到500</h3>
+  <p>此前 CMA 单会话技能上限仅为20个，严重限制了复杂业务场景的部署。一个金融客服 Agent 往往需要覆盖不同产品线、监管差异和多语言版本，20个技能位远远不够。现在上限直接拉到500——一个会话足以装下一整座企业知识库。500个技能位由同一会话内的所有 Agent 共享，跑在统一的托管沙盒中，Agent 之间共享内存和环境变量。</p>
+
+  <h3>思考力度五档调速</h3>
+  <p>Anthropic 新增了五个思考力度档位：low / medium / high / xhigh / max。这意味着在多 Agent 系统中，不同类型的 Agent 可按需使用不同的推理深度——路由分流 Agent 用 low，产品答疑用 medium，投诉升级用 high，法律合规用 max。同一个会话内，成本与质量之间终于有了一个连续的调节旋钮。</p>
+
+  <h3>子 Agent 黑盒彻底打开</h3>
+  <p>6月底 CMA 刚上线了会话级的事件实时预览，但子 Agent 的运行状态仍然是个黑盒。本次更新将可观测性下探到线程级别：订阅子 Agent 的独立线程流后，每个子 Agent 想到哪里、写到哪里，都能实时可见。此外，创建会话可一步到位（POST /v1/sessions 直接带最多50条初始事件），冷启动延迟大幅降低。</p>
+
+  <h3>7种新 Webhook 补位</h3>
+  <p>Anthropic 补上了 CMA 最后两块可运维拼图：4种环境事件 + 3种记忆存储事件。至此，CMA 的整个生命周期——环境搭建、Agent 部署、运行状态、记忆管理——全部可事件驱动地与外部系统打通。环境暂停时自动触发告警，记忆存储更新时同步到企业数据库。</p>
+
+  <blockquote>
+    <p>"从20到500，Anthropic 盘算的是，什么时候能把 Agent 变成和操作系统一样基础的东西。速度已经给出了答案：很快。"——新智元</p>
+  </blockquote>
+
+  <p>当前 AI Agent 基础设施竞赛已进入深水区：OpenAI 赌超级应用入口，Google 赌基础设施，而 Anthropic 赌 OS 级深度——在单 Agent 的能力密度上做文章，并通过 CMA 托管沙盒提供全栈控制。</p>
+
+  <h2>三、GPT-5.6 Pro 与 Grok 4.5 八分钟内推翻30年图论猜想</h2>
+
+  <p>一个困扰数学界约30年的图论猜想——Dinitz-Garg-Goemans 猜想——在7月23日被 AI 同时推翻。更令人惊叹的是，OpenAI 的 GPT-5.6 Pro 和 xAI 的 Grok 4.5 在几小时内相继独立完成了这一突破，且方式截然不同。</p>
+
+  <h3>GPT-5.6 Pro：仅用4条提示词、58个英文单词</h3>
+  <p>研究者 Dmitry Rybin 公开了与 GPT-5.6 Pro 的完整对话记录。整个过程他只输入了4条提示词，加起来仅58个英文单词。没有几千字的提示词工程，没有复杂公式推导——就是一轮轮"催更"：第一次，模型没找到反例；第二次，继续缩小范围；第三次，已经逼近答案；第四次，"让我们用一个完整的无条件反例收尾"。最终，GPT-5.6 Pro 端出了一张仅7个节点、9条有向边的反例图，外加四页证明证书、精确穷举验证程序和 LaTeX 源码。</p>
+
+  <p>该猜想的核心是关于分数流（fractional flow）与不可分割流（unsplittable flow）之间的成本关系。GPT-5.6 Pro 构造的反例具有分数流成本58，而任何符合容量限制的不可分割流的最低成本为60——这2单位的差距直接推翻了猜想。</p>
+
+  <h3>Grok 4.5：Slack 内8分钟偶然触发</h3>
+  <p>更具戏剧性的是，xAI 的 Grok 4.5（运行在 Medium 版本上的 AI "Capy"）在团队 Slack 频道的日常讨论中偶然触发突破。团队将 Rybin 的帖子分享到内部 Slack 后，Capy 主动尝试求解，在8分钟内找到了一个新颖的反例，独立完成了推理与验证。马斯克亲自点赞转发："Grok 4.5 刚刚解决了一个悬而未决约30年的图论猜想。"</p>
+
+  <p>这一成果的特别之处在于，Grok 4.5 并非在受控研究环境中被专门部署于该问题——而是在一次随机的团队讨论中自主"介入"并独立完成。这凸显了当前顶级 AI 模型在数学推理方面的实际落地能力已远超预期。</p>
+
+  <p>Rybin 本人最初是通过与 GPT-5 的对话完成的发现，而 Grok 4.5 随后以不同路径独立给出相同的结论。两大顶级模型在同一数学难题上从不同思路殊途同归，展示了当前 AI 数学推理能力的竞争态势。</p>
+
+  <h2>四、IMO 2026：三大 AI 同时拿下满分42分，击败99.3%人类选手</h2>
+
+  <p>第67届国际数学奥林匹克（IMO 2026）刚刚落幕，一份 AI 横评成绩单震惊了整个数学界。前 Google 工程师 Deedy Das 组织了一场 AI 横评：7个前沿大模型全自主挑战 IMO 2026 全部6道题，结果三大 AI 同时拿下42分满分。</p>
+
+  <ul>
+    <li><strong>Claude Fable 5</strong>：2.5小时，耗资51美元，干净利落拿下满分</li>
+    <li><strong>GPT-5.6 Sol（xhigh 版本）</strong>：3.8小时，仅耗资20美元——最省钱的满分</li>
+    <li><strong>Kimi K3</strong>：17.4小时鏖战，耗资31美元——2.8万亿参数的"巨兽"奋战到底</li>
+  </ul>
+
+  <p>作为参照，过去七年 IMO 共有4347名人类选手参赛，仅30人拿过满分（占比0.69%）。三大 AI 同时满分意味着，通用大模型在不经过任何专项数学训练的情况下，已经达到了人类顶尖数学竞赛选手的水平。</p>
+
+  <p>值得注意的是，去年 IMO 2025 全球仅6名人类选手解出的第6题压轴数论题——今年 Claude Fable 5 仅用26分钟、两轮对话就拿下满分；GPT-5.6 Sol 用时60分钟、两轮满分；Kimi K3 耗时381分钟、四轮冲锋也成功拿下。</p>
+
+  <p>从2024年 DeepMind AlphaProof 首摸银牌门槛，到2025年 OpenAI 未公开模型解5题拿35分金牌，再到2026年三个通用大模型同时满分——仅三年时间，AI 在数学推理赛道上完成了三级跳。而且今年这些模型没有经过任何专项数学训练，所有人都能用上，其中 Kimi K3 还是开源的。</p>
+
+  <p>这场测试的起点是一家叫 Axiom Math 的公司——他们将 IMO 2026 的全部6道考题逐字逐句翻译成了机器可读的 Lean 4 形式化题面，让 AI 可以直接输出 Lean 证明、由编译器自动判分。这为未来 AI 数学能力的评估建立了一个可重复的标准化框架。</p>
+
+  <p>正如研究者所言："遇到棘手问题，只需打开手机就行了。"——这句话在2026年变成了现实。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
