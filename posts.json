@@ -1,17 +1,69 @@
 [
   {
+    "id": "322",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技综述：AI芯片新星Etched估值103亿美元、英伟达GPU首次登月、美国AI一键关闭法案出台、谷歌Gemini逼近10亿用户",
+      "summary": "⚡ 7月23日科技综述：AI芯片创业公司Etched完成3亿美元C轮融资估值103亿美元；英伟达Jetson GPU将随Lunar Outpost月球车登陆月球；美国两党众议员提出AI Kill Switch Act，授权DHS关闭危险AI系统日罚2000万美元；谷歌Gemini月活跃用户逼近10亿里程碑。",
+      "tags": [
+        "科技新闻",
+        "AI芯片",
+        "英伟达",
+        "太空科技",
+        "AI立法",
+        "谷歌",
+        "Gemini",
+        "Etched"
+      ],
+      "file": "posts/322-etched-chip-nvidia-moon-kill-switch-gemini-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Roundup: Etched Hits $10.3B, Nvidia GPUs Head to the Moon, US Congress Unveils AI Kill Switch Act, Google Gemini Nears 1B Users",
+      "summary": "⚡ July 23 tech roundup: AI chip startup Etched raises $300M at $10.3B valuation; Nvidia Jetson GPU becomes first GPU on the lunar surface; Bipartisan lawmakers introduce AI Kill Switch Act with $20M/day fines; Google Gemini approaches 1 billion monthly active users.",
+      "tags": [
+        "Tech News",
+        "AI Chips",
+        "Nvidia",
+        "Space Tech",
+        "AI Legislation",
+        "Google",
+        "Gemini",
+        "Etched"
+      ],
+      "file": "posts/322-etched-chip-nvidia-moon-kill-switch-gemini-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "321",
     "date": "2026-07-23",
     "zh": {
       "title": "⚡ 7月23日科技综述：OpenAI因医疗建议被起诉索赔、三星洽购Mistral AI估值200亿欧元、谷歌Gemini 3.5 Pro三度跳票",
       "summary": "⚡ 7月23日科技综述：佛罗里达前牧师起诉OpenAI称ChatGPT医疗建议导致肺栓塞险丧命，律师指控AI无证行医；三星据报拟投资10亿欧元入股法国AI独角兽Mistral AI估值200亿欧元；谷歌Gemini 3.5 Pro第三次错过发布窗口，6月训练数据修复效果令人失望，谷歌已启动Gemini 4预训练。",
-      "tags": ["科技新闻", "OpenAI", "AI医疗", "三星", "Mistral AI", "谷歌", "Gemini", "AI投资"],
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "AI医疗",
+        "三星",
+        "Mistral AI",
+        "谷歌",
+        "Gemini",
+        "AI投资"
+      ],
       "file": "posts/321-openai-lawsuit-samsung-mistral-gemini-pro-delay-july-23-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 23 Tech Roundup: OpenAI Sued Over ChatGPT Medical Advice; Samsung in Talks for €1B Mistral AI Investment; Google Gemini 3.5 Pro Misses Third Launch Window",
       "summary": "⚡ July 23 tech roundup: Florida pastor sues OpenAI after ChatGPT's medical advice delayed treatment for life-threatening pulmonary embolism; Samsung reportedly in talks to invest up to €1B in Mistral AI at ~€20B valuation; Google Gemini 3.5 Pro misses third consecutive launch window as late-June training data fix disappoints, Gemini 4 pretraining begins.",
-      "tags": ["Tech News", "OpenAI", "AI Healthcare", "Samsung", "Mistral AI", "Google", "Gemini", "AI Investment"],
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "AI Healthcare",
+        "Samsung",
+        "Mistral AI",
+        "Google",
+        "Gemini",
+        "AI Investment"
+      ],
       "file": "posts/321-openai-lawsuit-samsung-mistral-gemini-pro-delay-july-23-2026.en.html"
     }
   },
@@ -21,13 +73,35 @@
     "zh": {
       "title": "⚡ 7月23日国际政治深度：特朗普为美沙核协议增设亚伯拉罕协议前提；伊朗革命卫队拦截三艘油轮封锁霍尔木兹；美军空袭布什尔核电站附近电站；科威特拦截伊朗无人机",
       "summary": "⚡ 7月23日国际政治深度：特朗普在Truth Social发帖称美沙民用核协议\"完全取决于\"沙特加入亚伯拉罕协议，明确禁止铀浓缩；伊朗革命卫队宣布拦截三艘油轮阻止通过霍尔木兹海峡；美军第13夜空袭打击布什尔核电站附近电站致周边停电；科威特防空部队在阿卜杜勒边境口岸拦截伊朗无人机攻击；伊朗外交部谴责英国允许美军使用英军基地参与打击伊朗的行动；布伦特原油逼近$100/桶大关，全球两大能源咽喉同时受威胁。",
-      "tags": ["国际政治", "美伊冲突", "特朗普", "沙特核协议", "亚伯拉罕协议", "霍尔木兹海峡", "伊朗", "科威特", "英国", "布什尔核电站"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "特朗普",
+        "沙特核协议",
+        "亚伯拉罕协议",
+        "霍尔木兹海峡",
+        "伊朗",
+        "科威特",
+        "英国",
+        "布什尔核电站"
+      ],
       "file": "posts/320-trump-saudi-abraham-accords-nuclear-iran-hormuz-tankers-bushehr-kuwait-july-23-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 23 International Politics: Trump Conditions Saudi Nuclear Deal on Abraham Accords; Iran Stops Three Oil Tankers at Hormuz; US Strikes Near Bushehr Nuclear Plant; Kuwait Intercepts Iranian Drones",
       "summary": "⚡ July 23 international politics deep dive: Trump posts on Truth Social that US-Saudi civil nuclear deal is 'totally subject' to Saudi Arabia joining the Abraham Accords, bans uranium enrichment. Iran's IRGC intercepts three oil tankers at Strait of Hormuz. US 13th night of strikes hits power station near Bushehr nuclear plant. Kuwait air defenses intercept hostile Iranian drones at Al-Abdali border crossing. Iran's Foreign Ministry condemns UK for allowing US to use British bases. Brent crude surges toward $100/barrel as two global energy chokepoints come under simultaneous threat.",
-      "tags": ["International Politics", "US-Iran Conflict", "Trump", "Saudi Nuclear Deal", "Abraham Accords", "Strait of Hormuz", "Iran", "Kuwait", "UK", "Bushehr"],
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Trump",
+        "Saudi Nuclear Deal",
+        "Abraham Accords",
+        "Strait of Hormuz",
+        "Iran",
+        "Kuwait",
+        "UK",
+        "Bushehr"
+      ],
       "file": "posts/320-trump-saudi-abraham-accords-nuclear-iran-hormuz-tankers-bushehr-kuwait-july-23-2026.en.html"
     }
   },
@@ -37,13 +111,35 @@
     "zh": {
       "title": "⚡ 7月23日金融晚间综述：欧央行按兵不动维持2.25%利率但9月加息概率飙至73%；美股期货全线重挫纳指跌超1.3% AI资本开支恐慌蔓延；中国央行提前落地5000亿MLF净投放1000亿；布伦特原油冲破$99创七周新高",
       "summary": "⚡ 7月23日金融晚间综述：欧央行7月利率决议维持2.25%不变，9月加息概率升至73%，拉加德强调数据依赖逐会决策；美股期货暴跌道指-1.03%纳指-1.33%，AI资本开支恐慌与油价飙升双重施压——Alphabet上调年度资本支出至$2050亿，特斯拉自由现金流转负，IBM下调全年指引；中国央行提前落地5000亿MLF净投放1000亿护航A股；布伦特原油冲破$99创七周新高逼近$100大关，WTI突破$91，霍尔木兹与红海双重封锁威胁全球9%石油供应。",
-      "tags": ["金融经济", "欧央行", "ECB", "美股", "原油", "MLF", "美联储", "布伦特", "Alphabet", "特斯拉"],
+      "tags": [
+        "金融经济",
+        "欧央行",
+        "ECB",
+        "美股",
+        "原油",
+        "MLF",
+        "美联储",
+        "布伦特",
+        "Alphabet",
+        "特斯拉"
+      ],
       "file": "posts/319-ecb-holds-rates-225-stock-futures-plunge-pboc-mlf-brent-99-july-23-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 23 Financial Evening: ECB Holds at 2.25% with 73% September Hike Probability; US Futures Plunge 1%+ on AI Capex Fears; PBOC Front-Loads 500B Yuan MLF; Brent Crude Breaks $99",
       "summary": "⚡ July 23 financial evening roundup: ECB unanimously holds rates at 2.25% with 73% probability of September hike. US stock futures plunge - Dow -1.03%, Nasdaq -1.33% as Alphabet's $205B capex, Tesla's FCF turning negative, and oil surge to $99+ batter sentiment. PBOC front-loads 500B yuan MLF with net 100B yuan injection to stabilize A-shares. Brent crude breaks $99/barrel, WTI above $91 as dual Red Sea-Strait of Hormuz blockade threatens 9% of global oil supply.",
-      "tags": ["Financial Markets", "ECB", "Rate Decision", "US Stocks", "Crude Oil", "PBOC", "MLF", "Brent", "Alphabet", "Tesla"],
+      "tags": [
+        "Financial Markets",
+        "ECB",
+        "Rate Decision",
+        "US Stocks",
+        "Crude Oil",
+        "PBOC",
+        "MLF",
+        "Brent",
+        "Alphabet",
+        "Tesla"
+      ],
       "file": "posts/319-ecb-holds-rates-225-stock-futures-plunge-pboc-mlf-brent-99-july-23-2026.en.html"
     }
   },
@@ -53,13 +149,29 @@
     "zh": {
       "title": "⚡ 7月23日科技晚间综述：SpaceX星舰第13飞今晚窗口开启首载20颗V3星链；亚马逊裁撤AGI部门聚焦客户AI；SpaceX股价承压三重利空",
       "summary": "⚡ 7月23日科技晚间综述：SpaceX星舰Flight 13今晚发射窗口开启，首载20颗Starlink V3卫星为首次实战部署，替换两颗猛禽发动机后再度尝试；亚马逊裁撤AGI部门部分岗位聚焦客户AI产品，累计裁员超3万但年资本支出达2000亿美元；SpaceX股价跌至$116.72三重利空齐袭——600亿美元Cursor收购稀释、9.1亿股解禁潮、猛禽发动机可靠性疑虑。",
-      "tags": ["泛科技", "SpaceX", "星舰", "Starlink", "亚马逊", "AGI", "AI裁员"],
+      "tags": [
+        "泛科技",
+        "SpaceX",
+        "星舰",
+        "Starlink",
+        "亚马逊",
+        "AGI",
+        "AI裁员"
+      ],
       "file": "posts/318-starship-flight-13-amazon-agi-tech-roundup-july-23-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 23 Tech Evening: SpaceX Starship Flight 13 Targets Tonight with First Starlink V3 Deploy; Amazon Cuts AGI Staff; SPCX Stock Down 48% from Peak",
       "summary": "⚡ July 23 tech evening roundup: SpaceX Starship Flight 13 launch window opens tonight at 6:45 PM ET carrying 20 Starlink V3 satellites for first operational payload deployment after Raptor engine abort on July 16; Amazon cuts jobs in AGI unit behind Nova AI models amid $200B annual capex plan and 30,000+ total layoffs since late 2025; SpaceX stock (SPCX) falls to $116.72 weighed by $60B Cursor dilution, 911M share lock-up expiry, and Raptor reliability concerns.",
-      "tags": ["Tech News", "SpaceX", "Starship", "Starlink V3", "Amazon", "AGI", "AI Layoffs"],
+      "tags": [
+        "Tech News",
+        "SpaceX",
+        "Starship",
+        "Starlink V3",
+        "Amazon",
+        "AGI",
+        "AI Layoffs"
+      ],
       "file": "posts/318-starship-flight-13-amazon-agi-tech-roundup-july-23-2026.en.html"
     }
   },
