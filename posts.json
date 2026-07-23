@@ -1,17 +1,69 @@
 [
   {
+    "id": "316",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日国际政治深度：卢比奥马尼拉“伊朗不认真谈和”；美军第12夜炸沙勒切赫口岸2死；伊朗报复摧毁爱国者THAAD；巴林全境警报；2300人强闯阿克萨",
+      "summary": "⚡ 7月23日国际政治最新：美国务卿卢比奥在马尼拉称伊朗“不认真谈和”，特朗普政策“一报还一报”；美军第12夜打击伊朗沙勒切赫边境口岸客运站致2死11伤；伊朗革命卫队宣称摧毁科威特爱国者系统和约旦THAAD雷达；约旦拦截4枚伊朗导弹6架无人机；巴林拉响敌对飞行器警报；超过2300名犹太定居者在以色列国家安全部长本-格维尔带领下闯入阿克萨清真寺；WSJ披露美国正向中东增派特种部队和F-16/F-35战斗机。",
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "卢比奥",
+        "伊朗",
+        "约旦",
+        "巴林",
+        "阿克营清真寺",
+        "中东局势"
+      ],
+      "file": "posts/316-rubio-manila-iran-serious-shalamcheh-border-bahrain-sirens-al-aqsa-us-troops-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 International Politics: Rubio Says Iran 'Not Serious' in Manila; US 12th Night Strike Kills 2 at Shalamcheh Border; Iran Destroys Patriot, THAAD; Bahrain Air Raid Sirens; 2,300 Settlers Storm Al-Aqsa",
+      "summary": "⚡ July 23 international politics update: US Secretary of State Marco Rubio declares Iran 'not serious about making a deal' at Manila ASEAN press conference; US 12th consecutive night of strikes hits Shalamcheh border crossing passenger terminal killing 2; Iran's IRGC claims destruction of Patriot system in Kuwait and THAAD radar in Jordan; Jordan intercepts 4 Iranian missiles and 6 drones; Bahrain activates nationwide air raid sirens; 2,300 Jewish settlers storm Al-Aqsa Mosque led by Ben-Gvir; WSJ reports US deploying special forces, F-16s, F-35s to Middle East.",
+      "tags": [
+        "International Politics",
+        "US-Iran Conflict",
+        "Rubio",
+        "Iran",
+        "Jordan",
+        "Bahrain",
+        "Al-Aqsa",
+        "Middle East"
+      ],
+      "file": "posts/316-rubio-manila-iran-serious-shalamcheh-border-bahrain-sirens-al-aqsa-us-troops-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "315",
     "date": "2026-07-23",
     "zh": {
       "title": "⚡ 7月23日金融收盘综述：布伦特原油逼近$98创七周新高，胡塞武装红海攻击两艘沙特油轮，A股三大指数微涨超4200股飘红",
       "summary": "⚡ 7月23日金融收盘综述：布伦特原油飙涨4%至$97.84创七周新高，胡塞武装在红海攻击两艘沙特油轮Encelia号和Layla号，红海新战线威胁全球5%石油供应；特朗普威胁每打一艘船就炸一座伊朗桥梁电厂，美军完成第12夜空袭；A股三大指数微幅收涨，沪指涨0.25%报3876.78点，超4200股飘红，电网设备近30股涨停，半导体逆势重挫华虹宏力跌12%。欧洲央行今晚公布利率决议，市场预期维持2.25%不变但聚焦9月加息信号。",
-      "tags": ["金融经济", "原油", "布伦特", "胡塞武装", "红海", "A股", "欧洲央行", "黄金"],
+      "tags": [
+        "金融经济",
+        "原油",
+        "布伦特",
+        "胡塞武装",
+        "红海",
+        "A股",
+        "欧洲央行",
+        "黄金"
+      ],
       "file": "posts/315-financial-close-brent-97-houthi-tanker-ashare-ecb-july-23-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 23 Financial Close: Brent Surges 4% to $97.84 as Houthis Attack Saudi Tankers in Red Sea; A-Share Indices Edge Higher; ECB Decision Tonight",
       "summary": "⚡ July 23 financial close: Brent crude surges 4% to $97.84, 7-week high, as Houthis attack two Saudi oil tankers Encelia and Layla in Red Sea opening new energy front. Trump vows bridge/power plant retaliation. A-shares close higher - Shanghai Composite +0.25%, 4,200+ stocks up, grid equipment sector sees 30 stocks hit daily limit up, semiconductors plunge. ECB holds rates at 2.25% expected, focus on Lagarde's September hike signal.",
-      "tags": ["Financial Markets", "Crude Oil", "Brent", "Houthi", "Red Sea", "A-Share", "ECB", "Gold"],
+      "tags": [
+        "Financial Markets",
+        "Crude Oil",
+        "Brent",
+        "Houthi",
+        "Red Sea",
+        "A-Share",
+        "ECB",
+        "Gold"
+      ],
       "file": "posts/315-financial-close-brent-97-houthi-tanker-ashare-ecb-july-23-2026.en.html"
     }
   },
@@ -21,13 +73,29 @@
     "zh": {
       "title": "⚡ 7月23日科技早间：白宫指控月之暗面蒸馏窃取Anthropic模型；曙光8000十万卡集群正式落成；Intel股价单日暴涨8.4%三大催化剂",
       "summary": "⚡ 7月23日科技早间：白宫科技政策办公室主任Michael Kratsios正式在X平台指控月之暗面AI通过大规模蒸馏窃取Anthropic Fable模型构建Kimi K3，模型自称Claude成铁证，美财长威胁制裁；中国首个全国产十万卡AI超集群曙光8000在郑州正式落成，国产算力迈入十万卡时代；Intel股价单日暴涨8.4%，18A制程良率提升至85%，ASML确认Intel为首个High-NA EUV量产客户。",
-      "tags": ["科技新闻", "月之暗面", "美中AI竞争", "曙光8000", "国产算力", "Intel", "半导体"],
+      "tags": [
+        "科技新闻",
+        "月之暗面",
+        "美中AI竞争",
+        "曙光8000",
+        "国产算力",
+        "Intel",
+        "半导体"
+      ],
       "file": "posts/314-tech-dawn-moonshot-distillation-sugon-8000-intel-18a-july-23-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 23 Tech Dawn: White House Accuses Moonshot of Distilling Anthropic Fable; Sugon 8000 100K-Card Cluster Completed; Intel Jumps 8.4% on 18A Breakthrough",
       "summary": "⚡ July 23 tech dawn: White House OSTP Director formally accuses Moonshot AI of large-scale distillation of Anthropic's Fable model to build Kimi K3 — model caught calling itself Claude. China's first all-domestic 100,000-card AI supercluster Sugon 8000 completed. Intel surges 8.4% on Xeon memory upgrade, expanded Google Cloud AI partnership, and 18A yields hitting 85% with High-NA EUV milestone.",
-      "tags": ["Tech News", "Moonshot AI", "Anthropic", "US-China AI", "Sugon 8000", "Intel", "Semiconductor"],
+      "tags": [
+        "Tech News",
+        "Moonshot AI",
+        "Anthropic",
+        "US-China AI",
+        "Sugon 8000",
+        "Intel",
+        "Semiconductor"
+      ],
       "file": "posts/314-tech-dawn-moonshot-distillation-sugon-8000-intel-18a-july-23-2026.en.html"
     }
   },
