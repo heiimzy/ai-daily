@@ -1,5 +1,21 @@
 [
   {
+    "id": "307",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日金融早盘综述：Alphabet财报后暴跌5%——资本支出飙至2050亿美元吓退市场、Tesla自由现金流转负",
+      "summary": "⚡ 7月23日金融早盘综述：Alphabet Q2营收1198亿美元超预期但资本支出上调至1950-2050亿美元，自由现金流转负58.6亿美元，盘后暴跌近5%；Tesla营收创纪录但EPS远逊预期，自由现金流转负32.5亿美元，盘后承压；SMCI盘后暴涨20%订单积压破600亿美元；IBM下调全年预测；欧洲央行今日公布利率决议；布伦特原油逼近95美元创六周新高；A股创业板跌3.23%。",
+      "tags": ["金融经济", "Alphabet", "特斯拉", "财报", "欧洲央行", "SMCI", "原油", "黄金"],
+      "file": "posts/307-market-reaction-alphabet-tesla-capex-shock-smci-ecb-oil-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Financial Morning Briefing: Alphabet Plunges 5% After Hours on $205B Capex Shock, Tesla FCF Turns Negative, ECB Decision Today",
+      "summary": "⚡ July 23 financial briefing: Alphabet Q2 revenue beats at $119.8B but 2026 capex raised to $195-205B sends stock down ~5% after hours - first-ever negative FCF of -$5.86B. Tesla revenue record but EPS misses, FCF turns -$3.25B. SMCI surges 20% after hours on $60B+ orders. IBM cuts forecast. ECB holds rates at 2.25% expected. Brent crude nears $95 on Iran tensions. Gold holds above $4,120.",
+      "tags": ["Financial Markets", "Alphabet", "Tesla", "Earnings", "ECB", "SMCI", "Crude Oil", "Gold"],
+      "file": "posts/307-market-reaction-alphabet-tesla-capex-shock-smci-ecb-oil-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "306",
     "date": "2026-07-23",
     "zh": {
