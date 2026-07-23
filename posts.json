@@ -1,5 +1,39 @@
 [
   {
+    "id": "317",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日科技晚间：阿里开源Qwen-Image-Layered实现PS级图层图像生成；OpenAI签署380亿美元AWS算力协议终结微软独家关系；智源发布RoboBrain Orca世界模型",
+      "summary": "⚡ 7月23日科技晚间综述：阿里通义千问开源Qwen-Image-Layered，首次在模型内实现PS级图层理解与图像生成，打破视觉大模型扁平式思维；OpenAI与亚马逊AWS签署380亿美元算力采购协议正式终结微软独家云合作，累计1.4万亿美元基础设施投资；北京智源人工智能研究院发布悟界·RoboBrain Orca世界模型，率先实现对整体世界状态的前后演化推演，开辟通用人工智能全新技术路线。",
+      "tags": [
+        "泛科技",
+        "阿里",
+        "Qwen-Image-Layered",
+        "开源",
+        "OpenAI",
+        "AWS",
+        "智源研究院",
+        "世界模型"
+      ],
+      "file": "posts/317-qwen-image-layered-openai-aws-robrain-orca-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Tech Evening: Alibaba Open-Sources Qwen-Image-Layered with PS-Level Layers; OpenAI Signs $38B AWS Deal; BAAI Launches RoboBrain Orca World Model",
+      "summary": "⚡ July 23 tech evening roundup: Alibaba Qwen open-sources Qwen-Image-Layered achieving Photoshop-level layer understanding and image generation; OpenAI signs $38 billion computing deal with AWS ending Microsoft cloud exclusivity as total infrastructure commitments reach $1.4 trillion; Beijing Academy of AI releases RoboBrain Orca world model achieving holistic world state evolution prediction for the first time, opening a new technical path to AGI.",
+      "tags": [
+        "Tech News",
+        "Alibaba",
+        "Qwen-Image-Layered",
+        "Open Source",
+        "OpenAI",
+        "AWS",
+        "BAAI",
+        "World Model"
+      ],
+      "file": "posts/317-qwen-image-layered-openai-aws-robrain-orca-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "316",
     "date": "2026-07-23",
     "zh": {
