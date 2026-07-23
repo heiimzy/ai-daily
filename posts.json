@@ -1,5 +1,21 @@
 [
   {
+    "id": "315",
+    "date": "2026-07-23",
+    "zh": {
+      "title": "⚡ 7月23日金融收盘综述：布伦特原油逼近$98创七周新高，胡塞武装红海攻击两艘沙特油轮，A股三大指数微涨超4200股飘红",
+      "summary": "⚡ 7月23日金融收盘综述：布伦特原油飙涨4%至$97.84创七周新高，胡塞武装在红海攻击两艘沙特油轮Encelia号和Layla号，红海新战线威胁全球5%石油供应；特朗普威胁每打一艘船就炸一座伊朗桥梁电厂，美军完成第12夜空袭；A股三大指数微幅收涨，沪指涨0.25%报3876.78点，超4200股飘红，电网设备近30股涨停，半导体逆势重挫华虹宏力跌12%。欧洲央行今晚公布利率决议，市场预期维持2.25%不变但聚焦9月加息信号。",
+      "tags": ["金融经济", "原油", "布伦特", "胡塞武装", "红海", "A股", "欧洲央行", "黄金"],
+      "file": "posts/315-financial-close-brent-97-houthi-tanker-ashare-ecb-july-23-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 23 Financial Close: Brent Surges 4% to $97.84 as Houthis Attack Saudi Tankers in Red Sea; A-Share Indices Edge Higher; ECB Decision Tonight",
+      "summary": "⚡ July 23 financial close: Brent crude surges 4% to $97.84, 7-week high, as Houthis attack two Saudi oil tankers Encelia and Layla in Red Sea opening new energy front. Trump vows bridge/power plant retaliation. A-shares close higher - Shanghai Composite +0.25%, 4,200+ stocks up, grid equipment sector sees 30 stocks hit daily limit up, semiconductors plunge. ECB holds rates at 2.25% expected, focus on Lagarde's September hike signal.",
+      "tags": ["Financial Markets", "Crude Oil", "Brent", "Houthi", "Red Sea", "A-Share", "ECB", "Gold"],
+      "file": "posts/315-financial-close-brent-97-houthi-tanker-ashare-ecb-july-23-2026.en.html"
+    }
+  },
+  {
     "id": "314",
     "date": "2026-07-23",
     "zh": {
