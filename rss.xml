@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 24 Jul 2026 10:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 19:00:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月24日科技突破三连发：马斯克官宣Terafab造芯工厂7天后启动、北大全球首款神经动力学芯片478倍提速、国产百万级原子光镊阵列芯片颠覆量子计算</title>
+      <link>https://ai-daily.cc.cd/posts/333-tesla-terafab-pku-neuromorphic-quantum-chip-july-24-2026.zh.html</link>
+      <description>⚡ 7月24日科技突破三连发：马斯克在X上官宣特斯拉Terafab AI芯片工厂7天后启动，欲自建晶圆厂打破台积电三星垄断；北京大学联合中科院成功研制全球首款基于相变忆阻器的神经动力学芯片，脑皮层重建较GPU提速478倍突破半个世纪实时计算瓶颈；上海璇相科技发布全球首款百万级原子光镊阵列超表面芯片，将中性原子量子计算规模从万级推至百万级。</description>
+      <pubDate>Fri, 24 Jul 2026 19:00:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/333-tesla-terafab-pku-neuromorphic-quantum-chip-july-24-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月24日国际政治深度：美军第13夜空袭伊朗全境扩大、伊朗拒绝停火提议、胡塞武装实弹击中两艘沙特油轮布伦特冲破100美元</title>
       <link>https://ai-daily.cc.cd/posts/332-international-roundup-13th-night-iran-rejects-ceasefire-houthi-tanker-attacks-july-24-2026.zh.html</link>
