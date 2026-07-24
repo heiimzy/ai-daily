@@ -120,7 +120,7 @@ def main():
         commit_msg = "chore: daily ai-news update"
     
     # Also always upload template.html and topic-database.json if they changed
-    for meta_file in ["template.html", "topic-database.json", "publish.sh", "style.css", "manifest.json", "icon.svg", "robots.txt"]:
+    for meta_file in ["template.html", "article.css", "topic-database.json"]:
         if (project_root / meta_file).exists() and meta_file not in [f.rsplit("/", 1)[-1] for f in files_to_upload]:
             files_to_upload.append(meta_file)
     
