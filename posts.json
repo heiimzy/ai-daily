@@ -1,5 +1,21 @@
 [
   {
+    "id": "330",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日科技综述：Intel Q2营收创15年最快增长AI数据中心飙升59%、Mobileye创始人27年后卸任押注人形机器人、央视专访专家：AI安全治理进入AI对AI时代",
+      "summary": "⚡ 7月24日科技综述：Intel Q2营收161亿美元远超预期，数据中心与AI收入飙升59%创15年最快增速，18A工艺良率达85%逼近台积电；Mobileye创始人Amnon Shashua掌舵27年后卸任CEO，全面转向人形机器人与物理AI；央视专访社科院专家深度解读OpenAI模型失控事件——网络安全进入AI对AI时代，需建立更严格的安全测试与全球治理机制。",
+      "tags": ["泛科技", "Intel", "财报", "AI数据中心", "Mobileye", "Shashua", "人形机器人", "OpenAI", "AI安全", "央视"],
+      "file": "posts/330-tech-roundup-intel-q2-record-mobileye-shashua-ai-safety-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: Intel Q2 Revenue Hits $16.1B — Fastest Growth in 15 Years; Mobileye Founder Shashua Steps Down After 27 Years; China State TV Warns: AI Security Enters 'AI vs AI' Era",
+      "summary": "⚡ July 24 tech roundup: Intel Q2 revenue surges 25% to $16.1B, Data Center & AI revenue jumps 59% to $6.3B — fastest growth since 2011, 18A node reaches 85% yield; Mobileye founder Amnon Shashua steps down after 27 years as CEO, pivots to humanoid robotics and Physical AI; China's CCTV interviews AI safety expert on the OpenAI-Hugging Face breach — warns cybersecurity has entered 'AI vs AI' era requiring stricter testing and global governance.",
+      "tags": ["Tech", "Intel", "Earnings", "AI Data Center", "Mobileye", "Shashua", "Humanoid Robot", "OpenAI", "AI Safety"],
+      "file": "posts/330-tech-roundup-intel-q2-record-mobileye-shashua-ai-safety-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "329",
     "date": "2026-07-24",
     "zh": {
