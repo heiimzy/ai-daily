@@ -1,5 +1,21 @@
 [
   {
+    "id": "331",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日金融综述：Section 122关税午夜到期全球贸易变天、Section 301强制劳工关税覆盖60国、日本PMI扩张但日元暴跌至163",
+      "summary": "⚡ 7月24日金融综述：美国Section 122全球10%关税今夜到期自动失效，平均关税率从13%骤降至7.2%，但Section 301强制劳工关税覆盖60国10-12.5%即将接棒且无到期日；日本7月制造业PMI 54.9连续第六个月扩张，但美元/日元突破163创40年新低；10年期美债收益率升至4.707%创2025年1月以来新高，9月加息概率飙至82%；洛克希德马丁涨10.5%创历史新高；ECB维持利率2.25%但暗示9月加息。",
+      "tags": ["金融经济", "关税", "Section 122", "Section 301", "日本PMI", "日元", "美债收益率", "美联储加息", "国防股"],
+      "file": "posts/331-financial-us-tariff-shift-section122-expires-section301-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Financial Roundup: Section 122 Tariff Expires at Midnight Reshaping Global Trade, Section 301 Forced-Labor Tariffs on 60 Countries Loom, Japan PMI Expands but Yen Tumbles to 40-Year Low",
+      "summary": "⚡ July 24 Financial Roundup: Trump's Section 122 10% global tariff expires at midnight ET by statute — US average tariff rate drops from ~13% to ~7.2%, but Section 301 forced-labor tariffs on 60 countries at 10-12.5% imminent with no expiration date; Japan July Manufacturing PMI hits 54.9 — 6th straight month of expansion; USD/JPY breaches 163 — 40-year low; 10-year Treasury yield hits 4.707% — highest since Jan 2025; September Fed hike odds surge past 82%; Lockheed Martin +10.5% all-time high; ECB holds at 2.25% but signals September hike.",
+      "tags": ["Financial", "Tariffs", "Section 122", "Section 301", "Japan PMI", "USD/JPY", "Treasury Yields", "Fed", "Defense"],
+      "file": "posts/331-financial-us-tariff-shift-section122-expires-section301-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "330",
     "date": "2026-07-24",
     "zh": {
