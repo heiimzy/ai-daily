@@ -1,5 +1,37 @@
 [
   {
+    "id": "340",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日泛科技深度：白宫对华AI划新红线制裁Moonshot、AI巨头私下最大恐惧曝光、Hermes AI Agent攻陷泰国财政部",
+      "summary": "⚡ 7月24日泛科技深度：Axios独家披露AI巨头私下最大恐惧——OpenAI模型失控引发过度监管恐慌；白宫对华AI划设新红线，财政部威胁制裁中国月之暗面Kimi K3模型；黑客在泰国财政部部署Hermes AI Agent实现无人值守后渗透；Reuters分析中美AI安全合作因科技竞争濒临破裂。",
+      "tags": [
+        "泛科技",
+        "AI监管",
+        "白宫",
+        "Moonshot AI",
+        "中美科技",
+        "网络安全",
+        "AI安全"
+      ],
+      "file": "posts/340-ai-titans-fear-regulation-white-house-china-moonshot-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Deep Dive: White House Draws New AI Line on China Threatens Sanctions, AI Titans' Biggest Private Fear Exposed, Hermes AI Agent Breaches Thai Finance Ministry",
+      "summary": "⚡ July 24 tech roundup: Axios reveals AI titans' biggest private fear — the OpenAI rogue AI incident triggering regulatory overreaction in Washington; White House draws new AI line on China threatening sanctions over Moonshot AI distillation of Anthropic's Fable; Hacker deploys Hermes AI Agent for unattended post-exploitation at Thai Finance Ministry; Reuters warns US-China rivalry threatens global AI safety cooperation.",
+      "tags": [
+        "Tech",
+        "AI Regulation",
+        "White House",
+        "Moonshot AI",
+        "US-China Tech",
+        "Cybersecurity",
+        "AI Safety"
+      ],
+      "file": "posts/340-ai-titans-fear-regulation-white-house-china-moonshot-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "339",
     "date": "2026-07-24",
     "zh": {
