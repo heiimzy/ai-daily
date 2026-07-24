@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 24 Jul 2026 08:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月24日金融综述：Section 122关税午夜到期全球贸易变天、Section 301强制劳工关税覆盖60国、日本PMI扩张但日元暴跌至163</title>
+      <link>https://ai-daily.cc.cd/posts/331-financial-us-tariff-shift-section122-expires-section301-july-24-2026.zh.html</link>
+      <description>⚡ 7月24日金融综述：美国Section 122全球10%关税今夜到期自动失效，平均关税率从13%骤降至7.2%，但Section 301强制劳工关税覆盖60国10-12.5%即将接棒且无到期日；日本7月制造业PMI 54.9连续第六个月扩张，但美元/日元突破163创40年新低；10年期美债收益率升至4.707%创2025年1月以来新高，9月加息概率飙至82%；洛克希德马丁涨10.5%创历史新高；ECB维持利率2.25%但暗示9月加息。</description>
+      <pubDate>Fri, 24 Jul 2026 09:05:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/331-financial-us-tariff-shift-section122-expires-section301-july-24-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月24日科技综述：Intel Q2营收创15年最快增长AI数据中心飙升59%、Mobileye创始人27年后卸任押注人形机器人、央视专访专家：AI安全治理进入AI对AI时代</title>
       <link>https://ai-daily.cc.cd/posts/330-tech-roundup-intel-q2-record-mobileye-shashua-ai-safety-july-24-2026.zh.html</link>
