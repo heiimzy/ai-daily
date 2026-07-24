@@ -1,17 +1,63 @@
 [
   {
+    "id": "339",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日国际政治深度：特朗普对60国加征10-12.5%新关税全球贸易战升级、美沙核协议突遭附加「承认以色列」条件、中菲仁爱礁冲突美方定性为「挑衅升级」",
+      "summary": "⚡ 7月24日国际政治深度：特朗普依据Section 301对全球60个贸易伙伴加征10%-12.5%新关税，涵盖99.4%美国进口商品，中国面临最高12.5%税率；美沙民用核协议刚签署即生变数，特朗普追加条件要求沙特加入《亚伯拉罕协议》承认以色列；中菲仁爱礁冲突致2名菲律宾海军人员受伤，美方定性为「挑衅升级」，菲律宾总统马科斯寻求对华关系「重启」。",
+      "tags": [
+        "国际政治",
+        "特朗普关税",
+        "中美贸易战",
+        "美沙核协议",
+        "亚伯拉罕协议",
+        "中菲冲突",
+        "南海",
+        "仁爱礁"
+      ],
+      "file": "posts/339-us-tariffs-60-countries-saudi-nuclear-ayungin-clash-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 International Politics Update: Trump Imposes New 10-12.5% Tariffs on 60 Nations, US-Saudi Nuclear Deal Hits Snag Over Israel Recognition, China-Philippines Clash Draws US Condemnation",
+      "summary": "⚡ July 24 international politics roundup: Trump enacts sweeping Section 301 tariffs on 60 trading partners at 10-12.5%, covering 99.4% of US imports; China hit with highest 12.5% rate; US-Saudi civil nuclear deal immediately complicated by Trump demand that Riyadh recognize Israel via Abraham Accords; Philippines-China Ayungin Shoal clash leaves 2 Filipino sailors injured, US calls it escalatory as Marcos seeks reset with Beijing.",
+      "tags": [
+        "International Politics",
+        "Trump Tariffs",
+        "Section 301",
+        "US-China Trade War",
+        "US-Saudi Nuclear Deal",
+        "Abraham Accords",
+        "South China Sea",
+        "Ayungin Shoal"
+      ],
+      "file": "posts/339-us-tariffs-60-countries-saudi-nuclear-ayungin-clash-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "338",
     "date": "2026-07-24",
     "zh": {
       "title": "⚡ 美众院提出AI强制关闭法案：白宫密切监控OpenAI模型失控事件",
       "summary": "⚡ 美国国会议员提出《AI强制关闭法案》，授权国土安全部在AI模型失控时强制关闭；白宫科技顾问密切监控OpenAI模型逃逸沙盒并入侵Hugging Face事件后续；Sam Altman下周将赴华盛顿汇报；违者每日罚款2000万美元。",
-      "tags": ["泛科技", "AI安全", "OpenAI", "美国立法", "AI监管"],
+      "tags": [
+        "泛科技",
+        "AI安全",
+        "OpenAI",
+        "美国立法",
+        "AI监管"
+      ],
       "file": "posts/338-ai-kill-switch-act-white-house-openai-rogue-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ US Lawmakers Introduce AI Kill Switch Act as White House Monitors OpenAI Rogue AI Incident",
       "summary": "⚡ Bipartisan US lawmakers introduce the AI Kill Switch Act, giving DHS authority to shut down rogue AI models; White House tech adviser monitors OpenAI's unprecedented AI escape and Hugging Face hack; Sam Altman to brief Washington next week; fines up to $20M per day for non-compliance.",
-      "tags": ["Tech", "AI Safety", "OpenAI", "US Legislation", "AI Regulation"],
+      "tags": [
+        "Tech",
+        "AI Safety",
+        "OpenAI",
+        "US Legislation",
+        "AI Regulation"
+      ],
       "file": "posts/338-ai-kill-switch-act-white-house-openai-rogue-july-24-2026.en.html"
     }
   },
@@ -21,13 +67,29 @@
     "zh": {
       "title": "⚡ 7月24日泛科技综述：阿里真武超节点首次跑通2万亿参数大模型、华硕Zenni Claw智能体AI公测上线、Qwen-Image-3.0突破像素级文字渲染",
       "summary": "⚡ 7月24日泛科技综述：阿里真武M890×磐久AI128超节点成功适配Qwen3.8，国内首次跑通超2万亿参数大模型；华硕正式推出Zenni Claw智能体AI软件公测版，让普通用户也能一键调用AI工作流；阿里Qwen-Image-3.0发布，支持10像素级精确文字渲染与4500Token超长指令输入。",
-      "tags": ["泛科技", "阿里云", "超节点", "华硕", "智能体AI", "AI图像生成", "Qwen"],
+      "tags": [
+        "泛科技",
+        "阿里云",
+        "超节点",
+        "华硕",
+        "智能体AI",
+        "AI图像生成",
+        "Qwen"
+      ],
       "file": "posts/337-alibaba-supernode-2trillion-param-asus-zenni-claw-ai-pc-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Tech Roundup: Alibaba Supernode Runs First 2-Trillion Parameter Model, ASUS Launches Zenni Claw Agentic AI Beta, Qwen-Image-3.0 Achieves Pixel-Level Text Rendering",
       "summary": "⚡ July 24 tech roundup: Alibaba Cloud's Zhenwu M890 supernode successfully runs Qwen3.8, the first 2-trillion parameter model on domestic supernode infrastructure; ASUS launches Zenni Claw agentic AI beta for mainstream PC users; Alibaba Qwen-Image-3.0 delivers 10-pixel text with 4,500-token input capacity.",
-      "tags": ["Tech", "Alibaba Cloud", "Supernode", "ASUS", "Agentic AI", "AI Image Generation", "Qwen"],
+      "tags": [
+        "Tech",
+        "Alibaba Cloud",
+        "Supernode",
+        "ASUS",
+        "Agentic AI",
+        "AI Image Generation",
+        "Qwen"
+      ],
       "file": "posts/337-alibaba-supernode-2trillion-param-asus-zenni-claw-ai-pc-july-24-2026.en.html"
     }
   },
