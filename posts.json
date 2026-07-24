@@ -1,5 +1,21 @@
 [
   {
+    "id": "333",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日科技突破三连发：马斯克官宣Terafab造芯工厂7天后启动、北大全球首款神经动力学芯片478倍提速、国产百万级原子光镊阵列芯片颠覆量子计算",
+      "summary": "⚡ 7月24日科技突破三连发：马斯克在X上官宣特斯拉Terafab AI芯片工厂7天后启动，欲自建晶圆厂打破台积电三星垄断；北京大学联合中科院成功研制全球首款基于相变忆阻器的神经动力学芯片，脑皮层重建较GPU提速478倍突破半个世纪实时计算瓶颈；上海璇相科技发布全球首款百万级原子光镊阵列超表面芯片，将中性原子量子计算规模从万级推至百万级。",
+      "tags": ["科技新闻", "特斯拉", "AI芯片", "北京大学", "神经形态计算", "量子计算"],
+      "file": "posts/333-tesla-terafab-pku-neuromorphic-quantum-chip-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Triple Tech Breakthroughs: Musk Announces Terafab AI Chip Factory in 7 Days, PKU's Neuromorphic Chip 478x Faster Than GPU, China's Million-Level Optical Tweezer Chip for Quantum Computing",
+      "summary": "⚡ July 24 triple tech breakthroughs: Elon Musk announces on X that Tesla's Terafab AI chip factory will launch in 7 days; Peking University and CAS unveil the world's first neuromorphic dynamics chip based on phase-change memristors, achieving 478x speedup over GPU in brain cortex reconstruction; Shanghai Xuanxiang Tech produces the world's first million-level optical tweezer array metasurface chip for neutral atom quantum computing.",
+      "tags": ["Tech News", "Tesla", "AI Chip", "Neuromorphic Computing", "Quantum Computing", "Peking University"],
+      "file": "posts/333-tesla-terafab-pku-neuromorphic-quantum-chip-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "332",
     "date": "2026-07-24",
     "zh": {
