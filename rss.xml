@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 24 Jul 2026 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 12:11:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月24日泛科技综述：APEC成都声明支持开源AI安全发展、AMD Helios机架系统正面硬刚英伟达、纬创7亿美元德州工厂投产GB300、Acrab发布5nm边缘AI芯片</title>
+      <link>https://ai-daily.cc.cd/posts/334-apec-open-source-ai-amd-helios-wistron-acrab-chip-july-24-2026.zh.html</link>
+      <description>⚡ 7月24日泛科技综述：APEC 21个经济体在成都发布人工智能声明强调开源AI与安全保障并重；AMD Advancing AI 2026大会发布MI400系列GPU与Helios机架级AI系统，正面挑战英伟达Vera Rubin；英伟达供应商纬创在德克萨斯州开设7亿美元AI芯片工厂，GB300超级芯片首次实现美国本土制造；AI芯片初创公司Acrab发布首款5nm边缘AI SoC芯片GΞLIX 1，支持百亿参数大模型本地运行。</description>
+      <pubDate>Fri, 24 Jul 2026 12:11:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/334-apec-open-source-ai-amd-helios-wistron-acrab-chip-july-24-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月24日科技突破三连发：马斯克官宣Terafab造芯工厂7天后启动、北大全球首款神经动力学芯片478倍提速、国产百万级原子光镊阵列芯片颠覆量子计算</title>
       <link>https://ai-daily.cc.cd/posts/333-tesla-terafab-pku-neuromorphic-quantum-chip-july-24-2026.zh.html</link>
