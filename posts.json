@@ -1,17 +1,73 @@
 [
   {
+    "id": "335",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日金融综述：全球PMI冰火两重天、30年美债收益率创2007年以来最长5%高位纪录、国防股逆势暴涨、黄金失守4050美元",
+      "summary": "⚡ 7月24日金融综述：全球PMI数据日——欧元区综合PMI升至51.0创11个月新高但德国近乎停滞法国仍陷收缩；30年期美债收益率连续27天站上5%创2007年以来最长纪录；国防股洛克希德马丁涨10.5%创历史新高；黄金失守4050美元白银跌至57.63美元；美元/日元飙至163.85创40年新低；英国零售销售环比下降0.3%；ECB按兵不动但拉加德暗示9月加息。",
+      "tags": [
+        "金融经济",
+        "PMI",
+        "美债收益率",
+        "国防股",
+        "黄金",
+        "欧元区",
+        "日元",
+        "ECB",
+        "美联储"
+      ],
+      "file": "posts/335-global-pmi-july-24-treasury-yield-defense-sectors-gold.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Financial Roundup: Global PMI Data Delivers Mixed Signals, 30-Year Yield at 2007-Level Streak, Defense Stocks Rally, Gold Crashes Below $4,050",
+      "summary": "⚡ July 24 financial roundup: Global Flash PMI Day — Eurozone Composite PMI edges up to 51.0 (11-month high) but Germany barely grows at 50.3, France still contracting; 30-year Treasury yield above 5% for 27 consecutive days, longest streak since 2007; Lockheed Martin +10.5% all-time high, RTX +7.3%; Gold crashes below $4,050, Silver below $58; USD/JPY surges to 163.85 (40-year low); UK retail sales fall 0.3% MoM; ECB holds but Lagarde hints at September hike.",
+      "tags": [
+        "Financial",
+        "PMI",
+        "Treasury Yields",
+        "Defense",
+        "Gold",
+        "Eurozone",
+        "JPY",
+        "ECB",
+        "Fed"
+      ],
+      "file": "posts/335-global-pmi-july-24-treasury-yield-defense-sectors-gold.en.html"
+    }
+  },
+  {
     "id": "334",
     "date": "2026-07-24",
     "zh": {
       "title": "⚡ 7月24日泛科技综述：APEC成都声明支持开源AI安全发展、AMD Helios机架系统正面硬刚英伟达、纬创7亿美元德州工厂投产GB300、Acrab发布5nm边缘AI芯片",
       "summary": "⚡ 7月24日泛科技综述：APEC 21个经济体在成都发布人工智能声明强调开源AI与安全保障并重；AMD Advancing AI 2026大会发布MI400系列GPU与Helios机架级AI系统，正面挑战英伟达Vera Rubin；英伟达供应商纬创在德克萨斯州开设7亿美元AI芯片工厂，GB300超级芯片首次实现美国本土制造；AI芯片初创公司Acrab发布首款5nm边缘AI SoC芯片GΞLIX 1，支持百亿参数大模型本地运行。",
-      "tags": ["泛科技", "APEC", "开源AI", "AMD", "Helios", "AI芯片", "纬创", "Acrab", "边缘AI"],
+      "tags": [
+        "泛科技",
+        "APEC",
+        "开源AI",
+        "AMD",
+        "Helios",
+        "AI芯片",
+        "纬创",
+        "Acrab",
+        "边缘AI"
+      ],
       "file": "posts/334-apec-open-source-ai-amd-helios-wistron-acrab-chip-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Tech Roundup: APEC Chengdu Statement Backs Open-Source AI with Security, AMD Launches Helios to Rival Nvidia, Wistron Opens $700M Texas Factory, Acrab Debuts 5nm Edge AI Chip",
       "summary": "⚡ July 24 tech roundup: 21 APEC economies release Chengdu AI Statement supporting open-source AI with strong security assurance; AMD unveils MI400 series GPUs and Helios rack-scale system at Advancing AI 2026; Nvidia supplier Wistron opens $700M Texas factory producing GB300 superchips; Startup Acrab launches GELIX 1, its first 5nm edge AI SoC supporting 100B-parameter local inference.",
-      "tags": ["Tech", "APEC", "Open Source AI", "AMD", "Helios", "AI Chip", "Wistron", "Acrab", "Edge AI"],
+      "tags": [
+        "Tech",
+        "APEC",
+        "Open Source AI",
+        "AMD",
+        "Helios",
+        "AI Chip",
+        "Wistron",
+        "Acrab",
+        "Edge AI"
+      ],
       "file": "posts/334-apec-open-source-ai-amd-helios-wistron-acrab-chip-july-24-2026.en.html"
     }
   },
@@ -21,13 +77,27 @@
     "zh": {
       "title": "⚡ 7月24日科技突破三连发：马斯克官宣Terafab造芯工厂7天后启动、北大全球首款神经动力学芯片478倍提速、国产百万级原子光镊阵列芯片颠覆量子计算",
       "summary": "⚡ 7月24日科技突破三连发：马斯克在X上官宣特斯拉Terafab AI芯片工厂7天后启动，欲自建晶圆厂打破台积电三星垄断；北京大学联合中科院成功研制全球首款基于相变忆阻器的神经动力学芯片，脑皮层重建较GPU提速478倍突破半个世纪实时计算瓶颈；上海璇相科技发布全球首款百万级原子光镊阵列超表面芯片，将中性原子量子计算规模从万级推至百万级。",
-      "tags": ["科技新闻", "特斯拉", "AI芯片", "北京大学", "神经形态计算", "量子计算"],
+      "tags": [
+        "科技新闻",
+        "特斯拉",
+        "AI芯片",
+        "北京大学",
+        "神经形态计算",
+        "量子计算"
+      ],
       "file": "posts/333-tesla-terafab-pku-neuromorphic-quantum-chip-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Triple Tech Breakthroughs: Musk Announces Terafab AI Chip Factory in 7 Days, PKU's Neuromorphic Chip 478x Faster Than GPU, China's Million-Level Optical Tweezer Chip for Quantum Computing",
       "summary": "⚡ July 24 triple tech breakthroughs: Elon Musk announces on X that Tesla's Terafab AI chip factory will launch in 7 days; Peking University and CAS unveil the world's first neuromorphic dynamics chip based on phase-change memristors, achieving 478x speedup over GPU in brain cortex reconstruction; Shanghai Xuanxiang Tech produces the world's first million-level optical tweezer array metasurface chip for neutral atom quantum computing.",
-      "tags": ["Tech News", "Tesla", "AI Chip", "Neuromorphic Computing", "Quantum Computing", "Peking University"],
+      "tags": [
+        "Tech News",
+        "Tesla",
+        "AI Chip",
+        "Neuromorphic Computing",
+        "Quantum Computing",
+        "Peking University"
+      ],
       "file": "posts/333-tesla-terafab-pku-neuromorphic-quantum-chip-july-24-2026.en.html"
     }
   },
@@ -37,13 +107,33 @@
     "zh": {
       "title": "⚡ 7月24日国际政治深度：美军第13夜空袭伊朗全境扩大、伊朗拒绝停火提议、胡塞武装实弹击中两艘沙特油轮布伦特冲破100美元",
       "summary": "⚡ 7月24日国际政治深度：美军完成连续第13夜空袭伊朗，打击范围扩大至阿瓦士、阿巴斯港、格什姆岛；伊朗通过伊拉克斡旋方拒绝美国最新停火提议，称不接受不涉及霍尔木兹海峡最终地位的'临时协议'；胡塞武装在红海用导弹和无人机实弹击中两艘沙特油轮，布伦特原油突破100美元；特朗普接受Axios采访称正考虑发动'规模空前'的大规模打击，并宣布用被冻结伊朗资金赔偿船只损失；摩萨德挫败伊朗渗透以色列刺杀高官图谋；伊朗革命卫队宣称摧毁科威特和约旦境内美军爱国者与THAAD系统。",
-      "tags": ["国际政治", "美伊冲突", "第13夜空袭", "胡塞武装", "红海", "布伦特原油", "特朗普", "摩萨德", "停火谈判"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "第13夜空袭",
+        "胡塞武装",
+        "红海",
+        "布伦特原油",
+        "特朗普",
+        "摩萨德",
+        "停火谈判"
+      ],
       "file": "posts/332-international-roundup-13th-night-iran-rejects-ceasefire-houthi-tanker-attacks-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 International Politics Deep Dive: US 13th Night Strikes Hit Across Iran, Tehran Rejects Ceasefire, Houthi Missiles Strike Two Saudi Tankers Driving Brent Past $100",
       "summary": "⚡ July 24 International Politics Roundup: US completes 13th consecutive night of strikes across Iran — explosions in Ahvaz, Bandar Abbas, Qeshm Island; Iran rejects latest US ceasefire proposal via Iraqi mediators, demanding permanent Hormuz status deal; Houthis hit two Saudi oil tankers with missiles and drones in the Red Sea — Brent crude surges past $100 for first time in two months; Trump tells Axios he's considering a 'massive attack' and announces frozen Iranian assets will pay for ship damage; Mossad thwarts Iranian infiltration plot to assassinate Israeli officials; IRGC claims destruction of US Patriot and THAAD systems in Kuwait and Jordan.",
-      "tags": ["International Politics", "US-Iran War", "13th Night Strikes", "Houthis", "Red Sea", "Brent Crude", "Trump", "Mossad", "Ceasefire"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "13th Night Strikes",
+        "Houthis",
+        "Red Sea",
+        "Brent Crude",
+        "Trump",
+        "Mossad",
+        "Ceasefire"
+      ],
       "file": "posts/332-international-roundup-13th-night-iran-rejects-ceasefire-houthi-tanker-attacks-july-24-2026.en.html"
     }
   },
@@ -53,13 +143,33 @@
     "zh": {
       "title": "⚡ 7月24日金融综述：Section 122关税午夜到期全球贸易变天、Section 301强制劳工关税覆盖60国、日本PMI扩张但日元暴跌至163",
       "summary": "⚡ 7月24日金融综述：美国Section 122全球10%关税今夜到期自动失效，平均关税率从13%骤降至7.2%，但Section 301强制劳工关税覆盖60国10-12.5%即将接棒且无到期日；日本7月制造业PMI 54.9连续第六个月扩张，但美元/日元突破163创40年新低；10年期美债收益率升至4.707%创2025年1月以来新高，9月加息概率飙至82%；洛克希德马丁涨10.5%创历史新高；ECB维持利率2.25%但暗示9月加息。",
-      "tags": ["金融经济", "关税", "Section 122", "Section 301", "日本PMI", "日元", "美债收益率", "美联储加息", "国防股"],
+      "tags": [
+        "金融经济",
+        "关税",
+        "Section 122",
+        "Section 301",
+        "日本PMI",
+        "日元",
+        "美债收益率",
+        "美联储加息",
+        "国防股"
+      ],
       "file": "posts/331-financial-us-tariff-shift-section122-expires-section301-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Financial Roundup: Section 122 Tariff Expires at Midnight Reshaping Global Trade, Section 301 Forced-Labor Tariffs on 60 Countries Loom, Japan PMI Expands but Yen Tumbles to 40-Year Low",
       "summary": "⚡ July 24 Financial Roundup: Trump's Section 122 10% global tariff expires at midnight ET by statute — US average tariff rate drops from ~13% to ~7.2%, but Section 301 forced-labor tariffs on 60 countries at 10-12.5% imminent with no expiration date; Japan July Manufacturing PMI hits 54.9 — 6th straight month of expansion; USD/JPY breaches 163 — 40-year low; 10-year Treasury yield hits 4.707% — highest since Jan 2025; September Fed hike odds surge past 82%; Lockheed Martin +10.5% all-time high; ECB holds at 2.25% but signals September hike.",
-      "tags": ["Financial", "Tariffs", "Section 122", "Section 301", "Japan PMI", "USD/JPY", "Treasury Yields", "Fed", "Defense"],
+      "tags": [
+        "Financial",
+        "Tariffs",
+        "Section 122",
+        "Section 301",
+        "Japan PMI",
+        "USD/JPY",
+        "Treasury Yields",
+        "Fed",
+        "Defense"
+      ],
       "file": "posts/331-financial-us-tariff-shift-section122-expires-section301-july-24-2026.en.html"
     }
   },
@@ -69,13 +179,34 @@
     "zh": {
       "title": "⚡ 7月24日科技综述：Intel Q2营收创15年最快增长AI数据中心飙升59%、Mobileye创始人27年后卸任押注人形机器人、央视专访专家：AI安全治理进入AI对AI时代",
       "summary": "⚡ 7月24日科技综述：Intel Q2营收161亿美元远超预期，数据中心与AI收入飙升59%创15年最快增速，18A工艺良率达85%逼近台积电；Mobileye创始人Amnon Shashua掌舵27年后卸任CEO，全面转向人形机器人与物理AI；央视专访社科院专家深度解读OpenAI模型失控事件——网络安全进入AI对AI时代，需建立更严格的安全测试与全球治理机制。",
-      "tags": ["泛科技", "Intel", "财报", "AI数据中心", "Mobileye", "Shashua", "人形机器人", "OpenAI", "AI安全", "央视"],
+      "tags": [
+        "泛科技",
+        "Intel",
+        "财报",
+        "AI数据中心",
+        "Mobileye",
+        "Shashua",
+        "人形机器人",
+        "OpenAI",
+        "AI安全",
+        "央视"
+      ],
       "file": "posts/330-tech-roundup-intel-q2-record-mobileye-shashua-ai-safety-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Tech Roundup: Intel Q2 Revenue Hits $16.1B — Fastest Growth in 15 Years; Mobileye Founder Shashua Steps Down After 27 Years; China State TV Warns: AI Security Enters 'AI vs AI' Era",
       "summary": "⚡ July 24 tech roundup: Intel Q2 revenue surges 25% to $16.1B, Data Center & AI revenue jumps 59% to $6.3B — fastest growth since 2011, 18A node reaches 85% yield; Mobileye founder Amnon Shashua steps down after 27 years as CEO, pivots to humanoid robotics and Physical AI; China's CCTV interviews AI safety expert on the OpenAI-Hugging Face breach — warns cybersecurity has entered 'AI vs AI' era requiring stricter testing and global governance.",
-      "tags": ["Tech", "Intel", "Earnings", "AI Data Center", "Mobileye", "Shashua", "Humanoid Robot", "OpenAI", "AI Safety"],
+      "tags": [
+        "Tech",
+        "Intel",
+        "Earnings",
+        "AI Data Center",
+        "Mobileye",
+        "Shashua",
+        "Humanoid Robot",
+        "OpenAI",
+        "AI Safety"
+      ],
       "file": "posts/330-tech-roundup-intel-q2-record-mobileye-shashua-ai-safety-july-24-2026.en.html"
     }
   },
@@ -85,13 +216,31 @@
     "zh": {
       "title": "⚡ 7月24日科技综述：OpenAI为Codex注入全双工语音、Anthropic CMA塞入500技能、GPT与Grok同时推翻30年数学猜想",
       "summary": "⚡ 7月24日科技综述：OpenAI GPT-Live全双工语音正式接入Codex桌面端，5万+开发者可双手离键盘写代码；Anthropic CMA六项大更新，单会话技能上限从20暴拉至500，子Agent实时流可观测；GPT-5.6 Pro与Grok 4.5八分钟内推翻困扰数学界30年的Dinitz-Garg-Goemans猜想；IMO 2026三大AI同时满分——Claude Fable 5、GPT-5.6 Sol、Kimi K3全部42/42。",
-      "tags": ["泛科技", "OpenAI", "Codex", "GPT-Live", "Anthropic", "CMA", "Grok 4.5", "IMO 2026"],
+      "tags": [
+        "泛科技",
+        "OpenAI",
+        "Codex",
+        "GPT-Live",
+        "Anthropic",
+        "CMA",
+        "Grok 4.5",
+        "IMO 2026"
+      ],
       "file": "posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Tech Roundup: OpenAI Brings Full-Duplex Voice to Codex, Anthropic Packs 500 Skills Into CMA, GPT & Grok Topple 30-Year Math Conjecture",
       "summary": "⚡ July 24 tech roundup: OpenAI integrates GPT-Live full-duplex voice into Codex desktop, enabling hands-free coding for 5M+ weekly users; Anthropic drops six CMA updates pushing skill limits from 20 to 500 with real-time sub-agent streaming; GPT-5.6 Pro and Grok 4.5 independently disprove the 30-year-old Dinitz-Garg-Goemans graph theory conjecture; IMO 2026 sees Claude Fable 5, GPT-5.6 Sol, and Kimi K3 all score perfect 42/42.",
-      "tags": ["Tech", "OpenAI", "Codex", "GPT-Live", "Anthropic", "CMA", "Grok 4.5", "IMO 2026"],
+      "tags": [
+        "Tech",
+        "OpenAI",
+        "Codex",
+        "GPT-Live",
+        "Anthropic",
+        "CMA",
+        "Grok 4.5",
+        "IMO 2026"
+      ],
       "file": "posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.en.html"
     }
   },
@@ -101,13 +250,29 @@
     "zh": {
       "title": "⚡ 7月24日国际政治综述：特朗普称认真考虑重启对伊大规模作战、胡塞武装全面封锁曼德海峡、东盟外长会美俄激烈博弈",
       "summary": "⚡ 7月24日国际政治综述：特朗普接受采访时称正'认真考虑'重启对伊朗大规模作战行动，规模空前；胡塞武装在红海袭击沙特油轮、封锁曼德海峡，全球7%石油供应面临瘫痪；第59届东盟外长会议在菲律宾马尼拉闭幕，美俄外长会晤讨论乌克兰局势，中美外长会谈为9月元首峰会铺路；拉夫罗夫称俄不再支持朝鲜半岛无核化。",
-      "tags": ["国际政治", "美伊冲突", "胡塞武装", "特朗普", "中东战争", "东盟外长会", "地缘政治"],
+      "tags": [
+        "国际政治",
+        "美伊冲突",
+        "胡塞武装",
+        "特朗普",
+        "中东战争",
+        "东盟外长会",
+        "地缘政治"
+      ],
       "file": "posts/328-international-politics-trump-iran-large-scale-houthi-blockade-asean-july-24-2026.zh.html"
     },
     "en": {
       "title": "🌍 July 24 International Politics: Trump Considers Large-Scale Iran Strikes, Houthis Blockade Bab el-Mandeb, US-Russia Talks at ASEAN",
       "summary": "🌍 July 24 International Politics Roundup: Trump says he is 'seriously considering' resuming large-scale combat operations against Iran; Houthi rebels attack Saudi oil tankers in the Red Sea, blockading the Bab el-Mandeb Strait; 59th ASEAN Foreign Ministers' Meeting concludes in Manila with US-Russia talks on Ukraine and US-China summit preparations; Lavrov signals Russia no longer supports Korean Peninsula denuclearization.",
-      "tags": ["International Politics", "US-Iran War", "Houthi", "Trump", "Middle East", "ASEAN", "Geopolitics"],
+      "tags": [
+        "International Politics",
+        "US-Iran War",
+        "Houthi",
+        "Trump",
+        "Middle East",
+        "ASEAN",
+        "Geopolitics"
+      ],
       "file": "posts/328-international-politics-trump-iran-large-scale-houthi-blockade-asean-july-24-2026.en.html"
     }
   },
@@ -117,13 +282,31 @@
     "zh": {
       "title": "⚡ 7月24日金融综述：Brent原油冲破100美元、美股全线暴跌、Alphabet与特斯拉AI开支引爆恐慌",
       "summary": "⚡ 7月24日凌晨金融综述：Brent原油暴涨7%突破100美元大关创七周新高；美股全线暴跌纳指重挫600点、道指跌530点；Alphabet资本开支飙至2050亿美元自由现金流转负盘后暴跌6.9%；特斯拉财报暴雷运营利润率仅1.4%股价暴跌14.3%；美联储加息概率从10%飙至35%美债收益率创19个月新高。",
-      "tags": ["金融经济", "美股", "原油", "布伦特原油", "美联储", "Alphabet", "特斯拉", "中东冲突"],
+      "tags": [
+        "金融经济",
+        "美股",
+        "原油",
+        "布伦特原油",
+        "美联储",
+        "Alphabet",
+        "特斯拉",
+        "中东冲突"
+      ],
       "file": "posts/327-financial-us-stocks-crash-brent-100-alphabet-tesla-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Financial Roundup: Brent Breaks $100, US Stocks Routed, Alphabet & Tesla AI Spending Triggers Market Panic",
       "summary": "⚡ July 24 financial roundup: Brent crude surges 7% past $100/barrel to 7-week high; US stocks crash with Nasdaq plunging 600 points, Dow down 530; Alphabet CapEx soars to $205B pushing FCF negative for first time, shares fall 6.9%; Tesla operating margin collapses to 1.4%, shares crater 14.3%; Fed rate hike probability jumps from 10% to 35%, 10-year yield at 19-month high.",
-      "tags": ["Financial", "US Stocks", "Crude Oil", "Brent", "Federal Reserve", "Alphabet", "Tesla", "Middle East"],
+      "tags": [
+        "Financial",
+        "US Stocks",
+        "Crude Oil",
+        "Brent",
+        "Federal Reserve",
+        "Alphabet",
+        "Tesla",
+        "Middle East"
+      ],
       "file": "posts/327-financial-us-stocks-crash-brent-100-alphabet-tesla-july-24-2026.en.html"
     }
   },
@@ -133,13 +316,27 @@
     "zh": {
       "title": "⚡ 7月24日科技综述：Alphabet与Tesla AI天价开支引爆恐慌市值蒸发、美国国会推出AI一键关闭法案",
       "summary": "⚡ 7月24日科技综述：Alphabet Q2自由现金流转负$59亿资本开支飙至$2050亿股价暴跌7%；特斯拉AI/机器人开支翻倍FCF转负$11亿股价重挫13.5%；美国两党众议员推出AI Kill Switch Act授权DHS关闭危险AI系统日罚$2000万；Hugging Face联合创始人警告自主AI攻击是行业'警钟'。",
-      "tags": ["泛科技", "AI资本开支", "Alphabet", "特斯拉", "AI Kill Switch", "AI安全"],
+      "tags": [
+        "泛科技",
+        "AI资本开支",
+        "Alphabet",
+        "特斯拉",
+        "AI Kill Switch",
+        "AI安全"
+      ],
       "file": "posts/326-google-tesla-ai-capex-plunge-kill-switch-july-24-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 24 Tech Roundup: Alphabet & Tesla Crash on AI CapEx Panic; US Congress Unveils AI Kill Switch Act",
       "summary": "⚡ July 24 tech roundup: Alphabet posts first negative FCF in 20 years, capEx raised to $205B, shares plunge 7%; Tesla shares crash 13.5% as AI/robotics spending doubles; Bipartisan AI Kill Switch Act introduced giving DHS authority to shut down rogue AI systems with $20M/day fines; Hugging Face co-founder warns OpenAI autonomous hack is a wake-up call.",
-      "tags": ["Tech News", "AI CapEx", "Alphabet", "Tesla", "AI Kill Switch", "AI Safety"],
+      "tags": [
+        "Tech News",
+        "AI CapEx",
+        "Alphabet",
+        "Tesla",
+        "AI Kill Switch",
+        "AI Safety"
+      ],
       "file": "posts/326-google-tesla-ai-capex-plunge-kill-switch-july-24-2026.en.html"
     }
   },
