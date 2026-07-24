@@ -1,5 +1,21 @@
 [
   {
+    "id": "334",
+    "date": "2026-07-24",
+    "zh": {
+      "title": "⚡ 7月24日泛科技综述：APEC成都声明支持开源AI安全发展、AMD Helios机架系统正面硬刚英伟达、纬创7亿美元德州工厂投产GB300、Acrab发布5nm边缘AI芯片",
+      "summary": "⚡ 7月24日泛科技综述：APEC 21个经济体在成都发布人工智能声明强调开源AI与安全保障并重；AMD Advancing AI 2026大会发布MI400系列GPU与Helios机架级AI系统，正面挑战英伟达Vera Rubin；英伟达供应商纬创在德克萨斯州开设7亿美元AI芯片工厂，GB300超级芯片首次实现美国本土制造；AI芯片初创公司Acrab发布首款5nm边缘AI SoC芯片GΞLIX 1，支持百亿参数大模型本地运行。",
+      "tags": ["泛科技", "APEC", "开源AI", "AMD", "Helios", "AI芯片", "纬创", "Acrab", "边缘AI"],
+      "file": "posts/334-apec-open-source-ai-amd-helios-wistron-acrab-chip-july-24-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 24 Tech Roundup: APEC Chengdu Statement Backs Open-Source AI with Security, AMD Launches Helios to Rival Nvidia, Wistron Opens $700M Texas Factory, Acrab Debuts 5nm Edge AI Chip",
+      "summary": "⚡ July 24 tech roundup: 21 APEC economies release Chengdu AI Statement supporting open-source AI with strong security assurance; AMD unveils MI400 series GPUs and Helios rack-scale system at Advancing AI 2026; Nvidia supplier Wistron opens $700M Texas factory producing GB300 superchips; Startup Acrab launches GELIX 1, its first 5nm edge AI SoC supporting 100B-parameter local inference.",
+      "tags": ["Tech", "APEC", "Open Source AI", "AMD", "Helios", "AI Chip", "Wistron", "Acrab", "Edge AI"],
+      "file": "posts/334-apec-open-source-ai-amd-helios-wistron-acrab-chip-july-24-2026.en.html"
+    }
+  },
+  {
     "id": "333",
     "date": "2026-07-24",
     "zh": {
