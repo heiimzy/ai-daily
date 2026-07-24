@@ -6,8 +6,15 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 24 Jul 2026 15:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:05:00 +0800</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>⚡ 7月24日科技综述：Intel Q2营收创15年最快增长AI数据中心飙升59%、Mobileye创始人27年后卸任押注人形机器人、央视专访专家：AI安全治理进入AI对AI时代</title>
+      <link>https://ai-daily.cc.cd/posts/330-tech-roundup-intel-q2-record-mobileye-shashua-ai-safety-july-24-2026.zh.html</link>
+      <description>⚡ 7月24日科技综述：Intel Q2营收161亿美元远超预期，数据中心与AI收入飙升59%创15年最快增速，18A工艺良率达85%逼近台积电；Mobileye创始人Amnon Shashua掌舵27年后卸任CEO，全面转向人形机器人与物理AI；央视专访社科院专家深度解读OpenAI模型失控事件——网络安全进入AI对AI时代。</description>
+      <pubDate>Fri, 24 Jul 2026 08:05:00 +0800</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/330-tech-roundup-intel-q2-record-mobileye-shashua-ai-safety-july-24-2026.zh.html</guid>
+    </item>
         <item>
       <title>⚡ 7月24日科技综述：OpenAI为Codex注入全双工语音、Anthropic CMA塞入500技能、GPT与Grok同时推翻30年数学猜想</title>
       <link>https://ai-daily.cc.cd/posts/329-tech-roundup-openai-codex-voice-anthropic-500-skills-gpt-imo-july-24-2026.zh.html</link>
