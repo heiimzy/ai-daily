@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7月24日泛科技综述：DeepSeek V4旧API正式停服、Foundation Robotics联手AMD打造人形机器人、谷歌发布AI经济ATLAS报告</title>
+  <meta name="description" content="⚡ 7月24日泛科技综述：DeepSeek于15:59 UTC正式停用deepseek-chat和deepseek-reasoner旧API名称，全球开发者需迁移至V4-Flash/V4-Pro显式模型名；Eric Trump旗下Foundation Robotics与AMD合作，采用Ryzen AI Embedded X100芯片打造Phantom MK-2人形机器人用于工业和国防；谷歌发布AI与经济ATLAS报告，基于1460万次交互分析显示AI已覆盖68%职业但仅触及21%任务；预测市场显示Anthropic Claude新Opus模型发布概率达91%。">
+  <meta name="keywords" content="DeepSeek,V4,API停服,Foundation Robotics,AMD,人形机器人,谷歌,ATLAS,AI经济,Claude Opus,Anthropic,预测市场,机器学习">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-24</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-24</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">DeepSeek</span><span class="tag">AI芯片</span><span class="tag">人形机器人</span><span class="tag">谷歌</span><span class="tag">AMD</span><span class="tag">Foundation</span><span class="tag">Anthropic</span></div>
+  <h1>⚡ 7月24日泛科技综述：DeepSeek V4旧API正式停服、Foundation联手AMD打造人形机器人、谷歌发布AI经济ATLAS报告</h1>
+
+  <h2>DeepSeek V4 旧 API 名称正式退役：全球开发者紧急迁移</h2>
+  <p>7月24日 15:59 UTC，DeepSeek 按计划正式停用了两个最常用的旧 API 模型名称——<strong>deepseek-chat</strong> 和 <strong>deepseek-reasoner</strong>。这两个名字在此前三个月一直作为兼容性别名指向 V4-Flash 模型，如今已彻底失效，任何仍使用旧名称的 API 请求将直接返回错误。</p>
+  <p>DeepSeek 于今年 4 月 24 日推出 V4 系列时便预告了这一退役日期。迁移本身并不复杂——旧名称 deepseek-chat 实际映射到 V4-Flash 的非思考模式，deepseek-reasoner 映射到 V4-Flash 的思考模式——但关键在于：<strong>V4-Flash 默认开启思考模式</strong>，因此仅仅将 deepseek-chat 替换为 deepseek-v4-flash 而不显式关闭思考功能，会导致延迟上升、Token 消耗翻倍且账单暴涨。</p>
+  <p>行业分析人士指出，这一 API 重组背后是 DeepSeek 的基础设施升级。自 2025 年中起，DeepSeek 一直在构建定制推理芯片，新的 API 端点映射到自研芯片部署平台。此次停服一方面是技术清理，另一方面也是将用户强制迁移至 DeepSeek 押注未来的新架构。</p>
+  <p>对于开发者，正确的迁移方案是：将 deepseek-chat 替换为 deepseek-v4-flash 并设置 <code>thinking: disabled</code>；将 deepseek-reasoner 替换为 deepseek-v4-flash 并保持思考开启，或针对复杂任务升级至 deepseek-v4-pro。支持 OpenAI ChatCompletions 和 Anthropic API 两种接口格式的 Base URL 保持不变。</p>
+  <p>值得注意的是，DeepSeek 还预告了即将推出的 <strong>高峰时段 2 倍定价</strong> 机制——北京时间 9:00-12:00 和 14:00-18:00 为峰值时段，价格翻倍，但该政策尚未在官方文档上线。</p>
+
+  <h2>Eric Trump 旗下 Foundation Robotics 联手 AMD 打造人形机器人</h2>
+  <p>7月24日，Eric Trump 投资的 Foundation Future Industries 在 AMD Advancing AI 2026 大会上宣布与 AMD 达成战略合作，将采用 AMD 最新发布的 <strong>Ryzen AI Embedded X100 系列处理器</strong> 为其 Phantom 人形机器人提供"大脑"。</p>
+  <p>Phantom MK-2 是 Foundation 的第二代人形机器人平台，专为重型工业和国防应用设计。其核心计算架构基于 AMD X100 系列 SoC，集成最多 16 个 Zen 5 CPU 核心、RDNA 3.5 集成 GPU 和 XDNA 2 NPU，统一内存架构支持低延迟确定运行。机器人手部控制则采用 AMD FPGA（原 Xilinx 技术），协调 23 个自由度并融合高频触觉反馈，实现类人操作精度。</p>
+  <p>据 Foundation CEO Sankaet Pathak 透露，Phantom MK-1 已在 2025 年参与超过 24,000 辆汽车的生产制造，产生了 1 亿美元的年化合同收入。MK-2 将在今年 10 月启用年产 5,000 台的新工厂，并计划明年初再建年产 50,000 台的第二工厂。每台工业机器人租赁费用约 10 万美元/年，国防版本售价 30 万美元/台，用于物资搬运和侦察任务。</p>
+  <p>AMD 声称 X100 系列在推理性能上较英伟达 Jetson T5000 提升最多 3 倍，但独立第三方评测尚未出炉。这一合作标志着 AMD 在机器人领域正式向英伟达发起挑战，同时其 Kria AI 系统模块和开放机器人合作伙伴网络也同日发布，吸引了 30 多家 ODM 和 AI 模型提供商加入。</p>
+
+  <h2>谷歌发布 AI 与经济 ATLAS 报告：AI 覆盖 68% 职业但仅触及 21% 任务</h2>
+  <p>谷歌于 7 月 23 日发布了首版 <strong>AI 与经济 ATLAS 报告</strong>（Activity, Labor, and Adoption Study），基于 2026 年 4 月 6 日至 19 日期间从 Gemini App、Google AI Mode 和 Gemini API 采集的超过 <strong>1,460 万次交互</strong>，系统性地绘制了生成式 AI 在经济中的应用图谱。</p>
+  <p>报告核心发现挑战了"AI 将大规模取代白领工作"的主流叙事：AI 已渗透至 68% 的职业类别（覆盖美国 88.4% 的就业人口），但在任何给定职业中，AI 仅平均触及约 21% 的工作任务。对于 29% 的详细职业，AI 的任务饱和度为 0——包括库存员、食品制备工人、快餐厨师、清洁工和巡警等。</p>
+  <p>在意图分类上，谷歌构建的分类器将交互分为五类：任务自动化、部分起草与生成、审查与精炼、构思与策略、信息检索与学习。出人意料的是，非例行认知分析类任务（需要判断、战略思维和创造力）占 O*NET 分类所有任务的 35%，却占 Gemini 工作交互的 65%。其中，端到端自动化仅占非例行认知交互的不到 10%。</p>
+  <p>报告直言当前数据不支持以下三种论断：AI 即将造成大规模白领失业、AI 与蓝领工作无关、AI 的唯一目的是自动化任务。但谷歌也谨慎指出，这些观察都是早期的，随着模型能力提升可能发生变化。</p>
+  <p>值得注意的是，超过 86% 的 Gemini 对话发生在正式工作场景之外，涵盖教育、比价购物、金融服务和政府导航——这些正是历史上为网站带来流量和搜索广告库存的查询类型。</p>
+
+  <h2>预测市场押注 Anthropic 将于本月发布新一代 Claude Opus</h2>
+  <p>Polymarket 预测市场数据显示，交易者认为 Anthropic 在 7 月底前发布下一代 Claude Opus 模型的概率高达 <strong>91%</strong>，其中 7 月 24 日当天发布的概率为 68%，总交易量超过 25.4 万美元。</p>
+  <p>市场合约涵盖下一代 Opus 迭代，无论 Anthropic 将其命名为 Opus 4.9 或直接跳至 Opus 5（后者在 8 月发布的合约中概率达到 90%）。此前有人在 Cursor 开发者界面中发现了一个代号为 <strong>"Honeycomb"</strong> 的未发布研究模型，进一步助推了发布预期。</p>
+  <p>据传新模型将支持超过 100 万 Token 的上下文窗口，提升运行效率并在 Agentic 编码性能上实现重大飞跃。Anthropic 2026 年的部署节奏一直很快：Opus 4.6（2 月）、Opus 4.7（4 月）、Opus 4.8（5 月底），7 月底发布将符合 6-8 周的更新周期。</p>
+  <p>分析人士指出，Fable 5 目前每百万输入 Token 收费 10 美元、输出收费 50 美元——是 Opus 4.8 的两倍——且 7 月 20 日的订阅政策变更已将 Fable 访问限制在 Max 及以上等级，这为升级版中间层 Opus 产品留出了商业空间。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

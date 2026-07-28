@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Prioritizes TPUs for AGI Over Cloud Customers, Kimi K3 Open Weights Arrive Today - AI Daily</title>
+  <meta name="description" content="Alphabet CEO Sundar Pichai confirms TPU allocation prioritizes AGI frontier research over cloud customers on Q2 earnings call; Moonshot AI releases Kimi K3 full model weights as promised on July 27 — the largest open-weight model ever at 2.8 trillion parameters; Google Cloud revenue surges 82% to $24.8B, 2026 CapEx raised to $195-205B.">
+  <meta name="keywords" content="Google, TPU, AGI, Sundar Pichai, Alphabet, Kimi K3, Moonshot AI, Open Source, Cloud Computing, AI Infrastructure">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-27</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="392-google-tpu-agi-priority-kimi-k3-open-weights-july-27-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-27</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Google</span><span class="tag">TPU</span><span class="tag">AGI</span><span class="tag">Kimi K3</span><span class="tag">Open Source AI</span><span class="tag">Cloud Computing</span></div>
+  <h1>⚡ July 27 Tech Mega: Google Says TPUs Go to AGI First, Kimi K3 Open Weights Land Today</h1>
+
+  <h2>1. Google's TPU Allocation Strategy: AGI Over Cloud Customers</h2>
+
+  <p>Alphabet's Q2 2026 earnings call on July 22 revealed a significant strategic signal — CEO Sundar Pichai unequivocally stated that Google's custom TPU (Tensor Processing Unit) compute capacity would be <strong>prioritized for AGI frontier research</strong> over selling to cloud customers.</p>
+
+  <p>Responding to Goldman Sachs analyst Eric Sheridan, Pichai declared: <em>"In terms of allocating our TPUs, our first priority is making sure we are allocating what we need to compete at the frontier in terms of AGI development. That is the foundation for everything we do."</em></p>
+
+  <p>This statement unveils Google's internal compute hierarchy: <strong>AGI R&D > Core Products (Search, YouTube) > Cloud Customer Services</strong>. Pichai noted that Google leverages both TPUs and GPUs to serve cloud customer models on Vertex AI and Gemini Enterprise, but under supply constraints, internal AGI development always takes precedence.</p>
+
+  <blockquote>
+    <p>"The baseline with which we start is what it takes to continue AGI development at the frontier." — Sundar Pichai, Alphabet CEO</p>
+  </blockquote>
+
+  <h2>2. Alphabet Q2 Cloud Revenue Surges 82%, CapEx Raised Again</h2>
+
+  <p>Despite prioritizing TPUs for internal use, Google Cloud delivered spectacular Q2 results. Cloud revenue hit <strong>$24.8 billion</strong>, up <strong>82% year-over-year</strong> — well above the 64% growth analysts expected. Cloud operating profit reached $8.8 billion with operating margin surging from 20.7% to 35.6%.</p>
+
+  <p>Notably, Google Cloud's backlog hit <strong>$514 billion</strong>, up over $50 billion sequentially. While the majority comprises GCP agreements, TPU system sales were recognized for the first time this quarter, albeit in small amounts.</p>
+
+  <p>Alphabet raised its 2026 capital expenditure guidance from $180-190B to <strong>$195-205B</strong>. CFO Anat Ashkenazi attributed the increase to "an acceleration in the delivery of capacity to meet growing demand." Q2 CapEx alone hit $44.9 billion, mostly directed at AI infrastructure.</p>
+
+  <p>However, the company reported <strong>negative free cash flow for the first time ever</strong> at -$5.9B, driven by inventory build-up for TPU system sales — inventory ballooned from $628M to $7.74B. Alphabet raised $49.6B through new equity and mandatory convertible preferred stock to fill the gap, marking a structural shift in its capital allocation approach.</p>
+
+  <h2>3. Kimi K3 Open Weights Arrive: 2.8 Trillion Parameters</h2>
+
+  <p>Moonshot AI has followed through on its commitment, releasing the full model weights for Kimi K3 on July 27, 2026. This is the <strong>largest open-weight model in history</strong> at 2.8 trillion parameters, using a Mixture-of-Experts architecture (896 experts, 16 active per token) with a 1-million-token context window and native vision understanding.</p>
+
+  <p>The weights file is approximately 1.4TB (MXFP4 quantized), available on Hugging Face and GitHub under a Modified MIT license. Moonshot recommends deployment on configurations of 64 or more accelerators in a supernode setup.</p>
+
+  <h3>Kimi K3 Key Specs</h3>
+  <ul>
+    <li><strong>Parameters</strong>: 2.8T (896 experts, 16 active per token)</li>
+    <li><strong>Context Window</strong>: 1M tokens</li>
+    <li><strong>Architecture</strong>: Kimi Delta Attention (KDA) + Attention Residuals</li>
+    <li><strong>Framework Support</strong>: vLLM with partial KDA kernel support</li>
+    <li><strong>API Pricing</strong>: $3/MTok input ($0.30 cache hit), $15/MTok output</li>
+    <li><strong>License</strong>: Modified MIT (commercial use allowed, MAU threshold for large-scale deployments)</li>
+  </ul>
+
+  <p>On the Artificial Analysis Intelligence Index, K3 scores 57.1, ranking fourth behind Claude Fable 5 (59.9) and GPT-5.6 Sol Max (58.9), but ahead of Claude Opus 4.8. On Arena's Frontend Code leaderboard, K3 tops at 1,679 points with a 76% win rate, surpassing Claude Fable 5.</p>
+
+  <p>Independent testing also revealed concerns: Artificial Analysis found K3's hallucination rate climbed from 39% (K2.6) to approximately 51%, while factual accuracy improved from 33% to 46%. The model gets better at correct answers but also more confidently wrong.</p>
+
+  <h2>4. Silicon Valley Torn Apart by Kimi K3</h2>
+
+  <p>K3's open-weight release has triggered an unprecedented policy firestorm. White House OSTP Director Michael Kratsios publicly accused Moonshot of "large-scale, covert industrial distillation" against US models, while Treasury Secretary Scott Bessent threatened sanctions. However, Silicon Valley is deeply divided on the issue.</p>
+
+  <p>Nearly 200 startups co-signed a letter to the White House, warning that banning Chinese open-source models would cause "hundreds of companies to die instantly." Nvidia CEO Jensen Huang told Axios unequivocally that American companies "should absolutely be allowed to use Chinese models," arguing cheaper AI would stimulate demand for compute rather than reduce it.</p>
+
+  <p>OpenAI President Greg Brockman acknowledged to Bloomberg that K3 "is a very good model, no question," while steering the conversation toward infrastructure advantages. Anthropic co-founder Jack Clark called open-weight models "inherently decelerationist," claiming they undermine frontier lab profitability.</p>
+
+  <h2>5. Market Impact and Outlook</h2>
+
+  <p>The Philadelphia Semiconductor Index fell 12.5% in K3's launch week, its worst weekly drop in 15 months. Nvidia, AMD, and Broadcom all sold off. Meanwhile, Chinese AI companies saw valuations surge — Moonshot AI's pre-money valuation reached $31.5 billion.</p>
+
+  <p>From Alphabet's perspective, Google Cloud's 82% growth proves AI infrastructure demand is accelerating, but negative free cash flow and soaring CapEx raise deep questions about AI investment ROI cycles. The company's shift from share buybacks to equity/debt financing is a capital structure change worth watching.</p>
+
+  <p><strong>Looking ahead</strong>: Microsoft (July 29) and Amazon (July 30) report earnings this week, further clarifying the Big Three cloud giants' AI CapEx race. And Kimi K3's open weights release provides the global developer community a real window to test China's open-source large model capabilities.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kimi K3权重正式开源落地HuggingFace 黄仁勋确认Vera Rubin已量产 谷歌TPU优先AGI研发 - AI Daily</title>
+  <meta name="description" content="7月27日泛科技综述：月之暗面Kimi K3 2.8万亿参数权重按承诺正式在HuggingFace开源，594GB MXFP4权重文件开放下载，Modified MIT许可确认；黄仁勋回应谣言称Vera Rubin已进入大规模量产；谷歌CEO皮查伊在Q2财报会上透露TPU分配优先保障AGI前沿研发而非云客户。">
+  <meta name="keywords" content="Kimi K3,开源权重,HuggingFace,月之暗面,Vera Rubin,英伟达,黄仁勋,谷歌,TPU,AGI,人工智能,芯片">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-27</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-27</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">Kimi K3</span><span class="tag">开源AI</span><span class="tag">英伟达</span><span class="tag">Vera Rubin</span><span class="tag">谷歌</span><span class="tag">TPU</span><span class="tag">AGI</span></div>
+  <h1>⚡ 7月27日泛科技综述：Kimi K3权重正式开源落地HuggingFace——594GB权重确认可下载；黄仁勋回应谣言Vera Rubin已大规模量产；谷歌皮查伊称TPU优先供给AGI研发</h1>
+
+  <h2>一、Kimi K3 权重如期开源落地 HuggingFace：Modified MIT 许可、594GB 文件开放下载</h2>
+
+  <p>北京时间 7 月 27 日 08:00（UTC 00:00），月之暗面（Moonshot AI）按此前承诺准时在 HuggingFace 上发布了 Kimi K3 的完整模型权重。这标志着全球首个 3 万亿参数级别的开源大模型正式面向全球开发者开放下载。</p>
+
+  <p>此次发布的权重文件采用 MXFP4（Microscaling FP4）量化训练感知格式，单文件包约 594GB，以 Safetensors 格式托管在 huggingface.co/moonshotai 官方组织下。同步发布的还有完整的 Kimi K3 技术报告，详细披露了模型架构、训练方法和评估结果。</p>
+
+  <p>许可协议确认为 <strong>Modified MIT 许可证</strong>，延续了 Kimi K2 系列的授权模式，允许商业使用并附带署名要求。月之暗面同时强调，开发者在商业部署之前应仔细阅读仓库中的 LICENSE 文件，以确认最新条款。</p>
+
+  <h3>硬件门槛与推理支持</h3>
+
+  <p>Kimi K3 拥有 2.8 万亿总参数，采用混合专家架构（MoE），896 个专家中每 token 激活 16 个。权重落地后，vLLM 推理框架同步发布了对 KDA（Kimi Delta Attention）预填充缓存的原生支持。最低硬件要求为 8 块 H100 80GB 可实验性加载，月之暗面推荐 64+ 加速器用于生产环境部署。社区 Q4 GGUF 量化版本预计在 24-48 小时内由社区完成移植。</p>
+
+  <p>同时有独立评测机构 Artificial Analysis 指出，K3 的幻觉率约为 51%，较前代 K2.6 的 39% 有所上升——该指标在月之暗面官方基准图表中未予披露。开发者在使用 K3 处理事实性任务前应做好充分测试。</p>
+
+  <h2>二、Kimi K3 自主智能体 48 小时跑通芯片全流程设计</h2>
+
+  <p>月之暗面的研发团队在技术报告中披露了一项前所未有的成果：Kimi K3 在完全无人干预的情况下，利用开源 EDA 工具和 Nangate 45nm 工艺库，在连续 48 小时的自主运行中独立完成了一款推理芯片从架构设计到功能验证的全流程开发。</p>
+
+  <p>该芯片面积为 3.981mm²，包含约 146 万个标准单元、0.277MB SRAM，采用 INT4 数值格式，在 100MHz 频率下仿真吞吐量达 8,721 tokens/s。设计全程未使用任何商业 EDA 工具——未涉及新思科技（Synopsys）或铿腾电子（Cadence）的任何软件。</p>
+
+  <p>此外，K3 还从零构建了一个名为 MiniTriton 的 GPU 编程系统和编译器，据称在部分测试中可匹配或超越英伟达 Triton 编译器的性能。消息传出后，新思科技和铿腾电子股价均出现明显下跌，市场开始重新评估 EDA 行业的竞争格局。</p>
+
+  <h2>三、黄仁勋正面回应：Vera Rubin 已进入大规模量产，否认延期传闻</h2>
+
+  <p>针对此前 SemiAnalysis 关于英伟达下一代 AI 平台 Vera Rubin 遭遇重大延期的报道，英伟达 CEO 黄仁勋在近日的开发者活动上接受采访时明确回应："报道不实。Vera Rubin 已经在生产中，大规模产量正在到来。"</p>
+
+  <p>SemiAnalysis 此前的报告称，基于 Rubin Ultra 架构的 Kyber NVL144 机架级解决方案被推迟了超过 12 个月至 2028 年。黄仁勋的言论虽然主要针对芯片制造本身而非机架系统，但这一确认对稳定市场信心起到了关键作用。</p>
+
+  <p>英伟达此前一直保持着每年更新 AI 芯片的节奏，黄仁勋曾给出 Blackwell 和 Vera Rubin 合计到 2027 年实现 1 万亿美元销售额的预测。Vera Rubin 的量产确认意味着英伟达的产品路线图并未出现实质性脱轨。下一份财报（8 月 26 日）将提供更清晰的产能与交付数据。</p>
+
+  <h2>四、谷歌皮查伊：TPU 分配第一优先级是 AGI 前沿研发，而非云客户</h2>
+
+  <p>在 Alphabet 第二季度财报电话会议上，CEO 桑达尔·皮查伊做出了一项引发市场关注的表态：谷歌自研 TPU 的分配策略中，第一优先级是确保 AGI（通用人工智能）前沿研发的算力需求，其次才是搜索、YouTube 和云服务等核心业务。</p>
+
+  <p>皮查伊在回答高盛分析师提问时表示："在 TPU 的分配方面，我们的首要任务是确保分配足够的资源，以保持在 AGI 发展前沿的竞争力。"他同时补充道，Alphabet 也会优先保障搜索、YouTube 和 Google Cloud 等核心产品的算力供给。</p>
+
+  <p>尽管内部优先保障 AGI 研发，Google Cloud 业务依然表现强劲：季度营收达 247.5 亿美元，同比增长 82%，利润 88 亿美元，同比增长 214%。未交付订单积压高达 5140 亿美元。皮查伊的这番表态表明，谷歌正在将 AGI 视为超越短期云收入增长的长期战略核心。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

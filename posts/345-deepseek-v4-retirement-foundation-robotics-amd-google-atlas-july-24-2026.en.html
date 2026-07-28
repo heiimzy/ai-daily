@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 24 Tech Roundup: DeepSeek V4 Legacy API Retires, Foundation Robotics Partners with AMD, Google Publishes AI Economy ATLAS</title>
+  <meta name="description" content="⚡ July 24 tech roundup: DeepSeek retires deepseek-chat and deepseek-reasoner API names at 15:59 UTC, forcing global developer migration; Foundation Robotics partners with AMD using Ryzen AI Embedded X100 for Phantom MK-2 humanoid robots; Google publishes AI Economy ATLAS report analyzing 14.6M interactions; Prediction markets signal 91% probability of new Claude Opus model launch in July.">
+  <meta name="keywords" content="DeepSeek,V4,API retirement,Foundation Robotics,AMD,humanoid robots,Google,ATLAS,AI economy,Claude Opus,Anthropic,prediction markets,machine learning">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-24</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="345-deepseek-v4-retirement-foundation-robotics-amd-google-atlas-july-24-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-24</div>
+  <div class="post-tags"><span class="tag">Tech</span><span class="tag">DeepSeek</span><span class="tag">AI Chip</span><span class="tag">Humanoid Robots</span><span class="tag">Google</span><span class="tag">AMD</span><span class="tag">Foundation</span><span class="tag">Anthropic</span></div>
+  <h1>⚡ July 24 Tech Roundup: DeepSeek V4 API Retires, Foundation Robotics Partners with AMD, Google Publishes AI Economy ATLAS</h1>
+
+  <h2>DeepSeek V4 Legacy API Names Retire: Global Developer Migration Underway</h2>
+  <p>At <strong>15:59 UTC on July 24</strong>, DeepSeek officially decommissioned its two most widely used legacy API model names — <strong>deepseek-chat</strong> and <strong>deepseek-reasoner</strong>. These aliases had served as compatibility shims pointing to DeepSeek's V4-Flash model for the past three months, but now any API request still using the old names will return errors.</p>
+  <p>DeepSeek announced the retirement date when it launched the V4 series on April 24. The migration itself is straightforward — deepseek-chat mapped to V4-Flash's non-thinking mode and deepseek-reasoner to its thinking mode. However, the critical catch is that <strong>V4-Flash defaults to thinking-enabled</strong>, meaning a naive rename from deepseek-chat to deepseek-v4-flash without explicitly disabling thinking will silently increase latency and double token consumption and costs.</p>
+  <p>Industry analysts note this API restructuring reflects DeepSeek's infrastructure upgrade. Since mid-2025, DeepSeek has been building custom inference silicon, and the new API endpoints map to that purpose-built hardware platform. The deprecation is both a technical cleanup and a forced migration to the architecture DeepSeek is betting its future on.</p>
+  <p>For developers, the correct migration is: replace deepseek-chat with deepseek-v4-flash and set <code>thinking: disabled</code> for non-reasoning tasks; replace deepseek-reasoner with deepseek-v4-flash with thinking enabled, or upgrade to deepseek-v4-pro for complex workloads. The Base URL and support for both OpenAI ChatCompletions and Anthropic API formats remain unchanged.</p>
+  <p>DeepSeek has also previewed upcoming <strong>2x peak-hour pricing</strong> (Beijing time 9:00-12:00 and 14:00-18:00), though this policy has not yet appeared in official documentation.</p>
+
+  <h2>Foundation Robotics Partners with AMD to Build Humanoid Robots</h2>
+  <p>Foundation Future Industries, backed by Eric Trump, announced a strategic partnership with AMD at the Advancing AI 2026 conference. The company will use AMD's newly launched <strong>Ryzen AI Embedded X100 Series processors</strong> as the computational "brain" for its Phantom line of humanoid robots.</p>
+  <p>Phantom MK-2, Foundation's second-generation humanoid platform designed for heavy industrial and defense use, integrates AMD's X100 SoC with up to 16 Zen 5 CPU cores, RDNA 3.5 integrated GPU, and XDNA 2 NPU in a unified memory architecture for low-latency deterministic operation. The robot's hands are controlled via AMD FPGAs (formerly Xilinx technology), coordinating 23 degrees of freedom while fusing high-frequency tactile feedback into a single control loop for human-like manipulation.</p>
+  <p>Foundation CEO Sankaet Pathak revealed that Phantom MK-1 robots have already contributed to building more than 24,000 cars in 2025, generating $100 million in annualized contracted revenue. The MK-2 will begin production at a new factory in October with an annual capacity of 5,000 units, with plans for a second 50,000-unit facility in early 2027. Industrial robots lease at approximately $100,000 per year, while defense variants sell for $300,000 each for material handling and reconnaissance missions.</p>
+  <p>AMD claims the X100 series delivers up to 3x inference performance over Nvidia's Jetson T5000, though independent third-party benchmarks are pending. The partnership marks AMD's formal entry into the humanoid robotics market, directly challenging Nvidia's dominance, alongside the launch of its Kria AI SOM platform and an open Robotics Partner Network with over 30 ODM and AI model provider members.</p>
+
+  <h2>Google Publishes AI & Economy ATLAS: AI Reaches 68% of Occupations but Only 21% of Tasks</h2>
+  <p>Google published the first edition of its <strong>AI & Economy ATLAS</strong> (Activity, Labor, and Adoption Study) on July 23, based on over <strong>14.6 million de-identified interactions</strong> collected from the Gemini App, Google AI Mode, and Gemini API between April 6-19, 2026. The report systematically maps generative AI usage across the economy against official labor statistics.</p>
+  <p>The headline finding challenges the dominant "AI will replace white-collar work" narrative: AI has penetrated 68% of detailed occupations (covering 88.4% of US employment), but within any given job it reaches a median of only 21% of tasks. For 29% of detailed occupations — including stockers, food preparation workers, fast food cooks, refuse collectors, and patrol officers — task saturation was zero.</p>
+  <p>Google built a classifier assigning interactions to five categories: Task Automation, Partial Drafting & Generation, Review & Refinement, Ideation & Strategy, and Information Retrieval & Learning. Counterintuitively, non-routine cognitive analytic tasks requiring judgment, strategic thinking, and creativity accounted for 35% of the O*NET taxonomy but 65% of Gemini work interactions, with end-to-end automation representing fewer than 10% of conversations in that category.</p>
+  <p>The report explicitly states the data does not support three claims: that AI is about to cause massive white-collar displacement, that AI is irrelevant to blue-collar work, or that AI's sole purpose is automation — while cautioning these observations are early and could change as capabilities advance.</p>
+  <p>Notably, over 86% of Gemini conversations occurred outside formal work, covering education, comparison shopping, financial services, and government navigation — historically the query types driving publisher referral traffic and search ad inventory.</p>
+
+  <h2>Prediction Markets Signal Imminent Claude Opus Release at 91% Probability</h2>
+  <p>Polymarket prediction market traders assigned up to a <strong>91% probability</strong> that Anthropic will release its next flagship Claude Opus model by end of July 2026, with a 68% chance of a July 24 launch and total trading volume exceeding $254,000.</p>
+  <p>The market contract encompasses the next Opus iteration regardless of whether Anthropic designates it as Opus 4.9 or transitions directly to Opus 5 (the latter reaching 90% probability for an August release on a separate Manifold market). Speculation was fueled by sightings of an unreleased research model codenamed <strong>"Honeycomb"</strong> inside the Cursor developer interface.</p>
+  <p>Rumored enhancements include expanded context windows exceeding 1 million tokens, improved operational efficiency, and significant advances in agentic coding performance. The timing aligns with Anthropic's rapid 2026 deployment cadence: Opus 4.6 (February), Opus 4.7 (April), Opus 4.8 (late May), making a late July launch consistent with the 6-8 week update cycle.</p>
+  <p>Analysts note that Fable 5 currently costs $10 per million input tokens and $50 per million output — double Opus 4.8 pricing — and subscription policy changes on July 20 restricted Fable access primarily to Max-tier accounts, creating commercial space for an upgraded mid-tier Opus offering.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> to access 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -31,29 +31,29 @@ def load_token():
 
 def get_github_files(token, owner, repo, path=""):
     """Get dict of filename -> sha for files at a GitHub path."""
-    headers = {"Authorization": f"token {token}", "Accept": "application/vnd.github+json"}
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
     url = f"https://api.github.com/repos/{owner}/{repo}/contents/{path}"
-    resp = requests.get(url, headers=headers, timeout=15)
+    resp = requests.get(url, headers=headers, timeout=60)
     if resp.status_code == 200:
         return {item["name"]: item["sha"] for item in resp.json()}
     return {}
 
 def get_github_file_sha(token, owner, repo, path):
     """Get SHA of a single file."""
-    headers = {"Authorization": f"token {token}", "Accept": "application/vnd.github+json"}
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
     url = f"https://api.github.com/repos/{owner}/{repo}/contents/{path}"
-    resp = requests.get(url, headers=headers, timeout=15)
+    resp = requests.get(url, headers=headers, timeout=60)
     if resp.status_code == 200:
         return resp.json().get("sha")
     return None
 
 def upload_file(token, owner, repo, rel_path, content_bytes, message):
     """Upload a single file via GitHub Contents API."""
-    headers = {"Authorization": f"token {token}", "Accept": "application/vnd.github+json"}
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
     url = f"https://api.github.com/repos/{owner}/{repo}/contents/{rel_path}"
     
     # Check if file exists
-    resp = requests.get(url, headers=headers, timeout=15)
+    resp = requests.get(url, headers=headers, timeout=60)
     sha = resp.json().get("sha") if resp.status_code == 200 else None
     
     body = {
@@ -63,7 +63,7 @@ def upload_file(token, owner, repo, rel_path, content_bytes, message):
     if sha:
         body["sha"] = sha  # Required for updates
     
-    resp = requests.put(url, headers=headers, json=body, timeout=30)
+    resp = requests.put(url, headers=headers, json=body, timeout=120)
     return resp.status_code in [200, 201], sha is None
 
 def main():
@@ -163,8 +163,8 @@ def main():
     try:
         r = requests.post(
             f"https://api.github.com/repos/{owner}/{repo}/pages/builds",
-            headers={"Authorization": f"token {token}", "Accept": "application/vnd.github+json"},
-            timeout=15
+            headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"},
+            timeout=120
         )
         if r.status_code in [200, 201]:
             print(f"   🔄 Pages rebuild triggered")

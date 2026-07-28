@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kimi K3 Open Weights Go Live on HuggingFace; Jensen Huang Confirms Vera Rubin in Production; Google Prioritizes TPUs for AGI - AI Daily</title>
+  <meta name="description" content="July 27 tech roundup: Moonshot AI releases Kimi K3 open weights as promised — 594GB MXFP4 download under Modified MIT License; Jensen Huang refutes delay rumors, confirms Vera Rubin chips are already in mass production; Alphabet CEO Sundar Pichai reveals TPU allocation prioritizes frontier AGI development over cloud customers.">
+  <meta name="keywords" content="Kimi K3, open weights, HuggingFace, Moonshot AI, Vera Rubin, Nvidia, Jensen Huang, Google, TPU, AGI, AI, chips">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-27</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="402-kimi-k3-weights-live-vera-rubin-production-google-tpu-agi-july-27-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-27</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Kimi K3</span><span class="tag">Open Source AI</span><span class="tag">Nvidia</span><span class="tag">Vera Rubin</span><span class="tag">Google</span><span class="tag">TPU</span><span class="tag">AGI</span></div>
+  <h1>⚡ July 27 Tech Roundup: Kimi K3 Open Weights Go Live on HuggingFace — 594GB Download Confirmed; Huang Says Vera Rubin in Mass Production; Pichai: TPUs Reserved for AGI First</h1>
+
+  <h2>1. Kimi K3 Open Weights Land on HuggingFace as Promised: Modified MIT License, 594GB Download</h2>
+
+  <p>At 00:00 UTC on July 27, Moonshot AI delivered on its promise and released the complete model weights for Kimi K3 on HuggingFace. This marks the first-ever 3-trillion-parameter class open-weight model available to developers worldwide.</p>
+
+  <p>The weights are published in MXFP4 (Microscaling FP4) quantization-aware training format, packaged as ~594GB of Safetensors files under the official moonshotai organization on HuggingFace. Alongside the weights, Moonshot released the full Kimi K3 technical report detailing architecture, training methodology, and evaluation results.</p>
+
+  <p>The license is confirmed as <strong>Modified MIT</strong>, continuing the Kimi K2 family's approach — permitting commercial use with attribution. Moonshot advises developers to read the LICENSE file in the repository carefully before production deployment.</p>
+
+  <h3>Hardware Requirements and Inference Support</h3>
+
+  <p>Kimi K3 features 2.8 trillion total parameters with a Mixture-of-Experts architecture (16 active out of 896 experts per token). The vLLM inference framework shipped KDA (Kimi Delta Attention) prefill cache support alongside the weights. Minimum hardware: 8× H100 80GB for experimental loading, with 64+ accelerators recommended by Moonshot for production deployments. Community GGUF Q4 quantizations are expected within 24-48 hours.</p>
+
+  <p>Independent evaluator Artificial Analysis noted a ~51% hallucination rate on factual tasks — up from 39% on K2.6 — a figure not disclosed in Moonshot's official benchmark charts. Developers should conduct thorough testing before deploying K3 on fact-sensitive workloads.</p>
+
+  <h2>2. Kimi K3 Autonomous Agents Complete Full Chip Design Flow in 48 Hours</h2>
+
+  <p>Moonshot's research team disclosed a remarkable achievement in the technical report: Kimi K3 independently completed a full inference chip design flow — from architecture to functional verification — in a continuous 48-hour autonomous run, using only open-source EDA tools and the Nangate 45nm process library, with zero human intervention.</p>
+
+  <p>The resulting chip measures 3.981mm² with approximately 1.46 million standard cells and 0.277MB SRAM, running INT4 arithmetic at 100MHz with simulated throughput of 8,721 tokens/s. Critically, no commercial EDA software from Synopsys or Cadence was used at any stage.</p>
+
+  <p>K3 also built a GPU programming system and compiler from scratch called MiniTriton, reportedly matching or exceeding Nvidia's Triton compiler on select benchmarks. The news triggered a selloff in Synopsys and Cadence shares, as markets reassess the competitive dynamics of the EDA industry.</p>
+
+  <h2>3. Jensen Huang: Vera Rubin Is Already in Mass Production</h2>
+
+  <p>Responding to a SemiAnalysis report claiming major delays in Nvidia's next-generation AI platform, CEO Jensen Huang told reporters at a developer event: "The reports are not true. Vera Rubin is already in production. Massive quantities of production incoming."</p>
+
+  <p>SemiAnalysis had reported that the Kyber NVL144 rack-scale solution based on the Rubin Ultra architecture was delayed by over 12 months to 2028. While Huang's comments focused on chip production rather than the rack system, the confirmation has helped stabilize market sentiment.</p>
+
+  <p>Nvidia has maintained an annual AI chip update cadence, with Huang forecasting $1 trillion in combined Blackwell and Vera Rubin sales by 2027. The Vera Rubin production confirmation signals that Nvidia's product roadmap remains broadly on track. The next earnings call on August 26 will provide clearer capacity and delivery data.</p>
+
+  <h2>4. Google CEO Pichai: TPU Allocation Prioritizes AGI Frontier Development Over Cloud Customers</h2>
+
+  <p>On Alphabet's Q2 earnings call, CEO Sundar Pichai made a strategically significant statement: Google's first priority for TPU allocation is ensuring compute capacity for frontier AGI development, ahead of core products like Search, YouTube, and Cloud.</p>
+
+  <p>Responding to Goldman Sachs analyst Eric Sheridan, Pichai said: "In terms of allocating our TPUs, our first priority is making sure we are allocating what we need to compete at the frontier in terms of AGI development." He emphasized that Alphabet also prioritizes core product areas but the baseline starts with AGI.</p>
+
+  <p>Despite internal allocation priorities, Google Cloud revenue surged 82% year-over-year to $24.75 billion for the quarter, with an $8.8 billion profit representing 214% growth. The backlog of unfulfilled cloud orders stands at $514 billion. Pichai's comments signal that Google views AGI as a strategic imperative that transcends near-term cloud revenue optimization.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

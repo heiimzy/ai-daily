@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kimi K3 2.8万亿参数权重今日正式开源、英伟达10亿美元战略投资Naver、长鑫科技科创板上市首日市值登顶A股 - AI 日报</title>
+  <meta name="description" content="7月27日科技重磅综述：月之暗面Kimi K3 2.8万亿参数开源权重按承诺于7月27日正式发布，全球开发者可下载594GB权重文件；英伟达以10亿美元认购Naver 4.5%新发行股份，黄仁勋与李海珍签署战略投资协议；长鑫科技科创板上市首日高开471%，市值3.31万亿元登顶A股，曝与字节跳动签下70亿美元大单。">
+  <meta name="keywords" content="Kimi K3,开源权重,月之暗面,英伟达,Naver,长鑫科技,科创板,DRAM,字节跳动,AI投资">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-27</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="401-kimi-k3-open-weights-nvidia-naver-cxmt-listing-july-27-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-27</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">Kimi K3</span><span class="tag">英伟达</span><span class="tag">Naver</span><span class="tag">长鑫科技</span><span class="tag">科创板</span><span class="tag">开源AI</span><span class="tag">DRAM</span></div>
+  <h1>⚡ 7月27日科技综述：Kimi K3 2.8万亿参数权重正式开源——594GB权重文件开放下载；英伟达10亿美元入股Naver成第三大股东；长鑫科技科创板上市首日暴涨471%市值登顶A股</h1>
+
+  <h2>一、Kimi K3开源权重正式发布：全球最大开源模型诞生</h2>
+
+  <p>7月27日，月之暗面（Moonshot AI）按承诺正式发布Kimi K3完整模型权重，兑现了其"7月27日开源"的承诺。Kimi K3以2.8万亿总参数成为全球最大的开源大模型，权重文件以MXFP4精度格式发布，下载大小约594GB，托管于Hugging Face平台。</p>
+
+  <p>Kimi K3采用稀疏MoE架构，拥有896个专家模块，每个token激活16个专家（约1.8%），平均激活参数约48B。架构上引入了Kimi Delta Attention混合线性注意力机制和Attention Residuals残差连接，声称比上一代Kimi K2实现了2.5倍的扩展效率提升。模型原生支持100万token上下文窗口，具备多模态视觉理解能力。</p>
+
+  <p>在基准测试方面，Kimi K3在前端代码竞技场Frontend Code Arena中以1679分领先Anthropic Claude Fable 5，在7个评测领域中的6个取得第一。在Artificial Analysis的189模型智能指数中排名第四，在代码WebDev类别中排名第一。不过，Kimi K3在整体性能上仍落后于Claude Fable 5和OpenAI GPT-5.6 Sol。</p>
+
+  <h3>开源许可与部署要求</h3>
+
+  <p>Kimi K3采用修改版MIT许可证，商业用户月活超过约1亿需在产品界面中显示"Kimi"品牌标识。最小部署硬件要求为8块H100 80GB，月之暗面推荐使用64+加速器进行生产部署。模型使用MXFP4量化感知训练技术，配合vLLM推理框架的KDA预填充缓存支持，可在消费级硬件上实现量化推理。</p>
+
+  <p>值得关注的是，独立测试发现Kimi K3在特定事实类任务上的幻觉率高达51%，这一指标未在月之暗面官方基准图表中披露。开发者在将模型投入生产前需针对事实性任务进行充分验证。</p>
+
+  <blockquote>
+    <p>Kimi K3作为全球首个公开的3T级开源模型，标志着中国AI开源社区正式进入前沿模型竞争的核心战场。其竞争力已接近甚至部分超越美国顶尖闭源模型，这对全球AI开源生态格局产生深远影响。</p>
+  </blockquote>
+
+  <h2>二、英伟达10亿美元战略投资Naver，成为第三大股东</h2>
+
+  <p>7月27日，英伟达与韩国互联网巨头Naver宣布达成战略投资协议：英伟达将以10亿美元认购Naver新发行的约724万股股票，每股定价204,500韩元（约140美元），持股比例约4.5%。交易完成后，英伟达将成为Naver第三大股东，仅次于国民年金公团（NPS）和贝莱德。</p>
+
+  <p>此次投资通过第三方定向增发方式进行，款项将于10月30日支付。为抵消新股发行的稀释效应，Naver将于8月3日注销约490万股库存股，价值约1万亿韩元。这是Naver自2008年转板KOSPI市场以来22年来首次定向增发。</p>
+
+  <p>这笔投资的核心战略意图是深化双方在AI基础设施领域的合作。今年6月，Naver Cloud与英伟达已签署协议，共同开发吉瓦级AI工厂。此次股权合作将这一关系进一步升级为资本纽带——英伟达通过持股锁定Naver作为长期硬件客户，同时通过其DSX平台垂直整合GPU供应、软件堆栈和运营管理。</p>
+
+  <h3>韩国AI基建战略版图</h3>
+
+  <p>Naver计划利用这笔资金建设GAK世宗AI数据中心，总预算约100亿美元。初期部署55MW算力，目标2028年扩展至200MW，远期规划1GW。Brookfield作为主要资本合作伙伴提供最高90亿美元项目融资。</p>
+
+  <p>此次Naver投资与上周SK集团宣布的7500亿美元AI半导体合作形成互补，共同构成英伟达的韩国整体战略。市场对这一交易的即时反应为Naver股价当日下跌5.68%，反映出投资者对短期稀释效应与长期基建回报周期之间的权衡。</p>
+
+  <blockquote>
+    <p>英伟达CEO黄仁勋在加州总部与Naver创始人李海珍共同签署协议时表示，韩国具备成为全球AI强国的全部条件。这不仅是商业投资，更是英伟达锁定全球AI基础设施供应链的关键一环。</p>
+  </blockquote>
+
+  <h2>三、长鑫科技科创板上市首日暴涨471%，市值3.31万亿登顶A股</h2>
+
+  <p>7月27日，国产DRAM存储芯片龙头长鑫科技（688825.SH）正式在上交所科创板挂牌上市，以一场震撼市场的大涨改写了A股市值版图。开盘报49.5元/股，较8.66元/股的发行价大涨471.59%，总市值一度达到3.31万亿元，超越工商银行成为A股总市值第一。</p>
+
+  <p>此次初始发行66.88亿股，募资约579亿元；若全额行使超额配售选择权，募资规模可达666亿元，不仅是科创板史上最大IPO，也是A股历史上第三大IPO。网上申购环节共有942.88万户投资者参与，中签率0.4714%，刷新科创板新股中签率纪录。</p>
+
+  <h3>字节跳动70亿美元大单曝光</h3>
+
+  <p>据媒体报道，长鑫存储本月与字节跳动签署了一份为期五年、价值超过70亿美元的DRAM供应协议。这一大额订单反映了字节跳动在AI算力基础设施上的庞大需求，也印证了国产DRAM芯片在性能和产能上已达到国际大规模部署标准。</p>
+
+  <p>长鑫存储正在上海和安徽合肥建设两座新晶圆厂，项目完成后产能将翻倍至每月超过60万片晶圆。知情人士透露，如果一切顺利，长鑫存储的产能将在2030年前超过美光。根据SemiAnalysis的数据，长鑫存储2026年全年收入可能超过500亿美元，市场份额将从2025年的9%提升至2027年的12%。</p>
+
+  <h3>产业链联动效应</h3>
+
+  <p>长鑫科技的上市带动了整个半导体产业链的上涨行情。成都华微、中船特气涨幅超10%，中科飞测涨超8%，华峰测控涨超5%。拓荆科技、中微公司等设备企业参与战略配售。这一现象表明市场对国产半导体产业链的景气预期持续升温。</p>
+
+  <p>华西证券认为，长鑫科技上市将彻底改写A股半导体板块估值逻辑，填补A股DRAM制造标的空白。公司2025年营收已达617.99亿元并实现扭亏为盈，2026年上半年预计营收1100-1200亿元，同比增幅达612-677%。</p>
+
+  <h2>总结</h2>
+
+  <p>7月27日的三大科技新闻共同指向一个趋势：全球AI和半导体产业正进入前所未有的资本和算力密集型阶段。从Kimi K3的开源权重到英伟达锁定韩国AI基建，再到长鑫科技以国产DRAM产能服务AI大厂，中国在全球AI供应链中的话语权持续提升。开源模型的竞争力逼近闭源前沿水平，半导体国产替代进入大规模放量阶段，资本密集度创下历史新高——这些信号共同指向一个AI产业格局加速重塑的2026年。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

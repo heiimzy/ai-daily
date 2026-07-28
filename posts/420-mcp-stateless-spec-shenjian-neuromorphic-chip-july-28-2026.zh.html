@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCP协议迎来史上最大版本更新：7月28日正式版取消会话握手，全面转向无状态架构 - AI Daily</title>
+  <meta name="description" content="7月28日凌晨消息，AI Agent生态核心基础设施MCP（Model Context Protocol）今日正式发布2026-07-28规格正式版，这是该协议自2024年发布以来最大规模的架构变革。核心变更：取消initialize握手和Mcp-Session-Id会话ID，全面转向无状态协议层。同时，深鉴科技发布神经形态芯片「博索」，3D存算一体架构能效超GPU百倍。">
+  <meta name="keywords" content="MCP, Model Context Protocol, AI Agent, 无状态协议, 深鉴科技, 神经形态芯片, 博索, 存算一体, 忆阻器">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-28</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-28</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">MCP</span><span class="tag">AI Agent</span><span class="tag">神经形态芯片</span><span class="tag">存算一体</span><span class="tag">深鉴科技</span></div>
+  <h1>⚡ MCP协议史上最大更新今日发布：取消握手会话全面无状态化；深鉴科技神经形态芯片能效超GPU百倍</h1>
+
+  <h2>MCP 2026-07-28 正式版：AI Agent基础设施的「去状态化」革命</h2>
+
+  <p>7月28日凌晨，Model Context Protocol（MCP）维护团队正式发布2026-07-28规格正式版。这是MCP自2024年11月发布以来最大规模的架构变革，被多家媒体称为「该协议历史上最重要的一次修订」。MCP是连接AI Agent与外部工具、数据源和API的开放标准协议，由Anthropic于2024年11月提出，如今已获得OpenAI、Google DeepMind、微软、AWS以及数百家企业软件厂商的采纳，并由Linux基金会旗下AI Agent基金会管理。</p>
+
+  <p>本次更新的核心变化是——MCP协议层正式转向无状态（Stateless）架构。此前版本中，每个MCP连接都必须经历initialize握手、获取Mcp-Session-Id会话ID，后续每次请求携带该ID，导致客户端被「钉死」在某台服务器实例上。这对横向扩展造成了严重阻碍：部署多个实例时必须使用粘性会话路由或共享Redis会话存储，极大增加了运维复杂度。</p>
+
+  <h3>三大核心变更细节</h3>
+
+  <h4>1. 取消 initialize/initialized 握手与 Mcp-Session-Id</h4>
+  <p>两项规格增强提案（SEP-2575和SEP-2567）分别移除了initialize握手和Mcp-Session-Id标头。现在协议版本、客户端信息和能力声明不再在连接建立时一次性交换，而是通过每个请求中的_meta字段携带。新增server/discover方法让客户端可按需查询服务器能力。结果是：任意MCP请求可以发往任意服务器实例，不再需要粘性路由或共享会话存储。</p>
+
+  <blockquote>「MCP的核心设计变更——从面向套接字的状态协议转向面向负载均衡器的无状态协议。这是自添加授权以来最实质性的变更。很多构成MCP的东西都消失了。」——MCP核心维护者David Soria Parra在7月23日直播中表示</blockquote>
+
+  <h4>2. 新增路由标头 Mcp-Method 和 Mcp-Name</h4>
+  <p>新规要求所有请求必须包含Mcp-Method和Mcp-Name两个HTTP标头（SEP-2243），负载均衡器、网关和限流器可以根据操作类型进行路由和限流，而无需解析JSON-RPC请求体。服务器会在标头与请求体不一致时拒绝请求。</p>
+
+  <h4>3. Tasks 升级为正式扩展，三项特性进入12个月废弃期</h4>
+  <p>长时运行任务原语Tasks从实验性内核功能升级为正式扩展，重新围绕无状态设计：tools/call返回任务句柄，客户端通过tasks/get、tasks/update和tasks/cancel驱动进度。同时Roots、Sampling和Logging三项特性正式进入废弃通道，至少12个月内保持功能。</p>
+
+  <p>GitHub已于7月23日宣布其GitHub MCP Server将率先支持新规范，移除了Redis会话存储和深度包检测。微软Azure App Service团队同步发表了部署指南，称「MCP无状态化后，托管横向扩展的MCP服务器就像部署普通Web应用一样简单」。</p>
+
+  <h2>深鉴科技发布「博索」神经形态芯片：存算一体能效超GPU百倍</h2>
+
+  <p>7月28日凌晨，在深圳举办的全球半导体创新峰会上，深鉴科技正式发布了历时三年研发的神经形态计算芯片——「博索」（Bosuo）。这款芯片采用革命性的3D存算一体架构，在指甲盖大小的面积内实现10 TOPS/W的能效比，较传统GPU提升超过100倍，标志着边缘AI计算正式进入超高能效时代。</p>
+
+  <h3>技术突破：3D存算一体 + 忆阻器阵列</h3>
+  <p>「博索」的核心创新在于将存储与计算深度融合在三维空间中。底层采用基于HfO₂的忆阻器阵列，每个单元可存储1比特权重并同时执行乘加运算。中间层通过纳米级通孔连接底层与顶层数字控制单元，实现1024个并行计算列的同步操作。通过非易失性忆阻器，权重数据在断电后也不会丢失，实现了真正的零静态功耗存储。</p>
+
+  <p>实测性能数据显示，「博索」在ResNet-50图像分类任务中推理延迟22ms、功耗仅180mW、能效比9.8 TOPS/W，相较NVIDIA Jetson TX2（0.6 TOPS/W）能效提升16.3倍。在语音唤醒任务中，功耗仅45μW，能效比差距超过两个数量级。</p>
+
+  <h3>落地前景：从可穿戴到工业物联网</h3>
+  <p>「博索」芯片面积仅为4mm²，采用成熟22nm FD-SOI工艺（中芯国际提供），流片良率已超过90%。深鉴科技已与国内两家封测厂商达成合作，计划2026年第四季度启动小批量试产，首批产能每月15万片，成本可降至每颗2美元以下。</p>
+
+  <p>六大前沿应用场景已进入原型验证阶段：智能可穿戴设备（功耗仅0.3mW，电池续航提升至30天）、智能家居传感器、工业预测性维护、自动驾驶路侧单元、医疗便携诊断以及声学事件检测。深鉴科技CEO表示：「博索的规模化生产不需要先进制程，这极大降低了供应链风险。它将让计算回归到'无处不在却无所感知'的终极形态。」</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

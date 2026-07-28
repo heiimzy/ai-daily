@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCP Ships Largest Spec Update Ever: Goes Stateless on July 28; Shenjian Debuts Neuromorphic Chip 100x Energy Efficient Than GPU - AI Daily</title>
+  <meta name="description" content="Breaking July 28: The Model Context Protocol (MCP) ships its largest revision since launch — removing the initialize handshake and session ID for a fully stateless architecture. Also: Shenjian Technology unveils 'Bosuo' neuromorphic chip with 3D compute-in-memory design delivering 10 TOPS/W, 100x better energy efficiency than traditional GPUs.">
+  <meta name="keywords" content="MCP, Model Context Protocol, AI Agent, stateless protocol, Shenjian Technology, neuromorphic chip, Bosuo, compute-in-memory, memristor">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-28</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="420-mcp-stateless-spec-shenjian-neuromorphic-chip-july-28-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-28</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">MCP</span><span class="tag">AI Agent</span><span class="tag">Neuromorphic Chip</span><span class="tag">Compute-in-Memory</span><span class="tag">Shenjian Tech</span></div>
+  <h1>⚡ MCP Ships Largest Revision Since Launch: Goes Fully Stateless; Shenjian Unveils Neuromorphic Chip 100x More Efficient Than GPU</h1>
+
+  <h2>MCP 2026-07-28 Final Spec: The 'De-state-ification' of AI Agent Infrastructure</h2>
+
+  <p>Early July 28, the Model Context Protocol (MCP) maintainers formally published the 2026-07-28 specification — the largest architectural revision since the protocol's November 2024 launch. Industry outlets are calling it "the most consequential update in the protocol's history." MCP, the open standard connecting AI agents to external tools, data sources, and APIs, was introduced by Anthropic in November 2024 and has since been adopted by OpenAI, Google DeepMind, Microsoft, AWS, and hundreds of enterprise software vendors, now governed by the Linux Foundation's AI Agent Foundation.</p>
+
+  <p>The headline change: MCP is now stateless at the protocol layer. In previous versions, every MCP connection opened with an initialize handshake and received an Mcp-Session-Id header, pinning each client to whichever server instance issued it. This forced sticky load balancer routing and shared Redis session stores for any horizontally scaled deployment — a significant operational tax.</p>
+
+  <h3>Three Core Changes in Detail</h3>
+
+  <h4>1. initialize/initialized Handshake and Mcp-Session-Id Removed</h4>
+  <p>Two Specification Enhancement Proposals (SEP-2575 and SEP-2567) eliminate the initialize handshake and the Mcp-Session-Id header entirely. Protocol version, client info, and capabilities that used to be exchanged once at connection time now travel in the _meta field on every individual request. A new server/discover method lets clients query server capabilities on demand. The result: any MCP request can land on any server instance — no sticky routing, no shared session store required.</p>
+
+  <blockquote>"This is the most substantial change we have made to the specification, probably since adding authorization. A lot of things that made MCP are gone." — David Soria Parra, MCP core maintainer, during the July 23 livestream</blockquote>
+
+  <h4>2. New Required Headers: Mcp-Method and Mcp-Name</h4>
+  <p>The new spec requires Mcp-Method and Mcp-Name headers on every request (SEP-2243). Load balancers, gateways, and rate-limiters can now route or throttle based on operation without parsing the JSON-RPC body. Servers reject requests where headers and body disagree — preventing routing confusion.</p>
+
+  <h4>3. Tasks Graduated to Extension, Three Features Deprecated</h4>
+  <p>The Tasks primitive for long-running work moves from experimental core feature to a formal extension, rebuilt around statelessness: tools/call now returns a task handle, and clients drive progress with tasks/get, tasks/update, and tasks/cancel. Notably, tasks/list was removed — a stateless server has no session-scoped list to enumerate. Additionally, Roots, Sampling, and Logging enter a formal 12-month deprecation pipeline.</p>
+
+  <p>GitHub announced on July 23 that its GitHub MCP Server would ship updated support for the new spec, removing Redis session storage and deep packet inspection. Microsoft's Azure App Service team published migration guidance, stating "hosting a horizontally scaled MCP server is now as simple as deploying a normal web app."</p>
+
+  <h2>Shenjian Technology Unveils 'Bosuo' Neuromorphic Chip: 100x Energy Efficiency Through 3D Compute-in-Memory</h2>
+
+  <p>In a concurrent development early July 28 at the Global Semiconductor Innovation Summit in Shenzhen, Shenjian Technology officially launched 'Bosuo' (博索), a neuromorphic computing chip developed over three years. The chip features a revolutionary 3D compute-in-memory architecture delivering 10 TOPS/W — over 100x better energy efficiency than traditional GPUs — marking a new era for edge AI computing.</p>
+
+  <h3>Technical Breakthrough: 3D Compute-in-Memory + Memristor Array</h3>
+  <p>Bosuo's core innovation is the tight integration of storage and computation in three-dimensional space. The bottom layer uses an HfO₂-based memristor array where each cell stores 1-bit of weight while simultaneously performing multiply-accumulate operations. The middle layer connects to the top digital control unit through nano-scale through-silicon vias, enabling 1,024 parallel compute columns. Non-volatile memristors ensure weights survive power loss — achieving true zero static power storage.</p>
+
+  <p>In benchmark testing against the NVIDIA Jetson TX2 (16nm), Bosuo (22nm) delivered: 22ms inference latency at 180mW for ResNet-50 image classification (9.8 TOPS/W vs 0.6 TOPS/W — 16.3x improvement), and an astonishing 45μW for voice wake-up tasks — over two orders of magnitude better energy efficiency.</p>
+
+  <h3>Go-to-Market: From Wearables to Industrial IoT</h3>
+  <p>Bosuo measures just 4mm², uses mature 22nm FD-SOI process from SMIC, and has achieved over 90% yield in early runs. Shenjian has partnered with two domestic packaging and testing firms, planning small-batch production in Q4 2026 with initial capacity of 150,000 units per month at under $2 per chip.</p>
+
+  <p>Six application scenarios are already in prototype validation: smart wearables (0.3mW power consumption, 30-day battery life), smart home sensors, industrial predictive maintenance, autonomous driving roadside units, portable medical diagnostics, and acoustic event detection. As Shenjian's CEO stated: "Bosuo's mass production doesn't require advanced process nodes — significantly reducing supply chain risk. It brings computing back to its ultimate form: ubiquitous yet imperceptible."</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
