@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lilian Weng Returns to OpenAI to Lead RSI Self-Improvement, Tencent Open-Sources HiLS-Attention with 512x Context Extrapolation, Peking University Brain Chip Published in Science Boasts 478x Speedup Over A100 - AI Daily</title>
+  <meta name="description" content="⚡ July 30 tech roundup: Lilian Weng rejoins OpenAI days after leaving Thinking Machines Lab, to lead Recursive Self-Improvement (RSI) team; Tencent open-sources HiLS-Attention, a novel sparse attention mechanism achieving 512x context extrapolation; Peking University and CAS Shanghai Microsystem Institute create the world's first phase-change memristor-based neuromorphic dynamics chip, published in Science, achieving 478x speedup over NVIDIA A100 for brain cortex reconstruction.">
+  <meta name="keywords" content="Lilian Weng,OpenAI,RSI,Thinking Machines Lab,Tencent,HiLS-Attention,Sparse Attention,Peking University,Neuromorphic Chip,Memristor,Science">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/465-weng-openai-rsi-tencent-hils-attention-pekin-brain-chip-july-30-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/465-weng-openai-rsi-tencent-hils-attention-pekin-brain-chip-july-30-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/465-weng-openai-rsi-tencent-hils-attention-pekin-brain-chip-july-30-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">Free AI Tools</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-30</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="465-weng-openai-rsi-tencent-hils-attention-pekin-brain-chip-july-30-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-30</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Lilian Weng</span><span class="tag">OpenAI</span><span class="tag">RSI</span><span class="tag">Tencent</span><span class="tag">HiLS-Attention</span><span class="tag">Peking University</span><span class="tag">Neuromorphic Chip</span><span class="tag">Science</span></div>
+  <h1>⚡ July 30 Tech Triple: Lilian Weng Rushes Back to OpenAI for RSI, Tencent Open-Sources HiLS-Attention with 512x Context Extrapolation, Peking University Brain Chip Hits Science with 478x A100 Speedup</h1>
+
+  <h2>1. Lilian Weng's Whirlwind Return to OpenAI: Leaves TML for Health, Rejoins Days Later to Lead RSI Team</h2>
+
+  <p>In one of the most dramatic talent moves of the year, Lilian Weng — who just left Thinking Machines Lab (TML) citing health reasons — has rejoined OpenAI within days to lead a new Recursive Self-Improvement (RSI) team.</p>
+
+  <p>According to OpenAI insiders, Weng will lead a "self-evolving" team focused on recursive self-improvement — a top-priority research direction where AI models train and improve their own successors. This project sits at the heart of what many researchers call the path to artificial general intelligence (AGI), and raises profound safety questions about control and alignment.</p>
+
+  <p>With Weng's return, three of TML's six co-founders have now rejoined OpenAI — Barret Zoph and Luke Metz returned earlier. TML now only retains CEO Mira Murati and Chief Scientist John Schulman among its original co-founders.</p>
+
+  <h3>Weng's OpenAI Journey</h3>
+
+  <p>Weng graduated from Peking University and joined OpenAI in 2018, where she was a core contributor to the Dactyl robot hand project (teaching a robotic hand to solve a Rubik's cube one-handed). After GPT-4's launch, she built OpenAI's Safety Systems team from scratch, growing it to over 80 members, laying crucial groundwork for ChatGPT's safety mechanisms and evaluation frameworks. She was promoted to VP of Research and Safety in August 2024.</p>
+
+  <p>In late 2024, as OpenAI experienced a wave of departures (Ilya Sutskever, Jan Leike, John Schulman, Mira Murati, and others), Weng also chose to leave. In early 2025, she co-founded Thinking Machines Lab with former OpenAI CTO Mira Murati. In July 2026, she announced her departure from TML citing months of health issues and the intense pressure of startup life. But within days, she stunned the industry by announcing her return to OpenAI to lead RSI efforts.</p>
+
+  <p>Notably, on July 4, Weng published an in-depth blog post on recursive self-improvement, detailing frameworks for building self-improving systems — suggesting her RSI research trajectory was already well underway.</p>
+
+  <blockquote>TML was founded in September 2024. Of its original 42-person founding team, at least 14 have now left. Of the six co-founders, four have departed — and three of those four chose OpenAI as their next destination, in a striking Silicon Valley "talent回流" phenomenon.</blockquote>
+
+  <h2>2. Tencent Open-Sources HiLS-Attention: A Mathematically Rigorous Sparse Attention Mechanism with 512x Context Extrapolation</h2>
+
+  <p>On July 30, Tencent's Hunyuan team officially open-sourced HiLS-Attention (Hierarchical Landmark Sparse Attention), a novel chunk-wise sparse attention mechanism that simultaneously solves two fundamental mathematical challenges: insufficient expressiveness in chunk importance estimation, and non-differentiability of the selection process.</p>
+
+  <h3>Core Technical Breakthrough</h3>
+
+  <p>The core challenge in long-context processing for large language models is that attention computation complexity grows quadratically with sequence length. Sparse attention reduces complexity by having only a subset of tokens participate in attention computation, but traditional methods face two fundamental problems: accurately estimating the importance of each chunk, and making the selection process optimizable via gradient descent (end-to-end differentiability).</p>
+
+  <p>HiLS-Attention introduces a novel sparse attention paradigm through innovative hierarchical landmark design. Its key contributions include:</p>
+
+  <ul>
+    <li><strong>Mathematical rigor</strong>: First proof that sparse selection can be made end-to-end differentiable through innovative landmark representation while maintaining high expressiveness for chunk importance</li>
+    <li><strong>512x context extrapolation</strong>: Achieves 512x context extrapolation capability while preserving model performance</li>
+    <li><strong>Dramatic cost reduction</strong>: Significantly improves context processing capacity without increasing compute costs</li>
+  </ul>
+
+  <p>This open-source contribution is particularly valuable for AI applications requiring ultra-long document processing, large-scale code repository analysis, or massive conversation history handling. By enabling models to process longer texts at lower cost, HiLS-Attention systematically expands the capability boundaries of AI applications.</p>
+
+  <p>Tencent Hunyuan's open-sourcing of this technology provides the entire AI community with a "mathematically correct" sparse attention solution, truly doing sparse attention "Done Right."</p>
+
+  <h2>3. Peking University and CAS Create World's First Millisecond Neuromorphic Dynamics Chip: 478x A100 Speedup in Science Publication</h2>
+
+  <p>A joint team from Peking University's School of Integrated Circuits (Professor Yang Yuchao) and CAS Shanghai Microsystem and Information Technology Institute (Professor Song Zhitang) has successfully developed the world's first phase-change memristor-based millisecond neuromorphic dynamics system chip. The breakthrough was published in the top-tier journal <em>Science</em>.</p>
+
+  <h3>Beyond the Von Neumann Bottleneck</h3>
+
+  <p>The brain is one of nature's most complex dynamical systems. To enable machines to model and understand the physical world in real-time like the brain does, a "neuromorphic dynamics system" combining neural networks with differential equations is needed. However, traditional von Neumann architectures separate storage from computation — massive intermediate variables must shuttle repeatedly between memory and processor, creating enormous latency and energy consumption.</p>
+
+  <p>The team found their breakthrough in the physical properties of the memristor itself — leveraging the predictable, precisely controllable "conductance drift" phenomenon of phase-change memory within specific time windows to build a precisely controllable in-situ in-memory computing mechanism. This approach dramatically reduces the frequent read/write, cache access, and data movement overhead of traditional digital hardware. Operations that once required complex digital circuits are now executed by the device's own physical laws.</p>
+
+  <h3>Stunning Performance Metrics</h3>
+
+  <ul>
+    <li><strong>Speed</strong>: First-ever compression of neuromorphic dynamics system single-step latency to 2.12 milliseconds — entering the millisecond real-time era</li>
+    <li><strong>vs GPU</strong>: 50.38x to 478.18x speedup over NVIDIA A100 GPU for equivalent neuromorphic dynamics computation</li>
+    <li><strong>vs dedicated accelerators</strong>: 3.82x to 36.27x speedup over state-of-the-art dedicated accelerators</li>
+    <li><strong>Power reduction</strong>: Concurrent 11.75x to 24.73x power reduction</li>
+    <li><strong>Brain cortex reconstruction</strong>: High-fidelity reconstruction with smooth, topologically consistent meshes, effectively suppressing artifacts and self-intersection defects</li>
+  </ul>
+
+  <h3>Industry Applications</h3>
+
+  <p>This 40nm chip pushes complex modeling methods that previously required offline computation into millisecond real-time online operation. This means: real-time intraoperative neural navigation becomes possible, Alzheimer's early screening can have a real-time hardware foundation, and brain digital twins transition from science fiction to achievable reality. The achievement provides a new hardware foundation for next-generation brain-computer interfaces, neural navigation, and intelligent diagnosis of neurodegenerative diseases.</p>
+
+  <blockquote>From a technology roadmap perspective, this achievement validates the enormous potential of "in-memory computing" as a key post-Moore's Law technology direction — when traditional processes approach physical limits, architectural innovation becomes the core driver of continued performance improvement. China's breakthrough in phase-change memristor-based neuromorphic chips means the country has established a first-mover advantage in the brain-inspired computing frontier.</blockquote>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

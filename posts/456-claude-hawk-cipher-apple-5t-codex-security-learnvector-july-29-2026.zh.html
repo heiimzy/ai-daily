@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>科技晚报：Anthropic Claude破解NIST后量子密码HAWK、苹果市值短暂突破5万亿美元、OpenAI开源Codex Security CLI - AI Daily</title>
+  <meta name="description" content="7月29日科技晚间要闻：Anthropic Claude Mythos在60小时内破解NIST后量子密码候选算法HAWK-256，发现人类两年未察觉的数学漏洞；苹果市值周二交易中短暂突破5万亿美元，重新超越英伟达成全球最值钱公司；OpenAI开源Codex Security CLI在Apache 2.0许可下提供AI驱动代码安全扫描；Andrew Ng创立的LearnVector获Coursera 1亿美元投资。">
+  <meta name="keywords" content="Anthropic, Claude, HAWK, 后量子密码, 密码破解, 苹果, 5万亿美元, 市值, 英伟达, OpenAI, Codex Security, 开源, Andrew Ng, LearnVector, AI教育">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-29</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-29</div>
+  <div class="post-tags"><span class="tag">Anthropic</span><span class="tag">后量子密码</span><span class="tag">苹果</span><span class="tag">OpenAI</span><span class="tag">AI安全</span><span class="tag">AI教育</span></div>
+  <h1>⚡ 科技晚报：Anthropic Claude破解NIST后量子密码HAWK、苹果市值突破5万亿美元、OpenAI开源Codex Security CLI</h1>
+
+  <h2>一、Anthropic Claude Mythos在60小时内破解NIST后量子密码候选算法HAWK-256</h2>
+  <p>Anthropic宣布其前沿模型Claude Mythos Preview在仅60小时的半自主工作中，成功破解了NIST后量子密码标准候选算法HAWK-256——一项人类密码学专家耗时两年、历经两轮NIST评审均未能发现的数学漏洞。</p>
+  <p>HAWK是一种基于格（lattice）的签名方案，是NIST在2026年5月推进至第三轮评估的九种算法中唯一的基于格的候选者。其核心卖点在于纯整数运算、无浮点依赖以及比Falcon等替代方案更紧凑的签名体积。Claude Mythos发现了HAWK底层格结构中的「非平凡自同构」（nontrivial automorphism）——一种此前未被利用的数学对称性。此前研究已指出，如果这种对称性存在于HAWK的格中，将使攻击成为可能，但无人能证实其存在。Claude不仅确认了它确实存在，还在此基础上构建了完整的攻击方案。实际攻击效果：在96核服务器上，密钥恢复仅需约3小时42分钟。</p>
+  <p>更令人震撼的是时间对比：两年的人类专家审查加上两轮NIST评估未能发现这个漏洞，而Claude的多智能体系统在约60小时内就完成了突破，花费仅约10万美元的API算力。主导该过程的研究人员并无格密码学专业知识——他们管理智能体并提供方向，但不参与数学发现。验证反而成为真正的瓶颈：一旦Mythos返回攻击方案，Anthropic团队花费了数百小时学习足够多的密码学知识来确认其正确性。</p>
+  <p>与此同时，Mythos还发明了被称为「莫比乌斯桥」（Möbius Bridge）的技术，将七轮AES-128的攻击效率提升了200至800倍。尽管全十轮AES-128生产系统不受影响，但在全球被研究最透彻的加密算法上发明全新攻击技术，其意义不可小觑。</p>
+  <p>Anthropic全程执行了负责任的披露流程：HAWK作者在2026年6月即收到通知，研究成果在7月28日公开前已与NIST和美国政府合作伙伴共享。NIST第三轮参数调整截止日期为8月14日，这一发现可能迫使HAWK的设计者将密钥大小翻倍——这将大幅削弱其紧凑签名和高效运算的核心优势。</p>
+
+  <h2>二、苹果市值短暂突破5万亿美元，重新超越英伟达成全球最值钱公司</h2>
+  <p>苹果（Apple）在周二（7月28日）交易中股价攀升至342.89美元日内高点，推动公司市值短暂突破5万亿美元大关，成为继英伟达之后全球第二家达到这一里程碑的上市公司。截至收盘，苹果市值约4.99万亿美元，略低于5万亿关口，但仍超越英伟达（约4.77万亿美元），重新夺回全球市值最高公司桂冠。</p>
+  <p>这是苹果自2025年6月失去市值第一宝座以来首次反超英伟达。英伟达自2025年6月起凭借AI芯片需求的爆发式增长一直稳居第一，并于2025年10月成为史上首家市值突破5万亿美元的公司。然而，近期投资者对AI基础设施投资回报的担忧导致英伟达股价承压，苹果则凭借稳健的产品生态和服务业务重新获得市场青睐。</p>
+  <p>苹果股价今年以来累计上涨约25%，表现优于多个其他大型科技股。投资者对苹果产品生态、服务业务和AI计划的持续乐观情绪是主要推动力。苹果将于7月30日（周四）公布第三财季财报，市场密切关注其AI战略进展和产品路线图。</p>
+  <p>分析人士指出，苹果和英伟达的市值争夺战反映了当前科技行业的两条主线：一方面是AI基础设施的军备竞赛，另一方面是消费电子生态的护城河。两家公司在未来一段时间内的此消彼长，将是衡量AI泡沫与价值投资的重要风向标。</p>
+
+  <h2>三、OpenAI开源Codex Security CLI：AI驱动的代码安全扫描工具</h2>
+  <p>OpenAI于7月29日正式开源了Codex Security CLI——一款基于AI的命令行安全扫描工具，采用Apache 2.0许可协议发布。该工具可帮助安全和开发团队自动发现、确认和修复代码仓库中的安全漏洞，目前已获超过4000个GitHub星标。</p>
+  <p>Codex Security CLI的核心功能包括：扫描代码仓库发现漏洞、跨多次运行比较结果、验证修复是否生效，以及将安全检查嵌入CI/CD流水线。它还支持批量扫描多个仓库，并可为组织级安全审计提供历史结果追踪。工具需要Node.js 22和Python 3.10或更高版本，通过npm安装。</p>
+  <p>Codex Security此前内部代号为「Aardvark」，于2026年3月以研究预览版形式面向ChatGPT Enterprise、Business和Edu客户推出。截至2026年4月，该系统已帮助修复超过3000个严重漏洞。此次开源将工具扩展到更广泛的开发者社区。</p>
+  <p>Codex Security直接与Anthropic的Claude Security竞争——后者也通过AI方式扫描代码库发现漏洞并建议修复方案。两款工具的同步推出反映了行业的共同认知：随着AI模型赋予攻击者更多自动化能力，防御者同样需要AI驱动的工具来保持平衡。Hacker News上的开发者评论认为，该工具的「上下文感知」分析能力超越了传统静态代码分析工具，能更准确地识别真实世界中的高危漏洞。</p>
+
+  <h2>四、Andrew Ng创立的LearnVector获Coursera 1亿美元投资，AI个性化教育赛道升温</h2>
+  <p>Coursera于7月28日宣布向AI原生学习平台LearnVector投资1亿美元，获得约三分之一股权。LearnVector由Coursera联合创始人兼董事长Andrew Ng创立，致力于开发基于智能体的AI辅导引擎，与Coursera旗下300多家大学和行业合作伙伴的内容库深度整合。首批LearnVector产品预计于2027年初面世。</p>
+  <p>LearnVector的核心理念是「智能体AI导师」而非「答案即答聊天机器人」——AI能够追踪学习进度、自适应调整教学策略、主动练习测试，并在学生掌握之前不会推进到下一阶段。公司CEO Greg Hart直言：「如果学习不与更全面的、教育学上严谨的技能发展框架挂钩，那将是一个更短、更不令人满意、也更少参与度的结果。」</p>
+  <p>这一投资背后是Coursera面临的转型压力。其2026年第一季度消费者收入同比下降，越来越多的学习者转向ChatGPT等免费AI工具获取即时答案。Coursera此前已收购Udemy，将年化营收推至约15亿美元，但仍需在AI教育赛道建立战略支点。</p>
+  <p>然而，挑战同样显著：Khan Academy的AI辅导工具Khanmigo已拥有200万用户，但仅有15%的符合条件学生积极参与。构建真正会教学的AI比构建会回答问题的AI要困难得多。Andrew Ng在AI教育领域超过十年的积累——从Coursera到DeepLearning.AI再到LearnVector——是这笔1亿美元投资真正押注的资产。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Evening Roundup: Anthropic Claude Breaks NIST Post-Quantum Cipher HAWK in 60 Hours, Apple Briefly Tops $5 Trillion Market Cap, OpenAI Open-Sources Codex Security CLI - AI Daily</title>
+  <meta name="description" content="July 29 evening tech roundup: Anthropic's Claude Mythos cracks NIST post-quantum signature candidate HAWK-256 in 60 hours — finding a mathematical flaw that survived two years of expert human review; Apple briefly crosses $5 trillion market cap, retaking the world's most valuable company title from Nvidia; OpenAI open-sources Codex Security CLI under Apache 2.0 for AI-driven code vulnerability scanning; Andrew Ng's LearnVector raises $100M from Coursera for AI-native tutoring.">
+  <meta name="keywords" content="Anthropic, Claude, HAWK, post-quantum cryptography, cryptanalysis, Apple, $5 trillion, market cap, Nvidia, OpenAI, Codex Security, open source, Andrew Ng, LearnVector, AI education">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-29</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="456-claude-hawk-cipher-apple-5t-codex-security-learnvector-july-29-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-29</div>
+  <div class="post-tags"><span class="tag">Anthropic</span><span class="tag">Post-Quantum Crypto</span><span class="tag">Apple</span><span class="tag">OpenAI</span><span class="tag">AI Security</span><span class="tag">AI Education</span></div>
+  <h1>⚡ Tech Evening Roundup: Claude Breaks NIST Post-Quantum Cipher HAWK in 60 Hours, Apple Hits $5 Trillion, OpenAI Open-Sources Codex Security CLI</h1>
+
+  <h2>1. Anthropic's Claude Mythos Cracks NIST Post-Quantum Cipher HAWK-256 in 60 Hours</h2>
+  <p>Anthropic announced that its frontier model Claude Mythos Preview has successfully cracked HAWK-256, a NIST post-quantum cryptography standard candidate, in just 60 hours of semi-autonomous work — finding a mathematical vulnerability that expert human cryptanalysts failed to discover over two years of review across two NIST evaluation rounds.</p>
+  <p>HAWK is a lattice-based signature scheme and the only lattice-based candidate among the nine algorithms NIST advanced to Round 3 in May 2026. Its selling points: integer-only arithmetic, no floating-point dependencies, and compact signatures compared to alternatives like Falcon. Claude Mythos discovered a "nontrivial automorphism" in HAWK's underlying lattice structure — a previously unexploited mathematical symmetry. Prior research had established that if such a symmetry existed, it would enable attacks. Nobody had confirmed it existed. Claude confirmed it does, then built the complete attack. The practical result: key recovery runs in approximately 3 hours and 42 minutes on a 96-core server.</p>
+  <p>The time comparison is stunning: two years of expert human review failed to surface this flaw, while Claude's multi-agent system found it in roughly 60 hours at a cost of around $100,000 in API compute. The researcher overseeing the process had no specialist knowledge of lattice cryptography — they managed the agents and provided direction, but didn't contribute to the mathematical discovery. Verification became the real bottleneck: once Mythos returned the attack, Anthropic's team spent several hundred hours learning enough cryptography to confirm it was correct.</p>
+  <p>Mythos also invented what researchers call the "Möbius Bridge" — a technique that improves attacks on seven-round AES-128 by 200 to 800 times. Full ten-round AES-128 remains unaffected, but inventing a novel attack technique on the world's most-studied block cipher with no prior roadmap is remarkable in its own right.</p>
+  <p>Anthropic practiced responsible disclosure throughout: HAWK's authors were notified in June 2026, and findings were shared with NIST and US government partners before the public release on July 28. NIST's Round 3 parameter tweak deadline is August 14, 2026 — this finding may force HAWK's designers to double key sizes, significantly eroding its compact signature advantage.</p>
+
+  <h2>2. Apple Briefly Crosses $5 Trillion Market Cap, Retakes World's Most Valuable Company Title</h2>
+  <p>Apple shares surged to an intraday high of $342.89 on Tuesday (July 28), briefly pushing the company's market capitalization past the historic $5 trillion mark — becoming only the second publicly listed company ever to reach this milestone after Nvidia. Apple closed at approximately $4.99 trillion, marginally below the $5 trillion threshold, but still ahead of Nvidia's ~$4.77 trillion valuation, reclaiming the title of the world's most valuable publicly traded company.</p>
+  <p>This marks Apple's return to the top spot after losing it to Nvidia in June 2025. Nvidia had dominated the position since then, fueled by surging demand for its AI chips and becoming the first company to surpass $5 trillion in October 2025. However, growing investor concerns about AI infrastructure returns have weighed on Nvidia's stock recently, while Apple's steady product ecosystem and services business have regained market favor.</p>
+  <p>Apple's stock has risen nearly 25% year-to-date, outperforming several other mega-cap tech companies. The company is scheduled to report its fiscal third-quarter earnings on Thursday, July 30, with markets closely watching its AI strategy progress and product roadmap.</p>
+  <p>Analysts note that the market cap battle between Apple and Nvidia reflects two competing narratives in tech: the AI infrastructure arms race versus the consumer ecosystem moat. The back-and-forth between these two giants will serve as a key barometer for the AI bubble versus value investing debate going forward.</p>
+
+  <h2>3. OpenAI Open-Sources Codex Security CLI for AI-Powered Code Vulnerability Scanning</h2>
+  <p>OpenAI open-sourced Codex Security CLI on July 29 — an AI-powered command-line security scanning tool released under the Apache 2.0 license. The tool helps security and development teams automatically find, validate, and fix vulnerabilities in code repositories, already garnering over 4,000 GitHub stars.</p>
+  <p>Key features include scanning repositories for vulnerabilities, comparing results across multiple runs, verifying fixes, and embedding security checks into CI/CD pipelines. It supports bulk scanning across multiple repositories and provides historical result tracking for organization-wide security audits. The tool requires Node.js 22 and Python 3.10 or higher and installs via npm.</p>
+  <p>Codex Security, previously known internally as "Aardvark," launched as a research preview in March 2026 for ChatGPT Enterprise, Business, and Edu customers. By April 2026, the system had helped fix over 3,000 critical vulnerabilities. The open-source release extends the tool to the broader developer community.</p>
+  <p>Codex Security directly competes with Anthropic's Claude Security — both reflecting the industry's consensus that as AI gives attackers more automated capabilities, defenders need AI-powered tools to keep pace. Hacker News commenters noted that the tool's "contextual awareness" analysis surpasses traditional static code analysis tools in accurately identifying real-world critical vulnerabilities.</p>
+
+  <h2>4. Andrew Ng's LearnVector Raises $100M from Coursera — AI-Native Tutoring Heats Up</h2>
+  <p>Coursera announced a $100 million investment in LearnVector, an AI-native learning platform founded by Coursera's co-founder and chairman Andrew Ng, acquiring roughly one-third equity. The deal includes a commercial partnership pairing LearnVector's agentic AI tutoring engine with Coursera's content library from 300+ university and industry partners. First LearnVector products are targeted for early 2027.</p>
+  <p>LearnVector's core premise: agentic AI tutors that track progress, adapt teaching strategies, practice with students, and won't advance until mastery is demonstrated — fundamentally different from answer-on-demand chatbots. CEO Greg Hart stated: "If it's not tied to a much more holistic, pedagogically rigorous view of the skill you are trying to develop, that's going to be a shorter, less fulfilling, and less engaging outcome."</p>
+  <p>The investment comes amid real pressure on Coursera. Its Q1 2026 consumer revenue declined as learners increasingly turn to free AI tools like ChatGPT for instant answers. Coursera acquired Udemy earlier in 2026, pushing combined annual revenue to approximately $1.5 billion, but needs a strategic position in AI-native education.</p>
+  <p>However, challenges remain significant: Khan Academy's AI tutor Khanmigo reached 2 million users, but only 15% of eligible students actively engage. Building an AI that truly teaches is harder than building one that answers. Andrew Ng's decade-plus track record in AI education — from Coursera to DeepLearning.AI to LearnVector — is the real asset this $100 million investment is betting on.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

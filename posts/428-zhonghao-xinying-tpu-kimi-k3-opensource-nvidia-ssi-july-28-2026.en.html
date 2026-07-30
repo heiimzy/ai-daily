@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 28 Tech Roundup: Zhonghao Xinying Unveils 'Xuanyu' TPU, Kimi K3 Goes Open-Source, Nvidia Invests $5B in SSI - AI Daily</title>
+  <meta name="description" content="⚡ July 28 tech triple feature: Zhonghao Xinying launches its next-gen fully self-developed TPU chip 'Xuanyu' with 896 TFLOPS mixed-precision compute; Moonshot AI fully open-sources Kimi K3, a 2.8T parameter model topping Hugging Face in 30 minutes; Nvidia invests ~$5 billion in Ilya Sutskever's Safe Superintelligence, fueling 'circular financing' debate.">
+  <meta name="keywords" content="Zhonghao Xinying,TPU,Xuanyu,Kimi K3,Moonshot AI,open-source,Nvidia,SSI,Ilya Sutskever,circular financing,AI chip,2nm">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/428-zhonghao-xinying-tpu-kimi-k3-opensource-nvidia-ssi-july-28-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/428-zhonghao-xinying-tpu-kimi-k3-opensource-nvidia-ssi-july-28-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/428-zhonghao-xinying-tpu-kimi-k3-opensource-nvidia-ssi-july-28-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-28</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="428-zhonghao-xinying-tpu-kimi-k3-opensource-nvidia-ssi-july-28-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-28</div>
+  <div class="post-tags"><span class="tag">Tech</span><span class="tag">AI Chip</span><span class="tag">TPU</span><span class="tag">Open Source</span><span class="tag">AI Investment</span><span class="tag">Nvidia</span></div>
+  <h1>⚡ July 28 Tech Roundup: Zhonghao Xinying's 'Xuanyu' TPU Delivers 896 TFLOPS, Kimi K3 Goes Fully Open-Source, Nvidia Bets $5B on SSI</h1>
+
+  <h2>1. Zhonghao Xinying Launches 'Xuanyu' TPU: A New Contender in Domestic AI Compute</h2>
+
+  <p>On the afternoon of July 28, 2026, Chinese chip company Zhonghao Xinying officially unveiled its next-generation fully self-developed TPU chip, "Xuanyu," alongside the Taize 2.0 AI high-performance computing platform. The single-chip mixed-precision floating-point compute reaches 896 TFLOPS, with 8-bit inference compute hitting 1,792 TOPS, all within a 600W power envelope. Under equivalent workloads, the total system power consumption is only 80% of traditional GPU servers, representing a 50% power reduction over comparable conventional chips.</p>
+
+  <p>The "Xuanyu" continues Zhonghao Xinying's fully self-developed TPU architecture, with architectural innovations targeting ultra-large models, long-context processing, and high-concurrency inference at massive token throughput. The Taize 2.0 platform's minimum compute unit consists of two high-performance CPUs interconnecting eight "Xuanyu" TPUs, delivering 7.168 PFLOPS. Critically, Zhonghao Xinying has achieved full-stack autonomy — from chip IP cores and low-level operator acceleration libraries to custom instruction sets and integrated hardware-software systems — with zero dependency on overseas core technologies.</p>
+
+  <p>Zhonghao Xinying is among China's earliest companies dedicated to TPU architecture AI chips. Its products have been deployed in multiple large-scale intelligent computing centers built by Shenzhen Unicom and Tianjin Mobile, serving finance, media, healthcare, and education sectors. The Taize 2.0 platform is scheduled for formal presentation at the 2026 World AI Conference opening on July 17.</p>
+
+  <p>Industry analysts note that the combination of 896 TFLOPS single-chip performance and 600W power efficiency demonstrates that Chinese TPUs are not only matching international competitors on raw specifications but surpassing them on the energy-efficiency metrics that increasingly determine data center operating costs.</p>
+
+  <h2>2. Kimi K3 Goes Fully Open-Source: 2.8 Trillion Parameters Shake the AI World</h2>
+
+  <p>On the night of July 27 (Beijing time), Moonshot AI uploaded the complete model weights of Kimi K3 to Hugging Face, simultaneously publishing its technical report and a custom license on GitHub. This marks the world's first open-weight model to enter the 3-trillion-parameter class — 2.8 trillion total parameters, 104 billion activated, with a 1-million-token context window. The release came exactly 11 days after K3's managed API debut on July 16.</p>
+
+  <p>K3 employs a Mixture-of-Experts architecture with 896 routed experts, activating 16 per token. It features native vision understanding through its MoonViT-V2 visual encoder and architectural innovations including Kimi Delta Attention (KDA), Attention Residuals, and Stable LatentMoE. Moonshot claims approximately 2.5x scaling efficiency improvement over K2.</p>
+
+  <h3>Instant Hit: Hugging Face's Fastest-Growing Release</h3>
+
+  <p>Within 30 minutes of release, Kimi K3 garnered over 4,000 likes to top Hugging Face's trending leaderboard, with CEO Clem Delangue calling it "the fastest release growth rate ever." The same day brought Day-0 ecosystem adoption announcements: Huawei's Ascend CANN certified full-series Ascend 950 support; Alibaba Cloud's Zhenwu M890 supernode became the first domestic platform to run a near-3-trillion-parameter model; overseas infrastructure providers Nebius, Baseten, and Fireworks also announced immediate compatibility. AI coding company Cursor integrated K3, and Cognition's Devin platform called it "the first open-weight model approaching frontier performance levels."</p>
+
+  <h3>The Kimi K3 License: Monetizing Model-as-a-Service</h3>
+
+  <p>The license uses an MIT-like base but adds two binding obligations: (1) If a licensee's MaaS business exceeds $20 million in annual revenue over any 12 consecutive months, a separate commercial agreement with Moonshot is required; (2) Commercial products exceeding 100 million MAU or $20 million monthly revenue must prominently display "Kimi K3" branding. Pure internal use is exempt. This is the first time a leading Chinese AI company has explicitly codified cloud provider commercialization terms in an open-source license.</p>
+
+  <p>Independent evaluator Artificial Analysis ranked K3 third globally with an Intelligence Index of 57, behind only Claude Fable 5 and GPT-5.6 Sol, but significantly ahead of other open-source models (GLM-5.2 scored 51, DeepSeek V4 Pro scored 44). On agentic benchmarks, K3 achieved first place on AutomationBench-AA at 53%, with a per-task cost of $0.94 — comparable to GPT-5.6 Sol and half that of Opus 4.8.</p>
+
+  <h3>Washington Reacts: From 'How to Respond' to 'Internal Warfare'</h3>
+
+  <p>White House Office of Science and Technology Policy Director Michael Kratsios publicly accused Moonshot of distilling Anthropic's Fable 5 technology to develop K3, while Treasury Secretary Scott Bessent threatened sanctions. However, the industry response has fractured. On July 24, 25 U.S. tech companies including Nvidia, Microsoft, Meta, and IBM signed an open letter opposing open-source model restrictions. Nvidia CEO Jensen Huang posted the letter in his first-ever X post, garnering over 11 million views in hours. Notably, OpenAI, Anthropic, and Google all declined to sign — precisely the companies that would benefit most from banning Chinese open-source models.</p>
+
+  <p>According to OpenRouter data, Chinese open-source models now account for 46.4% of token routing on the platform, versus 35.7% for U.S. models — a quantitative answer to the question of whether a ban is still technically feasible.</p>
+
+  <h2>3. Nvidia Invests $5 Billion in SSI: 'Circular Financing' Concerns Intensify</h2>
+
+  <p>Nvidia announced a "substantial" investment — reported by Bloomberg at approximately $5 billion — in Safe Superintelligence Inc. (SSI), the AI safety company founded by former OpenAI chief scientist Ilya Sutskever. Announced on Monday, July 27, the long-term strategic partnership grants SSI priority access to Nvidia's next-generation Vera Rubin GPU platform, expected to increase the startup's compute capacity tenfold over the next 12 months.</p>
+
+  <p>Founded in June 2024 by Sutskever, Daniel Gross, and Daniel Levy, SSI describes itself as the world's first "straight-shot" superintelligence lab — a single mission to build safe superintelligence, with no products shipped, no papers published, and a team of only several dozen people. SSI had previously raised approximately $3 billion at a $32 billion valuation from investors including Andreessen Horowitz, Sequoia Capital, and DST Global.</p>
+
+  <h3>'Circular Financing': The Chipmaker's Compute Empire</h3>
+
+  <p>The deal represents the latest in a series of "circular financing" arrangements between chipmakers and AI startups. Just last week, AMD announced up to $5 billion in strategic investment in Anthropic; Nvidia has previously struck similar deals with OpenAI and Mira Murati's Thinking Machines Lab. Critics argue that chipmakers invest in AI startups that then use the capital to buy chips from the same investors — blurring the line between supplier and customer. Nvidia is reportedly negotiating AI infrastructure deals totaling over $750 billion, including up to $250 billion in guarantees for OpenAI's data center projects.</p>
+
+  <p>Market reaction was swift. Nvidia shares fell 4.99% on Monday, with AMD dropping 5.17%, as Apple reclaimed the global market-cap crown. Nvidia's five-year CDS spread widened approximately 0.14 percentage points — the largest single-day move since the contract became actively traded in November 2025. Credit markets cast the first vote of no-confidence on this vast financing network.</p>
+
+  <p>"We have research that is worthy of scaling up, and having access to a big NVIDIA computer will let us do so," Sutskever said in a statement. Nvidia CEO Jensen Huang responded that Sutskever "has already made groundbreaking contributions at the foundational level of modern AI," expressing anticipation for SSI's progress on the Vera Rubin platform.</p>
+
+  <blockquote>
+    <p>Wall Street's growing unease over 'circular financing' is reshaping the AI industry narrative. When chipmakers serve as both suppliers and shareholders, the line between customer and partner blurs — and investors are beginning to scrutinize the true quality of revenue in these billion-dollar partnerships.</p>
+  </blockquote>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> to discover 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

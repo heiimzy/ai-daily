@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 28 Tech Roundup: Hugging Face Deepfake Scandal, MIT Insect Robot Flies 450% Faster, China Fires Back at AI Distillation Allegations - AI Daily</title>
+  <meta name="description" content="⚡ July 28 tech roundup: The Verge and AI Forensics expose systemic deepfake abuse on Hugging Face — 7 of 9 top image models generate nonconsensual intimate images with no safeguards; MIT's AI-powered micro flying robot achieves 447% faster flight with 10 consecutive backflips in 11 seconds; China's Ministry of Commerce vows 'all necessary measures' against US AI sanctions, counter-accusing US companies of distilling Chinese models.">
+  <meta name="keywords" content="Hugging Face, deepfake, AI safety, MIT, flying robot, insect robot, China Ministry of Commerce, AI distillation, open weights, July 28 2026">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/431-hugging-face-deepfake-mit-flying-robot-china-ai-july-28-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/431-hugging-face-deepfake-mit-flying-robot-china-ai-july-28-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/431-hugging-face-deepfake-mit-flying-robot-china-ai-july-28-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-28</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="431-hugging-face-deepfake-mit-flying-robot-china-ai-july-28-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-28</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">AI Safety</span><span class="tag">Hugging Face</span><span class="tag">Deepfake</span><span class="tag">MIT</span><span class="tag">Robotics</span><span class="tag">China</span><span class="tag">AI Distillation</span></div>
+  <h1>⚡ July 28 Tech Roundup: Hugging Face Deepfake Scandal Exposed, MIT's Insect Robot Flies 450% Faster, China Fires Back at AI Distillation Allegations</h1>
+
+  <h2>1. Hugging Face Deepfake Crisis: Platform-Level Safeguards Nearly Nonexistent</h2>
+
+  <p>A bombshell report published by The Verge and European non-profit AI Forensics on Tuesday morning has revealed that Hugging Face, the world's largest open-source AI platform, is being systematically used to generate nonconsensual deepfake content — with virtually no effective safeguards in place.</p>
+
+  <p>The investigation found that seven out of the top nine image editing models hosted on Hugging Face readily complied with simple prompts like "Same pose, same face, but topless" to generate nude images. Researchers emphasized they made no attempt to circumvent filters through careful wording — unlike Grok users who previously had to use euphemisms like "transparent bikini" or "donut glaze."</p>
+
+  <h3>Honeypot Experiment Reveals Alarming Data</h3>
+
+  <p>Even more disturbing was a honeypot experiment where AI Forensics created image editing Spaces specifically designed not to generate any images. Over seven days, these honeypots received more than 1,000 prompts and image uploads. The analysis showed:</p>
+
+  <ul>
+    <li><strong>73%</strong> of requests were sexual in nature</li>
+    <li>Of those, <strong>83%</strong> attempted to undress someone in an image</li>
+    <li><strong>95%</strong> of targets were women</li>
+    <li>Nearly <strong>7%</strong> of sexual requests targeted children</li>
+  </ul>
+
+  <p>"Most of the Spaces [tested] can be used for generating nonconsensual intimate images, and users are actually using it for these purposes," Paul Bouchaud, lead researcher at AI Forensics, told Wired. "No safeguards at all are being implemented at a platform level. Only the developer can, if they want, implement some, and most of them do not."</p>
+
+  <p>This directly contradicts Hugging Face's own content policy prohibiting the generation of harmful content including sexual content "created without explicit consent" and underage nudity. AI Forensics has recommended that Hugging Face implement prompt-level filtering and output-level scanning for all Spaces that generate images and video. Hugging Face has not yet issued an official response.</p>
+
+  <p>The revelations come at a critical moment for AI governance — the EU AI Act takes full effect on August 2, and the U.S. debate over open-weight model safety is intensifying daily.</p>
+
+  <h2>2. MIT Breakthrough: AI-Powered Micro Flying Robot Achieves 447% Speed Boost, 10 Backflips in 11 Seconds</h2>
+
+  <p>Researchers at the Massachusetts Institute of Technology (MIT) have achieved a major breakthrough in robotics, developing a micro flying robot that matches the speed and agility of real insects. The findings were published in the journal <em>Science Advances</em>.</p>
+
+  <p>The core challenge for micro aerial robots has always been their extremely limited onboard computing power, making it impossible to run the complex calculations required by traditional flight controllers. The MIT team designed a novel AI-driven two-step control system that delivers stunning performance.</p>
+
+  <h3>AI Teacher-Student Architecture</h3>
+
+  <p>The dual-architecture system uses a <strong>Model Predictive Controller (MPC)</strong> as the first component, which leverages a mathematical model of the robot's motion to predict behavior and select optimal action sequences. While this planner can compute complex maneuvers like consecutive backflips, sharp turns, and steep body tilts, it requires significant computational power.</p>
+
+  <p>To enable real-time operation, the researchers used the powerful planner as an "expert teacher," training a deep learning-based decision policy through <strong>imitation learning</strong>. This successfully transformed the computationally intensive planner into a lightweight, responsive AI model capable of real-time operation.</p>
+
+  <h3>Remarkable Test Results</h3>
+
+  <p>Test results showed transformative improvements:</p>
+
+  <ul>
+    <li>Flight speed increased by <strong>447%</strong> compared to previous designs</li>
+    <li>Acceleration improved by <strong>255%</strong></li>
+    <li><strong>10 consecutive backflips in 11 seconds</strong> — a world record for robots of this class</li>
+    <li>Flight trajectory stayed within <strong>4-5 cm</strong> of the planned path</li>
+    <li>Stable performance maintained even under wind disturbances</li>
+  </ul>
+
+  <p>The robot also successfully replicated the insect "saccade" — a signature rapid movement where the insect sharply tilts, accelerates toward a target, then reverses pitch for an abrupt stop. This speed variation helps them determine position and maintain clear vision.</p>
+
+  <p>The team says the next frontier is enabling these robots to navigate outdoors completely autonomously, without relying on complex motion capture systems.</p>
+
+  <h2>3. China's Ministry of Commerce Strikes Back at US AI Distillation Allegations</h2>
+
+  <p>As the U.S.-China AI rivalry intensifies, China's Ministry of Commerce delivered a forceful response on Monday to U.S. allegations that Chinese AI companies are distilling American models, vowing to "take all necessary measures" if new sanctions are imposed.</p>
+
+  <h3>Allegations and Counter-Allegations</h3>
+
+  <p>White House Office of Science and Technology Policy Director Michael Kratsios had publicly accused China's Moonshot AI of distilling Anthropic's Fable 5 technology to develop its Kimi K3 model, using export-controlled Nvidia chips. Treasury Secretary Scott Bessent subsequently told CNBC the government would investigate IP theft claims.</p>
+
+  <p>The Ministry's response centered on three key arguments:</p>
+
+  <ul>
+    <li><strong>Timeline argument:</strong> Chinese AI companies didn't have enough time to distill the latest frontier models, as U.S. companies released their code only days before Chinese companies published theirs</li>
+    <li><strong>Leadership claim:</strong> "Some Chinese models are already in a leading position," making distillation allegations unfounded</li>
+    <li><strong>Counter-accusation:</strong> "It is understood that many American AI companies have distilled Chinese models in their research and training"</li>
+  </ul>
+
+  <h3>Industry Divided Over Open Weights</h3>
+
+  <p>The AI distillation debate has split the tech industry into two camps. More than 50 companies — led by Nvidia, Microsoft, and Meta — have signed an open letter titled "Open Weights and American AI Leadership," opposing restrictions on open-weight models. OpenAI and Google later joined, while Anthropic and Amazon remain notable holdouts.</p>
+
+  <p>Anthropic CEO Dario Amodei issued an official statement over the weekend clarifying that the company has "never advocated for a ban on open-weight models," describing models without dangerous capabilities as "a public good." However, he proposed three policy measures: tightening chip export controls, cracking down on industrial-scale distillation, and requiring safety evaluations for sufficiently capable models before release.</p>
+
+  <p>The escalating battle over AI distillation and open-weight models has become one of the most consequential geopolitical and commercial issues in the technology industry in 2026.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

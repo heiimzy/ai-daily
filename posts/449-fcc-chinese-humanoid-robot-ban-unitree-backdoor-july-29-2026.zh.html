@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FCC正式禁止中国产人形机器人进口：Unitree确认存在后门漏洞，国家安全审查升级 - AI Daily</title>
+  <meta name="description" content="⚡ 7月29日科技重磅：美国FCC正式将中国产人形机器人和四足机器人列入「受管制清单」，禁止新型号进口。此前安全研究人员已在Unitree机器人固件中发现CVE-2025-2894云后门和UniPwn蓝牙蠕虫漏洞，涉MIT、普林斯顿、卡内基梅隆等美国顶尖高校。Unitree全球人形机器人市场份额近20%，禁令将彻底改变行业格局。">
+  <meta name="keywords" content="FCC,人形机器人,Unitree,机器人禁令,国家安全,CVE-2025-2894,UniPwn,中国机器人,AI安全,进口管制">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-29</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-29</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">机器人</span><span class="tag">FCC</span><span class="tag">国家安全</span><span class="tag">Unitree</span><span class="tag">AI安全</span></div>
+  <h1>⚡ FCC正式禁止中国产人形机器人进口：Unitree确认存在后门漏洞，安全审查全面升级</h1>
+
+  <h2>一、禁令核心：Covered List扩展至机器人领域</h2>
+  <p>美国联邦通信委员会（FCC）于周二（7月28日）下午正式发布公告，将「先进机器人设备」（Advanced Robotic Devices）和「联网电力逆变器」（Connected Power Inverters）列入其受管制清单（Covered List）。这意味着新型中国产人形机器人（Humanoid）和四足机器人（Quadruped）将无法获得FCC设备授权，实质上被禁止进口、销售和营销进入美国市场。</p>
+  <p>FCC主席Brendan Carr在新闻稿中表示：「这些设备可能造成供应链漏洞，破坏美国经济和国家安全，并对美国关键基础设施构成网络安全风险。FCC将继续尽己所能保护美国关键供应链。」</p>
+  <p>这是FCC自2021年将华为、中兴列入Covered List以来，该授权机制的又一次重大扩展——此前已覆盖无人机（2025年12月）和消费级路由器（2026年3月），如今进一步延伸到实体AI平台。值得注意的是，FCC的Covered List机制绕过了标准的公众评论和规则制定程序，允许白宫国家安全认定后迅速采取行动。</p>
+
+  <h2>二、已确认的安全漏洞：不是理论风险，是真实后门</h2>
+  <p>禁令背后有着异常坚实的技术依据——不是对「潜在风险」的担忧，而是经过一年多独立安全研究确认的已公开漏洞。</p>
+
+  <h3>CVE-2025-2894：CloudSail隐蔽云后门</h3>
+  <p>2025年3月，安全研究人员Andreas Makris和Kevin Finisterre披露了Unitree Go1四足机器人固件中嵌入的未文档化服务CloudSail——由一家名为Zhexi Technology的中国公司运营。该服务在开机时自动启动，建立持久化的点对点隧道连接，任何持有正确API密钥的人都可以完全远程控制机器人：移动它、通过摄像头观察它、穿越连接的内部网络。研究人员在披露时发现近2000台易受攻击的机器人在CloudSail网络上运行，包括MIT、普林斯顿、卡内基梅隆大学和滑铁卢大学的设备。截至本文发布，官方固件补丁仍未发布。</p>
+
+  <h3>UniPwn：蓝牙蠕虫级漏洞</h3>
+  <p>2025年9月，同一研究团队披露了更严重的漏洞UniPwn。该漏洞针对Unitree Go2、B2四足机器人以及G1、H1人形机器人共享的蓝牙低功耗（BLE）WiFi配置接口，可获取根级访问权限，且具有蠕虫传播能力——被感染的机器人可自动扫描附近其他Unitree设备并自动入侵，形成自我传播的机器人僵尸网络。IEEE Spectrum将UniPwn定性为「首个商业人形平台重大公开漏洞」。Unitree承认漏洞并表示已开始修复，但截至本文发布，仍无确认的固件补丁发布。</p>
+
+  <h2>三、中国市场格局：Unitree主导全球近20%份额</h2>
+  <p>根据Counterpoint Research的数据，Unitree在全球人形机器人市场占据近20%的市场份额，是中国三家主导该新兴领域的公司之一。Pentagon已于近期将Unitree列入「中国军方关联企业」清单（Section 1260H名单），这通常是更强硬美国行动的前兆。</p>
+  <p>值得注意的是，Unitree刚刚于7月22日在欧洲启动了商业销售——成为首个进入西方商业市场的中国制造人形机器人。原本计划于8月12日启动的北美市场发布计划，在FCC禁令下现已关闭。Unitree此前还与英伟达建立了合作伙伴关系，使用Blackwell芯片为其机器人提供「大脑」。英伟达曾表示，来自机器人的数据将保留在美国境内。</p>
+  <p>禁令仅适用于正在寻求FCC设备授权的新型号，不溯及已授权型号。这意味着已在美销售和使用的机器人不受影响，但未来新型号将被挡在市场之外。这对美国学术和研究机构影响最为直接——入门级美国本土人形机器人平台起价超过9万美元，约为Unitree同类产品的6至20倍。</p>
+
+  <h2>四、逆变器禁令：电网基础设施的连锁反应</h2>
+  <p>与机器人禁令同时发布的还有联网电力逆变器禁令。逆变器用于将太阳能电池板、电池和数据中心设备连接到电网，中国是全球最大的逆变器生产国，由阳光电源（Sungrow）和已受制裁的华为主导。FCC认定逆变器的远程通信功能存在被外国对手用于监控、数据窃取和远程关闭的风险，这让人联想到Volt Typhoon（伏特台风）等中国政府支持的网络渗透行动。</p>
+  <p>该禁令同样仅适用于新型号，但FCC保留撤销已有授权型号的权力。据路透社报道，FCC预计将豁免许多非中国供应商。</p>
+
+  <h2>五、行业影响：供应链重组与立法加速</h2>
+  <p>此次FCC行动绕过了正在推进中的立法程序。2026年6月3日，两党众议员John Moolenaar、Jay Obernolte和Jennifer McClellan提出了《保护美国免受对手机器人优势法案》（GUARD Act），原计划通过国家安全审查程序将风险机器人列入Covered List。FCC周二的行动直接跳过了该审查时间表，将整个类别的中国机器人一次性列入。</p>
+  <p>对美国本土机器人公司（如Boston Dynamics、Tesla Optimus、Figure AI和Agility Robotics）而言，禁令创造了受保护的市场空间。但分析人士警告，美国供应链短期内无法填补缺口——中国在稀土和电池供应链上的主导地位意味着，即使制造回流美国，关键零部件仍高度依赖中国。</p>
+  <p>英伟达选择Unitree H2 Plus底盘作为其GR00T机器人参考平台的决定，也为开发者生态带来了复杂的合规困境。美国机器人生态系统将不得不重新规划未来采购和技术路线。</p>
+
+  <h2>六、中国反应与地缘政治背景</h2>
+  <p>中国驻美大使馆对此回应称，北京将「采取一切必要措施」应对损害其利益的行为，并敦促所有国家共同努力发展AI「为正能量和美好未来」。FCC此次行动正值中美科技脱钩加速的大背景之下——从半导体、无人机、路由器到现在的机器人，美国正系统性地构建技术供应链防火墙。</p>
+  <p>一位特朗普政府官员对CNBC明确表示，此举的目标是「保护美国AI基础设施建设，并推动企业回流美国」。「经济安全就是国家安全，」该官员说。</p>
+
+  <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://ai-daily.cc.cd/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

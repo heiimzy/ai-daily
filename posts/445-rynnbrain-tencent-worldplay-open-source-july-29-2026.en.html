@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>July 29 Tech Double Feature: Alibaba DAMO Academy Open-Sources RynnBrain 1.1 Embodied Brain, Tencent Hunyuan World Model 1.5 Goes Open Source - AI Daily</title>
+  <meta name="description" content="July 29 tech roundup: Alibaba DAMO Academy releases RynnBrain 1.1 embodied AI brain foundation model, open-sourcing 2B/9B/122B-A10B variants that give robots spatio-temporal memory and physical world reasoning for the first time; Tencent Hunyuan World Model 1.5 (WorldPlay) open-sources the industry's most comprehensive real-time world model framework with 24 FPS 720P streaming. Chinese AI open-source ecosystem surges.">
+  <meta name="keywords" content="RynnBrain,Alibaba,DAMO Academy,Embodied AI,Tencent,Hunyuan,World Model,WorldPlay,Open Source,AI,Spatio-temporal Memory">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/445-rynnbrain-tencent-worldplay-open-source-july-29-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-29</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="445-rynnbrain-tencent-worldplay-open-source-july-29-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-29</div>
+  <div class="post-tags"><span class="tag">Tech</span><span class="tag">Embodied AI</span><span class="tag">RynnBrain</span><span class="tag">Tencent Hunyuan</span><span class="tag">World Model</span><span class="tag">Open Source</span><span class="tag">Alibaba</span><span class="tag">AI</span></div>
+  <h1>⚡ July 29 Tech Double Feature: Alibaba DAMO Academy Open-Sources RynnBrain 1.1 — Robots Gain Spatio-Temporal Memory; Tencent Hunyuan World Model 1.5 Goes Open Source</h1>
+
+  <h2>1. Alibaba DAMO Academy Drops RynnBrain 1.1: Robots Get Spatio-Temporal Memory for the First Time</h2>
+
+  <p>On July 29, Alibaba DAMO Academy officially released and open-sourced <strong>RynnBrain 1.1</strong>, an embodied AI brain foundation model available in three scales — 2B, 9B, and 122B-A10B. This is the industry's first open-source project to systematically integrate <strong>spatio-temporal memory</strong> and <strong>physical world reasoning</strong> into an embodied foundation model.</p>
+
+  <p>Built on the Qwen3.5 architecture with a unified decoder-only vision-language design, RynnBrain 1.1 introduces two major innovations over RynnBrain 1.0: <strong>Contact-Point Prediction</strong> — enabling the model to precisely predict where a robot should grip an object and at what angle; and <strong>Native 3D Grounding</strong> — allowing even the 2B and 9B models to perform language-conditioned localization in metric physical space.</p>
+
+  <p>Across 16 embodied intelligence benchmarks, RynnBrain 1.1 achieved new state-of-the-art results across the board. The 122B-A10B MoE variant surpassed all evaluated proprietary and open-source models on <strong>VSI-Bench, MMSI, and RefSpatial-Bench</strong> — outperforming even Google's Gemini Robotics ER1.5 and other top industry models.</p>
+
+  <h3>Memory That Changes Everything</h3>
+
+  <p>The core breakthrough of RynnBrain lies in its <strong>spatio-temporal memory capability</strong>. Previously, robots performing multi-step tasks would "forget" what they were doing if interrupted. RynnBrain allows robots to locate objects, target areas, and even predict motion trajectories within their complete task history through a unified world latent representation space.</p>
+
+  <blockquote>
+    <p>Example: A robot running RynnBrain, while executing Task A, is interrupted and asked to do Task B first. It remembers the spatio-temporal state of Task A and seamlessly resumes after completing B — a capability virtually absent from any previous open-source robotic model.</p>
+  </blockquote>
+
+  <p>For physical space reasoning, RynnBrain employs an <strong>interleaved text-and-spatial grounding strategy</strong>, ensuring its reasoning process stays firmly rooted in the physical environment, dramatically reducing the hallucination problem common in robot control AI.</p>
+
+  <h3>Real-Robot Validation on Three Platforms</h3>
+
+  <p>The RynnBrain team also developed <strong>RynnBrain-VLA</strong>, a unified cross-embodiment action space model deployed and verified on three types of physical robots:</p>
+  <ul>
+    <li><strong>Unitree G1 Humanoid</strong>: Full-body control and furniture interaction</li>
+    <li><strong>Astribot-S1 Bimanual Robot</strong>: Food preparation and table service tasks</li>
+    <li><strong>Tianji-Wuji Dexterous Hand System</strong>: Precision manipulation and multi-finger coordination</li>
+  </ul>
+
+  <p>Real-robot experiments showed that policies initialized from RynnBrain outperformed Qwen-based VLA policies and representative generalist VLA models in both task success rate and process scores. Joint multi-task and multi-embodiment training further improved average process scores and final success rates over separately fine-tuned per-task policies.</p>
+
+  <p>All RynnBrain 1.1 code, model weights, and benchmarks are open-sourced on GitHub and Hugging Face under the Apache 2.0 license.</p>
+
+  <hr>
+
+  <h2>2. Tencent Hunyuan World Model 1.5 (WorldPlay) Goes Open Source: The Industry's Most Comprehensive Real-Time World Model Framework</h2>
+
+  <p>On the same day, Tencent's Hunyuan team released <strong>Hunyuan World Model 1.5 (Tencent HY WorldPlay)</strong>, and for the first time open-sourced the industry's most systematic and comprehensive real-time world model framework, covering the full pipeline from data and training to streaming inference deployment.</p>
+
+  <h3>Three Core Capabilities</h3>
+
+  <p><strong>1. Real-Time Interactive Generation:</strong> Through its original Context Forcing distillation scheme and streaming inference optimization, WorldPlay generates <strong>720P HD video at 24 FPS</strong> — an industry-leading performance for real-time world models. Users can freely explore generated 3D scenes; when they leave an area and return, the model "remembers" the three-dimensional structure of that area.</p>
+
+  <p><strong>2. Long-Range 3D Consistency:</strong> Through the Reconstituted Memory mechanism, the model supports minute-level geometric consistency in generated content, enabling high-quality 3D space simulators that don't "deform" or "forget" as users explore.</p>
+
+  <p><strong>3. Diverse Interaction:</strong> WorldPlay adapts to various game styles and real-world scenarios, supports both first-person and third-person perspectives, real-time text-triggered events, and video continuation.</p>
+
+  <h3>Technical Innovation: From "Predicting the Next Word" to "Predicting the Next World State"</h3>
+
+  <p>WorldPlay's core is an autoregressive diffusion model trained on a Next-Frames-Prediction visual autoregressive task. Its three key innovations:</p>
+  <ul>
+    <li><strong>Dual-Branch Action Representation</strong>: Enables precise real-time control</li>
+    <li><strong>Reconstituted Memory Mechanism</strong>: Maintains geometric consistency in long-duration generation</li>
+    <li><strong>Context Alignment Distillation</strong>: Enhances visual quality and consistency of long video generation</li>
+  </ul>
+
+  <p>The team also built a <strong>3D reward-based reinforcement learning post-training framework</strong> to further improve visual quality and geometric consistency. On the data side, an automated 3D scene rendering pipeline generates large quantities of high-quality real-world training data.</p>
+
+  <h3>Beyond Gaming: Real-World Applications</h3>
+  <ul>
+    <li><strong>AI Game Development</strong>: An intelligent level generator that creates explorable game worlds from text descriptions in real-time</li>
+    <li><strong>Filmmaking and VR</strong>: Creators can rapidly preview and iterate scene designs through simple text instructions</li>
+    <li><strong>Embodied AI Research</strong>: Provides an ideal training and testing platform for exploring embodied agent perception, decision-making, planning, and long-term interaction at scale</li>
+  </ul>
+
+  <hr>
+
+  <h2>3. Double Salvo: China's Open-Source AI Ecosystem Explodes</h2>
+
+  <p>The simultaneous open-sourcing of Alibaba's RynnBrain 1.1 and Tencent's Hunyuan World Model 1.5 is no coincidence. The two models target the "brain" of embodied intelligence and the "simulator" of virtual worlds respectively, together forming key pieces of AI's evolution from language models to world models.</p>
+
+  <p>Since the beginning of 2026, China's AI open-source momentum has accelerated dramatically. From Moonshot AI's Kimi K3 (2.8 trillion parameters) to Tencent's Hunyuan Hy3 preview, from Alibaba's RynnBrain to Baidu's ERNIE, Chinese tech giants are opening up core AI capabilities at an unprecedented scale. This not only lowers the barrier for global developers to participate in AI innovation but also reshapes the competitive landscape of the global AI open-source ecosystem.</p>
+
+  <p>Just last week, Nvidia CEO Jensen Huang posted on X for the first time in support of open-source AI, joining Microsoft, Meta, and 40+ other companies to form the Open Secure AI Alliance. The open vs. closed source debate is moving from rhetoric to action — and Chinese AI companies' full-spectrum open-source strategy is playing an increasingly important role in this evolving landscape.</p>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      🚀 For more AI news and productivity tools, visit <a href="https://ai-daily.cc.cd/" target="_blank">AI Daily</a>.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

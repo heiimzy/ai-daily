@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nvidia Launches Nemotron 3 Open-Source AI Models, Tencent Open-Sources Hunyuan World Model 1.5, OpenAI Debuts GPT-5.6 Trio - AI Daily</title>
+  <meta name="description" content="⚡ July 29 tech triple: Nvidia unveils Nemotron 3 MoE model family — Nano/Super/Ultra with 4x throughput over previous gen, adopted by EY, Cisco, Palantir, Perplexity, Cursor and more; Tencent Hunyuan open-sources World Model 1.5 (WorldPlay) — the industry's first real-time world model framework with 24 FPS 720P streaming generation and spatial memory; OpenAI launches GPT-5.6 in three tiers Sol/Terra/Luna with ChatGPT Work merging ChatGPT and Codex, scoring 80 on coding benchmark in max mode.">
+  <meta name="keywords" content="Nvidia,Nemotron 3,open-source AI,Tencent,Hunyuan,World Model,WorldPlay,OpenAI,GPT-5.6,ChatGPT Work,Codex,MoE,AI models">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-29</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-29</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">AI Models</span><span class="tag">Nvidia</span><span class="tag">Tencent</span><span class="tag">OpenAI</span><span class="tag">GPT-5.6</span><span class="tag">World Model</span><span class="tag">Open Source</span></div>
+  <h1>⚡ July 29 Tech Triple: Nvidia Launches Nemotron 3 Open-Source AI Models with 4x Throughput, Tencent Open-Sources Hunyuan World Model 1.5, OpenAI Debuts GPT-5.6 Trio and ChatGPT Work</h1>
+
+  <h2>1. Nvidia Nemotron 3: Open-Source MoE Family with 4x Throughput</h2>
+
+  <p>On July 29, Nvidia officially unveiled the Nemotron 3 open-source AI model series, featuring three variants — Nano, Super, and Ultra — which it claims is the "most efficient open-source model family with the best accuracy for building AI agent applications." This marks another major push by Nvidia into the open-source AI space, positioning itself directly against Meta's Llama and Mistral.</p>
+
+  <h3>Three Tiers Covering Every Use Case</h3>
+
+  <p>The Nemotron 3 series uses a novel Mixture of Latent Experts (MoE) architecture across three variants:</p>
+
+  <ul>
+    <li><strong>Nemotron 3 Nano</strong>: A compact 30-billion-parameter model with up to 3B active parameters per token, optimized for software debugging, content summarization, AI assistant workflows, and low-cost information retrieval. Achieves up to 4x token processing throughput over Nemotron 2 Nano with 60% fewer inference tokens, supporting a 100K-token context window.</li>
+    <li><strong>Nemotron 3 Super</strong>: A high-accuracy reasoning model with approximately 100B parameters and up to 10B active parameters per token, targeting multi-agent applications.</li>
+    <li><strong>Nemotron 3 Ultra</strong>: A large-scale reasoning engine with approximately 500B parameters and up to 50B active parameters per token, designed for the most complex AI workloads.</li>
+  </ul>
+
+  <h3>Enterprise Ecosystem Adoption</h3>
+
+  <p>Nvidia announced 12 early adopters including EY, Cisco, Oracle Cloud Infrastructure, Palantir, Perplexity, ServiceNow, Siemens, Synopsys, Zoom, Accenture, Cadence, and Cursor — all integrating Nemotron 3 into their AI workflows across manufacturing, cybersecurity, software development, media, and communications.</p>
+
+  <p>Nemotron 3 Nano is available today on Hugging Face, with Super and Ultra expected in the second half of 2026. Nvidia emphasized that open Nemotron 3 enables startups to build and iterate AI agents faster, accelerating the innovation cycle from prototype to enterprise deployment.</p>
+
+  <blockquote>"As organizations move from single-model chatbots to collaborative multi-agent AI systems, developers face challenges including communication overhead, context drift, and high inference costs. Nemotron 3 directly addresses these challenges, providing the expressiveness and openness needed to build specialized agentic AI." — Nvidia official statement</blockquote>
+
+  <h2>2. Tencent Hunyuan World Model 1.5 Open-Sourced: Industry's First Real-Time World Model Framework</h2>
+
+  <p>On the morning of July 29, Tencent's Hunyuan team officially released World Model 1.5 (Tencent HY WorldPlay), open-sourcing what it calls the industry's most systematic and comprehensive real-time world model training framework, covering data, training, and streaming inference deployment across the full pipeline.</p>
+
+  <h3>Three Core Innovations</h3>
+
+  <p>At the heart of World Model 1.5 is WorldPlay, an autoregressive diffusion model trained on Next-Frames-Prediction vision autoregressive tasks, achieving real-time interactive world modeling with long-range geometric consistency:</p>
+
+  <ul>
+    <li><strong>Real-time interactive generation</strong>: Using a novel Context Forcing distillation scheme and streaming inference optimization, the model generates 720P HD video at 24 FPS.</li>
+    <li><strong>Long-range 3D consistency</strong>: Through Reconstituted Memory mechanism, the model supports minute-level geometric consistency generation for building high-quality 3D space simulators.</li>
+    <li><strong>Diverse interaction experiences</strong>: Supports various game styles and real-world scenes, first and third-person perspectives, real-time text-triggered events, and video continuation.</li>
+  </ul>
+
+  <h3>Breakthrough: Spatial Memory</h3>
+
+  <p>World Model 1.5 brings entirely new possibilities to world modeling. Users can freely explore generated worlds — when leaving an area and returning, the model "remembers" the three-dimensional structure, presenting a consistent scene. This spatial memory capability marks a major breakthrough in 3D world understanding. The model also supports exporting interactive 3D scenes as reusable 3D point clouds.</p>
+
+  <p>The model relies on three core innovations: dual-branch action representation for precise control, contextual memory reconstruction for geometric consistency, and context-aligned distillation for enhanced visual quality in long video generation. The team also built a 3D-reward-based reinforcement learning post-training framework and automated 3D scene rendering pipeline for high-quality training data generation.</p>
+
+  <p>The model is fully open-sourced on GitHub, Hugging Face, and Tencent Cloud platform, complete with a technical report and online demo.</p>
+
+  <h2>3. OpenAI Launches GPT-5.6 Trio: ChatGPT Work Merges with Codex</h2>
+
+  <p>On July 29, OpenAI officially released the GPT-5.6 series to global users, alongside ChatGPT Work — an AI agent workspace that merges ChatGPT with the Codex programming tool, marking the transition of AI office tools from "assisted conversation" to "autonomous delivery."</p>
+
+  <h3>Three-Tier Strategy Covers Full Spectrum</h3>
+
+  <p>The GPT-5.6 series includes three tiers:</p>
+
+  <ul>
+    <li><strong>Sol (Flagship)</strong>: Specialized in hardcore coding, research, and cybersecurity, scoring 80 on the Artificial Analysis Coding Agent Index with max reasoning enabled — a new SOTA. API pricing: $5/M input tokens, $30/M output tokens.</li>
+    <li><strong>Terra (Balanced)</strong>: For general development tasks at $2.5/M input, $15/M output.</li>
+    <li><strong>Luna (Lightweight)</strong>: For daily lightweight tasks at $1/M input, $6/M output.</li>
+  </ul>
+
+  <p>GPT-5.6 introduces max and ultra reasoning modes, with ultra mode orchestrating 4 parallel agents by default, expandable to 16. Plus membership remains at $20/month.</p>
+
+  <h3>ChatGPT Work: Where Conversation Meets Code</h3>
+
+  <p>ChatGPT Work is OpenAI's direct response to Anthropic's Claude Cowork. Powered by GPT-5.6, it handles information gathering, data analysis, document writing, presentation creation, and website generation. It supports connections to Slack, Gmail, cloud storage, and enterprise databases for end-to-end workflow integration.</p>
+
+  <p>GPT-5.6 is available across ChatGPT, Codex, and the OpenAI API. On the same day, ChatGPT and Codex completed their merger, marking a major product integration for OpenAI. Users can access it at openai.com/chatgpt.</p>
+
+  <h3>Industry Implications</h3>
+
+  <p>Three major companies releasing heavyweight AI models on the same day signals that AI competition is evolving from single-model capabilities to a "model + platform + ecosystem" paradigm. Nvidia strengthens its AI infrastructure position with open-source MoE models, Tencent pioneers spatial intelligence with world models, and OpenAI pushes the AI office paradigm shift with GPT-5.6 + Codex integration. Together, these events point to one overarching trend: AI is moving from "what it can do" to "what it can deliver."</p>
+
+  <p>Looking for more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Looking for more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

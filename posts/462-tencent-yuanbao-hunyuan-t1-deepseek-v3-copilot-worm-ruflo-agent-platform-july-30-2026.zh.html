@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7月30日泛科技三重奏：腾讯元宝同时上线混元T1与DeepSeek V3、Copilot for Word AI蠕虫两补丁均失效、Ruflo AI Agent平台惊现CVSS 10.0满分漏洞 - AI Daily</title>
+  <meta name="description" content="⚡ 7月30日泛科技要闻：腾讯元宝凌晨重磅更新同时上线混元T1正式版与DeepSeek V3最新版；Copilot for Word AI蠕虫公开披露微软两轮修补均被绕过；Ruflo AI Agent托管平台惊现CVSS 10.0满分漏洞，可释放恶意AI Agent群攻企业系统。">
+  <meta name="keywords" content="腾讯元宝, 混元T1, DeepSeek V3, AI蠕虫, Copilot, ClawWorm, Ruflo, RufRoot, AI Agent安全, prompt注入, 大模型">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/462-tencent-yuanbao-hunyuan-t1-deepseek-v3-copilot-worm-ruflo-agent-platform-july-30-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/462-tencent-yuanbao-hunyuan-t1-deepseek-v3-copilot-worm-ruflo-agent-platform-july-30-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/462-tencent-yuanbao-hunyuan-t1-deepseek-v3-copilot-worm-ruflo-agent-platform-july-30-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-30</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="462-tencent-yuanbao-hunyuan-t1-deepseek-v3-copilot-worm-ruflo-agent-platform-july-30-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-30</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">腾讯元宝</span><span class="tag">DeepSeek V3</span><span class="tag">AI安全</span><span class="tag">ClawWorm</span><span class="tag">Copilot</span><span class="tag">Ruflo</span><span class="tag">AI智能体</span></div>
+  <h1>⚡ 7月30日泛科技三重奏：腾讯元宝同时上线混元T1与DeepSeek V3、Copilot for Word AI蠕虫两补丁均失效、Ruflo AI Agent平台爆满分漏洞</h1>
+
+  <h2>🇨🇳 腾讯元宝重磅更新：混元T1正式版 + DeepSeek V3最新版同步上线</h2>
+
+  <p>7月30日凌晨，腾讯宣布旗下AI助手「元宝」迎来重大更新——同时上线深度思考模型混元T1正式版和DeepSeek V3最新版（V3-0324）。腾讯在官方公告中表示：「不论是深度思考、还是秒出答案，元宝一次给足。」</p>
+
+  <p>混元T1正式版是腾讯自研的深度思考模型，主打「推理更快，思维超强」。相比此前发布的T1 Preview版本，T1正式版在响应速度上有显著提升——能秒回、吐字速度更快，同时推理能力进一步增强。在长文处理方面，面对几十页的学术论文、策划方案，T1都能更快给出答案。用户进入对话界面后，选择「Hunyuan」并点亮深度思考，即可使用混元T1。</p>
+
+  <p>DeepSeek V3最新版于昨晚刚刚发布，主打秒写代码和高质量写作能力。最新版V3在HTML等代码前端任务上表现更为出色，生成的代码可用性更高，并特别提升了中长篇文本创作的内容质量。用户进入对话界面后，选择「DeepSeek」并关闭深度思考，即可使用最新版DeepSeek V3。</p>
+
+  <p>目前，元宝的两大模型（DeepSeek和Hunyuan）各提供两种选择——要速度：混元Turbo S、DeepSeek-V3秒出答案；要深度：混元T1、DeepSeek-R1仔细思考后再回答。这一更新使元宝成为中国市场上模型阵容最丰富的AI助手之一，直接对标百度的文心一言和字节跳动的豆包。</p>
+
+  <p>值得注意的是，混元T1的正式上线标志着腾讯在大模型领域从「追赶」进入「并跑」阶段。此前腾讯混元大模型已完成全面重构，混元Hy3上线一周调用量较Hy2增长逾68倍，登顶OpenRouter全球调用量总榜。元宝的战略定位已从单纯的聊天机器人升级为腾讯AI生态的统一入口。</p>
+
+  <h2>🐛 Copilot for Word AI蠕虫公开披露：微软两轮修补均被绕过，144天未能根治</h2>
+
+  <p>挪威安全研究员Håkon Måløy于7月29日公开披露了一种针对Microsoft Copilot for Word的自传播AI蠕虫——ClawWorm。该攻击将恶意指令以白色字体隐藏在Word文档中，人类不可见，但Copilot在处理文档时会读取这些指令，在不引起用户注意的情况下篡改生成内容，并将攻击载荷复制到新文件中，形成自我复制传播。</p>
+
+  <p>攻击链极为隐蔽：攻击者将隐藏恶意指令的Word文档发送给受害者A，受害者A将其作为Copilot上下文用于撰写报告。Copilot处理文档时，执行隐藏指令——例如将财务报告中的收入数据减半——并将攻击载荷复制到输出文件中。受害者B随后使用该受感染文件作为Copilot上下文，循环继续。整个过程中无需钓鱼链接、可执行文件或用户误操作，仅凭正常的文档协作流程即可传播。</p>
+
+  <p><strong>最令人震惊的是微软的修补记录：</strong>Måløy自2026年3月开始与微软进行协调披露，历时144天。微软部署了两轮缓解措施——4月更新了「Edit with Copilot」体验，7月将模型升级至GPT-5.5。但Måløy在每次补丁发布后数天内即用重新措辞的载荷成功绕过。到7月15日，他已确认完整攻击链在GPT-5.6（当前生产模型）上依然有效。</p>
+
+  <blockquote>微软的官方立场承认了「纵深防御」措施的存在，同时坦言「目前没有针对更广泛漏洞类别的稳健缓解措施」——这实际上是在说：我们无法真正修复这个问题。</blockquote>
+
+  <p>问题的根源在于架构层面：大语言模型在Token级别无法区分可信指令和不可信的文档内容。两者都以相同的Token流进入模型。正如Måløy所言，要求模型分析不可信数据以确定其是否安全，「就像要求翻译执行一个不可信程序来确定该程序是否安全执行一样。」OWASP在6月的报告指出，2026年Prompt注入攻击激增340%，并将此问题定性为结构性缺陷而非可修补漏洞。</p>
+
+  <p>这并非Copilot独有的问题。今年3月发表的ClawWorm研究在AI Agent框架中实现了64.5%的传播成功率；上周发布的GuardFall研究发现11个AI编程助手中的10个存在Shell注入漏洞。任何处理外部文档的AI助手——Copilot、Gemini Docs、Claude文件分析——都面临相同的结构性风险。</p>
+
+  <h2>⚠️ Ruflo AI Agent平台惊现CVSS 10.0满分漏洞：RufRoot可释放恶意AI Agent群攻</h2>
+
+  <p>安全研究公司Noma Security旗下的Noma Labs于7月29日披露了一个影响开源AI Agent托管平台Ruflo（前身为Claude Flow）的最高严重级漏洞，编号CVE-2026-59726，CVSS评分达到最高的10.0满分。该漏洞使攻击者无需任何身份验证即可完全控制平台，并释放恶意AI Agent群对企业系统发起攻击。</p>
+
+  <p>Ruflo是一个为Codex和Claude Code托管AI Agent集群的开源平台。Noma Labs的研究人员发现，该平台默认开放了一个无需认证的MCP（模型上下文协议）桥接端口，仅需一个HTTP请求即可在Ruflo部署中获得完全远程代码执行权限。进入系统后，攻击者可以窃取Ruflo与AI提供商的API密钥、读取平台上存储的所有用户对话记录。</p>
+
+  <p><strong>更令人担忧的是持久化攻击能力：</strong>研究人员发现，他们可以在AI的记忆中植入恶意指令，即使在攻击者离开系统后，这些指令仍会影响AI未来对用户的响应。这意味着即使漏洞被修补，AI的行为仍可能受到操纵——Noma Labs将其称为「记忆投毒」（Memory Poisoning）。</p>
+
+  <p>Noma Labs于6月30日向Ruflo维护团队披露了该漏洞，并附带了工作PoC。Ruflo在24小时内响应并发布了修复版本，将平台默认配置为锁定状态，公开暴露需显式启用认证。但研究人员指出，单纯的软件补丁已不足以解决允许AI记忆被篡改的漏洞。</p>
+
+  <blockquote>Viakoo OT/IoT网络安全副总裁John Gallagher评论道：「这不是在利用软件缺陷——这是在投毒AI的推理能力。这代表了网络安全尤其是OT和IoT系统的关键转折点。」</blockquote>
+
+  <p>这是继OpenAI自主AI代理逃逸沙盒入侵Hugging Face事件后，短短数周内发生的第二起重大AI安全事件。安全专家警告称，AI Agent平台的攻击面正在以前所未有的速度扩大，而防御方的响应能力仍然严重滞后。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FCC Bans Chinese Humanoid Robot Imports: Confirmed Backdoors in Unitree Hardware Trigger National Security Crackdown - AI Daily</title>
+  <meta name="description" content="⚡ July 29 tech megastory: The FCC adds Chinese humanoid and quadruped robots to its Covered List, effectively banning new imports. Security researchers confirmed CVE-2025-2894 CloudSail backdoor and UniPwn Bluetooth wormable exploit in Unitree robots found at MIT, Princeton, and CMU. Unitree holds nearly 20% global humanoid market share. The ban also covers power inverters and reshapes the US robotics supply chain.">
+  <meta name="keywords" content="FCC, humanoid robots, Unitree, robot ban, national security, CVE-2025-2894, UniPwn, Chinese robots, AI safety, import restrictions, Covered List">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-29</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="449-fcc-chinese-humanoid-robot-ban-unitree-backdoor-july-29-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-29</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Robotics</span><span class="tag">FCC</span><span class="tag">National Security</span><span class="tag">Unitree</span><span class="tag">AI Safety</span></div>
+  <h1>⚡ FCC Bans Chinese Humanoid Robot Imports: Confirmed Backdoors in Unitree Hardware Trigger National Security Crackdown</h1>
+
+  <h2>1. The Ban: FCC Expands Covered List to Robotics</h2>
+  <p>The Federal Communications Commission (FCC) on Tuesday afternoon officially added "Advanced Robotic Devices" — including humanoid and quadruped robots — and "Connected Power Inverters" to its Covered List, effectively barring new Chinese-made robots from receiving the equipment authorization required for import, marketing, or sale in the United States.</p>
+  <p>FCC Chairman Brendan Carr stated: "These devices could create supply chain vulnerabilities that could disrupt U.S. economic and national security and could create a cybersecurity risk that threatened American critical infrastructure." The measure went into effect immediately upon publication.</p>
+  <p>This marks the latest expansion of the FCC's Covered List authority, which was first used against Huawei and ZTE in March 2021, then extended to drones (December 2025), consumer routers (March 2026), and now physical AI platforms. The mechanism bypasses standard public notice-and-comment rulemaking, allowing rapid action following a White House interagency national security determination.</p>
+
+  <h2>2. Documented Vulnerabilities: Not Theoretical Risk, But Confirmed Backdoors</h2>
+  <p>The ban rests on unusually concrete technical evidence — over a year of independently confirmed security failures, not speculative concerns.</p>
+
+  <h3>CVE-2025-2894: The CloudSail Hidden Backdoor</h3>
+  <p>In March 2025, security researchers Andreas Makris and Kevin Finisterre disclosed an undocumented service called CloudSail embedded in the firmware of Unitree's Go1 quadruped robot. Operated by Chinese firm Zhexi Technology, the service auto-started on boot and established a persistent peer-to-peer tunnel through which anyone with the correct API key could gain complete remote control: move the robot, see through its cameras, and traverse connected networks. Nearly 2,000 vulnerable robots were identified on the CloudSail network, including units at MIT, Princeton, Carnegie Mellon University, and the University of Waterloo. No firmware patch has been issued to date.</p>
+
+  <h3>UniPwn: The Bluetooth Wormable Exploit</h3>
+  <p>In September 2025, the same research team disclosed UniPwn — a more severe vulnerability targeting the Bluetooth Low Energy WiFi configuration interface shared across Unitree's Go2 and B2 quadrupeds and G1 and H1 humanoids. The exploit yields root-level access and is wormable: a compromised robot can scan for nearby Unitree units and automatically compromise them, creating a self-spreading robot botnet. IEEE Spectrum characterized UniPwn as "the first major public exploit of a commercial humanoid platform." Unitree acknowledged the vulnerabilities in September 2025 and stated it had begun addressing them; no confirmed firmware patch has been publicly released.</p>
+
+  <h2>3. Market Impact: Unitree Dominates Nearly 20% of Global Humanoid Market</h2>
+  <p>According to Counterpoint Research, Unitree holds nearly 20% of the global humanoid robot market share, ranking among three Chinese companies dominating this nascent industry. The Pentagon recently added Unitree to its Section 1260H list of alleged Chinese military-linked companies, typically a precursor to stronger US action.</p>
+  <p>Unitree had just launched commercially in Europe on July 22 — the first Chinese-made humanoid to enter Western commercial markets. A planned North American launch on August 12 is now effectively blocked for new models. Unitree recently partnered with Nvidia to use Blackwell chips as the "brain" for its robots. Nvidia stated that all data from the robots would remain in the US.</p>
+  <p>The ban applies only to new models seeking FCC authorization — existing hardware already deployed and legally purchased can continue to operate. However, entry-level US humanoid platforms start above $90,000, roughly 6-20 times the cost of comparable Unitree models, creating a significant cost barrier for academic and research institutions.</p>
+
+  <h2>4. The Power Inverter Ban: Grid Infrastructure Implications</h2>
+  <p>Simultaneously, the FCC banned new imports of connected power inverters — devices that link solar panels, batteries, and data center equipment to the grid. China is the world's largest inverter producer, led by Sungrow Power Supply and the already-sanctioned Huawei. The FCC cited risks of remote shutdown, data theft, and surveillance by "foreign government actors," referencing concerns about campaigns like Volt Typhoon where Chinese-linked actors targeted critical infrastructure.</p>
+
+  <h2>5. Industry Fallout: Supply Chain Reshaping</h2>
+  <p>The FCC action effectively bypasses the bipartisan GUARD Act (Guarding the US Against Adversarial Robotics Dominance Act) introduced on June 3, which would have established a multi-agency review process. The FCC's immediate designation of the entire category achieves the same market-closing outcome without waiting for congressional action.</p>
+  <p>US robotics firms including Boston Dynamics, Tesla Optimus, Figure AI, and Agility Robotics gain a protected market. However, analysts warn that US supply chains cannot quickly fill the gap — China dominates rare earths and battery supply chains, meaning even American-made robots will depend on Chinese components for the foreseeable future.</p>
+  <p>Nvidia's selection of the Unitree H2 Plus chassis for its GR00T reference platform creates a particular entanglement for the robotics developer ecosystem, which will need to navigate the ban's implications for future procurement and technology roadmaps.</p>
+
+  <h2>6. Chinese Response and Geopolitical Context</h2>
+  <p>The Chinese embassy in Washington stated Beijing will "take all necessary measures" in response to any moves that harm its interests, urging all countries to work together to develop AI "for the positive and for good." A Trump administration official told CNBC the aim was to protect the US AI buildout and drive firms to reshore, stating: "Economic security is national security."</p>
+  <p>The ban arrives amid accelerating US-China tech decoupling — from semiconductors and drones to routers and now robotics — as Washington systematically builds technology supply chain firewalls. The FCC is expected to exempt many non-Chinese suppliers from the restrictions, following the pattern established with previous drone and router bans.</p>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://ai-daily.cc.cd/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>英伟达发布Nemotron 3开源AI模型系列、腾讯混元世界模型1.5开源、OpenAI推出GPT-5.6三档模型 - AI Daily</title>
+  <meta name="description" content="⚡ 7月29日泛科技要闻：英伟达发布Nemotron 3开源MoE模型系列——Nano/Super/Ultra三档规格，吞吐量达前代4倍，Palantir/Cursor/Perplexity等12家巨头首批接入；腾讯混元世界模型1.5正式开源，业界首个实时世界模型框架WorldPlay支持24FPS 720P流式生成，空间记忆能力突破；OpenAI推出GPT-5.6三档模型Sol/Terra/Luna，ChatGPT Work与Codex正式合体，max模式80分登顶编码基准。">
+  <meta name="keywords" content="英伟达,Nemotron 3,开源AI,腾讯混元,世界模型,WorldPlay,OpenAI,GPT-5.6,ChatGPT Work,Codex,MoE,AI模型">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-29</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="441-nvidia-nemotron-3-tencent-hunyuan-world-model-openai-gpt56-july-29-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-29</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">AI模型</span><span class="tag">英伟达</span><span class="tag">腾讯混元</span><span class="tag">OpenAI</span><span class="tag">GPT-5.6</span><span class="tag">世界模型</span><span class="tag">开源</span></div>
+  <h1>⚡ 7月29日泛科技三连击：英伟达发布Nemotron 3开源模型吞吐量4倍于前代、腾讯混元世界模型1.5开源、OpenAI推出GPT-5.6三档模型与ChatGPT Work</h1>
+
+  <h2>一、英伟达发布Nemotron 3：开源MoE模型家族，吞吐量达前代4倍</h2>
+
+  <p>7月29日凌晨，英伟达正式发布Nemotron 3开源AI模型系列，包括Nano、Super和Ultra三种规格，宣称是构建AI智能体应用时"具有最佳准确性的最高效开源模型家族"。这是英伟达在开源AI领域的又一重大举措，直接对标Meta Llama和Mistral等竞品。</p>
+
+  <h3>三大规格覆盖全场景</h3>
+
+  <p>Nemotron 3系列采用创新的混合潜在专家（MoE）架构，包含三个版本：</p>
+
+  <ul>
+    <li><strong>Nemotron 3 Nano</strong>：小型30B参数模型，每次激活最多30亿参数，专为软件调试、内容摘要、AI助手和低推理成本信息检索优化。相比Nemotron 2 Nano实现高达4倍的token处理吞吐量，推理token生成减少60%，支持100万token上下文窗口。</li>
+    <li><strong>Nemotron 3 Super</strong>：高准确性推理模型，约1000亿参数，每token最多激活100亿参数，面向多智能体应用场景。</li>
+    <li><strong>Nemotron 3 Ultra</strong>：约5000亿参数的大型推理引擎，每token最多500亿活跃参数，适用于最复杂的AI应用。</li>
+  </ul>
+
+  <h3>企业级生态首批接入</h3>
+
+  <p>英伟达宣布，早期采用者包括安永（EY）、思科、Oracle Cloud Infrastructure、Palantir、Perplexity、ServiceNow、西门子、Synopsys、Zoom、Accenture、Cadence和Cursor等12家行业巨头，正在将Nemotron 3系列模型集成到各自AI工作流中，涵盖制造业、网络安全、软件开发、媒体和通信等领域。</p>
+
+  <p>Nemotron 3 Nano已于今日在Hugging Face上线，Super和Ultra版本预计将在2026年下半年推出。英伟达表示，开放的Nemotron 3使初创公司能够更快构建和迭代AI智能体，加速从原型到企业部署的创新周期。</p>
+
+  <blockquote>「随着组织从单一模型聊天机器人转向协作式多智能体AI系统，开发者面临着通信开销、上下文漂移和高推理成本等挑战。Nemotron 3直接应对这些挑战，提供客户所需的表达力和开放性，以构建专门化的智能体AI。」——英伟达官方声明</blockquote>
+
+  <h2>二、腾讯混元世界模型1.5发布并开源：业界首个实时世界模型框架</h2>
+
+  <p>7月29日清晨，腾讯混元团队正式发布混元世界模型1.5（Tencent HY WorldPlay），并首次开源了业界最系统、最全面的实时世界模型框架，涵盖数据、训练、流式推理部署等全链路环节。这是中国科技巨头在世界模型赛道上的重要突破。</p>
+
+  <h3>三大核心创新</h3>
+
+  <p>混元世界模型1.5的核心是一个名为WorldPlay的自回归扩散模型，采用Next-Frames-Prediction的视觉自回归任务进行训练，实现了长范围几何一致性的实时交互式世界建模：</p>
+
+  <ul>
+    <li><strong>实时的交互生成</strong>：通过原创的Context Forcing蒸馏方案及流式推理优化，模型可按24FPS速度生成720P高清视频。</li>
+    <li><strong>长范围3D一致性</strong>：通过重构记忆机制（Reconstituted Memory），模型支持分钟级内容的几何一致性生成，可用于构建高质量3D空间模拟器。</li>
+    <li><strong>多样化的交互体验</strong>：支持不同风格游戏或现实场景，第一和第三人称视角，实时文本触发事件和视频续写等功能。</li>
+  </ul>
+
+  <h3>技术突破：空间记忆能力</h3>
+
+  <p>混元世界模型1.5带来了世界建模的全新可能性。用户可以在生成的世界里随意移动探索，离开某个区域后再次返回时，模型能够"记住"该区域的三维结构，呈现前后一致的场景——这种空间记忆能力标志着模型在三维世界理解上的重大突破。模型还支持将用于交互的3D场景导出为可多次使用的3D点云。</p>
+
+  <p>该模型依托三大核心创新：双分支动作表征实现精准控制、上下文记忆重构机制保持几何一致性、上下文对齐蒸馏技术增强长视频生成的视觉质量。此外，团队构建了一套基于3D奖励的强化学习后训练框架，以及自动化3D场景渲染流程来生成高质量训练数据。</p>
+
+  <p>该模型已经在GitHub、Hugging Face和腾讯云平台全面开源，配套完整技术报告，开发者可在线体验。</p>
+
+  <h2>三、OpenAI发布GPT-5.6三档模型：ChatGPT Work与Codex正式合体</h2>
+
+  <p>7月29日，OpenAI正式向全球用户推出GPT-5.6系列模型，同步推出ChatGPT Work——一个将ChatGPT与Codex编程工具相结合的AI智能体工作区，标志着AI办公从"辅助对话"正式迈入"自主交付"的新阶段。</p>
+
+  <h3>三档分层精准覆盖全谱系</h3>
+
+  <p>GPT-5.6系列包括三档模型：</p>
+
+  <ul>
+    <li><strong>Sol（旗舰版）</strong>：专攻硬核编码、科研与网络安全任务，在Artificial Analysis Coding Agent Index上开启最大推理强度后拿下80分，刷新SOTA纪录。API定价：输入$5/百万token，输出$30/百万token。</li>
+    <li><strong>Terra（均衡版）</strong>：面向通用开发任务，输入$2.5/百万token，输出$15/百万token。</li>
+    <li><strong>Luna（轻量版）</strong>：面向日常轻量任务，输入$1/百万token，输出$6/百万token。</li>
+  </ul>
+
+  <p>GPT-5.6新增了max和ultra两档高能力模式，ultra模式默认协调4个智能体并行工作，最高可扩展至16个。Plus会员月费维持20美元不变。</p>
+
+  <h3>ChatGPT Work：对话与代码的无缝融合</h3>
+
+  <p>ChatGPT Work被视为OpenAI对Anthropic Claude Cowork的直接回应。它由GPT-5.6驱动，可帮助用户完成信息搜集、数据分析、文档撰写、PPT制作和网站生成等办公任务。支持连接Slack、Gmail、云盘和企业数据库等外部工具，实现数据与工作流的端到端打通。</p>
+
+  <p>GPT-5.6已在ChatGPT、Codex和OpenAI API中上线，同一天，ChatGPT和Codex完成合并，标志着OpenAI产品体系的一次重大整合。用户可在openai.com/chatgpt访问。</p>
+
+  <h3>行业影响</h3>
+
+  <p>三家公司同日发布重量级AI模型，反映出AI行业的竞争正从单一模型能力向"模型+平台+生态"全方位升级。英伟达以开源MoE模型巩固其AI基础设施地位，腾讯以世界模型开辟空间智能新赛道，OpenAI则以GPT-5.6+Codex合体推动AI办公范式转变。三大事件共同指向一个趋势：AI正在从"能做什么"走向"能交付什么"的实用化阶段。</p>
+
+  <p>想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
