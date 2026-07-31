@@ -1,5 +1,42 @@
 [
   {
+    "id": "495",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日国际要闻：近5万移民24小时涌入西班牙休达、FIFA高级顾问辞职抗议世界杯私有化、法国冻结俄评论员资产",
+      "summary": "⚡ 7月31日国际要闻：约4.9万移民在24小时内从摩洛哥涌入西班牙飞地休达，至少18人死亡，西班牙向休达与梅利利亚派兵增援；前高盛银行家、美国足协前主席科代罗辞去FIFA高级顾问职务，抗议国际足联拟以200亿美元估值出售世界杯商业子公司20%股权；法国依据紧急程序下令俄籍评论员费多罗娃离境并冻结其资产6个月；巴基斯坦布洛阿特峰雪崩致10名登山者失踪，传奇登山者普尔贾下落不明。",
+      "tags": [
+        "国际新闻",
+        "西班牙",
+        "休达",
+        "摩洛哥",
+        "移民危机",
+        "FIFA",
+        "国际足联",
+        "法国",
+        "俄罗斯",
+        "资产冻结"
+      ],
+      "file": "posts/495-ceuta-migrant-crisis-fifa-cordeiro-resigns-france-freezes-russian-assets-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 World News: 49,000 Migrants Pour into Spain's Ceuta, FIFA Adviser Quits Over World Cup Privatization, France Freezes Russian Commentator's Assets",
+      "summary": "⚡ July 31 world news: about 49,000 migrants crossed from Morocco into Spain's enclave of Ceuta in 24 hours, with at least 18 deaths, prompting Spain to deploy troops to Ceuta and Melilla; former Goldman Sachs banker Carlos Cordeiro resigns as FIFA's senior adviser to protest a 0 billion World Cup privatization plan; France orders Russian commentator Xenia Fedorova to leave and freezes her assets for six months; an avalanche on Broad Peak leaves 10 climbers missing, including famed mountaineer Nirmal Purja.",
+      "tags": [
+        "World News",
+        "Spain",
+        "Ceuta",
+        "Morocco",
+        "Migration Crisis",
+        "FIFA",
+        "France",
+        "Russia",
+        "Asset Freeze"
+      ],
+      "file": "posts/495-ceuta-migrant-crisis-fifa-cordeiro-resigns-france-freezes-russian-assets-july-31-2026.en.html"
+    }
+  },
+  {
     "id": "494",
     "date": "2026-07-31",
     "zh": {
