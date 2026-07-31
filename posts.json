@@ -1,5 +1,49 @@
 [
   {
+    "id": "496",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技要闻：Zoox拿下全美首个无方向盘出租车收费许可、自主光刻胶产线投产、TCL印刷OLED定档、雷鸟iO首秀、英特尔Panther Lake亮相",
+      "summary": "⚡ 7月31日科技要闻：NHTSA批准亚马逊旗下Zoox无方向盘机器人出租车有限商业部署，每年最多2500辆，拿下全美首个无方向盘出租车收费许可；鼎龙股份潜江二期KrF/ArF高端光刻胶产线正式投产，年产能300吨；TCL华星确认全球唯一G8.6代印刷OLED产线2027年Q4投产；雷鸟iO AI眼镜ChinaJoy首秀；英特尔披露五款Panther Lake工业级处理器。",
+      "tags": [
+        "科技新闻",
+        "Zoox",
+        "亚马逊",
+        "自动驾驶",
+        "机器人出租车",
+        "光刻胶",
+        "鼎龙股份",
+        "TCL华星",
+        "印刷OLED",
+        "雷鸟",
+        "AI眼镜",
+        "英特尔",
+        "Panther Lake"
+      ],
+      "file": "posts/496-zoox-robotaxi-permit-photoresist-tcl-printed-oled-ai-glasses-intel-panther-lake-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Roundup: Zoox Wins First US Permit for Wheel-Free Robotaxi Fares, China's First Fully Domestic Photoresist Line Online, TCL CSOT Printed OLED Set for 2027, Thunderbird iO AI Glasses Debut, Intel Reveals Panther Lake Industrial Chips",
+      "summary": "⚡ July 31 tech roundup: NHTSA approves Amazon's Zoox for limited commercial deployment of its wheel-free robotaxi — up to 2,500 vehicles a year — making Zoox the first company licensed in the US to charge fares for driverless cars without manual controls, ahead of Tesla; Dinglong's Qianjiang Phase II KrF/ArF photoresist line officially goes into production at 300 t/year, China's first fully domestic high-end photoresist line; TCL CSOT confirms its $2.95B G8.6 printed OLED line — the world's only one — starts production in Q4 2027; Thunderbird iO AI glasses debut at ChinaJoy with a camera-free lightweight design and AI subtitles; Intel discloses five Panther Lake industrial processors supporting -40°C to 100°C.",
+      "tags": [
+        "Tech News",
+        "Zoox",
+        "Amazon",
+        "Robotaxi",
+        "Self-Driving",
+        "Photoresist",
+        "Dinglong",
+        "TCL CSOT",
+        "Printed OLED",
+        "Thunderbird",
+        "AI Glasses",
+        "Intel",
+        "Panther Lake"
+      ],
+      "file": "posts/496-zoox-robotaxi-permit-photoresist-tcl-printed-oled-ai-glasses-intel-panther-lake-july-31-2026.en.html"
+    }
+  },
+  {
     "id": "495",
     "date": "2026-07-31",
     "zh": {
