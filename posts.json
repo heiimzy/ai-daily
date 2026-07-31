@@ -1,5 +1,73 @@
 [
   {
+    "id": "494",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日全球金融要闻：KOSPI史诗级暴涨18%创历史纪录、日元疑似遭遇第二轮干预、四部门22条健全金融机构治理、美联储9:3按兵不动",
+      "summary": "⚡ 7月31日全球金融要闻：韩国KOSPI指数收盘暴涨18%，创有史以来最大单日涨幅，SK海力士涨停；日元全线走强，美元兑日元跳水约150点，市场怀疑日本当局进行第二轮干预，植田和男称若金融条件过于宽松可能加快加息；金融监管总局等四部门联合发布《关于健全金融机构治理的实施意见》共22条；美联储9比3维持利率不变，富达预计加息周期或延至12月；A股7月收官三大指数反弹，创业板指涨3.06%。",
+      "tags": [
+        "金融新闻",
+        "韩国股市",
+        "KOSPI",
+        "日元",
+        "日本央行",
+        "美联储",
+        "金融机构治理",
+        "A股"
+      ],
+      "file": "posts/494-financial-roundup-kospi-record-surge-yen-second-intervention-bank-governance-fed-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Global Finance: KOSPI Soars Record 18%, Suspected Second Yen Intervention, China's 22-Point Bank Governance Overhaul, Fed Holds 9-3",
+      "summary": "⚡ July 31 global finance: South Korea's KOSPI closes up 18%, the biggest single-day gain on record, with SK Hynix hitting the daily limit; the yen strengthens across the board — USD/JPY plunges about 150 pips — on suspected second intervention by Japanese authorities, while BOJ Governor Ueda hints at faster hikes if conditions stay too loose; four Chinese regulators unveil a 22-point plan to overhaul financial institution governance; the Fed holds rates 9-3 and Fidelity sees the hike cycle possibly delayed to December; A-shares close July with a rebound, ChiNext up 3.06%.",
+      "tags": [
+        "Finance News",
+        "Korea Stock Market",
+        "KOSPI",
+        "Yen",
+        "Bank of Japan",
+        "Federal Reserve",
+        "Bank Governance",
+        "A-Shares"
+      ],
+      "file": "posts/494-financial-roundup-kospi-record-surge-yen-second-intervention-bank-governance-fed-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "493",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技要闻：DeepSeek-V4-Flash正式版API上线公测、GPT-5.6 Sol交互推理暴涨188%、北斗完成在轨升级、格科50MP传感器发布、昆仑万维AI戒指登场",
+      "summary": "⚡ 7月31日科技要闻：DeepSeek-V4-Flash 正式版 API 上线公测，Agent 基准远超 V4-Pro-Preview；OpenAI 修复框架缺陷后 GPT-5.6 Sol 在 ARC-AGI-3 得分暴涨 188%；北斗卫星导航系统全面完成在轨升级，在轨卫星达 50 颗；格科发布 5000 万像素 CMOS 传感器 GC50B5；昆仑万维 Skywork AI 挂件 Recall 与 AI 戒指 TriRing 即将登场。",
+      "tags": [
+        "科技新闻",
+        "DeepSeek",
+        "OpenAI",
+        "GPT-5.6",
+        "北斗",
+        "格科",
+        "昆仑万维",
+        "AI硬件"
+      ],
+      "file": "posts/493-deepseek-v4-flash-gpt-5-6-sol-beidou-goke-wearables-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Roundup: DeepSeek V4-Flash GA API Goes Live, GPT-5.6 Sol Jumps 188% on ARC-AGI-3, BeiDou Completes On-Orbit Upgrade, Goke Launches 50MP Sensor, Kunlun AI Wearables Arrive",
+      "summary": "⚡ July 31 tech: DeepSeek puts the production V4-Flash API into public beta with agent benchmarks far above V4-Pro-Preview; OpenAI fixes two harness flaws and GPT-5.6 Sol jumps 188% on the ARC-AGI-3 interactive reasoning benchmark; China's BeiDou system completes a full on-orbit upgrade with 50 satellites in service; Goke launches the 50MP CMOS sensor GC50B5 with single-frame HDR; Kunlun's Skywork AI pendant Recall and AI ring TriRing are coming soon.",
+      "tags": [
+        "Tech News",
+        "DeepSeek",
+        "OpenAI",
+        "GPT-5.6",
+        "BeiDou",
+        "Goke",
+        "Kunlun",
+        "AI Wearables"
+      ],
+      "file": "posts/493-deepseek-v4-flash-gpt-5-6-sol-beidou-goke-wearables-july-31-2026.en.html"
+    }
+  },
+  {
     "id": "492",
     "date": "2026-07-31",
     "zh": {

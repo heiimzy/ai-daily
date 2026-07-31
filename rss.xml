@@ -6,9 +6,23 @@
     <description>每小时更新AI领域最新动态，涵盖AI新闻、AI工具推荐、AI赚钱变现方法、AI提升效率技巧</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 31 Jul 2026 07:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:03:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 7月31日全球金融要闻：KOSPI史诗级暴涨18%创历史纪录、日元疑似遭遇第二轮干预、四部门22条健全金融机构治理、美联储9:3按兵不动</title>
+      <link>https://ai-daily.cc.cd/posts/494-financial-roundup-kospi-record-surge-yen-second-intervention-bank-governance-fed-july-31-2026.zh.html</link>
+      <description>⚡ 7月31日全球金融要闻：韩国KOSPI指数收盘暴涨18%，创有史以来最大单日涨幅，SK海力士涨停；日元全线走强，美元兑日元跳水约150点，市场怀疑日本当局进行第二轮干预，植田和男称若金融条件过于宽松可能加快加息；金融监管总局等四部门联合发布《关于健全金融机构治理的实施意见》共22条；美联储9比3维持利率不变，富达预计加息周期或延至12月；A股7月收官三大指数反弹，创业板指涨3.06%。</description>
+      <pubDate>Fri, 31 Jul 2026 09:03:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/494-financial-roundup-kospi-record-surge-yen-second-intervention-bank-governance-fed-july-31-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 7月31日科技要闻：DeepSeek-V4-Flash正式版API上线公测、GPT-5.6 Sol交互推理暴涨188%、北斗完成在轨升级、格科50MP传感器发布、昆仑万维AI戒指登场</title>
+      <link>https://ai-daily.cc.cd/posts/493-deepseek-v4-flash-gpt-5-6-sol-beidou-goke-wearables-july-31-2026.zh.html</link>
+      <description>⚡ 7月31日科技要闻：DeepSeek-V4-Flash 正式版 API 上线公测，Agent 基准远超 V4-Pro-Preview；OpenAI 修复框架缺陷后 GPT-5.6 Sol 在 ARC-AGI-3 得分暴涨 188%；北斗卫星导航系统全面完成在轨升级，在轨卫星达 50 颗；格科发布 5000 万像素 CMOS 传感器 GC50B5；昆仑万维 Skywork AI 挂件 Recall 与 AI 戒指 TriRing 即将登场。</description>
+      <pubDate>Fri, 31 Jul 2026 08:03:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/493-deepseek-v4-flash-gpt-5-6-sol-beidou-goke-wearables-july-31-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 7月31日科技要闻：Gemini 3.5 Pro惊现Arena 30分钟即撤、Seedance 2.5落地车企、千问上车特斯拉、AI蠕虫篡改Word</title>
       <link>https://ai-daily.cc.cd/posts/492-gemini-3-5-pro-seedance-2-5-qwen-tesla-ai-worm-july-31-2026.zh.html</link>
