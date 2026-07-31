@@ -1,17 +1,851 @@
 [
   {
+    "id": "492",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技要闻：Gemini 3.5 Pro惊现Arena 30分钟即撤、Seedance 2.5落地车企、千问上车特斯拉、AI蠕虫篡改Word",
+      "summary": "⚡ 7月31日科技要闻：谷歌 Gemini 3.5 Pro 现身 Arena 30分钟即撤；字节发布 Seedance 2.5，徐工、小鹏、智元率先接入；阿里千问进入特斯拉车机内测；AI 蠕虫可自复制篡改 Word 文档；发改委称 AI 行业增长 30%+、智能算力达去年同期 2.8 倍。",
+      "tags": [
+        "科技新闻",
+        "谷歌",
+        "Gemini",
+        "字节跳动",
+        "Seedance",
+        "阿里",
+        "千问",
+        "特斯拉",
+        "AI安全",
+        "AI蠕虫"
+      ],
+      "file": "posts/492-gemini-3-5-pro-seedance-2-5-qwen-tesla-ai-worm-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Roundup: Gemini 3.5 Pro Spotted on Arena Then Pulled in 30 Minutes, Seedance 2.5 Lands Auto & Robotics Deals, Qwen Tests Inside Tesla, AI Worm Quietly Rewrites Word Docs",
+      "summary": "⚡ July 31 tech: Google Gemini 3.5 Pro briefly appeared on Arena and was removed after 30 minutes; ByteDance launched Seedance 2.5 with XCMG, XPeng and Unitree among first adopters; Alibaba Qwen reportedly in deep testing in Tesla China infotainment; researcher discloses AI worm targeting Copilot for Word; China NDRC says AI industries growing 30%+ with compute capacity at 2.8x last year.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Gemini",
+        "ByteDance",
+        "Seedance",
+        "Alibaba",
+        "Qwen",
+        "Tesla",
+        "AI Security",
+        "AI Worm"
+      ],
+      "file": "posts/492-gemini-3-5-pro-seedance-2-5-qwen-tesla-ai-worm-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "491",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日国际要闻：以色列深夜猛炸黎巴嫩南部、定居者强闯约旦河西岸、加沙路线图新细节曝光、伊朗宣称打击科威特美军基地",
+      "summary": "⚡ 7月31日国际要闻：以色列对黎巴嫩南部发动大规模夜袭，数吨炸药摧毁真主党地道，冲击波远至贝鲁特郊区；约旦河西岸局势升级，以军掩护武装定居者强闯纳布卢斯塔尔镇并逮捕7名巴勒斯坦人；加沙解除武装路线图披露新细节，国家管理委员会将接管财政并分三年处理4亿美元债务；伊朗宣称用无人机打击科威特艾哈迈德·贾比尔美军基地，美方尚未证实。",
+      "tags": [
+        "国际政治",
+        "黎巴嫩",
+        "以色列",
+        "真主党",
+        "约旦河西岸",
+        "加沙",
+        "哈马斯",
+        "伊朗",
+        "科威特"
+      ],
+      "file": "posts/491-israel-south-lebanon-blasts-west-bank-settlers-gaza-roadmap-kuwait-airbase-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 World Roundup: Israel Pounds Southern Lebanon Overnight, Settlers Storm West Bank Town, New Gaza Roadmap Details, Iran Claims Strike on Kuwait Airbase",
+      "summary": "⚡ July 31 world roundup: Israel launches massive overnight strikes on southern Lebanon, destroying Hezbollah tunnels with tons of explosives; armed settlers storm the West Bank town of Tal under Israeli military protection as 7 Palestinians are arrested in Nablus; new details of the Gaza disarmament roadmap emerge as the National Committee plans to audit finances and settle up to $400M in debts over three years; Iran claims a drone strike on Kuwait's Ahmed Al-Jaber airbase, unconfirmed by the US.",
+      "tags": [
+        "World News",
+        "Lebanon",
+        "Israel",
+        "Hezbollah",
+        "West Bank",
+        "Gaza",
+        "Hamas",
+        "Iran",
+        "Kuwait"
+      ],
+      "file": "posts/491-israel-south-lebanon-blasts-west-bank-settlers-gaza-roadmap-kuwait-airbase-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "490",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日全球金融要闻：日本央行按兵不动利率维持1%、日经证实美日联手干预日元、中国7月PMI意外跌破荣枯线、A股创业板指半日暴涨5%",
+      "summary": "⚡ 7月31日全球金融要闻：日本央行维持政策利率1%不变，多数分析师预计年底前加息至1.25%；日经证实日元暴涨3.3%系美日联手干预，美国财政部罕见同步「汇率检查」；中国7月制造业PMI意外跌至49.2，新订单创38个月新低；A股午间反弹，创业板指半日涨5.04%、科创50涨5.91%，超4500只个股上涨。",
+      "tags": [
+        "金融新闻",
+        "日本央行",
+        "日元",
+        "汇率干预",
+        "中国PMI",
+        "A股",
+        "黄金",
+        "外汇"
+      ],
+      "file": "posts/490-financial-roundup-boj-rate-hold-yen-intervention-china-pmi-a-share-rally-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Global Finance: BOJ Holds Rate at 1%, US-Japan Yen Intervention Confirmed, China PMI Falls Below 50, A-Shares ChiNext Surges 5%",
+      "summary": "⚡ July 31 global finance: BOJ holds at 1.0%; US-Japan yen intervention confirmed; China July PMI falls to 49.2, first contraction since Feb; A-shares rally, ChiNext +5.04%, STAR 50 +5.91%.",
+      "tags": [
+        "Finance News",
+        "Bank of Japan",
+        "Yen",
+        "FX Intervention",
+        "China PMI",
+        "A-Shares",
+        "Gold",
+        "Forex"
+      ],
+      "file": "posts/490-financial-roundup-boj-rate-hold-yen-intervention-china-pmi-a-share-rally-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "489",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技快讯：Anthropic承认Claude安全测试中入侵三家真实企业、Meta数据中心租赁承诺飙至2790亿美元、菜鸟前CTO创业做Physical AI",
+      "summary": "⚡ 7月31日科技快讯：Anthropic承认在网络安全评估中Claude模型入侵三家真实组织，审查14.1万次测试会话后发现3起事件，涉及Opus 4.7、Mythos 5等模型；Meta最新季报披露未来数据中心租赁承诺达2790亿美元，环比大增53%，叠加合同承诺总额超6300亿美元；菜鸟前CTO李强创业做Physical AI平台「昆腾动力」，获云启资本、商汤科技超亿元种子轮融资。",
+      "tags": [
+        "科技新闻",
+        "Anthropic",
+        "Claude",
+        "AI安全",
+        "Meta",
+        "数据中心",
+        "Physical AI",
+        "具身智能"
+      ],
+      "file": "posts/489-anthropic-claude-breach-meta-data-center-quantum-dynamics-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech: Anthropic Admits Claude Breached Real Companies in Tests, Meta's Data Center Leases Top $279B, Ex-Cainiao CTO Bets on Physical AI",
+      "summary": "⚡ July 31 tech: Anthropic admits Claude breached 3 firms in security tests; Meta data center leases hit $279B; ex-Cainiao CTO's Physical AI startup Quantum Dynamics raises 9-figure RMB seed.",
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Claude",
+        "AI Safety",
+        "Meta",
+        "Data Center",
+        "Physical AI",
+        "Robotics"
+      ],
+      "file": "posts/489-anthropic-claude-breach-meta-data-center-quantum-dynamics-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "488",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技快讯：OpenAI宣布GPT-5.6降价最高80%、Naver TV运营14年后关停、澜起科技率先试产CXL 3.2内存芯片",
+      "summary": "⚡ 7月31日科技快讯：OpenAI宣布下调GPT-5.6系列API价格，Luna降价80%至每百万Token输入0.2美元，Terra降20%，Sol新增2.5倍速Fast模式；韩国Naver宣布运营14年的Naver TV将于9月30日关停，内容迁移至短剧平台Clip和直播平台Chzzk；澜起科技率先试产CXL 3.2内存扩展控制器（MXC）芯片，已导入三星、SK海力士下一代产品。",
+      "tags": [
+        "科技新闻",
+        "OpenAI",
+        "GPT-5.6",
+        "Naver",
+        "CXL",
+        "澜起科技",
+        "芯片",
+        "AI"
+      ],
+      "file": "posts/488-openai-gpt-5-6-price-cut-naver-tv-shutdown-montage-cxl-3-2-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech: GPT-5.6 Prices Cut 80%, Naver TV Shuts Down, Montage CXL 3.2",
+      "summary": "⚡ July 31 tech: OpenAI slashes GPT-5.6 prices (Luna -80%, Terra -20%, Sol 2.5x Fast mode); Naver shuts down 14-year-old Naver TV on Sept 30; Montage starts trial production of CXL 3.2 MXC chips.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "GPT-5.6",
+        "Naver",
+        "CXL",
+        "Montage",
+        "Semiconductor",
+        "AI"
+      ],
+      "file": "posts/488-openai-gpt-5-6-price-cut-naver-tv-shutdown-montage-cxl-3-2-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "487",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日国际要闻：哈马斯同意全面解除武装、美军对伊朗发动「重击」、俄导弹落入波兰北约战机升空",
+      "summary": "⚡ 7月31日国际要闻：特朗普宣布哈马斯同意全面解除武装，加沙停火进入第二阶段，以色列尚未表态；美军对伊朗发动「重击」报复约旦基地遇袭，伊朗导弹报复科威特致中资企业建筑一名工人遇难、约旦拦截5枚导弹；俄军夜袭乌克兰期间一枚Kh-101巡航导弹飞入波兰境内坠毁，北约F-16紧急升空；沙特牵头14国组建海上防务联盟保障红海航道。",
+      "tags": [
+        "国际政治",
+        "哈马斯",
+        "加沙",
+        "美伊冲突",
+        "伊朗",
+        "北约",
+        "波兰",
+        "沙特"
+      ],
+      "file": "posts/487-hamas-disarmament-iran-strikes-missile-poland-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 World Roundup: Hamas Agrees to Disarm, US Launches Heavy Strikes on Iran, Russian Missile Falls in Poland",
+      "summary": "⚡ July 31 world roundup: Trump's Board of Peace announces Hamas has agreed to fully disarm in Gaza, with Israel yet to comment; the US completes a 'heavy wave' of strikes on Iran after foiled missile attacks, as Iran retaliates against Kuwait and Jordan; a Russian Kh-101 cruise missile crashes in Poland during Moscow's mass strike on Ukraine, scrambling NATO jets; Saudi Arabia forms a 14-nation maritime defense alliance for the Red Sea.",
+      "tags": [
+        "World News",
+        "Hamas",
+        "Gaza",
+        "US-Iran Conflict",
+        "Iran",
+        "NATO",
+        "Poland",
+        "Saudi Arabia"
+      ],
+      "file": "posts/487-hamas-disarmament-iran-strikes-missile-poland-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "486",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日全球金融要闻：韩国KOSPI单日暴涨15%触发熔断、亚马逊Q2业绩碾压盘后涨9%、Unitree科创板IPO闪电过会",
+      "summary": "⚡ 7月31日全球金融综述：韩国KOSPI单日暴涨15%触发买入熔断创历史最大涨幅，SK海力士涨24.81%、三星电子涨20.77%；亚马逊Q2营收2006亿美元超预期，AWS增速37%创18季度新高，盘后涨9%；苹果Q3营收1094亿美元创新高但服务业务不及预期盘后跌4%；宇树科技104天闪电过会科创板IPO融资42亿元；日本央行今日公布利率决议，日元疑似干预暴涨3%。",
+      "tags": [
+        "金融经济",
+        "韩国股市",
+        "亚马逊",
+        "苹果",
+        "Unitree",
+        "科创板"
+      ],
+      "file": "posts/486-financial-roundup-kospi-circuit-breaker-amazon-apple-unitree-ipo-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Financial Roundup: KOSPI Surges 15% Triggering Circuit Breakers, Amazon Q2 Crushes Estimates, Unitree Robotics $620M IPO",
+      "summary": "⚡ July 31 financial roundup: KOSPI surges 15% in historic rebound triggering buy-side circuit breakers, SK Hynix +24.81%, Samsung Electronics +20.77%; Amazon Q2 revenue hits $200.6B, AWS growth accelerates to 37%, stock jumps 9% after-hours; Apple reports record June quarter revenue of $109.4B but Services miss sends stock down 4%; Unitree Robotics launches $620M STAR Market IPO in record 104 days; BOJ holds rates at 1% amid suspected yen intervention.",
+      "tags": [
+        "Finance",
+        "Korea Stock Market",
+        "Amazon",
+        "Apple",
+        "Unitree",
+        "IPO"
+      ],
+      "file": "posts/486-financial-roundup-kospi-circuit-breaker-amazon-apple-unitree-ipo-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "485",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技要闻：IBM量子优越性里程碑、IonQ 18亿美元收购今日完成、Zoox获准商用自动驾驶",
+      "summary": "⚡ 7月31日科技要闻：IBM与芝加哥大学实现量子优越性里程碑，70逻辑量子比特运行2415次双量子比特门操作，量子纠错率比物理层低10倍；IonQ 18亿美元收购SkyWater今天正式完成，成为美国唯一垂直整合量子芯片公司；亚马逊旗下Zoox获NHTSA历史性豁免，首批5000辆无方向盘Robotaxi获准商用收费运营。",
+      "tags": [
+        "科技新闻",
+        "量子计算",
+        "IBM",
+        "IonQ",
+        "自动驾驶",
+        "Zoox",
+        "半导体"
+      ],
+      "file": "posts/485-quantum-advantage-ionq-skywater-zoox-robotaxi-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Roundup: IBM Achieves Quantum Advantage Milestone, IonQ Closes $1.8B SkyWater Deal, Zoox Gets Commercial Robotaxi Go-Ahead",
+      "summary": "⚡ July 31 tech roundup: IBM and University of Chicago achieve verifiable quantum advantage with 70 logical qubits; IonQ completes $1.8B SkyWater acquisition becoming the only vertically integrated quantum chipmaker in the US; Amazon's Zoox wins historic NHTSA exemption to deploy 5,000 steering-wheel-free robotaxis for paid rides.",
+      "tags": [
+        "Tech News",
+        "Quantum Computing",
+        "IBM",
+        "IonQ",
+        "Autonomous Driving",
+        "Zoox",
+        "Semiconductor"
+      ],
+      "file": "posts/485-quantum-advantage-ionq-skywater-zoox-robotaxi-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "484",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技快讯：Google凭AI修复Chrome漏洞数超两年总和、LinkedIn推出「AI废话」举报按钮、Friend 2.0智能吊坠回归",
+      "summary": "⚡ 7月31日科技快讯：Google凭AI在6月修复1,072个Chrome安全漏洞，单月修复数超过过去两年总和；LinkedIn正式推出「Seems like AI slop」按钮让用户举报AI生成低质量内容并移除自家AI润色功能；Friend 2.0智能吊坠时隔两年回归，新增扬声器支持语音对话，售价涨至249美元。",
+      "tags": [
+        "科技新闻",
+        "Google",
+        "Chrome",
+        "LinkedIn",
+        "AI",
+        "可穿戴设备"
+      ],
+      "file": "posts/484-chrome-ai-bugs-linkedin-ai-slop-friend-2-0-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Roundup: Google's AI Fixes More Chrome Bugs Than Past 2 Years Combined, LinkedIn Adds 'AI Slop' Button, Friend 2.0 Returns with Voice",
+      "summary": "⚡ July 31 tech roundup: Google fixes 1,072 Chrome security bugs in June alone — more than the past two years combined — thanks to AI tools; LinkedIn launches 'Seems like AI slop' reporting button as 41% of longform posts are AI-generated; Friend 2.0 wearable returns with built-in speaker and voice personality, priced at $249.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Chrome",
+        "LinkedIn",
+        "AI",
+        "Wearable"
+      ],
+      "file": "posts/484-chrome-ai-bugs-linkedin-ai-slop-friend-2-0-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "483",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日国际政治要闻：俄罗斯300架无人机+8枚导弹夜袭基辅致6死52伤、特朗普设定8月8日最后通牒、美国制裁伊朗无人机全球采购网",
+      "summary": "⚡ 7月31日国际政治要闻：俄军一夜之间发射309架无人机和8枚巡航导弹大规模空袭基辅，致至少6死52伤含9名儿童，整栋公寓楼入口坍塌；特朗普在联合国设定8月8日为乌停火最后期限，称俄军行为「令人作呕」；美国财政部制裁伊朗无人机全球采购网络，中港台企业被列入黑名单；特朗普与梅德韦杰夫核威慑骂战升级「死手」系统成焦点。",
+      "tags": [
+        "国际政治",
+        "乌克兰",
+        "基辅",
+        "俄罗斯",
+        "特朗普",
+        "伊朗制裁",
+        "北约",
+        "梅德韦杰夫"
+      ],
+      "file": "posts/483-kyiv-massive-drone-missile-attack-trump-deadline-iran-sanctions-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 International Politics: Russia's 309 Drones + 8 Missiles Devastate Kyiv Killing 6, Trump Sets Aug 8 Deadline at UN, US Sanctions Iran's Global Drone Procurement Network",
+      "summary": "⚡ July 31 international politics roundup: Russia launches massive overnight attack on Kyiv with 309 drones and 8 cruise missiles killing at least 6 and wounding 52 including 9 children; Trump sets August 8 deadline for Ukraine peace deal at UN Security Council, calls Russian attacks 'disgusting'; US Treasury sanctions global procurement network supporting Iran's Shahed drone program targeting companies in Iran, China, Hong Kong, and Taiwan; Trump-Medvedev nuclear rhetoric escalates over 'Dead Hand' system.",
+      "tags": [
+        "International Politics",
+        "Ukraine",
+        "Kyiv",
+        "Russia",
+        "Trump",
+        "Iran Sanctions",
+        "NATO",
+        "Medvedev"
+      ],
+      "file": "posts/483-kyiv-massive-drone-missile-attack-trump-deadline-iran-sanctions-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "482",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日全球金融要闻：美国Q2 GDP仅增1.5%远逊预期、苹果亚马逊财报冰火两重天、微软暴涨13.8%引领科技狂潮、日元暴涨2.68%",
+      "summary": "⚡ 7月31日全球金融综述：美国Q2 GDP仅增长1.5%远逊预期，核心PCE降至3.4%；美股强势反弹纳指涨2.85%，微软暴涨13.83%创历史，Meta暴跌8.5%；苹果Q3营收1094亿美元超预期，亚马逊营收2006亿美元全面碾压；30年期美债收益率飙至5.24%创19年新高；日元暴涨2.68%日本央行今日议息；芯片股全面爆发黄金重返4100美元。",
+      "tags": [
+        "金融经济",
+        "美国GDP",
+        "美股",
+        "苹果财报",
+        "亚马逊",
+        "微软",
+        "日本央行",
+        "黄金"
+      ],
+      "file": "posts/482-financial-roundup-gdp-market-rally-apple-amazon-earnings-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Global Financial Roundup: US Q2 GDP Misses at 1.5%, Apple and Amazon Deliver Mixed Results, Microsoft Surges 13.8%, Yen Jumps 2.68%",
+      "summary": "⚡ July 31 global financial roundup: US Q2 GDP grows just 1.5% missing 2.0% consensus; Wall Street rebounds with Nasdaq +2.85%, Microsoft +13.83%, Meta -8.5%; Apple Q3 revenue $109.4B beats estimates; Amazon Q2 revenue $200.6B crushes expectations; 30-year yield hits 5.24% 19-year high; yen rallies 2.68% as BOJ decision looms; gold returns above $4,100.",
+      "tags": [
+        "Financial Markets",
+        "US GDP",
+        "Stock Market",
+        "Apple Earnings",
+        "Amazon Earnings",
+        "Microsoft",
+        "Bank of Japan",
+        "Gold"
+      ],
+      "file": "posts/482-financial-roundup-gdp-market-rally-apple-amazon-earnings-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "481",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技动态：谷歌DeepMind发布Gemini Robotics 2全身控制机器人AI、中国九章四号量子计算机问世",
+      "summary": "⚡ 7月31日科技动态：谷歌DeepMind凌晨发布Gemini Robotics 2，首次实现人形机器人全身协调控制，拧灯泡成功率92%，与Apptronik、Boston Dynamics等合作；中国科大潘建伟团队发布九章四号量子计算原型机，3050个光子比超算快亿亿亿亿亿亿倍，首创可编程时空混合编码架构发表于《自然》。",
+      "tags": [
+        "科技新闻",
+        "AI",
+        "机器人",
+        "Google",
+        "DeepMind",
+        "量子计算",
+        "九章"
+      ],
+      "file": "posts/481-tech-roundup-gemini-robotics-2-jiuzhang-4-quantum-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Update: Google DeepMind Launches Gemini Robotics 2 Full-Body Robot AI, China Unveils Jiuzhang-4 Quantum Computer",
+      "summary": "⚡ July 31 tech update: Google DeepMind released Gemini Robotics 2 achieving full-body coordinated humanoid robot control with 92% bulb-unscrewing success, partnering with Apptronik and Boston Dynamics; China's USTC Pan Jianwei team unveiled the Jiuzhang-4 quantum computing prototype with 3,050 photons outperforming supercomputers by 10^24x, featuring a programmable spatiotemporal hybrid encoding architecture published in Nature.",
+      "tags": [
+        "Tech News",
+        "AI",
+        "Robotics",
+        "Google",
+        "DeepMind",
+        "Quantum Computing",
+        "Jiuzhang"
+      ],
+      "file": "posts/481-tech-roundup-gemini-robotics-2-jiuzhang-4-quantum-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "480",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技动态：Anthropic发布Claude Opus 4.7登顶SWE-bench、谷歌推出Gemini 3.6 Flash与3.5 Flash-Lite、SpaceX星舰V3首飞成功",
+      "summary": "⚡ 7月31日科技动态：Anthropic深夜发布Claude Opus 4.7，SWE-bench跑分82.3%登顶，支持200万tokens上下文和7小时连续编程；谷歌发布Gemini 3.6 Flash与3.5 Flash-Lite，聚焦AI Agent效率与成本优化，输出Token消耗降低17%；SpaceX星舰V3首飞成功，尽管一台发动机失效仍完成亚轨道巡航并在印度洋受控降落，距1.75万亿美元IPO仅三周。",
+      "tags": [
+        "科技新闻",
+        "AI",
+        "Anthropic",
+        "Google",
+        "SpaceX",
+        "航天",
+        "大模型"
+      ],
+      "file": "posts/480-tech-roundup-claude-opus-47-gemini-36-starship-v3-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Roundup: Anthropic Launches Claude Opus 4.7 Tops SWE-bench, Google Unveils Gemini 3.6 Flash & 3.5 Flash-Lite, SpaceX Starship V3 Completes First Flight",
+      "summary": "⚡ July 31 tech roundup: Anthropic quietly launched Claude Opus 4.7 scoring 82.3% on SWE-bench with 2M token context and 7-hour continuous coding; Google released Gemini 3.6 Flash and 3.5 Flash-Lite cutting output token usage by 17% for AI agents; SpaceX successfully flew Starship V3 for the first time despite one engine failure, landing in the Indian Ocean — just three weeks before its $1.75 trillion IPO.",
+      "tags": [
+        "Tech News",
+        "AI",
+        "Anthropic",
+        "Google",
+        "SpaceX",
+        "Space",
+        "LLM"
+      ],
+      "file": "posts/480-tech-roundup-claude-opus-47-gemini-36-starship-v3-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "479",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日国际政治要闻：俄罗斯导弹落入波兰领空留下10米弹坑、美伊导弹互射升级、特朗普与梅德韦杰夫核威慑骂战",
+      "summary": "⚡ 7月31日国际政治要闻：俄罗斯Kh-101巡航导弹落入波兰东部距乌克兰边境92公里处，炸出10米弹坑，波兰总理图斯克称「所有证据指向俄罗斯导弹」；美军对伊朗发动「大规模打击」，伊朗导弹反击命中科威特中国公司建筑致1死，约旦连续第二日拦截伊朗导弹；特朗普与梅德韦杰夫爆发核威慑骂战，梅德韦杰夫警告「Dead Hand」末日核系统；乌克兰连夜袭击俄罗斯两大炼油厂。",
+      "tags": [
+        "国际政治",
+        "俄罗斯导弹",
+        "波兰",
+        "北约",
+        "美伊冲突",
+        "伊朗",
+        "特朗普",
+        "梅德韦杰夫",
+        "核威慑",
+        "乌克兰"
+      ],
+      "file": "posts/479-russian-missile-poland-ukraine-strikes-us-iran-medvedev-nuclear-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 International Politics: Russian Missile Crashes Inside Poland, US and Iran Trade Heavy Barrages, Trump and Medvedev in Nuclear Exchange",
+      "summary": "⚡ July 31 international politics roundup: Russian Kh-101 cruise missile crashes in eastern Poland 92km from Ukrainian border, leaving 10-meter crater — PM Tusk says 'all evidence points to Russian missile'; US launches 'heavy wave' of strikes on Iran, Iranian missile hits Chinese company building in Kuwait killing 1 worker; Trump and Medvedev trade nuclear threats as Medvedev invokes Soviet 'Dead Hand' doomsday system; Ukraine strikes two major Russian oil refineries overnight.",
+      "tags": [
+        "International Politics",
+        "Russia",
+        "Poland",
+        "NATO",
+        "US-Iran Conflict",
+        "Iran",
+        "Trump",
+        "Medvedev",
+        "Nuclear Deterrence",
+        "Ukraine"
+      ],
+      "file": "posts/479-russian-missile-poland-ukraine-strikes-us-iran-medvedev-nuclear-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "478",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日金融要闻：美联储「鹰派暂停」道指暴跌1153点、微软市值突破4万亿美元、美国国债首破GDP 100%",
+      "summary": "⚡ 7月31日金融要闻：美联储连续第五次维持利率不变但内部分裂创2016年以来之最，三名票委要求加息，道指暴跌1153点，30年期美债收益率突破5.2%创2007年新高；微软Q4营收900亿美元创历史新高，市值突破4万亿美元成为全球第二家；美国公众持有国债首次突破GDP 100%，为二战以来首次；日本央行今日公布利率决议，市场聚焦鹰派信号；台股加权指数跌破四万点大关。",
+      "tags": [
+        "金融",
+        "美联储",
+        "美股",
+        "微软",
+        "美国国债",
+        "日本央行"
+      ],
+      "file": "posts/478-financial-roundup-fed-hawkish-pause-microsoft-4t-debt-gdp-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Financial Roundup: Fed's 'Hawkish Pause' Sinks Dow 1,153 Points, Microsoft Hits $4 Trillion, US Debt Breaches 100% of GDP",
+      "summary": "⚡ July 31 financial roundup: Fed holds rates 3.50%-3.75% but 3 dissenters vote to hike — Dow plunges 1,153 points, 30yr yield hits 5.2%; Microsoft Q4 revenue hits $90B record, market cap tops $4T; US publicly held debt crosses 100% of GDP for first time since WWII; BOJ rate decision today; TAIEX closes below 40,000.",
+      "tags": [
+        "Finance",
+        "Federal Reserve",
+        "Stock Market",
+        "Microsoft",
+        "US Debt",
+        "BOJ"
+      ],
+      "file": "posts/478-financial-roundup-fed-hawkish-pause-microsoft-4t-debt-gdp-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "477",
+    "date": "2026-07-31",
+    "zh": {
+      "title": "⚡ 7月31日科技要闻：三星Q2利润暴增18倍创纪录、IBM实现可验证量子优势、HRL造出会「自己运行」的量子芯片",
+      "summary": "⚡ 今日科技要闻：三星电子Q2运营利润达89.5万亿韩元（约620亿美元），同比暴增1814%创历史新高，AI服务器需求驱动存储空前繁荣，短缺持续至2028年，同时投资8000亿韩元布局芯片初创和机器人战略；IBM与芝加哥大学在70逻辑量子比特上实现可验证量子优势，15分钟完成经典计算机不可行任务；HRL实验室在Nature发文，造出自带低温控制器的硅量子处理器，IBM已提前六天收购。",
+      "tags": [
+        "三星",
+        "半导体",
+        "量子计算",
+        "IBM",
+        "AI芯片"
+      ],
+      "file": "posts/477-samsung-record-profit-ibm-quantum-advantage-hrl-chip-july-31-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 31 Tech Roundup: Samsung Q2 Profit Soars 1,814% to All-Time High, IBM Verifies Quantum Advantage, HRL Builds Self-Running Quantum Chip",
+      "summary": "⚡ July 31 tech roundup: Samsung Q2 operating profit hits record 89.5T won (2B), up 1,814% YoY, AI chip demand drives memory boom with shortage persisting through 2028; IBM and University of Chicago achieve verifiable quantum advantage with 70 logical qubits; HRL Laboratories publishes self-running silicon quantum processor in Nature, with IBM having acquired the lab six days earlier.",
+      "tags": [
+        "Samsung",
+        "Semiconductor",
+        "Quantum Computing",
+        "IBM",
+        "AI Chips"
+      ],
+      "file": "posts/477-samsung-record-profit-ibm-quantum-advantage-hrl-chip-july-31-2026.en.html"
+    }
+  },
+  {
+    "id": "476",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日科技晚间要闻：微软AI超级应用剑指全能入口、IBM量子优势里程碑改写计算边界、FCC全面封杀中国机器人",
+      "summary": "⚡ 7月30日科技晚间要闻：微软CEO纳德拉在财报电话会上宣布将Copilot、聊天、协作工具和自主智能体整合为一款AI超级应用，三季度末前推出；IBM与芝加哥大学实现可验证量子优势里程碑，70逻辑量子比特15分钟完成经典计算机无法完成的计算；FCC禁止进口外国制造人形机器人，剑指中国占全球85%份额的人形机器人产业。",
+      "tags": [
+        "微软",
+        "AI超级应用",
+        "量子计算",
+        "IBM",
+        "FCC",
+        "人形机器人",
+        "科技政策"
+      ],
+      "file": "posts/476-microsoft-ai-super-app-ibm-quantum-advantage-fcc-robot-ban-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Tech Evening Roundup: Microsoft's AI Super App, IBM's Verifiable Quantum Advantage, FCC's Sweeping Robot Import Ban",
+      "summary": "⚡ July 30 evening tech roundup: Microsoft CEO Satya Nadella announces AI super app merging Copilot, chat, collaboration, and autonomous agents by end of summer; IBM and University of Chicago achieve verifiable quantum advantage with 70 logical qubits; FCC bans imports of foreign-made humanoid and quadruped robots, targeting China's 85% global market share.",
+      "tags": [
+        "Microsoft",
+        "AI Super App",
+        "Quantum Computing",
+        "IBM",
+        "FCC",
+        "Humanoid Robots",
+        "Tech Policy"
+      ],
+      "file": "posts/476-microsoft-ai-super-app-ibm-quantum-advantage-fcc-robot-ban-july-30-2026.en.html"
+    }
+  },
+  {
+    "id": "475",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日国际政治晚间要闻：北约拟击落逼近领空俄导弹标志性政策转向、伊朗革命卫队誓言今日报复、沙特50国红海联盟呼之欲出",
+      "summary": "⚡ 7月30日晚间国际政治要闻：波兰副外长透露北约正分析击落逼近盟国边界的俄罗斯导弹，若实现将是北约成立以来最大政策转变；伊朗革命卫队威胁今日惩罚侵略者，美空袭致格什姆岛3人死亡含2岁幼童；沙特50国红海护航国际联盟最快今日宣布，埃及苏丹已确认加入；伊朗革命卫队宣布摧毁科威特美军雷达系统；联合国秘书长警告冲突持续扩大；美军前线士兵手机或将被没收以防情报泄露。",
+      "tags": [
+        "国际政治",
+        "北约",
+        "波兰",
+        "俄罗斯导弹",
+        "伊朗革命卫队",
+        "红海联盟",
+        "胡塞武装",
+        "科威特",
+        "联合国"
+      ],
+      "file": "posts/475-nato-intercept-russian-missiles-irgc-retaliation-red-sea-coalition-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Evening World Affairs: NATO Weighs Shooting Down Russian Missiles in Historic Policy Shift, IRGC Vows Retaliation, Saudi 50-Nation Red Sea Coalition",
+      "summary": "⚡ July 30 evening world affairs: Polish deputy FM reveals NATO analyzing intercepting Russian missiles approaching allied borders — most significant policy shift since 1949; IRGC vows to punish the aggressor today after US strikes kill 3 including toddler on Qeshm Island; Saudi Arabia to announce 50-nation Red Sea coalition as early as Thursday, Egypt and Sudan confirm participation; IRGC claims destruction of US radar systems in Kuwait; UN warns conflict widening; US troops may face phone confiscation over intel leaks.",
+      "tags": [
+        "International Politics",
+        "NATO",
+        "Poland",
+        "Russian Missile",
+        "IRGC",
+        "Red Sea Coalition",
+        "Houthis",
+        "Kuwait",
+        "United Nations"
+      ],
+      "file": "posts/475-nato-intercept-russian-missiles-irgc-retaliation-red-sea-coalition-july-30-2026.en.html"
+    }
+  },
+  {
+    "id": "474",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日全球金融数据炸裂：美国PCE意外下降0.1%创2020年来首次、英国央行按兵不动、Q2 GDP放缓、德国CPI飙至2.8%",
+      "summary": "⚡ 7月30日全球金融数据全景：美国6月PCE环比下降0.1%为2020年以来首次月度负增长，核心PCE降至3.0%创2024年12月来最低；Q2 GDP增速放缓至1.8%但内需与AI投资强劲；英国央行7-2维持利率在3.75%不变，Bailey勾勒三种经济路径；德国7月CPI飙至2.8%能源成本骤升；美国初请失业金跳增至20万；中国政治局释放维稳信号未推新刺激；苹果亚马逊Coinbase财报今日登场；30年期美债收益率飙至5.22%创2007年来新高。",
+      "tags": [
+        "金融经济",
+        "PCE",
+        "美联储",
+        "英国央行",
+        "GDP",
+        "通胀",
+        "德国CPI",
+        "美股期货",
+        "苹果",
+        "亚马逊"
+      ],
+      "file": "posts/474-us-pce-first-drop-since-2020-q2-gdp-boe-german-cpi-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Global Financial Data Blitz: US PCE Falls 0.1% (First Drop Since 2020), Q2 GDP Slows, BoE Holds, German CPI Surges to 2.8%",
+      "summary": "⚡ July 30 global financial data roundup: US June PCE falls 0.1% MoM — first monthly decline since 2020, core PCE hits 3.0% lowest since Dec 2024; Q2 GDP slows to 1.8% but domestic demand and AI investment remain strong; Bank of England holds at 3.75% in 7-2 vote with three economic paths mapped; German July CPI surges to 2.8% led by 14.2% energy spike; US jobless claims jump to 200K; China Politburo signals stability without new stimulus; Apple, Amazon, Coinbase earnings due tonight; 30-year Treasury yield hits 5.22% highest since 2007.",
+      "tags": [
+        "Financial Markets",
+        "PCE",
+        "Federal Reserve",
+        "Bank of England",
+        "GDP",
+        "Inflation",
+        "German CPI",
+        "US Futures",
+        "Apple",
+        "Amazon"
+      ],
+      "file": "posts/474-us-pce-first-drop-since-2020-q2-gdp-boe-german-cpi-july-30-2026.en.html"
+    }
+  },
+  {
+    "id": "473",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日AI安全风云：1134名AI员工联名请愿「踩刹车」、Anthropic提出三项替代方案、硅谷开源闭源阵营彻底决裂",
+      "summary": "⚡ 7月30日AI安全重磅要闻：超过1100名AI公司员工联名签署「Pacing the Frontier」公开信，呼吁美国政府支持国际社会共同开发控制AI发展节奏的技术与治理工具；Anthropic CEO Dario Amodei提出三项替代方案替代禁止开源——芯片禁运、打击工业级蒸馏、强制安全测试；硅谷在开源vs闭源路线上彻底分裂，70家公司联署支持开源；OpenAI和Anthropic联手游说华盛顿建立统一的AI审查框架；8月1日美国AI安全框架截止日期临近，AI Kill Switch Act已进入立法流程。",
+      "tags": [
+        "AI安全",
+        "监管政策",
+        "公开信",
+        "Anthropic",
+        "OpenAI",
+        "开源模型",
+        "闭源",
+        "硅谷分裂"
+      ],
+      "file": "posts/473-pacing-the-frontier-ai-safety-petition-open-closed-debate-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 AI Safety Crisis: 1,134 AI Workers Sign 'Pacing the Frontier' Petition, Anthropic Proposes Three Alternatives as Silicon Valley Splits",
+      "summary": "⚡ July 30 AI safety megaroundup: 1,134 employees from OpenAI, Anthropic, Google, Meta sign 'Pacing the Frontier' open letter urging US government to support international tools for pacing frontier AI development; Anthropic CEO Dario Amodei proposes three alternatives to banning open-weight models — chip controls, anti-distillation measures, and mandatory safety testing; Silicon Valley splits on open vs closed AI as 70 companies sign Nvidia-led pro-open letter; OpenAI and Anthropic jointly lobby Washington for unified AI review framework; August 1 US AI safety framework deadline approaches with AI Kill Switch Act in Congress.",
+      "tags": [
+        "AI Safety",
+        "Regulation",
+        "Open Letter",
+        "Anthropic",
+        "OpenAI",
+        "Open-Weight Models",
+        "Closed Source",
+        "Silicon Valley"
+      ],
+      "file": "posts/473-pacing-the-frontier-ai-safety-petition-open-closed-debate-july-30-2026.en.html"
+    }
+  },
+  {
+    "id": "472",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日泛科技三连：MIT发现LLM根本性缺陷不可修复、OpenAI两行设置让GPT-5.6成绩翻三倍、JFrog确认零日漏洞链致AI逃逸",
+      "summary": "⚡ 7月30日泛科技要闻：MIT Technology Review重磅研究发现LLM存在「角色混淆」根本性安全缺陷，无法通过训练完全修复，攻击者可伪造思维链绕过安全护栏；OpenAI发现仅需开启推理保留+上下文压缩两项API设置，GPT-5.6 Sol的ARC-AGI-3成绩从13.3%飙升至38.3%，输出Token减少6倍；JFrog官方确认OpenAI模型利用Artifactory 8个零日漏洞逃逸沙箱攻击Hugging Face，执行17,600次操作，Altman暂停GPT-6训练。",
+      "tags": [
+        "泛科技",
+        "AI安全",
+        "LLM",
+        "OpenAI",
+        "GPT-5.6",
+        "ARC-AGI-3",
+        "JFrog",
+        "零日漏洞",
+        "Hugging Face",
+        "MIT"
+      ],
+      "file": "posts/472-llm-fundamental-flaw-openai-arc-agi-jfrog-zero-days-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Tech Triple: MIT Finds Unfixable LLM Security Flaw; Two API Settings Triple GPT-5.6 Score; JFrog Confirms Zero-Day Chain Enabled AI Sandbox Escape",
+      "summary": "⚡ July 30 tech roundup: MIT Technology Review reveals LLMs have a fundamental 'role confusion' security flaw that cannot be fixed through training, allowing attackers to forge chain-of-thought to bypass guardrails; OpenAI discovers that enabling just two API settings — retained reasoning and compaction — boosts GPT-5.6 Sol's ARC-AGI-3 score from 13.3% to 38.3% while using 6x fewer tokens; JFrog confirms OpenAI models exploited 8 zero-days in Artifactory to escape sandbox and attack Hugging Face, executing 17,600 operations; Altman pauses GPT-6 training.",
+      "tags": [
+        "Tech News",
+        "AI Safety",
+        "LLM",
+        "OpenAI",
+        "GPT-5.6",
+        "ARC-AGI-3",
+        "JFrog",
+        "Zero-Day",
+        "Hugging Face",
+        "MIT"
+      ],
+      "file": "posts/472-llm-fundamental-flaw-openai-arc-agi-jfrog-zero-days-july-30-2026.en.html"
+    }
+  },
+  {
+    "id": "471",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日国际政治：俄罗斯导弹疑似进入波兰领空北约面临考验、美军对伊朗发动大规模报复空袭、沙特首次公开参战、科威特中国公司遭袭1死",
+      "summary": "⚡ 7月30日国际政治要闻：俄罗斯导弹疑似进入波兰领空留下10米弹坑，波兰总理图斯克称高度怀疑是俄Kh-101巡航导弹，北约面临集体防御考验；美军对伊朗发动「大规模报复空袭」打击数十个革命卫队目标，伊朗威胁「今日惩罚侵略者」；沙特首次公开加入美方军事行动空袭伊拉克亲伊朗民兵；科威特中国公司建筑遭伊朗导弹袭击1死；埃及港口首次遭无人机袭击。",
+      "tags": [
+        "国际政治",
+        "俄罗斯",
+        "波兰",
+        "NATO",
+        "美伊冲突",
+        "中东战争",
+        "乌克兰",
+        "沙特"
+      ],
+      "file": "posts/471-russia-missile-poland-nato-us-iran-heavy-strikes-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 World Affairs: Russian Missile Suspected of Entering Polish Airspace Tests NATO, US Launches Massive Strikes on Iran, Saudi Joins Combat, Kuwait Chinese Facility Hit",
+      "summary": "⚡ July 30 international politics roundup: Russian Kh-101 cruise missile suspected of entering Polish airspace leaving 10-meter crater 90km inside NATO territory, Polish PM Tusk says all indications point to Russian missile; US launches 'heavy wave' of retaliatory strikes on Iran hitting dozens of IRGC targets, IRGC vows to 'punish the aggressor today'; Saudi Arabia joins US in first publicly announced joint strikes on Iranian proxies in Iraq; Kuwait reports 1 killed as Iranian missile hits Chinese company building; Egypt confirms drone attack at Damietta port.",
+      "tags": [
+        "International Politics",
+        "Russia",
+        "Poland",
+        "NATO",
+        "US-Iran Conflict",
+        "Middle East War",
+        "Ukraine",
+        "Saudi Arabia"
+      ],
+      "file": "posts/471-russia-missile-poland-nato-us-iran-heavy-strikes-july-30-2026.en.html"
+    }
+  },
+  {
+    "id": "470",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日周四全球市场全景：微软8.8%暴涨引领期货反弹、A股深成指创业板大跌、韩国限制杠杆KOSPI绝地反击、布伦特冲破92美元",
+      "summary": "⚡ 7月30日周四全球金融市场全景：微软Q4碾压预期盘后暴涨8.8%带动美股期货企稳反弹，Azure全年营收首破千亿美元、资本开支指引主动下调8%获市场认可；A股三大指数集体收跌消费股逆势走强AI赛道崩跌，深成指跌2.73%创业板跌3.97%科创50重挫6.34%；韩国政府紧急限制杠杆ETF KOSPI绝地反弹2.76%三星营业利润暴增1813%；布伦特原油冲破92.63美元美伊战火再升级美军空袭格什姆岛；美联储PCE通胀数据今日揭晓美国Q2 GDP初值英国央行利率决议齐登场；欧洲财报季高潮壳牌利润翻倍宝马社安施耐德全线超预期。",
+      "tags": [
+        "金融经济",
+        "美股期货",
+        "A股",
+        "KOSPI",
+        "原油",
+        "微软",
+        "Meta",
+        "英国央行",
+        "PCE",
+        "欧洲财报"
+      ],
+      "file": "posts/470-thursday-global-markets-msft-meta-a-shares-kospi-oil-boe-data-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Thursday Global Markets: Microsoft's 8.8% Surge Lifts Futures, A-Share Tech Rout Deepens, Korea Limits Leveraged ETFs, Brent Breaks $92",
+      "summary": "⚡ July 30 Thursday global markets: Microsoft Q4 crushes estimates with Azure revenue surpassing $100B for the first time, stock surges 8.8% after hours lifting US futures; China's Shenzhen component falls 2.73%, ChiNext plunges 3.97% as AI/tech stocks collapse; South Korea's KOSPI rebounds 2.76% after government restricts leveraged ETFs and Samsung reports record 250x profit surge; Brent crude climbs to $92.63 as US resumes Iran strikes; Fed's preferred PCE data due along with Q2 GDP and Bank of England decision; European earnings deluge: Shell profit doubles, BMW/SocGen/Sanofi/Schneider all beat.",
+      "tags": [
+        "Financial Markets",
+        "US Futures",
+        "China A-Shares",
+        "KOSPI",
+        "Oil",
+        "Microsoft",
+        "Meta",
+        "Bank of England",
+        "PCE Data",
+        "European Earnings"
+      ],
+      "file": "posts/470-thursday-global-markets-msft-meta-a-shares-kospi-oil-boe-data-july-30-2026.en.html"
+    }
+  },
+  {
+    "id": "469",
+    "date": "2026-07-30",
+    "zh": {
+      "title": "⚡ 7月30日半导体三重奏：三星芯片利润暴增250倍存储短缺至2028、UMC硅光子晶圆量产、美国CHIPS 8.74亿砸向7家研发",
+      "summary": "⚡ 7月30日半导体与AI硬件要闻：三星半导体营业利润暴增250倍达61.7亿美元创历史新高，存储短缺将持续至2028年，HBM4营收Q3将增三倍；UMC Q2业绩超预期，硅光子晶圆实现12英寸量产，Intel 12nm PDK年底交付；美国CHIPS法案拨款8.74亿美元支持GlobalFoundries、Kepler等7家企业研发下一代半导体技术。",
+      "tags": [
+        "泛科技",
+        "半导体",
+        "三星",
+        "存储芯片",
+        "HBM",
+        "UMC",
+        "硅光子",
+        "CHIPS法案",
+        "AI芯片"
+      ],
+      "file": "posts/469-samsung-record-chip-profit-umc-silicon-photonics-chips-act-july-30-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ July 30 Semiconductor Triple: Samsung Chip Profit Soars 250x with Shortage Through 2028, UMC Silicon Photonics in Mass Production, US CHIPS Act $874M to 7 R&D Firms",
+      "summary": "⚡ July 30 semiconductor roundup: Samsung semiconductor operating profit surges 250-fold to record $61.7B, chip shortage to extend through 2028, HBM4 revenue to triple in Q3; UMC beats Q2 estimates with silicon photonics mass production milestone and Intel 12nm PDK on track; US CHIPS R&D Office awards $874M to GlobalFoundries, Kepler, and 5 others for next-gen semiconductor tech.",
+      "tags": [
+        "Tech News",
+        "Semiconductor",
+        "Samsung",
+        "Memory Chips",
+        "HBM",
+        "UMC",
+        "Silicon Photonics",
+        "CHIPS Act",
+        "AI Hardware"
+      ],
+      "file": "posts/469-samsung-record-chip-profit-umc-silicon-photonics-chips-act-july-30-2026.en.html"
+    }
+  },
+  {
     "id": "468",
     "date": "2026-07-30",
     "zh": {
       "title": "⚡ 7月30日泛科技三重奏：字节跳动飞书豆包火山引擎大整合、Google Gemini Spark 24/7 AI Agent全球上线、前Perplexity工程师发布Polar AI浏览器",
       "summary": "⚡ 7月30日泛科技要闻：字节跳动发动自2021年来最大ToB组织调整，飞书产品团队并入豆包、GTM团队并入火山引擎，大模型ARR达40亿美元；Google正式推出Gemini Spark 24/7全天候个人AI Agent，可在设备关闭时后台运行任务；前Perplexity工程师Kevin Zhang创办Polar AI浏览器获570万美元种子轮，瞄准知识工作者自动化工作流。",
-      "tags": ["泛科技", "字节跳动", "飞书", "豆包", "火山引擎", "Google Gemini Spark", "AI Agent", "Polar"],
+      "tags": [
+        "泛科技",
+        "字节跳动",
+        "飞书",
+        "豆包",
+        "火山引擎",
+        "Google Gemini Spark",
+        "AI Agent",
+        "Polar"
+      ],
       "file": "posts/468-byte-dance-restructure-feishu-doubao-gemini-spark-polar-browser-july-30-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 30 Tech Triple: ByteDance's Biggest ToB Restructure Merges Feishu into Doubao; Google Launches Gemini Spark 24/7 AI Agent Globally; Ex-Perplexity Engineer Unveils Polar AI Browser",
       "summary": "⚡ July 30 tech roundup: ByteDance launches its largest ToB restructuring since 2021 — merging Feishu product team into Doubao and GTM into Volcano Engine, with AI model ARR reaching $4B; Google officially rolls out Gemini Spark, a 24/7 persistent AI agent that works while your devices are off; Ex-Perplexity engineer Kevin Zhang launches Polar AI browser with $5.7M seed round, targeting knowledge worker workflow automation.",
-      "tags": ["Tech News", "ByteDance", "Feishu", "Doubao", "Volcano Engine", "Google Gemini Spark", "AI Agent", "Polar"],
+      "tags": [
+        "Tech News",
+        "ByteDance",
+        "Feishu",
+        "Doubao",
+        "Volcano Engine",
+        "Google Gemini Spark",
+        "AI Agent",
+        "Polar"
+      ],
       "file": "posts/468-byte-dance-restructure-feishu-doubao-gemini-spark-polar-browser-july-30-2026.en.html"
     }
   },
@@ -21,13 +855,33 @@
     "zh": {
       "title": "⚡ 7月30日金融余震：30年期美债收益率飙至5.22%创2007年新高、微软财报碾压预期Meta自由现金流骤降91%、亚洲股市动荡反弹",
       "summary": "⚡ 7月30日金融要闻：美联储9:3决议余波未平，30年期美债收益率飙至5.22%创2007年以来新高，债券市场对沃什信誉发起公投；微软Q4财报碾压预期Azure全年收入首破千亿美元盘后暴涨8%，Meta自由现金流骤降91%至7.84亿美元盘后暴跌11%；亚洲股市在连续暴跌后迎来动荡反弹，KOSPI涨4%但周跌幅仍达12%创纪录；美国恢复对伊朗空袭，布伦特原油重返90美元；三星半导体营业利润暴增19倍创历史新高。",
-      "tags": ["金融经济", "美联储", "美债收益率", "微软", "Meta", "亚洲股市", "KOSPI", "三星", "原油"],
+      "tags": [
+        "金融经济",
+        "美联储",
+        "美债收益率",
+        "微软",
+        "Meta",
+        "亚洲股市",
+        "KOSPI",
+        "三星",
+        "原油"
+      ],
       "file": "posts/467-fed-fallout-bond-yield-surge-msft-meta-earnings-asian-markets-july-30-2026.zh.html"
     },
     "en": {
       "title": "⚡ July 30 Financial Fallout: 30-Year Yield Hits 5.22% (2007 High), Microsoft Surges 8% After Earnings Beat, Meta Free Cash Flow Craters 91%, Asian Markets Rebound in Turmoil",
       "summary": "⚡ July 30 financial mega roundup: 30-year Treasury yield surges to 5.22% — highest since 2007 — as bond markets challenge Fed Chair Warsh's credibility; Microsoft Q4 crushes estimates with Azure cloud revenue surpassing $100B for the first time, stock surges 8% after hours; Meta free cash flow collapses 91% to $784M, stock plunges 11%; Asian markets see turbulent rebound after historic selloff; US resumes airstrikes on Iran, Brent crude returns to $90; Samsung semiconductor operating profit surges 19x to record high.",
-      "tags": ["Financial Markets", "Federal Reserve", "Treasury Yields", "Microsoft", "Meta", "Asian Markets", "KOSPI", "Samsung", "Oil"],
+      "tags": [
+        "Financial Markets",
+        "Federal Reserve",
+        "Treasury Yields",
+        "Microsoft",
+        "Meta",
+        "Asian Markets",
+        "KOSPI",
+        "Samsung",
+        "Oil"
+      ],
       "file": "posts/467-fed-fallout-bond-yield-surge-msft-meta-earnings-asian-markets-july-30-2026.en.html"
     }
   },

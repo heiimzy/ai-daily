@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7月31日科技动态：Anthropic发布Claude Opus 4.7登顶SWE-bench、谷歌推出Gemini 3.6 Flash与3.5 Flash-Lite、SpaceX星舰V3首飞成功 - AI Daily</title>
+  <meta name="description" content="Anthropic深夜发布Claude Opus 4.7，SWE-bench跑分82.3%登顶，支持200万tokens上下文和7小时连续编程；谷歌发布Gemini 3.6 Flash与3.5 Flash-Lite，聚焦AI Agent效率与成本优化；SpaceX星舰V3首飞成功，尽管一台发动机失效仍完成亚轨道巡航并在印度洋受控降落。">
+  <meta name="keywords" content="Claude Opus 4.7,Anthropic,Gemini 3.6 Flash,Google,SpaceX,星舰V3,Starship V3,SWE-bench,AI模型,航天技术,科技新闻">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/480-tech-roundup-claude-opus-47-gemini-36-starship-v3-july-31-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/480-tech-roundup-claude-opus-47-gemini-36-starship-v3-july-31-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/480-tech-roundup-claude-opus-47-gemini-36-starship-v3-july-31-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-07-31</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="480-tech-roundup-claude-opus-47-gemini-36-starship-v3-july-31-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-07-31</div>
+  <div class="post-tags"><span class="tag">科技新闻</span><span class="tag">AI</span><span class="tag">Anthropic</span><span class="tag">Google</span><span class="tag">SpaceX</span><span class="tag">航天</span><span class="tag">大模型</span></div>
+  <h1>⚡ 7月31日科技动态：Anthropic深夜发布Claude Opus 4.7登顶SWE-bench、谷歌推出Gemini 3.6 Flash与3.5 Flash-Lite、SpaceX星舰V3首飞成功</h1>
+
+  <h2>Anthropic 凌晨突袭：Claude Opus 4.7 正式上线</h2>
+  <p>2026年7月31日凌晨1时许，Anthropic 悄然发布了其最新一代旗舰模型 Claude Opus 4.7，没有发布会、没有预告，仅通过官方博客发布了简短说明。然而，实测数据和开发者社区的反应迅速让这次「静默发布」成为当日最重磅的AI新闻。</p>
+  <p>Claude Opus 4.7 在 SWE-bench Verified 上取得了 <strong>82.3% 的跑分</strong>，大幅超越上一代 Opus 4.5 的 77.2%，并将 OpenAI GPT-5 的 74% 甩在身后，再次登顶代码修复能力排行榜。Anthropic 官方测试数据显示，4.7 可以连续自主执行编程任务超过 7 小时，中间无需人工干预，不跑偏、不崩溃、不胡编。</p>
+  <p>在 Agent 能力方面，Claude Opus 4.7 的 Computer Use（电脑操作）功能取得质变。它能够流畅地打开浏览器、填表、对比数据、下载文件、整理到表格、发邮件——一整套流程跑下来不卡壳。有开发者实测让 4.7 完成打开 10 个电商页面、对比同款产品价格和评价、整理成 Excel 的任务，用时仅 11 分钟。</p>
+  <p>上下文窗口方面，4.7 支持「真正可用」的 200 万 tokens。在 Needle in a Haystack 测试中，200 万 tokens 的召回率保持在 99.4%，意味着将一整本 300 页的书丢给它，问第 87 页第 3 段相关内容它也能准确回答。Anthropic 内部数据显示，4.7 的事实性错误率比 4.5 下降了约 38%，模型开始频繁主动表示「不确定」或「需要核实」，显著提升了可信度。</p>
+  <p>不过需要注意的是，Opus 4.7 的 API 定价并未降低，多模态能力也未有明显提升，Anthropic 显然将资源重点投向了推理和 Agent 场景。普通用户可通过 Claude Pro 订阅（每月 $20）使用。</p>
+
+  <h2>Google 发布 Gemini 3.6 Flash 与 3.5 Flash-Lite：效率优先</h2>
+  <p>几乎与 Anthropic 同步，Google 在 7 月 31 日凌晨正式发布了 Gemini 3.6 Flash 与 Gemini 3.5 Flash-Lite 两款新模型，同时宣布 Gemini 4 已开启预训练。值得注意的是，备受关注的 Gemini 3.5 Pro 因编码能力未达预期继续推迟发布。</p>
+  <p>Gemini 3.6 Flash 定位为「默认工作模型」（Workhorse），适用于编程、知识处理、多模态和 AI Agent 场景。官方数据显示，其输出 Token 使用量相比 Gemini 3.5 Flash 降低约 17%，在部分 Agent 工作流中 Token 消耗最高可降低 65%。同时输出价格进一步下降，在代码生成、多模态理解以及知识型任务方面整体表现优于上一代。</p>
+  <p>Gemini 3.5 Flash-Lite 则面向高吞吐量场景。它的生成速度达到 <strong>350 Output Tokens/s</strong>，调用成本极低，适合文档处理、搜索、分类、批量推理和 OCR 等任务。对于 SaaS 产品、AI 办公工具、客服机器人等业务来说，Flash-Lite 有望成为新的默认选择。</p>
+  <p>Google 此次发布标志着其 AI 战略的重大转向——从「参数竞赛」转向「效率竞争」。过去行业讨论的是「谁跑分第一」，但现在企业更关心「一天能跑多少请求」「Token 成本是多少」「延迟是否足够低」。Gemini 3.6 Flash 与 3.5 Flash-Lite 正是围绕 AI Agent 时代的大规模部署需求而设计。Google 同时透露，Gemini 4 的训练工作已经启动，但 3.5 Pro 的发布时间仍未确定。</p>
+
+  <h2>SpaceX 星舰 V3 首飞成功：虽有一台发动机失效仍完成海上降落</h2>
+  <p>7月31日周五，SpaceX 从德克萨斯州博卡奇卡星基地成功发射了第 12 艘星舰进行无人测试飞行。这是星舰巡航舱及其超重型助推器 <strong>V3 版本的首飞</strong>，也是为更强大火箭设计的新发射台的首次启用。</p>
+  <p>这艘高达 40 多层的巨型飞行器于中部时间下午 5:30 升空。超重型助推器在发射约 6 分钟后按计划降落在墨西哥湾。星舰上层尽管六台发动机中有一台失效，仍成功进入亚轨道飞行巡航阶段，并在约一小时后在印度洋完成受控降落。在太空飞行期间，飞船的有效载荷释放器成功依次释放了 20 颗模拟版星链卫星，并沿轨迹部署了两颗真实卫星用于扫描热防护罩。</p>
+  <p>此次试飞对 SpaceX 意义重大。该公司已投入超过 150 亿美元开发星舰，距离其备受瞩目的 IPO 仅剩三周时间。市场预计 SpaceX 的 IPO 估值将达到 <strong>1.75 万亿美元</strong>，有望成为史上最大规模 IPO。星舰 V3 的成功试飞将直接增强投资者信心，因为星链卫星通信和轨道数据中心计划高度依赖星舰的运载能力。</p>
+  <p>SpaceX CEO 埃隆·马斯克曾在一年前表示预计星舰将在 2026 年底完成首次无人火星航行，但这一目标已无法实现。V3 版本对超重型助推器的 33 台猛禽发动机进行了全面改造，通过大幅减重设计产生更大推力。星舰上层推进系统也针对长期任务进行了优化，配备了对接口和太空补给机制——这是 NASA 阿尔忒弥斯登月计划的关键技术路径。</p>
+
+  <h2>行业观察：三大科技巨头同日出手，竞逐 AI 与航天新赛道</h2>
+  <p>Anthropic、Google 和 SpaceX 在同一天内（7月31日凌晨）相继发布重大产品更新，折射出当前科技行业竞争的白热化程度。三家公司的共同特征是不约而同地聚焦于「实用性」而非「炫技」——Anthropic 强调 7 小时连续编程能力，Google 主打 Token 效率和成本优化，SpaceX 展示星舰的商业化就绪状态。</p>
+  <p>在 AI 模型领域，市场正从「跑分竞赛」转向「落地竞争」。Claude Opus 4.7 和 Gemini 3.6 Flash 各自代表了不同的竞争路径：Anthropic 走深度推理和 Agent 路线，Google 走低成本高效率路线。两者都尝试回答同一个问题——AI 如何从「聊天工具」变为「可协作的生产力伙伴」。</p>
+  <p>而在航天领域，SpaceX 正试图用星舰将人类太空活动的成本推低一个数量级。V3 版本的首飞成功意味着星舰距离商业运营又近了一步，其影响将远超发射市场本身——从全球卫星互联网到轨道制造，再到月球和火星探索，星舰的成熟将重塑多个产业的格局。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
