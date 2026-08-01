@@ -5287,14 +5287,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://ai-daily.cc.cd/posts/527-tech-news-deepseek-management-samsung-zfold8-google-ai-studio-aug-2-2026.zh.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ai-daily.cc.cd/posts/527-tech-news-deepseek-management-samsung-zfold8-google-ai-studio-aug-2-2026.en.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
 </urlset>
