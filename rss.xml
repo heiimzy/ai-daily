@@ -3,7 +3,7 @@
   <channel>
     <title>AI日报 - AI新闻·工具·变现·效率</title>
     <link>https://ai-daily.cc.cd/</link>
-    <description>⚡ 8月2日科技要闻：OpenAI 8月1日正式公布下一代模型家族代号 Astra，其内部版本一举攻克10道尘封十年以上的数学与理论计算机科学难题，生成全部解仅耗约2000美元token，每个证明均附 Lean 4 机器可验证证书，菲尔兹奖得主高尔斯称会毫不犹豫推荐其中一篇给顶级期刊；Google 为 Google Earth 上线不到24小时的 AI 生成卫星图像功能紧急回滚——该功能被指可制造「扎根现实的深度伪造」，AFP 实测能生成巴黎爆炸、伊朗核设施等假卫星图；Anthropic 发布工程复盘，承认三个自家bug导致 Claude Code 性能下滑一个月，引发订阅取消潮，三处问题已在 2.1.116 修复。</description>
+    <description>⚡ 8月2日科技要闻：OpenAI公布下一代模型Astra，内部版本攻克10道尘封十年的数学与理论计算机难题，总token成本约2000美元，全部附Lean 4可验证证明；Google Earth AI生图功能上线不到24小时因「扎根现实的深度伪造」风险被紧急回滚；Anthropic承认三个自家bug导致Claude Code性能下滑一个月，已修复。</description>
     <language>zh-cn</language>
 
     <lastBuildDate>Sun, 02 Aug 2026 11:02:00 GMT</lastBuildDate>
@@ -13,7 +13,7 @@
 <item>
       <title>⚡ 8月2日科技要闻：OpenAI新模型Astra破解10道数学难题、Google Earth AI生图上线一天被紧急回滚、Anthropic承认自家bug拖垮Claude Code</title>
       <link>https://ai-daily.cc.cd/posts/542-tech-news-openai-astra-math-google-earth-rollback-claude-code-aug-2-2026.zh.html</link>
-      <description>⚡ 8月2日科技要闻：OpenAI 8月1日正式公布下一代模型家族代号 Astra，其内部版本一举攻克10道尘封十年以上的数学与理论计算机科学难题，生成全部解仅耗约2000美元token，每个证明均附 Lean 4 机器可验证证书，菲尔兹奖得主高尔斯称会毫不犹豫推荐其中一篇给顶级期刊；Google 为 Google Earth 上线不到24小时的 AI 生成卫星图像功能紧急回滚——该功能被指可制造「扎根现实的深度伪造」，AFP 实测能生成巴黎爆炸、伊朗核设施等假卫星图；Anthropic 发布工程复盘，承认三个自家bug导致 Claude Code 性能下滑一个月，引发订阅取消潮，三处问题已在 2.1.116 修复。</description>
+      <description>⚡ 8月2日科技要闻：OpenAI公布下一代模型Astra，内部版本攻克10道尘封十年的数学与理论计算机难题，总token成本约2000美元，全部附Lean 4可验证证明；Google Earth AI生图功能上线不到24小时因「扎根现实的深度伪造」风险被紧急回滚；Anthropic承认三个自家bug导致Claude Code性能下滑一个月，已修复。</description>
       <pubDate>Sun, 02 Aug 2026 11:00:00 GMT</pubDate>
       <guid>https://ai-daily.cc.cd/posts/542-tech-news-openai-astra-math-google-earth-rollback-claude-code-aug-2-2026.zh.html</guid>
     </item>
