@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aug 3 Tech Update: Huawei Open-Sources 505B Model Trained on Ascend NPUs, LG Debuts Korea's Largest 750B Open Model, Nvidia/AMD Hike GPU Prices for Third Time - AI Daily</title>
+  <meta name="description" content="⚡ Aug 3 tech news: Huawei has open-sourced openPangu-2.0-Pro, a 505-billion-parameter model whose full pretraining ran on Ascend 910B NPUs with no Nvidia hardware at any stage - the first frontier-scale open-weight model to credibly make that claim - with weights and inference code live on GitCode's Ascend Tribe and Huawei Cloud ModelArts; LG AI Research released K-EXAONE 2.0, Korea's largest open-source model at 750B parameters under Apache 2.0, far outpacing Zhipu's GLM-5.1 on long-text comprehension; Nvidia and AMD raised graphics card prices for the third time this year as AI demand squeezes supply and memory costs soar, with RTX 50-series up 30% and RX 9000-series up 10% or more; Microsoft's Project Perception entered public preview on August 3, featuring its first cybersecurity-specialized model MAI-Cyber-1-Flash, which scored 95.95% on CyberGym, about 12 points above Anthropic's Mythos at roughly half the cost.">
+  <meta name="keywords" content="Huawei,openPangu,Ascend,open source,505B,LG,K-EXAONE,Korea,sovereign AI,750B,Apache 2.0,Nvidia,AMD,GPU price hike,RTX 50,RX 9000,HBM,DRAM,Microsoft,Project Perception,MAI-Cyber-1-Flash,AI security,MDASH,tech news,Aug 3 2026">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-03</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-03</div>
+  <div class="post-tags">
+    <span class="tag">Tech News</span>
+    <span class="tag">Huawei</span>
+    <span class="tag">Open Source</span>
+    <span class="tag">Ascend</span>
+    <span class="tag">LG</span>
+    <span class="tag">K-EXAONE</span>
+    <span class="tag">Korea AI</span>
+    <span class="tag">GPU Price</span>
+    <span class="tag">Nvidia</span>
+    <span class="tag">AMD</span>
+    <span class="tag">Microsoft</span>
+    <span class="tag">AI Security</span>
+  </div>
+  <h1>⚡ Aug 3 Tech Update: Huawei Open-Sources 505B Model Trained on Ascend NPUs, LG Debuts Korea's Largest 750B Open Model, GPU Prices Rise for a Third Time</h1>
+  
+  <p>Early on August 3, 2026, several major stories hit the broader tech world: <strong>Huawei open-sourced openPangu-2.0-Pro, a 505-billion-parameter model whose entire pretraining ran on Ascend 910B NPUs with zero Nvidia hardware</strong>, making it the first frontier-scale open-weight model to publicly claim fully domestic compute; almost simultaneously, <strong>LG AI Research released K-EXAONE 2.0, Korea's largest open-source model at 750B parameters under an Apache 2.0 license</strong>, far ahead of China's leading models on long-text comprehension; meanwhile, <strong>Nvidia and AMD raised graphics card prices for the third time this year</strong> as AI demand squeezes supply and memory costs surge; and Microsoft announced that <strong>Project Perception, its agentic AI security system, entered public preview on August 3</strong> with a standout first cybersecurity model.</p>
+
+  <h2>Huawei Open-Sources 505B Model: Pure Ascend Training, Zero Nvidia</h2>
+  <p>On July 31, Huawei released the weights, inference code, and technical report for openPangu-2.0-Pro, live on <strong>GitCode's Ascend Tribe community</strong> and accessible via <strong>Huawei Cloud ModelArts Studio</strong>. It is a Mixture-of-Experts model with <strong>505 billion total parameters and roughly 18 billion active per token</strong>, a 512K context window, and about 34 trillion training tokens; post-training included supervised fine-tuning, multiple rounds of reinforcement learning, and capability fusion through online distillation.</p>
+  <p>The headline claim is its training infrastructure: <strong>openPangu-2.0-Pro completed its full pretraining run on Huawei Ascend 910B NPUs with no Nvidia hardware involved at any stage</strong>. According to TechTimes, no prior frontier-scale open-weight model at 500B parameters or above has credibly made that claim. The model is part of Huawei's broader openPangu 2.0 open-source plan - at HDC 2026 in June, Huawei said it would gradually open-source seven key components starting June 30; a smaller 92B openPangu-2.0-Flash was released first.</p>
+  <blockquote>"openPangu-2.0-Pro proves the Ascend software and architecture stack can sustain frontier-scale training. The next real test is whether a fully domestic manufacturing chain can do the same." - industry analysis</blockquote>
+  <p>The supply chain story is more nuanced. TechInsights teardowns of Ascend 910B/910C chips found that essentially every chip contained dies fabricated at TSMC's 7nm node (Huawei acquired roughly 2.9 million such dies through Sophgo, a scheme U.S. authorities determined violated export controls). With that die bank effectively exhausted, future production depends on SMIC's N+2 process and CXMT's domestic HBM. So openPangu-2.0-Pro validates that the Ascend-plus-domestic-software stack can train frontier models, but not yet that a fully domestic hardware chain can do so independently.</p>
+
+  <h2>LG Debuts Korea's Largest Open Model: K-EXAONE 2.0 at 750B</h2>
+  <p>In the same week, <strong>LG AI Research released K-EXAONE 2.0 on Hugging Face on July 31 - 750 billion total parameters with 37 billion active</strong>, triple the size of its predecessor and the largest open foundation model ever released in Korea. The model ships under <strong>Apache 2.0, free for commercial use and modification</strong>.</p>
+  <p>According to Seoul Economic Daily, K-EXAONE 2.0 scored <strong>94.4 on the OpenAI-MRCR long-text comprehension metric</strong> and <strong>89.6 on the Korean-language Ko-LongBench</strong>, both significantly ahead of Zhipu AI's GLM-5.1 (71.5 and 83.6). LG says it will unveil an industry-specific foundation model next week and plans a public evaluation service.</p>
+  <p>K-EXAONE 2.0 is part of South Korea's "Homegrown AI Foundation Model Project" overseen by the Ministry of Science and ICT. Just days earlier, <strong>SK Telecom published its 688B-parameter A.X K2</strong> - two chaebol releases within 48 hours have pushed the sovereign AI race into overdrive: the second-phase evaluation from August 8-11 will cut the field from four teams to three, with two winners selected by year-end to anchor the nation's AI infrastructure. Together with Huawei's openPangu, Asia's open-source model ecosystem is rapidly diversifying.</p>
+
+  <h2>AI Demand Squeezes Supply: Nvidia/AMD GPU Prices Rise a Third Time</h2>
+  <p>Graphics cards are seeing an extraordinary "three-peat" of price increases in 2026. <strong>Nvidia informed partners in July of its third hike of the year, with the entire RTX 50-series - from entry-level to flagship - rising up to 30%</strong>; <strong>AMD announced GPU and memory-kit price increases of at least 10% effective in August</strong>, hitting the RX 9000 series - the entry RX 9050 rises 10%, while the high-end RX 9070 XT, with its larger memory, climbs from its $599 launch price into the $700-750 range.</p>
+  <p>The core driver is AI demand's gravity well: <strong>AI startups and compute speculators are competing for consumer graphics cards to expand capacity, keeping supply persistently tight</strong>; DRAM prices are soaring (Samsung has raised DRAM quotes by 20%), pushing a 2GB GDDR7 module to roughly $20 and 3GB modules to $60-70; and high-bandwidth memory (HBM) bottlenecks for AI data centers are expected to persist into 2027. Omdia projects global semiconductor sales will surge 94.1% year over year in 2026, with memory chips accounting for more than half of revenue. For ordinary consumers, affordable graphics cards remain a distant hope.</p>
+
+  <h2>Microsoft Project Perception Enters Public Preview: AI Agents That Patch Vulnerabilities</h2>
+  <p>Microsoft is also accelerating its AI security push. <strong>Project Perception entered public preview on August 3</strong>, built around MDASH (its multi-agent vulnerability discovery and remediation harness) and <strong>MAI-Cyber-1-Flash, Microsoft's first cybersecurity-specialized AI model</strong> - a sparse MoE with 137B total and 5B active parameters, a 256K context window, and a focus on vulnerability discovery, validation, triage, prioritization, and remediation.</p>
+  <p>According to Microsoft, <strong>MDASH with MAI-Cyber-1-Flash and GPT-5.4 hit 95.95% on CyberGym, about 12 percentage points above Anthropic's Mythos, at roughly half the cost</strong>. The system uses red, blue, and green agents: red exposes weaknesses, blue detects and responds, and green remediates and hardens across the attack lifecycle. Microsoft draws a clear line between Project Perception and Security Copilot - Copilot is the assisted chat interface, while Perception is the system where agents actually act. Due to dual-use concerns, MAI-Cyber-1-Flash is available only through Azure AI Foundry Private Preview and restricted to use within MDASH, not as a general-purpose cyber API.</p>
+
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

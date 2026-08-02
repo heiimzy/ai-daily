@@ -3,13 +3,69 @@
   <channel>
     <title>AI日报 - AI新闻·工具·变现·效率</title>
     <link>https://ai-daily.cc.cd/</link>
-    <description>⚡ 8月2日科技要闻：OpenAI公布下一代模型Astra，内部版本攻克10道尘封十年的数学与理论计算机难题，总token成本约2000美元，全部附Lean 4可验证证明；Google Earth AI生图功能上线不到24小时因「扎根现实的深度伪造」风险被紧急回滚；Anthropic承认三个自家bug导致Claude Code性能下滑一个月，已修复。</description>
+    <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 02 Aug 2026 11:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 03:02:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
         
+<item>
+      <title>⚡ 8月3日泛科技要闻：国家大基金领投DeepSeek首轮融资450亿美元、智谱发布看图写代码模型GLM-5V-Turbo、MiniMax H3今日零时开源</title>
+      <link>https://ai-daily.cc.cd/posts/550-tech-news-deepseek-funding-zhipu-glm5v-minimax-h3-aug-3-2026.zh.html</link>
+      <description>⚡ 8月3日泛科技要闻：《财经》报道，国家大基金领投DeepSeek首轮融资，投前估值450亿美元、融资约100亿美元，将成为中国AI大模型史上首轮融资最大单；智谱发布视觉编程多模态Coding基座模型GLM-5V-Turbo，从预训练融合视觉与文本，看懂设计稿、截图即可生成可运行代码；MiniMax H3全模态视频模型今日零时在魔搭社区正式开源，2K原生输出+立体声，开发者可免费使用。</description>
+      <pubDate>Mon, 03 Aug 2026 03:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/550-tech-news-deepseek-funding-zhipu-glm5v-minimax-h3-aug-3-2026.zh.html</guid>
+    </item>
+<item>
+      <title>⚡ 8月3日国际要闻：巴基斯坦和平集会遭自杀式袭击至少14死、欧盟海军登检俄「影子舰队」油轮、美伊博弈牵动全球</title>
+      <link>https://ai-daily.cc.cd/posts/549-international-news-swat-suicide-bombing-shadow-fleet-tanker-aug-3-2026.zh.html</link>
+      <description>⚡ 8月3日国际要闻：巴基斯坦西北部斯瓦特山谷卡巴尔镇周日傍晚发生自杀式爆炸，袭击者在警察局门口引爆随身炸弹，造成至少14人死亡、20余人受伤，遇难者多为反恐集会民众与执勤警察，巴内政部长纳克维强烈谴责，尚无组织认领；欧盟主导的IRINI行动在地中海登检俄罗斯「影子舰队」制裁油轮「大巴窑号」，意大利海军直升机机降登船完成两小时检查，欧洲对俄制裁海上执法再进一步；美伊博弈仍在继续，伊朗半官方媒体驳斥特朗普「协议框架已达成」的说法，伊阿曼霍尔木兹谈判据称进入最后阶段。</description>
+      <pubDate>Mon, 03 Aug 2026 02:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/549-international-news-swat-suicide-bombing-shadow-fleet-tanker-aug-3-2026.zh.html</guid>
+    </item>
+<item>
+      <title>⚡ 8月3日金融要闻：美日2011年来首次联合干预汇市力挺日元、贝森特笔记本泄露「买入日元50-100亿」、黄金死守4000美元迎非农周</title>
+      <link>https://ai-daily.cc.cd/posts/548-finance-news-us-japan-yen-intervention-gold-week-ahead-aug-3-2026.zh.html</link>
+      <description>⚡ 8月3日金融要闻：日本财务大臣片山皋月预计周一宣布，日美已在外汇市场采取联合行动支撑日元，为2011年以来首次联合干预——日元两日暴拉4.3%至157.28，日央行或已卖汇589.7亿美元，贝森特笔记本被拍到写着「买入日元50-100亿」；黄金一周四次守住4000美元关口，MUFG预计2026年金价围绕4000美元震荡；本周美国7月非农、ISM制造业PMI、SpaceX首份财报等密集登场。</description>
+      <pubDate>Mon, 03 Aug 2026 01:02:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/548-finance-news-us-japan-yen-intervention-gold-week-ahead-aug-3-2026.zh.html</guid>
+    </item>
+<item>
+      <title>⚡ 8月3日泛科技要闻：华为505B纯昇腾开源模型上线、LG发布韩国最大750B开源模型、显卡年内三度涨价</title>
+      <link>https://ai-daily.cc.cd/posts/547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.zh.html</link>
+      <description>⚡ 8月3日泛科技要闻：华为正式开源 openPangu-2.0-Pro，5050亿参数模型在昇腾910B NPU上完成全部预训练、全程不依赖英伟达硬件，成为首个公开声明纯国产算力训练的前沿开源权重模型；LG AI Research 同期发布韩国最大开源模型 K-EXAONE 2.0（7500亿参数、Apache 2.0），长文本理解大幅超越智谱 GLM-5.1；Nvidia 与 AMD 因 AI 需求挤占产能与内存涨价，年内第三次上调显卡价格，RTX 50 系列最高涨30%；微软 Project Perception 于8月3日进入公开预览，其网络安全专用模型 MAI-Cyber-1-Flash 以95.95%的CyberGym成绩领先 Anthropic Mythos 约12个百分点。</description>
+      <pubDate>Mon, 03 Aug 2026 00:09:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.zh.html</guid>
+    </item>
+<item>
+      <title>⚡ 8月2日科技要闻：维基百科基金会拒认工会遭抨击、奥特曼「AI育儿播客」建议引爆群嘲、AI搜索步入广告时代</title>
+      <link>https://ai-daily.cc.cd/posts/546-tech-news-wikimedia-union-altman-ai-podcast-ai-search-ads-aug-2-2026.zh.html</link>
+      <description>⚡ 8月2日科技要闻：维基媒体基金会拒绝自愿承认美国员工工会，被曝聘请以「反工会」著称的律所 Littler Mendelson 代理，社区请愿要求董事会承认工会，Hacker News 热榜引发145+条讨论；OpenAI CEO 奥特曼建议家长用 ChatGPT Work 每天早上为孩子生成「上学播客」，遭《怪诞小镇》创作者 Hirsch 回怼「为什么不直接跟孩子聊聊」，该回复获12.2万赞远超原帖；Similarweb 报告显示生成式AI网站月访问量达95亿次、ChatGPT 会话广告占比一个月翻倍，AI 搜索进入碎片化与广告化时代。</description>
+      <pubDate>Sun, 02 Aug 2026 15:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/546-tech-news-wikimedia-union-altman-ai-podcast-ai-search-ads-aug-2-2026.zh.html</guid>
+    </item>
+<item>
+      <title>⚡ 8月2日国际要闻：以军袭击加沙帐篷营地当日14死、白磷弹炮击黎南部森林、以色列部长扬言「全面控制」加沙、休达移民危机67人遇难</title>
+      <link>https://ai-daily.cc.cd/posts/545-international-news-gaza-strikes-lebanon-west-bank-spain-ceuta-aug-2-2026.zh.html</link>
+      <description>⚡ 8月2日国际要闻：以军无人机袭击加沙城西部里马尔区安置流离失所者的帐篷，致2死8伤（含1名儿童），当日死亡人数升至14人；以军向黎巴嫩南部发射白磷弹引燃森林；以军在约旦河西岸纳哈林镇发出7栋房屋拆除令；以色列能源部长科亨称应「全面控制」加沙；西班牙休达移民危机致至少67人遇难，意大利宣布暂停与西班牙的申根协定，欧盟内政部长将召开紧急会议。</description>
+      <pubDate>Sun, 02 Aug 2026 14:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/545-international-news-gaza-strikes-lebanon-west-bank-spain-ceuta-aug-2-2026.zh.html</guid>
+    </item>
+<item>
+      <title>⚡ 8月2日金融要闻：OPEC+ 9月增产18.8万桶/日完成减产回滚、比特币反弹重回6.35万、俄禁莫斯科挖矿至2032、AI对冲基金爆仓缩水350亿美元</title>
+      <link>https://ai-daily.cc.cd/posts/544-finance-news-opec-september-hike-bitcoin-rebound-russia-mining-ban-ai-hedge-fund-aug-2-2026.zh.html</link>
+      <description>⚡ 8月2日金融要闻：OPEC+周日决定9月再增产18.8万桶/日，连续第六个月增产，完成2023年自愿减产回滚；特朗普取消对伊打击，比特币周末反弹约1500美元重回6.35万，空头爆仓近1亿美元；俄罗斯8月15日起禁莫斯科等地挖矿至2032年底；OpenAI前研究员旗下「态势感知」AI对冲基金400%高杠杆爆仓，资产450亿美元骤缩至约100亿。</description>
+      <pubDate>Sun, 02 Aug 2026 13:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/544-finance-news-opec-september-hike-bitcoin-rebound-russia-mining-ban-ai-hedge-fund-aug-2-2026.zh.html</guid>
+    </item>
+<item>
+      <title>⚡ 8月2日科技要闻：苹果设限AI生成的Bug报告、xAI视频模型升级原生1080p、中国风投重启AI基金募资、AI芯片部署每9个月翻倍</title>
+      <link>https://ai-daily.cc.cd/posts/543-tech-news-apple-ai-bug-reports-grok-video-china-ai-funds-aug-2-2026.zh.html</link>
+      <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/543-tech-news-apple-ai-bug-reports-grok-video-china-ai-funds-aug-2-2026.zh.html</guid>
+    </item>
 <item>
       <title>⚡ 8月2日科技要闻：OpenAI新模型Astra破解10道数学难题、Google Earth AI生图上线一天被紧急回滚、Anthropic承认自家bug拖垮Claude Code</title>
       <link>https://ai-daily.cc.cd/posts/542-tech-news-openai-astra-math-google-earth-rollback-claude-code-aug-2-2026.zh.html</link>

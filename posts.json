@@ -1,5 +1,324 @@
 [
   {
+    "id": "550",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日泛科技要闻：国家大基金领投DeepSeek首轮融资450亿美元、智谱发布看图写代码模型GLM-5V-Turbo、MiniMax H3今日零时开源",
+      "summary": "⚡ 8月3日泛科技要闻：《财经》报道，国家大基金领投DeepSeek首轮融资，投前估值450亿美元、融资约100亿美元，将成为中国AI大模型史上首轮融资最大单；智谱发布视觉编程多模态Coding基座模型GLM-5V-Turbo，从预训练融合视觉与文本，看懂设计稿、截图即可生成可运行代码；MiniMax H3全模态视频模型今日零时在魔搭社区正式开源，2K原生输出+立体声，开发者可免费使用。",
+      "tags": [
+        "泛科技新闻",
+        "DeepSeek",
+        "融资",
+        "国家大基金",
+        "智谱",
+        "GLM-5V-Turbo",
+        "视觉编程",
+        "MiniMax",
+        "H3",
+        "开源"
+      ],
+      "file": "posts/550-tech-news-deepseek-funding-zhipu-glm5v-minimax-h3-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Tech Update: China's Big Fund Leads DeepSeek's First Funding Round at $45B Valuation, Zhipu Debuts GLM-5V-Turbo Visual Coding Model, MiniMax H3 Goes Open Source",
+      "summary": "⚡ Aug 3 tech news: Caijing reports China's Big Fund is leading DeepSeek's first funding round at a $45B pre-money valuation with roughly $10B expected - the largest Series A in Chinese AI history, with CATL reportedly joining; Zhipu released GLM-5V-Turbo, a multimodal coding foundation model fusing vision and text from pretraining that turns mockups, screenshots and webpages into runnable code; MiniMax open-sourced H3, its omni-modal 2K video model with native stereo audio, on ModelScope at midnight today, free for developers and researchers.",
+      "tags": [
+        "Tech News",
+        "DeepSeek",
+        "Funding",
+        "China Big Fund",
+        "Zhipu",
+        "GLM-5V-Turbo",
+        "Visual Coding",
+        "MiniMax",
+        "H3",
+        "Open Source"
+      ],
+      "file": "posts/550-tech-news-deepseek-funding-zhipu-glm5v-minimax-h3-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "549",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日国际要闻：巴基斯坦和平集会遭自杀式袭击至少14死、欧盟海军登检俄「影子舰队」油轮、美伊博弈牵动全球",
+      "summary": "⚡ 8月3日国际要闻：巴基斯坦斯瓦特山谷卡巴尔镇和平集会遭自杀式爆炸，至少14人死亡、20余人受伤，遇难者含多名警察，内政部长纳克维谴责，尚无组织认领；欧盟IRINI行动在地中海登检俄「影子舰队」制裁油轮「大巴窑号」，意大利海军直升机机降登船完成两小时检查；美伊博弈持续，伊朗半官方媒体驳斥特朗普「协议框架已达成」说法，伊阿曼霍尔木兹谈判据称进入最后阶段。",
+      "tags": [
+        "国际新闻",
+        "巴基斯坦",
+        "恐袭",
+        "反恐",
+        "欧盟",
+        "俄罗斯",
+        "影子舰队",
+        "地中海",
+        "制裁",
+        "美伊博弈"
+      ],
+      "file": "posts/549-international-news-swat-suicide-bombing-shadow-fleet-tanker-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 World Update: Suicide Bomber Kills at Least 14 at Peace Rally in Pakistan's Swat, EU Navy Boards Russian 'Shadow Fleet' Tanker, US-Iran Standoff Drags On",
+      "summary": "⚡ Aug 3 world news: A suicide bomber detonated his vest at the gate of a police station in Kabal, Swat Valley, Pakistan, on Sunday evening, killing at least 14 people and wounding more than 20 during an anti-militant peace rally; Interior Minister Mohsin Naqvi condemned the attack and no group claimed responsibility. Separately, the EU-led IRINI mission boarded the sanctioned Russian shadow-fleet tanker Toa Payoh in the Mediterranean, with Italian naval personnel boarding by helicopter for a two-hour inspection. The US-Iran standoff continues: Iranian semi-official media dismissed Trump's claim that a deal framework has been agreed as 'a new lie,' and Iran-Oman talks on the Strait of Hormuz are reportedly in their final stages.",
+      "tags": [
+        "World News",
+        "Pakistan",
+        "Terrorism",
+        "EU",
+        "Russia",
+        "Shadow Fleet",
+        "Mediterranean",
+        "Sanctions",
+        "US-Iran",
+        "Counterterrorism"
+      ],
+      "file": "posts/549-international-news-swat-suicide-bombing-shadow-fleet-tanker-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "548",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日金融要闻：美日2011年来首次联合干预汇市力挺日元、贝森特笔记本泄露「买入日元50-100亿」、黄金死守4000美元迎非农周",
+      "summary": "⚡ 8月3日金融要闻：日本财务大臣片山皋月预计周一宣布，日美已在外汇市场采取联合行动支撑日元，为2011年以来首次联合干预——日元两日暴拉4.3%至157.28，日央行或已卖汇589.7亿美元，贝森特笔记本被拍到写着「买入日元50-100亿」；黄金一周四次守住4000美元关口，MUFG预计2026年金价围绕4000美元震荡；本周美国7月非农、ISM制造业PMI、SpaceX首份财报等密集登场。",
+      "tags": [
+        "金融新闻",
+        "日元",
+        "外汇干预",
+        "日本央行",
+        "美联储",
+        "美债收益率",
+        "黄金",
+        "非农",
+        "美股财报",
+        "汇率"
+      ],
+      "file": "posts/548-finance-news-us-japan-yen-intervention-gold-week-ahead-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Finance Update: US and Japan Stage First Joint Yen Intervention Since 2011, Bessent's Notepad Leaks 'Buy JPY $5-10B', Gold Holds $4,000 Into NFP Week",
+      "summary": "⚡ Aug 3 finance news: Japanese Finance Minister Satsuki Katayama is expected to announce Monday that Tokyo and Washington took joint action in currency markets to arrest the yen's slide to 40-year lows - the first coordinated US-Japan intervention since 2011. The yen surged 4.3% in two sessions to 157.28, BOJ data hints at up to $58.97B in yen buying, and Treasury Secretary Bessent was photographed with a notepad reading 'Buy Japanese Yen (JPY) $5-10 bil.' Gold defended the $4,000 level all week (MUFG sees a broad 2026 range around $4,000), and a data/earnings super-week lies ahead: US July nonfarm payrolls (Aug 7), ISM manufacturing PMI (Aug 3) and SpaceX's first post-IPO earnings.",
+      "tags": [
+        "Finance News",
+        "Yen",
+        "FX Intervention",
+        "Bank of Japan",
+        "Federal Reserve",
+        "Treasury Yields",
+        "Gold",
+        "Nonfarm Payrolls",
+        "Earnings",
+        "Forex"
+      ],
+      "file": "posts/548-finance-news-us-japan-yen-intervention-gold-week-ahead-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "547",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日泛科技要闻：华为505B纯昇腾开源模型上线、LG发布韩国最大750B开源模型、显卡年内三度涨价",
+      "summary": "⚡ 8月3日泛科技要闻：华为正式开源 openPangu-2.0-Pro，5050亿参数模型在昇腾910B NPU上完成全部预训练、全程不依赖英伟达硬件，成为首个公开声明纯国产算力训练的前沿开源权重模型；LG AI Research 同期发布韩国最大开源模型 K-EXAONE 2.0（7500亿参数、Apache 2.0），长文本理解大幅超越智谱 GLM-5.1；Nvidia 与 AMD 因 AI 需求挤占产能与内存涨价，年内第三次上调显卡价格，RTX 50 系列最高涨30%；微软 Project Perception 于8月3日进入公开预览，其网络安全专用模型 MAI-Cyber-1-Flash 以95.95%的CyberGym成绩领先 Anthropic Mythos 约12个百分点。",
+      "tags": [
+        "泛科技",
+        "华为",
+        "开源模型",
+        "昇腾",
+        "LG",
+        "K-EXAONE",
+        "韩国AI",
+        "显卡涨价",
+        "Nvidia",
+        "AMD",
+        "微软",
+        "AI安全",
+        "大公司动态"
+      ],
+      "file": "posts/547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Tech Update: Huawei Open-Sources 505B Model Trained on Ascend NPUs, LG Debuts Korea's Largest 750B Open Model, GPU Prices Rise for a Third Time",
+      "summary": "⚡ Aug 3 tech news: Huawei open-sourced openPangu-2.0-Pro, a 505B-parameter model whose full pretraining ran on Ascend 910B NPUs with no Nvidia hardware - the first frontier-scale open-weight model to credibly claim fully domestic compute; LG AI Research released K-EXAONE 2.0, Korea's largest open model at 750B parameters under Apache 2.0, far outpacing Zhipu's GLM-5.1 on long-text comprehension; Nvidia and AMD raised GPU prices for the third time this year, with RTX 50-series up to 30% higher; Microsoft's Project Perception entered public preview on August 3, with its first cybersecurity model MAI-Cyber-1-Flash scoring 95.95% on CyberGym, about 12 points above Anthropic's Mythos.",
+      "tags": [
+        "Tech News",
+        "Huawei",
+        "Open Source",
+        "Ascend",
+        "LG",
+        "K-EXAONE",
+        "Korea AI",
+        "GPU Price",
+        "Nvidia",
+        "AMD",
+        "Microsoft",
+        "AI Security"
+      ],
+      "file": "posts/547-tech-news-huawei-pangu-lg-exaone-gpu-price-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "546",
+    "date": "2026-08-02",
+    "zh": {
+      "title": "⚡ 8月2日科技要闻：维基百科基金会拒认工会遭抨击、奥特曼「AI育儿播客」建议引爆群嘲、AI搜索步入广告时代",
+      "summary": "⚡ 8月2日科技要闻：维基媒体基金会拒绝自愿承认美国员工工会，被曝聘请以「反工会」著称的律所 Littler Mendelson 代理，社区请愿要求董事会承认工会，Hacker News 热榜引发145+条讨论；OpenAI CEO 奥特曼建议家长用 ChatGPT Work 每天早上为孩子生成「上学播客」，遭《怪诞小镇》创作者 Hirsch 回怼「为什么不直接跟孩子聊聊」，该回复获12.2万赞远超原帖；Similarweb 报告显示生成式AI网站月访问量达95亿次、ChatGPT 会话广告占比一个月翻倍，AI 搜索进入碎片化与广告化时代。",
+      "tags": [
+        "科技新闻",
+        "维基百科",
+        "Wikimedia",
+        "工会",
+        "Sam Altman",
+        "ChatGPT",
+        "AI育儿",
+        "AI搜索",
+        "Similarweb",
+        "OpenAI",
+        "大公司动态"
+      ],
+      "file": "posts/546-tech-news-wikimedia-union-altman-ai-podcast-ai-search-ads-aug-2-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 2 Tech Update: Wikimedia Foundation Refuses to Recognize Union, Altman's AI Parenting Podcast Idea Draws Massive Backlash, AI Search Enters the Ad Era",
+      "summary": "⚡ Aug 2 tech news: The Wikimedia Foundation refused voluntary recognition of its US employees' union and is reportedly represented by Littler Mendelson, a firm known for union busting, sparking community petitions and a 145+ comment thread on Hacker News; OpenAI CEO Sam Altman suggested parents use ChatGPT Work to generate a personalized morning podcast for the drive to school, drawing a viral rebuke from 'Gravity Falls' creator Alex Hirsch - 'What if you just talked to your children?' - with 122,000 likes; a Similarweb report shows generative AI sites draw 9.5B monthly visits while ChatGPT's ad share doubled in a month, marking the fragmentation and ad-driven era of AI search.",
+      "tags": [
+        "Tech News",
+        "Wikipedia",
+        "Wikimedia",
+        "Union",
+        "Sam Altman",
+        "ChatGPT",
+        "AI Parenting",
+        "AI Search",
+        "Similarweb",
+        "OpenAI"
+      ],
+      "file": "posts/546-tech-news-wikimedia-union-altman-ai-podcast-ai-search-ads-aug-2-2026.en.html"
+    }
+  },
+  {
+    "id": "545",
+    "date": "2026-08-02",
+    "zh": {
+      "title": "⚡ 8月2日国际要闻：以军袭击加沙帐篷营地当日14死、白磷弹炮击黎南部森林、以色列部长扬言「全面控制」加沙、休达移民危机67人遇难",
+      "summary": "⚡ 8月2日国际要闻：以军无人机袭击加沙城西部里马尔区安置流离失所者的帐篷，致2死8伤（含1名儿童），当日死亡人数升至14人；以军向黎巴嫩南部发射白磷弹引燃森林；以军在约旦河西岸纳哈林镇发出7栋房屋拆除令；以色列能源部长科亨称应「全面控制」加沙；西班牙休达移民危机致至少67人遇难，意大利宣布暂停与西班牙的申根协定，欧盟内政部长将召开紧急会议。",
+      "tags": [
+        "国际新闻",
+        "加沙",
+        "以色列",
+        "巴以冲突",
+        "黎巴嫩",
+        "约旦河西岸",
+        "中东局势",
+        "西班牙",
+        "休达",
+        "移民危机",
+        "欧盟"
+      ],
+      "file": "posts/545-international-news-gaza-strikes-lebanon-west-bank-spain-ceuta-aug-2-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 2 International Update: Israeli Strike Kills 2 in Gaza Tent Camp as Daily Toll Hits 14, Phosphorus Shells Ignite South Lebanon, Minister Says Israel Should Take 'Full Control' of Gaza, Ceuta Crisis Leaves 67 Dead",
+      "summary": "⚡ Aug 2 international news: According to Al Jazeera's live blog, an Israeli drone strike on a tent sheltering displaced people in the Rimal neighborhood of Gaza City killed two Palestinians including a child and wounded eight, raising Gaza's death toll for the day to 14; Israeli forces fired phosphorus shells to ignite fires in forests at Ali al-Taher Heights in southern Lebanon; Israeli troops raided the West Bank town of Nahalin and issued demolition notices for seven homes; Israeli Energy Minister Eli Cohen said Israel, which controls 70 percent of Gaza, should take 'full control' of the enclave and said there is no deal to halt attacks on Gaza; and Spain's Ceuta migrant crisis deepened - tens of thousands swam into the exclave with at least 67 dead, Italy suspended its Schengen agreement with Spain, and EU interior ministers will hold an emergency meeting.",
+      "tags": [
+        "International News",
+        "Gaza",
+        "Israel",
+        "Palestine",
+        "Lebanon",
+        "West Bank",
+        "Middle East",
+        "Spain",
+        "Ceuta",
+        "Migration Crisis",
+        "EU"
+      ],
+      "file": "posts/545-international-news-gaza-strikes-lebanon-west-bank-spain-ceuta-aug-2-2026.en.html"
+    }
+  },
+  {
+    "id": "544",
+    "date": "2026-08-02",
+    "zh": {
+      "title": "⚡ 8月2日金融要闻：OPEC+ 9月增产18.8万桶/日完成减产回滚、比特币反弹重回6.35万、俄禁莫斯科挖矿至2032、AI对冲基金爆仓缩水350亿美元",
+      "summary": "⚡ 8月2日金融要闻：OPEC+周日决定9月再增产18.8万桶/日，连续第六个月增产，完成2023年自愿减产回滚；特朗普取消对伊打击，比特币周末反弹约1500美元重回6.35万，空头爆仓近1亿美元；俄罗斯8月15日起禁莫斯科等地挖矿至2032年底；OpenAI前研究员旗下「态势感知」AI对冲基金400%高杠杆爆仓，资产450亿美元骤缩至约100亿。",
+      "tags": [
+        "金融新闻",
+        "OPEC+",
+        "原油",
+        "比特币",
+        "加密货币",
+        "俄罗斯",
+        "挖矿禁令",
+        "对冲基金",
+        "AI泡沫",
+        "杠杆",
+        "特朗普",
+        "伊朗"
+      ],
+      "file": "posts/544-finance-news-opec-september-hike-bitcoin-rebound-russia-mining-ban-ai-hedge-fund-aug-2-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 2 Finance Update: OPEC+ Raises September Output 188K bpd to Complete Cut Rollback, Bitcoin Rebounds Above $63.5K, Russia Bans Moscow Mining Through 2032, AI Hedge Fund Loses ~$35B",
+      "summary": "⚡ Aug 2 finance news: OPEC+ agreed on Sunday to raise output by 188,000 barrels per day from September - a sixth straight monthly increase that completes the rollback of the 2023 voluntary cuts; Bitcoin rebounded about $1,500 back above $63,500 after Trump called off strikes on Iran, with nearly $100M in short liquidations in 24 hours; Russia banned crypto mining in Moscow and surrounding regions from August 15 through 2032; and Leopold Aschenbrenner's \"Situational Awareness\" AI hedge fund blew up on 400% leverage, with assets collapsing from $45B to about $10B.",
+      "tags": [
+        "Finance News",
+        "OPEC+",
+        "Oil",
+        "Bitcoin",
+        "Crypto",
+        "Russia",
+        "Mining Ban",
+        "Hedge Fund",
+        "AI Bubble",
+        "Leverage",
+        "Trump",
+        "Iran"
+      ],
+      "file": "posts/544-finance-news-opec-september-hike-bitcoin-rebound-russia-mining-ban-ai-hedge-fund-aug-2-2026.en.html"
+    }
+  },
+  {
+    "id": "543",
+    "date": "2026-08-02",
+    "zh": {
+      "title": "⚡ 8月2日科技要闻：苹果设限AI生成的Bug报告、xAI视频模型升级原生1080p、中国风投重启AI基金募资、AI芯片部署每9个月翻倍",
+      "summary": "⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。",
+      "tags": [
+        "科技新闻",
+        "Apple",
+        "AI安全",
+        "Bug报告",
+        "漏洞赏金",
+        "xAI",
+        "Grok",
+        "文生视频",
+        "中国AI",
+        "风投",
+        "AI芯片",
+        "算力"
+      ],
+      "file": "posts/543-tech-news-apple-ai-bug-reports-grok-video-china-ai-funds-aug-2-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 2 Tech Update: Apple Cracks Down on AI-Generated Bug Reports, xAI's Grok Imagine Video 1.5 Goes Native 1080p, Chinese VCs Return to AI Fundraising",
+      "summary": "⚡ Aug 2 tech news: The Financial Times reports Apple has capped bug-report submissions and introduced a 30-day cool-off period to cope with a deluge of AI-assisted reports, with repeated AI-generated findings lacking human validation risking a 180-day pause; xAI rolled out Grok Imagine Video 1.5 on August 1 with native 1080p text-to-video, up to seven image references and up to three audio inputs; the FT also reports Chinese venture firms are rushing back to raise AI and robotics funds after three years of record lows; and the New York Times cites Epoch AI projecting AI chip deployments will double every nine months.",
+      "tags": [
+        "Tech News",
+        "Apple",
+        "AI Security",
+        "Bug Bounty",
+        "xAI",
+        "Grok",
+        "Text-to-Video",
+        "China AI",
+        "Venture Capital",
+        "AI Chips",
+        "Compute"
+      ],
+      "file": "posts/543-tech-news-apple-ai-bug-reports-grok-video-china-ai-funds-aug-2-2026.en.html"
+    }
+  },
+  {
     "id": "542",
     "date": "2026-08-02",
     "zh": {
