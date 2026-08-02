@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>8月2日科技要闻：OpenAI Astra破解10道数学难题、Google Earth回滚AI生图、Anthropic承认Claude Code故障 - AI Daily</title>
+  <meta name="description" content="⚡ 8月2日科技要闻：OpenAI 8月1日正式公布下一代模型家族代号 Astra，其内部版本一举攻克10道尘封十年以上的数学与理论计算机科学难题，生成全部解仅耗约2000美元token，每个证明均附 Lean 4 机器可验证证书，菲尔兹奖得主高尔斯称会毫不犹豫推荐其中一篇给顶级期刊；Google 为 Google Earth 上线不到24小时的 AI 生成卫星图像功能紧急回滚——该功能被指可制造「扎根现实的深度伪造」，AFP 实测能生成巴黎爆炸、伊朗核设施等假卫星图；Anthropic 发布工程复盘，承认三个自家bug导致 Claude Code 性能下滑一个月，引发订阅取消潮，三处问题已在 2.1.116 修复。">
+  <meta name="keywords" content="OpenAI,Astra,数学突破,Lean证明,AI数学,非sofic群,球堆积,Ramsey数,Google,Google Earth,Nano Banana 2,AI生图,深度伪造,卫星图像,Anthropic,Claude Code,工程复盘,大模型,科技新闻,2026年8月2日">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/542-tech-news-openai-astra-math-google-earth-rollback-claude-code-aug-2-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/542-tech-news-openai-astra-math-google-earth-rollback-claude-code-aug-2-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/542-tech-news-openai-astra-math-google-earth-rollback-claude-code-aug-2-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-02</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="542-tech-news-openai-astra-math-google-earth-rollback-claude-code-aug-2-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-02</div>
+  <div class="post-tags">
+    <span class="tag">科技新闻</span>
+    <span class="tag">OpenAI</span>
+    <span class="tag">Astra</span>
+    <span class="tag">AI数学</span>
+    <span class="tag">Lean证明</span>
+    <span class="tag">Google</span>
+    <span class="tag">Google Earth</span>
+    <span class="tag">AI生图</span>
+    <span class="tag">深度伪造</span>
+    <span class="tag">Anthropic</span>
+    <span class="tag">Claude Code</span>
+  </div>
+  <h1>⚡ 8月2日科技要闻：OpenAI新模型Astra破解10道数学难题、Google Earth AI生图上线一天被紧急回滚、Anthropic承认自家bug拖垮Claude Code</h1>
+  
+  <p>8月2日（周日），全球科技圈被三件大事刷屏：<strong>OpenAI 首次公开下一代模型家族代号 Astra</strong>，并宣布其内部版本一举攻克10道数学与理论计算机科学的长期难题，总token成本仅约2000美元；<strong>Google 为 Google Earth 上线不到24小时的 AI 生成卫星图像功能紧急按下暂停键</strong>，理由是无法阻止「扎根现实的深度伪造」；<strong>Anthropic 罕见发布工程复盘，承认是自家三个bug导致 Claude Code 性能下滑一个月</strong>，此前数周公司一直否认。</p>
+
+  <h2>OpenAI 公布下一代模型 Astra：10道数学难题、约2000美元</h2>
+  <p>据 OpenAI 官方博客与 The Decoder 报道，<strong>OpenAI 于8月1日（美国时间周六）发布论文《数学与理论计算机科学的十项进展》，正式确认下一代大模型家族代号 Astra</strong>。这些难题「在主结果上至少十年没有任何进展，多数远超十年」，横跨高维几何、编码理论、算术电路复杂度、群论、算子代数、量子复杂性、格密码与极值组合八大领域。</p>
+  <p>亮点结果包括：<strong>构造性证明非-sofic 群存在</strong>——群论中悬置数十年的核心开放问题；<strong>推翻 Connes 刚性猜想</strong>；给出自1978年以来球堆积密度上界的首次改进；并一举解决数学巨匠 Erdős 开放问题清单上的 <strong>183（多色三角形 Ramsey 数超指数下界）、146 与 180</strong>。OpenAI 称，生成全部十项解所耗 token 按 Sol API 价格折算<strong>仅约2000美元</strong>；人类与模型共同把论证整理为249页论文，模型再以 Lean 4 形式化每个证明，仓库 openai/ten-proofs 已在 GitHub 开源，全部证明可机器验证，并附模型推理过程叙述。</p>
+  <blockquote>「是的，非-sofic 群存在——这只是 Astra（我们的下一代大模型）证明的众多优美结果之一。」——OpenAI 数学研究负责人 Sébastien Bubeck，8月1日</blockquote>
+  <p>数学家反应热烈而审慎：菲尔兹奖得主 <strong>Timothy Gowers 表示会毫不犹豫推荐其中一篇给顶级期刊《数学年刊》</strong>；曼彻斯特大学数学家 Thomas Bloom 称之为「重大新闻」。质疑声同样存在：Gary Marcus 批评249页论文「没有一页讲清模型如何工作、证明如何验证、人类参与几何」；Noam Brown 则澄清 Astra 尚未解决任何千禧年难题。据 The Information 报道，CEO Sam Altman 本周已向华盛顿政策制定者演示 Astra 的长时任务能力，Astra 或将成为美国政府新AI审查框架下首批送审模型，发布日期与最终命名（传闻或为 GPT-6）均未公布。</p>
+
+  <h2>Google Earth AI 生图功能：上线不到一天被紧急回滚</h2>
+  <p>据 Forkast、法新社等报道，<strong>Google 于7月30日将 Nano Banana 2 图像生成模型接入 Google Earth</strong>，用户可基于真实卫星、航拍与3D地图数据一键生成「可视化图像」；然而上线后不到24小时（7月31日），<strong>Google 宣布回滚该功能</strong>，发言人回应称：「我们看到了人们分享的违反政策的生成图像，因此在我们加强护栏期间回滚这一功能。」</p>
+  <p>引爆争议的是研究人员所谓的「<strong>grounded deepfakes（扎根现实的深度伪造）</strong>」：把AI生成内容直接叠加在用户高度信任的地理数据之上。法新社实测，该工具可生成巴黎爆炸、伊朗核设施、俄罗斯弹坑、叙利亚ISIS训练营等伪造卫星图，以及孟加拉洪水、美墨边境难民营、佐治亚州可疑仓库等假场景——后者的地点正对应特朗普指控选举舞弊的州份。NPR 也演示了「伊朗哈尔克岛起火」「美国国会大厦被淹」等从未发生的事件。</p>
+  <p>关键教训是：<strong>SynthID 数字水印只解决溯源、不阻止有害内容生成</strong>，只是「事后标签而非功能屏障」。伦敦 Centre for Information Resilience 主任 Ross Burley 批评该功能「不负责任」，称「卫星图像的信任花了数十年建立，可能一夜之间被不可挽回地摧毁」；开源情报组织 GeoConfirmed 也在回滚前敦促 Google 重新考虑。Google 表示将在实施更强护栏后重新评估上线。</p>
+
+  <h2>Anthropic 承认：三个自家bug拖垮了 Claude Code</h2>
+  <p>据 Fortune、Yahoo Finance 与 Startup Fortune 报道，<strong>Anthropic 发布工程复盘（4月23日）承认，Claude Code 持续约一个月的性能下滑源于三个工程bug，而非用户操作问题</strong>——此前数周公司一直对投诉予以否认，被 Fortune 形容为一场「用户起义」，并伴随一波 Claude Pro/Max 订阅取消潮。</p>
+  <p>三个bug分别是：<strong>3月4日</strong>将 Claude Code 默认推理强度从 high 改为 medium 以降低延迟（4月7日回滚，速度上去了质量下来了）；<strong>3月26日</strong>上线一个旨在清理闲置会话缓存的改动，bug 导致每一轮对话都清空历史记忆，模型显得「健忘、重复」且更快消耗订阅额度（4月10日修复）；<strong>4月16日</strong>系统提示要求工具调用间文本不超过25词、最终回复不超过100词，明显损害编码质量（4月20日移除）。</p>
+  <p>影响波及真实用户：AMD 一位高级AI高管在低谷期称 Claude「对复杂工程任务不可用」。三处问题已在 <strong>Claude Code 2.1.116 中标记解决</strong>，Anthropic 称 API 未受影响，Claude Agent SDK 与 Claude Cowork 也受到产品层问题波及。bug 已修复，但「信任修复仍在进行中」——对开发者而言，工具下周是否还和本周一样可用，比任何道歉都重要。</p>
+
+  <h2>本轮动态一览</h2>
+  <ul>
+    <li>🧮 OpenAI：正式确认下一代模型家族 Astra，内部版本攻克10道数学/理论计算机开放难题，总成本约2000美元，全部附 Lean 4 机器可验证证明，菲尔兹奖得主高尔斯点赞；</li>
+    <li>🛰️ Google：Google Earth AI 生图功能（Nano Banana 2）上线不到24小时即被回滚，伪造卫星图风险引发专家强烈批评，SynthID 水印被证明无法前置拦截；</li>
+    <li>🐛 Anthropic：承认三个工程bug导致 Claude Code 性能下滑一个月，复盘已发布、2.1.116 已修复，但用户信任修复仍在进行。</li>
+  </ul>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

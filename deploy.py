@@ -30,13 +30,32 @@ def load_token():
     return os.environ.get("GITHUB_TOKEN", "")
 
 def get_github_files(token, owner, repo, path=""):
-    """Get dict of filename -> sha for files at a GitHub path."""
+    """Get dict of filename -> sha for files at a GitHub path.
+    Uses the recursive git trees API so listings are NOT capped at 1000 items
+    (the /contents API caps directory listings at 1000, which silently drops
+    the newest post files once the repo grows past that size)."""
     headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
-    url = f"https://api.github.com/repos/{owner}/{repo}/contents/{path}"
-    resp = requests.get(url, headers=headers, timeout=60)
-    if resp.status_code == 200:
-        return {item["name"]: item["sha"] for item in resp.json()}
-    return {}
+    url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/main?recursive=1"
+    resp = requests.get(url, headers=headers, timeout=90)
+    if resp.status_code != 200:
+        # Fallback to the old /contents approach if tree fails
+        fallback = f"https://api.github.com/repos/{owner}/{repo}/contents/{path}"
+        r2 = requests.get(fallback, headers=headers, timeout=60)
+        if r2.status_code == 200:
+            return {item["name"]: item["sha"] for item in r2.json()}
+        return {}
+    out = {}
+    prefix = f"{path}/" if path else ""
+    for item in resp.json().get("tree", []):
+        p = item.get("path", "")
+        if item.get("type") != "blob":
+            continue
+        if path == "":
+            if "/" not in p:
+                out[p] = item["sha"]
+        elif p.startswith(prefix) and "/" not in p[len(prefix):]:
+            out[p[len(prefix):]] = item["sha"]
+    return out
 
 def get_github_file_sha(token, owner, repo, path):
     """Get SHA of a single file."""
