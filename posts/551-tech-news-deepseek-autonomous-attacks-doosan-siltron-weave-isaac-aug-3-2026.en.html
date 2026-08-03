@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aug 3 Tech Update: DeepSeek Weaponized for Autonomous Attacks on 460+ Targets, Doosan's $1.6B SK Siltron Deal, Weave's $7,999 Home Robot Isaac 1 - AI Daily</title>
+  <meta name="description" content="⚡ Aug 3 tech news: Palo Alto Networks' Unit 42 disclosed that a Chinese-speaking threat actor wired DeepSeek into the open-source Hermes Agent framework and directed it via Telegram to autonomously attack 460+ internet-facing targets - independently enumerating vulnerabilities, downloading PoCs and attempting exploitation, with confirmed breaches of three organizations and command execution on 11 Marimo instances; South Korea's Doosan Group agreed to buy SK Inc.'s 70.6% stake in SK siltron, the country's only semiconductor wafer maker and the world's No. 3 supplier of 12-inch wafers, for 2.3 trillion won (~$1.6B), completing a wafer-to-substrate-to-testing value chain; San Francisco startup Weave Robotics opened pre-orders for its Isaac 1 home humanoid at $7,999 upfront or $449/month, handling laundry, bed-making and tidying, with California deliveries starting fall 2026.</p>
+  <meta name="keywords" content="DeepSeek,Hermes Agent,Unit 42,AI Security,Autonomous Attacks,Vulnerability Exploitation,Doosan,SK Siltron,Semiconductors,Wafers,Acquisition,Weave Robotics,Isaac 1,Home Robots,Consumer Electronics,August 3 2026">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-03</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-03</div>
+  <div class="post-tags">
+    <span class="tag">Tech News</span>
+    <span class="tag">DeepSeek</span>
+    <span class="tag">Hermes Agent</span>
+    <span class="tag">AI Security</span>
+    <span class="tag">Autonomous Attacks</span>
+    <span class="tag">Doosan</span>
+    <span class="tag">SK Siltron</span>
+    <span class="tag">Semiconductors</span>
+    <span class="tag">Wafers</span>
+    <span class="tag">Weave Robotics</span>
+    <span class="tag">Isaac 1</span>
+    <span class="tag">Home Robots</span>
+  </div>
+  <h1>⚡ Aug 3 Tech Update: DeepSeek Weaponized for Autonomous Attacks on 460+ Targets, Doosan's $1.6B SK Siltron Deal, Weave's $7,999 Home Robot Isaac 1</h1>
+  
+  <p>Three storylines are running in parallel as the new week begins: <strong>in cybersecurity, Palo Alto Networks' threat-intel arm Unit 42 disclosed that a Chinese-speaking attacker wired DeepSeek into the open-source Hermes Agent framework and directed it via Telegram to autonomously attack more than 460 internet-facing targets</strong> - enumerating vulnerabilities, downloading PoCs and attempting exploitation with no human in the loop, with confirmed breaches of three organizations and command execution on 11 Marimo notebook instances; <strong>in semiconductors, South Korea's Doosan Group agreed to buy SK Inc.'s 70.6% stake in SK siltron for 2.3 trillion won (about $1.6 billion)</strong>, taking control of the country's only wafer maker and the world's No. 3 supplier of 12-inch silicon wafers, completing a "wafer - substrate - back-end testing" value chain; <strong>in consumer electronics, San Francisco startup Weave Robotics opened pre-orders for its Isaac 1 home robot</strong> at $7,999 upfront or $449/month, bringing laundry-folding, bed-making and tidying robots into ordinary households.</p>
+
+  <h2>Unit 42: DeepSeek Plus Hermes Agent Runs Autonomous Attacks on 460+ Targets</h2>
+  <p>Unit 42 of Palo Alto Networks has published a report exposing <strong>an end-to-end autonomous attack campaign driven by AI</strong>. The operator, using the aliases knaithe / KnYuan and calling himself a "binary security researcher," <strong>used DeepSeek as the reasoning engine inside the open-source Hermes Agent framework</strong> (built by Nous Research), commanding it through Telegram to independently enumerate targets, research vulnerabilities, download exploit code and launch attacks. Unit 42 was able to reconstruct the entire workflow because Hermes accidentally exposed its working directory as a web server root, leaking API keys, exploit scripts, target lists and AI attack logs to the public internet.</p>
+  <p>The autonomous chain shown in the report is remarkably complete: the AI first targeted exposed Langflow servers (CVE-2026-33017, CVSS 9.8), found 84 instances via FOFA, then abandoned the path when preconditions were unmet; it then surveyed ten product families, ranked candidates by severity and attack surface, and picked the n8n workflow platform (CVE-2026-21858 + CVE-2025-68613) - FOFA showed 647,017 exposed instances globally, 25,209 in China; the agent sampled about 100 Chinese addresses, probed roughly 40, identified three vulnerable versions, and ultimately failed because every viable path required authentication. In parallel, the operator manually exploited <strong>CVE-2026-3055 in Citrix NetScaler to exfiltrate memory data from three organizations (including a Malaysian government entity), and CVE-2026-39987 to execute commands on 11 Marimo notebook instances</strong>, with reverse-shell attempts against nine Tomcat servers and three IKE VPN endpoints.</p>
+  <blockquote>"What we observed is a functional, end-to-end autonomous offensive workflow: the AI independently researched vulnerabilities, decided which targets were the best option, downloaded exploit code and attempted exploitation - compressing hours of human analyst work into minutes while managing its own compute budget." - Unit 42 report</blockquote>
+  <p>The trend signal matters as much as the details: <strong>autonomous agents now have a complete "recon - target selection - exploitation" loop</strong>, yet the confirmed break-ins still relied on known, already-patched CVEs rather than AI-authored zero-days. That means AI attacks haven't yet crossed into a qualitatively new threat tier - but it also makes baseline defenses like patching and credential hygiene more critical than ever.</p>
+
+  <h2>Doosan Buys SK Siltron for 2.3 Trillion Won: Korea's Wafer Supply Chain Changes Hands</h2>
+  <p>A landmark deal is reshaping Korea's chip industry: <strong>SK Inc., the holding company of SK Group, approved the sale of its 70.6% stake in SK siltron to Doosan Group at its board meeting on July 31, at a price of about 2.3 trillion won (around $1.6 billion)</strong>, with the final figure subject to post-closing adjustment. Founded in 1983, SK siltron is <strong>Korea's only semiconductor wafer manufacturer and the world's third-largest supplier of 12-inch (300mm) silicon wafers</strong>, with roughly 2 trillion won in revenue and more than 400 billion won in operating profit in 2025. SK named Doosan the preferred bidder in December 2025; the board approval finalizes the transaction.</p>
+  <p>The strategic logic is about completing a value-chain puzzle: Doosan had already acquired chip-testing firm Doosan Tesna and packaging firm Engion, and owns a copper-clad laminate (CCL) business - <strong>with SK siltron, it now spans "front-end wafer materials - substrate materials - back-end testing," a one-stop offering directly relevant to Samsung Electronics and SK hynix</strong>. Doosan has set a revenue target of about 3 trillion won for SK siltron by 2031 and plans to push for the No. 2 position globally in memory wafers. Notably, SK Group Chairman Chey Tae-won's personal 29.4% stake was excluded from this transaction; the market expects Doosan to negotiate a separate acquisition (valued at roughly 900 billion won) to take full control.</p>
+
+  <h2>Weave Robotics Opens Isaac 1 Pre-Orders: a $7,999 Robot for Laundry and Bed-Making</h2>
+  <p>San Francisco startup Weave Robotics (Y Combinator-backed) has opened pre-orders for its <strong>home robot Isaac 1</strong>: $7,999 upfront, or $449/month, with an optional $99/month premium membership; a fully refundable $250 deposit reserves a place in line. Isaac 1 is a <strong>wheeled, dual-arm, height-adjustable home humanoid</strong> that ranges from 0.9m to 1.7m tall, uses two-finger parallel grippers, and runs about eight hours on a charge. The company organizes its tasks into two buckets: the <strong>"laundry flow"</strong> (finding and picking up dirty clothes, folding them, managing loaded hampers) and the <strong>"daily reset"</strong> (tidying rooms, making beds, putting away toys, shoes, blankets and pillows). The robot operates autonomously by default and can be remotely teleoperated by a human when needed.</p>
+  <p>The pricing is the headline: <strong>at $7,999, Isaac 1 undercuts 1X's roughly $20,000 Neo and bipedal rivals from Figure and Unitree that run $12,000 to well over $20,000</strong>, a shot across the bow in the home-robot price war. The launch post on X has drawn more than 13 million views. Deliveries begin in California in fall 2026, expanding across the U.S. through 2027. Privacy is the recurring caveat: onboard cameras, Wi-Fi connectivity and possible remote assistance mean buyers should think carefully about letting the robot work in bedrooms and bathrooms.</p>
+
+  <h2>Industry Watch: AI's Double Edge, Supply-Chain Consolidation, and a Robot Price War</h2>
+  <p>Read together, the three stories sharpen the picture for H2 2026: <strong>offensive use of AI has moved from theory to observed fact</strong> - Unit 42's full log evidence shows that an open-source agent plus a domestic large model can assemble an automated attack pipeline, and the security industry must now treat "AI versus AI" as part of the baseline; <strong>geopolitical consolidation of the semiconductor supply chain is accelerating</strong> - from Korea's wafer-materials takeover to earlier M&A moves by Japanese and Taiwanese suppliers, materials and equipment are emerging as the next battleground for industrial capital; <strong>robotics is moving from lab demos to household budgets</strong> - when prices fall toward the $8,000 mark and tasks focus on high-frequency chores like laundry and bed-making, home robots are showing the first outlines of becoming a consumer-electronics category.</p>
+
+  <h2>Roundup</h2>
+  <ul>
+    <li>🛡️ AI Security: Unit 42 disclosed a Chinese-speaking operator using DeepSeek + Hermes Agent to autonomously attack 460+ targets; three organizations breached and 11 Marimo instances compromised, with break-ins still relying on known CVEs (Palo Alto Networks Unit 42, published Jul 31, media follow-up Aug 2);</li>
+    <li>🏭 Semiconductors: Doosan agreed to buy a 70.6% stake in SK siltron for 2.3 trillion won (~$1.6B) - Korea's only wafer maker and the world's No. 3 12-inch wafer supplier; Chey Tae-won's personal 29.4% stake to be negotiated separately (Korea Times / Seoul Economic Daily, Jul 31 - Aug 2);</li>
+    <li>🤖 Home Robots: Weave Robotics opened Isaac 1 pre-orders at $7,999 or $449/month for laundry, bed-making and tidying; California deliveries in fall 2026, nationwide in 2027 (The Robotics Media / Business Insider, Aug 1-2).</li>
+  </ul>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

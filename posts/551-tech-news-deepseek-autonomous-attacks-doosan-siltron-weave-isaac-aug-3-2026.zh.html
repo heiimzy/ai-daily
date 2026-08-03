@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>8月3日泛科技要闻：DeepSeek被用于自主攻击460+目标、斗山2.3万亿韩元收购SK siltron、Weave Isaac 1家用机器人开启预售 - AI Daily</title>
+  <meta name="description" content="⚡ 8月3日泛科技要闻：Palo Alto Networks旗下Unit 42披露，中文攻击者将DeepSeek接入开源Hermes Agent框架，通过Telegram指挥AI自主攻击全球460+目标，自主枚举漏洞、下载PoC并尝试利用，已确认攻破3家组织并控制11个Marimo实例；韩国斗山集团以2.3万亿韩元（约16亿美元）收购SK siltron 70.6%股份，拿下韩国唯一半导体晶圆厂、全球第三大12英寸硅片供应商，补齐晶圆-基板-封测全链条；旧金山初创Weave Robotics开启家用机器人Isaac 1预售，7999美元一次付清或449美元/月，主打洗衣铺床收纳，2026年秋起交付加州。">
+  <meta name="keywords" content="DeepSeek,Hermes Agent,Unit 42,AI安全,自主攻击,漏洞利用,斗山,SK siltron,半导体,晶圆,收购,Weave Robotics,Isaac 1,家用机器人,消费电子,泛科技,2026年8月3日">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-03</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-03</div>
+  <div class="post-tags">
+    <span class="tag">泛科技新闻</span>
+    <span class="tag">DeepSeek</span>
+    <span class="tag">Hermes Agent</span>
+    <span class="tag">AI安全</span>
+    <span class="tag">自主攻击</span>
+    <span class="tag">斗山</span>
+    <span class="tag">SK siltron</span>
+    <span class="tag">半导体</span>
+    <span class="tag">晶圆</span>
+    <span class="tag">Weave Robotics</span>
+    <span class="tag">Isaac 1</span>
+    <span class="tag">家用机器人</span>
+  </div>
+  <h1>⚡ 8月3日泛科技要闻：DeepSeek被用于自主攻击460+目标、斗山2.3万亿韩元拿下韩国唯一晶圆厂、7999美元家用机器人开启预售</h1>
+  
+  <p>新的一周，泛科技领域三条主线并行：<strong>网络安全端，Palo Alto Networks 旗下威胁情报团队 Unit 42 披露，一名中文攻击者把 DeepSeek 接入开源智能体框架 Hermes Agent，通过 Telegram 指挥 AI 自主攻击全球 460+ 目标</strong>，从漏洞枚举、PoC 下载到尝试利用全程无人干预，已确认攻破 3 家组织、控制 11 个 Marimo 笔记本实例；<strong>半导体端，韩国斗山集团以 2.3 万亿韩元（约 16 亿美元）收购 SK siltron 70.6% 股份</strong>，一举拿下韩国唯一、全球第三大的 12 英寸硅片供应商，补齐「晶圆—基板—封测」全链条；<strong>消费电子端，旧金山初创 Weave Robotics 开启家用机器人 Isaac 1 预售</strong>，7999 美元一次付清或 449 美元/月，把「洗衣、铺床、收纳」的机器人带进普通家庭。</p>
+
+  <h2>Unit 42 披露：DeepSeek 接入 Hermes Agent，AI 自主攻击 460+ 目标</h2>
+  <p>Palo Alto Networks 旗下 Unit 42 发布报告，曝光了一起<strong>由 AI 驱动的端到端自主攻击活动</strong>。攻击者化名 knaithe / KnYuan，自称「二进制安全研究员」，<strong>将 DeepSeek 作为推理引擎接入开源智能体框架 Hermes Agent</strong>（Nous Research 出品），通过 Telegram 下发指令，让 AI 独立完成目标枚举、漏洞调研、PoC 下载与攻击尝试。Unit 42 之所以能完整复盘整个流程，是因为 Hermes 意外把工作目录当成了 Web 服务器根目录，将 API 密钥、攻击脚本、目标清单与 AI 攻击日志全部暴露在公网。</p>
+  <p>报告展示的自主攻击链相当完整：AI 先瞄准暴露的 Langflow 服务（CVE-2026-33017，CVSS 9.8），通过 FOFA 找到 84 个实例，但因前置条件不符放弃；随后自主调研 10 个产品家族、按严重性与暴露面排序，选中 n8n 工作流平台（CVE-2026-21858 + CVE-2025-68613）——FOFA 显示全球 64.7 万个暴露实例、其中中国 2.5 万个；AI 采样约 100 个中国 IP、实际探测约 40 个、定位到 3 个漏洞版本，最终因目标表单需要认证而失败。与自主流程并行，攻击者还手动利用<strong>Citrix NetScaler CVE-2026-3055 从 3 家组织窃取内存数据（含马来西亚政府实体）、通过 CVE-2026-39987 在 11 个 Marimo 笔记本实例上执行命令</strong>，并对 9 台 Tomcat、3 个 IKE VPN 端点发起反弹 Shell 尝试。</p>
+  <blockquote>「我们观察到一条功能完整、端到端的自主攻击流水线：AI 独立研究漏洞、判断最优目标、下载攻击代码并尝试利用——把人类分析员数小时的工作压缩到几分钟，同时自行管理算力消耗。」——Unit 42 报告</blockquote>
+  <p>安全界更关注的是趋势性信号：<strong>自主智能体已具备「侦察—选型—利用」的完整攻击闭环</strong>，但突破仍然依赖已知、已打补丁的 CVE，而非 AI 自研 0day——这既说明 AI 攻击尚未「质变」，也意味着传统「打补丁 + 弱口令治理」的防御基线变得更加关键。</p>
+
+  <h2>斗山 2.3 万亿韩元收购 SK siltron：韩国晶圆供应链易主</h2>
+  <p>韩国产业界迎来一笔重磅并购：<strong>SK 集团控股公司 SK Inc. 7 月 31 日召开董事会，批准将 SK siltron 70.6% 的股份出售给斗山集团，交易对价约 2.3 万亿韩元（约 16 亿美元）</strong>，最终金额将经交割后价格调整确定。SK siltron 成立于 1983 年，是<strong>韩国唯一的半导体晶圆制造商、全球第三大 12 英寸（300mm）硅片供应商</strong>，2025 年营收约 2 万亿韩元、营业利润超 4000 亿韩元。2025 年 12 月，SK 即选定斗山为优先竞购方，本次董事会批准正式敲定交易。</p>
+  <p>交易的看点在于价值链拼图：斗山此前已先后收购芯片测试公司 Doosan Tesna、封装公司 Engion，并拥有铜箔基板（CCL）业务——<strong>拿下 SK siltron 后，斗山将打通「前端晶圆材料—基板材料—后端封测」的完整半导体价值链</strong>，可直接为三星电子、SK 海力士提供一站式解决方案。斗山为 SK siltron 设定的 2031 年营收目标是约 3 万亿韩元，并计划在存储晶圆领域冲击全球第二。值得注意的是，SK 集团会长崔泰源个人持有的 29.4% 股份未纳入本次交易，市场预计斗山将另行谈判收购（估值约 9000 亿韩元）以实现完全控股。</p>
+
+  <h2>Weave Robotics Isaac 1 开启预售：7999 美元把「洗衣叠被」机器人带回家</h2>
+  <p>旧金山初创公司 Weave Robotics（YC 背景）正式开启其<strong>家用机器人 Isaac 1 的预售</strong>：一次付清 7999 美元，或 449 美元/月订阅，另可选 99 美元/月高级会员；预付 250 美元可退定金即可排队。Isaac 1 是<strong>轮式、双臂、可升降的家用人形机器人</strong>，高度可在 0.9 米至 1.7 米间调节，配备两指平行夹爪，续航约 8 小时。官方将任务划分为两大场景：<strong>「洗衣流」</strong>（寻找并捡起脏衣服、折叠、管理洗衣篮）与<strong>「日常复位」</strong>（整理房间、铺床、收纳玩具鞋袜枕头）。机器人默认自主运行，也可由人类远程接管。</p>
+  <p>定价策略是最大看点：<strong>7999 美元的价格直接对标 1X 约 2 万美元的 Neo、以及 Figure、Unitree 1.2 万至 2 万美元以上的产品</strong>，被外界视为家用机器人价格战的信号弹。官方 X 发布帖已获超 1300 万次观看。交付节奏上，2026 年秋季起先交付加州，2027 年扩展全美。当然，隐私问题同样被反复讨论——机身摄像头、Wi-Fi 连接与可能的远程协助，意味着用户需要想清楚是否让它在卧室、浴室工作。</p>
+
+  <h2>行业观察：AI 双刃剑、供应链整合与机器人价格战同频</h2>
+  <p>把三条消息放在一起看，2026 年下半年的泛科技叙事愈发清晰：<strong>AI 的进攻性使用已经从「理论推演」变成「已观测事实」</strong>——Unit 42 用完整日志证明，开源智能体 + 国产大模型即可组成自动化攻击流水线，安全行业必须把「AI 对 AI」的对抗纳入基线；<strong>半导体供应链的地缘整合仍在加速</strong>——从韩国晶圆材料易主，到此前日本、台湾地区厂商的并购动作，材料与设备环节正成为大国博弈与产业资本争夺的新焦点；<strong>机器人则从「实验室表演」走向「家庭账单」</strong>——当价格下探至 8000 美元关口、任务聚焦洗衣铺床等高频刚需，家用机器人首次具备了「消费电子化」的雏形。</p>
+
+  <h2>本轮动态一览</h2>
+  <ul>
+    <li>🛡️ AI安全：Unit 42 披露中文攻击者用 DeepSeek + Hermes Agent 自主攻击 460+ 目标，确认 3 家组织数据外泄、11 个 Marimo 实例被控，突破仍依赖已知 CVE（Palo Alto Networks Unit 42，7月31日发布，8月2日媒体跟进）；</li>
+    <li>🏭 半导体：斗山 2.3 万亿韩元（约 16 亿美元）收购 SK siltron 70.6% 股份，韩国唯一晶圆厂、全球第三大 12 英寸硅片供应商易主，崔泰源个人 29.4% 股份后续另议（韩国时报/首尔经济日报，7月31日-8月2日）；</li>
+    <li>🤖 家用机器人：Weave Robotics Isaac 1 开启预售，7999 美元或 449 美元/月，主打洗衣铺床收纳，2026 年秋交付加州、2027 年铺开全美（The Robotics Media/Business Insider，8月1-2日）。</li>
+  </ul>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

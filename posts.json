@@ -1,5 +1,203 @@
 [
   {
+    "id": "555",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日泛科技要闻：全球「RAMaggeddon」存储涨价潮来袭、三星挑战海力士HBM4霸主、CXMT首款LPDDR6逼近量产",
+      "summary": "⚡ 8月3日泛科技要闻：AI热潮引爆全球存储芯片「RAMaggeddon」——16GB内存条价格从300-400港元飙升至1500港元、同比涨5-6倍，笔记本电脑·手机·汽车价格承压；瑞银（UBS）周日报告预测三星2027年将以41%的份额反超SK海力士（39%）重夺HBM霸主，三星HBM4营收Q3将环比翻两倍；中国长鑫存储（CXMT）首款LPDDR6（12.8Gbps）逼近开发验证尾声，但受DUV光刻限制与海力士EUV制程的14.4Gbps差约11%，成国产存储追赶的技术天花板。",
+      "tags": [
+        "泛科技新闻",
+        "存储芯片",
+        "内存涨价",
+        "HBM4",
+        "三星",
+        "SK海力士",
+        "长鑫存储CXMT",
+        "LPDDR6"
+      ],
+      "file": "posts/555-ai-news-memory-chip-hbm-cxmt-ram-crunch-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Tech Update: Global 'RAMaggeddon' Memory Crunch, Samsung's Bid to Dethrone SK hynix in HBM, CXMT Nears First LPDDR6",
+      "summary": "⚡ Aug 3 tech news: The AI boom has triggered a global 'RAMaggeddon' memory crunch — 16GB RAM prices jumped from HK$300-400 to HK$1,500, a 5-6x surge squeezing laptops, phones, and cars; a UBS report published Sunday predicts Samsung will retake HBM leadership with 41% share in 2027 vs SK hynix's 39%, as Samsung's HBM4 revenue triples QoQ in Q3; China's CXMT is nearing the end of development validation for its first LPDDR6 (12.8 Gbps), but the DUV lithography ceiling leaves it ~11% behind SK hynix's EUV-based 14.4 Gbps.",
+      "tags": [
+        "Tech News",
+        "Memory Chips",
+        "RAM Prices",
+        "HBM4",
+        "Samsung",
+        "SK hynix",
+        "CXMT",
+        "LPDDR6"
+      ],
+      "file": "posts/555-ai-news-memory-chip-hbm-cxmt-ram-crunch-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "554",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日泛科技要闻：OpenAI「减速」辩论白热化——Altman改口呼吁放缓AI、千人联署请愿；Fender CEO「翻唱是模拟AI」言论引爆吉他圈抵制",
+      "summary": "⚡ 8月3日泛科技要闻：OpenAI CEO奥尔特曼罕见改口，在多个播客呼吁「放缓AI发展速度」，称Hugging Face事件是「第一次让我感到切肤之痛的安全事件」，OpenAI与Anthropic超1000名员工联署「Pacing the Frontier」请愿，敦促美国政府为AI开发装上「刹车」；Fender CEO巴德·科尔5月「翻唱是模拟AI、乐队成员也是AI」的言论近日被翻出，叠加其就Stratocaster琴身形状大规模发律师函的争议，引发吉他圈集体抵制。",
+      "tags": [
+        "泛科技新闻",
+        "OpenAI",
+        "奥尔特曼",
+        "减速辩论",
+        "AI安全",
+        "AI治理",
+        "Fender",
+        "吉他",
+        "AI音乐",
+        "版权争议"
+      ],
+      "file": "posts/554-ai-news-openai-pacing-debate-fender-ai-controversy-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Tech Update: OpenAI's 'Decel' Debate Heats Up as Altman Calls for Pacing AI; Fender CEO's 'Cover Music Is Analog AI' Remark Sparks Guitar-Community Backlash",
+      "summary": "⚡ Aug 3 tech news: OpenAI CEO Sam Altman has made a striking reversal, telling multiple podcasts the industry 'may have to pace the rate of AI development' and calling the Hugging Face breach 'the first security incident I have felt very viscerally,' as 1,000+ employees at OpenAI and Anthropic sign a 'Pacing the Frontier' petition urging the US government to slow AI development; Fender CEO Bud Cole's May comments that 'cover music has been sort of analog AI' and that bandmates are a form of AI have resurfaced amid the company's legal campaign over the Stratocaster body shape, triggering boycotts from prominent guitar YouTubers.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "Sam Altman",
+        "Decel Debate",
+        "AI Safety",
+        "AI Governance",
+        "Fender",
+        "Guitars",
+        "AI Music",
+        "Copyright"
+      ],
+      "file": "posts/554-ai-news-openai-pacing-debate-fender-ai-controversy-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "553",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日国际要闻：希腊灭火直升机相撞2人遇难、哈马斯同意解除武装后加沙再遭空袭至少13死、莫斯科餐厅爆炸被定性恐袭",
+      "summary": "⚡ 8月3日国际要闻：希腊雅典以西两架灭火直升机在扑救森林大火时空中相撞，丹麦飞行员与希腊协调员遇难，英国飞行员与另一名希腊机组人员幸存，全国贝尔直升机按规程停飞；哈马斯同意解除武装仅数日后，以军连续第二夜空袭加沙城、代尔巴拉、汗尤尼斯三地，至少13人死亡，为近数周单日最高，以能源部长科恩称「无协议停止袭击」；莫斯科库德林斯卡亚广场意大利餐厅外发生自制炸弹爆炸，3死21伤，市长索比亚宁定性为「残忍的恐怖袭击」，俄媒称另有2名伤者不治身亡。",
+      "tags": [
+        "国际新闻",
+        "希腊",
+        "森林大火",
+        "直升机相撞",
+        "加沙",
+        "哈马斯",
+        "以军空袭",
+        "中东",
+        "莫斯科",
+        "恐怖袭击",
+        "俄罗斯"
+      ],
+      "file": "posts/553-international-news-greece-helicopter-gaza-strikes-moscow-blast-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 World Update: Firefighting Helicopters Collide in Greece Killing 2, Gaza Strikes Kill 13 After Hamas Disarmament Deal, Moscow Restaurant Blast Branded Terrorist Act",
+      "summary": "⚡ Aug 3 world news: Two firefighting helicopters collided mid-air west of Athens while battling a massive wildfire, killing a Danish pilot and a Greek liaison officer, with a British pilot and another Greek crew member surviving; all Bell helicopters nationwide grounded. In Gaza, Israeli airstrikes hit Gaza City, Deir al-Balah and Khan Younis for a second straight night after Hamas agreed to disarm, killing at least 13 in the deadliest day in weeks. In Moscow, a homemade bomb exploded outside the Balzi Rossi restaurant on Kudrinskaya Square, killing three and wounding at least 21; Mayor Sobyanin branded it a brutal terrorist act.",
+      "tags": [
+        "World News",
+        "Greece",
+        "Wildfires",
+        "Helicopter Collision",
+        "Gaza",
+        "Hamas",
+        "Israeli Strikes",
+        "Middle East",
+        "Moscow",
+        "Terrorism",
+        "Russia"
+      ],
+      "file": "posts/553-international-news-greece-helicopter-gaza-strikes-moscow-blast-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "552",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日金融要闻：特朗普取消打击伊朗原油暗盘闪崩超6%、中东股市大涨，超级非农周今夜开启",
+      "summary": "⚡ 8月3日金融要闻：美伊局势一夜反转——特朗普宣布取消对伊朗军事打击，称协议框架已达成，原油暗盘应声闪崩，布伦特暴跌超6%报84.91美元/桶，WTI跌超5%报81.94美元/桶，中东股市大涨，沙特TASI收涨1.1%；但伊朗官方否认达成任何协议，称特朗普说法是「新的谎言」，重开霍尔木兹海峡报道纯属谣言，部队保持最高戒备；本周超级非农周开启，8月7日美国7月非农登场，市场预期新增9.1万人、失业率或升至4.3%，9月加息概率已从100%回落至68%，ISM制造业PMI、ADP、JOLTS及Palantir、AMD、SpaceX财报密集来袭。",
+      "tags": [
+        "金融新闻",
+        "原油",
+        "特朗普",
+        "伊朗",
+        "霍尔木兹海峡",
+        "中东股市",
+        "非农",
+        "美联储",
+        "加息预期",
+        "ISM",
+        "财报季",
+        "比特币"
+      ],
+      "file": "posts/552-finance-news-oil-plunge-trump-iran-nonfarm-week-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Finance Update: Oil Dark Pool Crashes Over 6% After Trump Cancels Iran Strikes, Super NFP Week Begins",
+      "summary": "⚡ Aug 3 finance news: The US-Iran saga flipped overnight - President Trump cancelled planned military strikes on Iran, citing an agreed deal framework, sending oil's dark pool crashing over 6% with Brent at $84.91 and WTI at $81.94, while Middle East stocks rallied with Saudi Arabia's TASI up 1.1%; Iran denied any agreement, calling Trump's claim a new lie and the Strait of Hormuz reopening reports pure rumor, with forces on highest alert; a super NFP week begins - July jobs report lands Friday Aug 7 with consensus at +91K jobs and unemployment rising to 4.3%, September hike odds have fallen from fully priced to 68%, and ISM Manufacturing PMI, ADP, JOLTS plus Palantir, AMD and SpaceX earnings crowd the calendar.",
+      "tags": [
+        "Finance News",
+        "Crude Oil",
+        "Trump",
+        "Iran",
+        "Strait of Hormuz",
+        "Middle East Stocks",
+        "Nonfarm Payrolls",
+        "Federal Reserve",
+        "Rate Hike",
+        "ISM",
+        "Earnings",
+        "Bitcoin"
+      ],
+      "file": "posts/552-finance-news-oil-plunge-trump-iran-nonfarm-week-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "551",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日泛科技要闻：DeepSeek被用于自主攻击460+目标、斗山2.3万亿韩元收购SK siltron、Weave Isaac 1家用机器人开启预售",
+      "summary": "⚡ 8月3日泛科技要闻：Palo Alto Networks旗下Unit 42披露，中文攻击者将DeepSeek接入开源Hermes Agent框架，通过Telegram指挥AI自主攻击全球460+目标，自主枚举漏洞、下载PoC并尝试利用，已确认攻破3家组织并控制11个Marimo实例；韩国斗山集团以2.3万亿韩元（约16亿美元）收购SK siltron 70.6%股份，拿下韩国唯一半导体晶圆厂、全球第三大12英寸硅片供应商，补齐晶圆-基板-封测全链条；旧金山初创Weave Robotics开启家用机器人Isaac 1预售，7999美元一次付清或449美元/月，主打洗衣铺床收纳，2026年秋起交付加州。",
+      "tags": [
+        "泛科技新闻",
+        "DeepSeek",
+        "Hermes Agent",
+        "AI安全",
+        "自主攻击",
+        "Unit 42",
+        "斗山",
+        "SK siltron",
+        "半导体",
+        "晶圆",
+        "Weave Robotics",
+        "Isaac 1",
+        "家用机器人"
+      ],
+      "file": "posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Tech Update: DeepSeek Weaponized for Autonomous Attacks on 460+ Targets, Doosan's $1.6B SK Siltron Deal, Weave's $7,999 Home Robot Isaac 1",
+      "summary": "⚡ Aug 3 tech news: Palo Alto Networks' Unit 42 disclosed that a Chinese-speaking threat actor wired DeepSeek into the open-source Hermes Agent framework and directed it via Telegram to autonomously attack 460+ internet-facing targets - independently enumerating vulnerabilities, downloading PoCs and attempting exploitation, with confirmed breaches of three organizations and command execution on 11 Marimo instances; South Korea's Doosan Group agreed to buy SK Inc.'s 70.6% stake in SK siltron, the country's only wafer maker and world's No. 3 supplier of 12-inch wafers, for 2.3 trillion won (~$1.6B); San Francisco startup Weave Robotics opened pre-orders for its Isaac 1 home robot at $7,999 or $449/month, with California deliveries starting fall 2026.",
+      "tags": [
+        "Tech News",
+        "DeepSeek",
+        "Hermes Agent",
+        "AI Security",
+        "Autonomous Attacks",
+        "Unit 42",
+        "Doosan",
+        "SK Siltron",
+        "Semiconductors",
+        "Wafers",
+        "Weave Robotics",
+        "Isaac 1",
+        "Home Robots"
+      ],
+      "file": "posts/551-tech-news-deepseek-autonomous-attacks-doosan-siltron-weave-isaac-aug-3-2026.en.html"
+    }
+  },
+  {
     "id": "550",
     "date": "2026-08-03",
     "zh": {
