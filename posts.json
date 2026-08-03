@@ -1,5 +1,196 @@
 [
   {
+    "id": "561",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日国际要闻：乌克兰635架无人机猛袭俄罗斯腹地、俄军打击乌尼古拉耶夫港、霍尔木兹附近油轮再传爆炸",
+      "summary": "⚡ 8月3日国际要闻：乌克兰向俄罗斯境内发起一场规模空前的无人机袭击，俄方称拦截635架，乌德摩尔梯亚、萨拉托夫、别尔戈罗德、萨马拉等多地通报人员伤亡与设施受损，电商巨头Wildberries仓储起火；俄国防部同日宣称打击乌克兰尼古拉耶夫港两艘载军事物资的船只及黑海一艘补给船；就在美伊宣布重启谈判之际，UKMTO报告一艘油轮在霍尔木兹海峡入口附近听到爆炸声，船员安全，为紧张谈判再添变数。",
+      "tags": [
+        "国际新闻",
+        "乌克兰",
+        "俄罗斯",
+        "无人机袭击",
+        "霍尔木兹海峡",
+        "美伊谈判",
+        "地缘政治"
+      ],
+      "file": "posts/561-international-news-ukraine-drone-russia-port-hormuz-tanker-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 World Update: Ukraine's 635-Drone Swarm Strikes Deep into Russia, Russia Hits Mykolaiv Port, New Explosion Near Hormuz",
+      "summary": "⚡ Aug 3 world news: Ukraine launches one of its largest drone attacks deep inside Russia, with Moscow saying it shot down 635 drones as regions report casualties and damage to energy and e-commerce sites; Russia strikes two vessels with military cargo in Ukraine's Mykolaiv port; UKMTO reports a tanker hearing an explosion near the Hormuz entrance, crew safe, adding fresh uncertainty right as US-Iran talks are set to resume.",
+      "tags": [
+        "World News",
+        "Ukraine",
+        "Russia",
+        "Drone Attack",
+        "Strait of Hormuz",
+        "US-Iran Talks",
+        "Geopolitics"
+      ],
+      "file": "posts/561-international-news-ukraine-drone-russia-port-hormuz-tanker-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "560",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日金融要闻：A股午盘「指数弱、个股狂欢」超3700股飘红、港股阿里飙涨6%、大摩逆势超配韩股目标9000点",
+      "summary": "⚡ 8月3日金融要闻：A股指数走弱个股狂欢，超3700只个股飘红，半日成交1.37万亿缩量4203亿，AI应用、核电、机器人多点开花；港股三大指数集体上涨，恒指涨0.04%，阿里巴巴涨超6%、MINIMAX涨超8%，存储概念重挫；韩股再挫近5%之际摩根士丹利逆势上调韩国股市至超配，目标9000点隐含36%空间；美伊重启谈判令亚太避险情绪降温，油价回落、美债走强。",
+      "tags": [
+        "金融要闻",
+        "A股",
+        "港股",
+        "KOSPI",
+        "摩根士丹利"
+      ],
+      "file": "posts/560-finance-news-a-share-hk-kospi-morgan-stanley-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Finance Update: A-Shares Mixed As 3,700+ Stocks Gain, HK Holds With Alibaba Up 6%, Morgan Stanley Turns Overweight on Korea",
+      "summary": "⚡ Aug 3 finance news: A-shares mixed as 3,700+ stocks gain; HK holds higher with Alibaba +6% and MINIMAX +8%; Morgan Stanley upgrades Korea to Overweight with a 9,000 KOSPI target; Asia-Pacific retreats as US-Iran talks ease risk aversion.",
+      "tags": [
+        "Finance News",
+        "A-Shares",
+        "Hong Kong Stocks",
+        "KOSPI",
+        "Morgan Stanley"
+      ],
+      "file": "posts/560-finance-news-a-share-hk-kospi-morgan-stanley-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "559",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日AI芯片要闻：壁仞完成MiniMax H3推理验证、联发科首启Intel先进封装、谷歌TPU v9 2028年欲反超英伟达",
+      "summary": "⚡ 8月3日泛科技/芯片要闻：国产GPU壁仞科技基于SGLang完成MiniMax H3在壁砺系列的Day0适配与调优，软硬协同再进一步；联发科首度证实AI ASIC除台积电CoWoS外同步导入英特尔EMIB-T先进封装，打破CoWoS一家独大，EMIB-T用硅桥取代大面积硅中介层并加入TSV；三星电机将菲律宾AI MLCC新厂提前至明年一季度投产，为英伟达Vera Rubin与Feynman供货，已签约约10家客户；投研报告称谷歌规划2028年部署1200万至1500万颗TPU v9，有望追平甚至反超英伟达AI GPU出货，或需英特尔与三星代工产能。",
+      "tags": [
+        "芯片",
+        "先进封装",
+        "国产GPU",
+        "联发科",
+        "英特尔",
+        "三星电机",
+        "谷歌TPU"
+      ],
+      "file": "posts/559-ai-chip-news-biren-minimax-mediatek-emib-t-google-tpu-samsung-mlcc-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 AI Chip Update: Biren Tunes MiniMax H3, MediaTek Embraces Intel Packaging",
+      "summary": "⚡ Aug 3 chip news: Chinese GPU maker Biren completes Day-0 tuning of MiniMax H3 over SGLang on its Bili GPUs; MediaTek confirms its AI ASIC projects now pair Intel EMIB-T packaging with TSMC CoWoS, reducing reliance on a single supplier; Samsung Electro-Mechanics moves up its Philippines AI MLCC plant to supply Nvidia Vera Rubin and Feynman, signing LTAs with about ten customers; an analyst note says Google plans 12-15M TPU v9 chips by 2028, potentially matching or exceeding Nvidia GPU shipments with added Intel/Samsung foundry capacity.",
+      "tags": [
+        "Chips",
+        "Advanced Packaging",
+        "MediaTek",
+        "Intel",
+        "Samsung E-M",
+        "Google TPU"
+      ],
+      "file": "posts/559-ai-chip-news-biren-minimax-mediatek-emib-t-google-tpu-samsung-mlcc-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "558",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日泛科技要闻：OpenAI官宣下一代模型Astra破解10大数学难题、阿里发布2.4万亿参数Qwen3.8、AnyMind推出企业级AI智能体",
+      "summary": "⚡ 8月3日泛科技要闻：OpenAI披露下一代模型Astra，宣称其内部版本破解10项悬置十余年的数学与理论计算机科学难题，249页论文+Lean形式化证明，按Sol费率解题成本约2000美元，或将成为美国新AI安全框架下首个受审模型；阿里巴巴发布2.4万亿参数基座模型Qwen3.8，编程与办公能力大幅提升，同步推出Agent产品「千问办公」，Qwen3.8-Max下周开源；AnyMind Group推出企业级AI智能体AnyAI Agent，覆盖营销与电商全流程；Airia通过云安全联盟AARM运行时安全认证。",
+      "tags": [
+        "泛科技",
+        "OpenAI",
+        "Astra",
+        "阿里",
+        "Qwen3.8",
+        "千问办公",
+        "AnyMind",
+        "AI智能体"
+      ],
+      "file": "posts/558-openai-astra-alibaba-qwen38-anymind-ai-agent-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Tech Update: OpenAI Unveils Astra Solving 10 Math Problems, Alibaba Launches 2.4T-Parameter Qwen3.8, AnyMind Rolls Out AnyAI Agent",
+      "summary": "⚡ Aug 3 tech news: OpenAI reveals next-gen model Astra, claiming its internal version cracked 10 math and theoretical CS problems open for a decade+, backed by a 249-page paper and Lean formal proofs at ~$2,000 total solve cost, and it could be the first model under the new US AI safety verification framework; Alibaba launches Qwen3.8, a 2.4T-parameter foundation model with stronger coding and office-agent abilities, plus the Qianwen Office agent, with Qwen3.8-Max open-sourcing next week; AnyMind Group rolls out enterprise AI agent AnyAI Agent for marketing and e-commerce; Airia achieves AARM runtime security conformance.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "Astra",
+        "Alibaba",
+        "Qwen3.8",
+        "AI Agent"
+      ],
+      "file": "posts/558-openai-astra-alibaba-qwen38-anymind-ai-agent-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "557",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日国际要闻：特朗普宣布美伊今日重启谈判 取消「二战以来最大规模空袭」 以色列被晾在一边称「被盟友抛弃」",
+      "summary": "⚡ 8月3日国际要闻：美国总统特朗普宣布暂停针对伊朗的新一轮空袭，称美伊谈判今日下午重启，霍尔木兹海峡协议接近达成；以色列却被排除在决策之外长达数小时，有官员直言感到「被盟友抛弃」；伊朗外长称与阿曼就霍尔木兹海峡管理的谈判已进入最后阶段，但强调海峡不会回到战前状态；土耳其外交部痛批内塔尼亚胡「扩张主义路线」，以军在加沙的空袭已造成至少17人死亡。",
+      "tags": [
+        "国际新闻",
+        "美伊关系",
+        "霍尔木兹海峡",
+        "特朗普",
+        "以色列",
+        "加沙"
+      ],
+      "file": "posts/557-us-iran-talks-israel-sidelined-hormuz-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 World Update: Trump Shelves 'WWII-Scale' Iran Strike for Talks Resume Today, Israel Sidelined Feels 'Abandoned'",
+      "summary": "⚡ Aug 3 world news: US President Donald Trump announced the pausing of a new round of strikes on Iran and said US-Iran talks would resume today, saying a deal on the Strait of Hormuz is close; Israeli officials say they were left out of the loop for hours and feel 'abandoned'; Iran says Oman talks are in final stages but the strait won't return to pre-war status; Turkey slams Netanyahu's 'expansionist approach' after Israeli strikes kill at least 17 in Gaza.",
+      "tags": [
+        "World News",
+        "Iran",
+        "US-Iran",
+        "Strait of Hormuz",
+        "Israel",
+        "Gaza"
+      ],
+      "file": "posts/557-us-iran-talks-israel-sidelined-hormuz-aug-3-2026.en.html"
+    }
+  },
+  {
+    "id": "556",
+    "date": "2026-08-03",
+    "zh": {
+      "title": "⚡ 8月3日金融要闻：韩股大跌近5%回吐史诗反弹、油价开盘重挫逾6%欧佩克宣布9月增产、金价跳空高开40美元逼近4100",
+      "summary": "⚡ 8月3日金融要闻：亚太开盘「冰火两重天」——韩国股市回吐上周五史诗级反弹，KOSPI大跌近5%报6272.8点，三星电子、SK海力士跌逾7%，外资从周五创纪录净买入7.22万亿韩元一日转向净卖出7956亿韩元，日经225跌1.6%；原油正式开盘重挫，WTI最低跌至74.78美元/桶，「欧佩克+」七国宣布9月日均增产18.8万桶、连续第六个月增产；现货黄金跳空高开近40美元一度触及4082.28美元/盎司，美元指数跌破100创一个半月新低，美联储9月加息概率降至约65%；特朗普确认8月3日与伊朗举行谈判，伊朗外长称与阿曼谈判进入最后阶段，美股期货与加密货币集体反弹。",
+      "tags": [
+        "金融新闻",
+        "韩国股市",
+        "KOSPI",
+        "三星电子",
+        "SK海力士",
+        "原油",
+        "欧佩克+",
+        "黄金",
+        "美元指数",
+        "美伊谈判"
+      ],
+      "file": "posts/556-finance-news-kospi-slide-oil-opec-gold-surge-aug-3-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 3 Finance Update: KOSPI Slides ~5% Giving Back Record Rebound, Oil Plunges 6%+ as OPEC+ Adds 188K bpd, Gold Gaps Up Nearly $40",
+      "summary": "⚡ Aug 3 finance news: Asian markets open to a tale of two tapes - South Korea's KOSPI gives back Friday's record rebound, sliding nearly 5% to 6,272.8 as Samsung and SK hynix fall over 7% and foreigners flip from a record 7.22 trillion won buying spree to net selling 795.6 billion won; crude opens sharply lower with WTI bottoming at $74.78 as seven OPEC+ countries announce a 188,000 bpd increase for September; spot gold gaps up nearly $40 to touch $4,082.28 while the US dollar index breaks below 100 to a 1.5-month low; Trump confirms US-Iran talks for today (Aug 3) as Iran's foreign minister says Oman negotiations are in their final stage.",
+      "tags": [
+        "Finance News",
+        "Korea Stocks",
+        "KOSPI",
+        "Samsung Electronics",
+        "SK hynix",
+        "Crude Oil",
+        "OPEC+",
+        "Gold",
+        "US Dollar Index",
+        "US-Iran Talks"
+      ],
+      "file": "posts/556-finance-news-kospi-slide-oil-opec-gold-surge-aug-3-2026.en.html"
+    }
+  },
+  {
     "id": "555",
     "date": "2026-08-03",
     "zh": {

@@ -6,10 +6,55 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 03 Aug 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
-        <item>
+                                <item>
+  <title>⚡ 8月3日国际要闻：乌克兰635架无人机猛袭俄罗斯腹地、俄军打击乌尼古拉耶夫港、霍尔木兹附近油轮再传爆炸</title>
+  <link>https://ai-daily.cc.cd/posts/561-international-news-ukraine-drone-russia-port-hormuz-tanker-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日国际要闻：乌克兰向俄罗斯境内发起一场规模空前的无人机袭击，俄方称拦截635架，多地通报人员伤亡与设施受损，电商巨头Wildberries仓储起火；俄国防部同日宣称打击乌克兰尼古拉耶夫港两艘载军事物资的船只及黑海一艘补给船；UKMTO报告一艘油轮在霍尔木兹海峡入口附近听到爆炸声，船员安全，为紧张谈判再添变数。</description>
+  <pubDate>Mon, 03 Aug 2026 14:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/561-international-news-ukraine-drone-russia-port-hormuz-tanker-aug-3-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月3日金融要闻：A股午盘「指数弱、个股狂欢」超3700股飘红、港股阿里飙涨6%、大摩逆势超配韩股目标9000点</title>
+  <link>https://ai-daily.cc.cd/posts/560-finance-news-a-share-hk-kospi-morgan-stanley-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日金融要闻：A股指数走弱个股狂欢，超3700只个股飘红，半日成交1.37万亿缩量4203亿，AI应用、核电、机器人多点开花；港股三大指数集体上涨，恒指涨0.04%，阿里巴巴涨超6%、MINIMAX涨超8%，存储概念重挫；韩股再挫近5%之际摩根士丹利逆势上调韩国股市至超配，目标9000点隐含36%空间；美伊重启谈判令亚太避险情绪降温，油价回落、美债走强。</description>
+  <pubDate>Mon, 03 Aug 2026 13:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/560-finance-news-a-share-hk-kospi-morgan-stanley-aug-3-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月3日AI芯片要闻：壁仞完成MiniMax H3推理验证、联发科首启Intel先进封装、谷歌TPU v9 2028年欲反超英伟达</title>
+  <link>https://ai-daily.cc.cd/posts/559-ai-chip-news-biren-minimax-mediatek-emib-t-google-tpu-samsung-mlcc-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技/芯片要闻：国产GPU壁仞科技基于SGLang完成MiniMax H3在壁砺系列的Day0适配；联发科首度证实AI ASIC同步导入英特尔EMIB-T先进封装，打破CoWoS一家独大；三星电机将菲律宾AI MLCC新厂提前至明年一季度投产，为英伟达Vera Rubin与Feynman供货；谷歌规划2028年部署1200万至1500万颗TPU v9，有望追平甚至反超英伟达。</description>
+  <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/559-ai-chip-news-biren-minimax-mediatek-emib-t-google-tpu-samsung-mlcc-aug-3-2026.zh.html</guid>
+</item>
+
+<item>
+  <title>⚡ 8月3日泛科技要闻：OpenAI官宣下一代模型Astra破解10大数学难题、阿里发布2.4万亿参数Qwen3.8、AnyMind推出企业级AI智能体</title>
+  <link>https://ai-daily.cc.cd/posts/558-openai-astra-alibaba-qwen38-anymind-ai-agent-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技要闻：OpenAI披露下一代模型Astra，宣称其内部版本破解10项悬置十余年的数学与理论计算机科学难题，249页论文+Lean形式化证明，按Sol费率解题成本约2000美元；阿里巴巴发布2.4万亿参数基座模型Qwen3.8，编程与办公能力大幅提升，同步推出Agent产品「千问办公」，Qwen3.8-Max下周开源；AnyMind Group推出企业级AI智能体AnyAI Agent；Airia通过云安全联盟AARM运行时安全认证。</description>
+  <pubDate>Mon, 03 Aug 2026 11:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/558-openai-astra-alibaba-qwen38-anymind-ai-agent-aug-3-2026.zh.html</guid>
+</item>
+
+<item>
+      <title>⚡ 8月3日国际要闻：特朗普宣布美伊今日重启谈判 取消「二战以来最大规模空袭」 以色列被晾在一边称「被盟友抛弃」</title>
+      <link>https://ai-daily.cc.cd/posts/557-us-iran-talks-israel-sidelined-hormuz-aug-3-2026.zh.html</link>
+      <description>⚡ 8月3日国际要闻：美国总统特朗普宣布暂停针对伊朗的新一轮空袭，称美伊谈判今日下午重启，霍尔木兹海峡协议接近达成；以色列却被排除在决策之外长达数小时，有官员直言感到「被盟友抛弃」；伊朗外长称与阿曼就霍尔木兹海峡管理的谈判已进入最后阶段，但强调海峡不会回到战前状态；土耳其外交部痛批内塔尼亚胡「扩张主义路线」，以军在加沙的空袭已造成至少17人死亡。</description>
+      <pubDate>Mon, 03 Aug 2026 10:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/557-us-iran-talks-israel-sidelined-hormuz-aug-3-2026.zh.html</guid>
+    </item>
+
+<item>
+      <title>⚡ 8月3日金融要闻：韩股大跌近5%回吐史诗反弹、油价开盘重挫逾6%欧佩克宣布9月增产、金价跳空高开40美元逼近4100</title>
+      <link>https://ai-daily.cc.cd/posts/556-finance-news-kospi-slide-oil-opec-gold-surge-aug-3-2026.zh.html</link>
+      <description>⚡ 8月3日金融要闻：亚太开盘「冰火两重天」——韩国股市回吐上周五史诗级反弹，KOSPI大跌近5%报6272.8点，三星电子、SK海力士跌逾7%，外资从周五创纪录净买入7.22万亿韩元一日转向净卖出7956亿韩元；原油正式开盘重挫，WTI最低跌至74.78美元/桶，「欧佩克+」七国宣布9月日均增产18.8万桶；现货黄金跳空高开近40美元一度触及4082.28美元/盎司，美元指数跌破100创一个半月新低；特朗普确认8月3日与伊朗举行谈判，伊朗外长称与阿曼谈判进入最后阶段。</description>
+      <pubDate>Mon, 03 Aug 2026 09:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/556-finance-news-kospi-slide-oil-opec-gold-surge-aug-3-2026.zh.html</guid>
+    </item>
+<item>
       <title>⚡ 8月3日泛科技要闻：全球「RAMaggeddon」存储涨价潮来袭、三星挑战海力士HBM4霸主、CXMT首款LPDDR6逼近量产</title>
       <link>https://ai-daily.cc.cd/posts/555-ai-news-memory-chip-hbm-cxmt-ram-crunch-aug-3-2026.zh.html</link>
       <description>⚡ 8月3日泛科技要闻：AI热潮引爆全球存储芯片「RAMaggeddon」——16GB内存条价格从300-400港元飙升至1500港元、同比涨5-6倍，笔记本·手机·汽车价格承压；瑞银（UBS）周日报告预测三星2027年将以41%的份额反超SK海力士（39%）重夺HBM霸主；中国长鑫存储（CXMT）首款LPDDR6逼近开发验证尾声，但受DUV光刻限制与海力士EUV的14.4Gbps差约11%。</description>
