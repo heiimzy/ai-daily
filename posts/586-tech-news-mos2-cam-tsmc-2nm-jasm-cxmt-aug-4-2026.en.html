@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aug 4 Tech Update: HKU 2D In-Memory Chip Breakthrough, TSMC 2nm Ramp & Kumamoto Recovery, PC Makers Adopt CXMT DRAM - AI Daily</title>
+  <meta name="description" content="⚡ Aug 4 general tech roundup: A University of Hong Kong team built an analog content-addressable memory (CAM) chip from 2D MoS2 flash memory with sub-0.1 femtojoule energy and 36-picosecond latency per search — roughly 100 million times faster than a CPU on analog Hamming distance tasks; TSMC is ramping 2nm output toward 100,000 wafers a month by year-end and pulling 3nm expansion ahead of schedule; TSMC's Kumamoto JASM fab returned to full operations after the July 28 earthquake with a 250 million yen donation; and Nikkei Asia reported HP, Asus and Acer have begun using small volumes of CXMT DRAM chips from China amid an unprecedented memory shortage.">
+  <meta name="keywords" content="Tech News,HKU,MoS2,CAM,in-memory computing,2D materials,chip,TSMC,2nm,3nm,JASM,Kumamoto,earthquake,CXMT,DRAM,HP,Asus,Acer,memory shortage,AI chip"></meta>
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/586-tech-news-mos2-cam-tsmc-2nm-jasm-cxmt-aug-4-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/586-tech-news-mos2-cam-tsmc-2nm-jasm-cxmt-aug-4-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/586-tech-news-mos2-cam-tsmc-2nm-jasm-cxmt-aug-4-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-04</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="586-tech-news-mos2-cam-tsmc-2nm-jasm-cxmt-aug-4-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-04</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">HKU</span><span class="tag">MoS2</span><span class="tag">In-Memory Computing</span><span class="tag">2D Materials</span><span class="tag">TSMC</span><span class="tag">2nm</span><span class="tag">JASM</span><span class="tag">CXMT</span><span class="tag">DRAM</span></div>
+  <h1>⚡ Aug 4 Tech Update: HKU 2D In-Memory Chip Searches Faster Than Light Travels, TSMC Ramps 2nm to 100K Wafers, Kumamoto Fab Recovers, PC Makers Try CXMT DRAM</h1>
+  <p>August 4 delivered a packed day in semiconductors, from the lab to the fab to the PC supply chain: a University of Hong Kong team unveiled an analog content-addressable memory (CAM) chip built from two-dimensional MoS2 with sub-0.1 femtojoule energy and 36-picosecond latency per search — roughly 100 million times faster than a CPU; TSMC is reportedly racing 2nm output toward 100,000 wafers a month by year-end while pulling 3nm expansion ahead of schedule; TSMC's Kumamoto JASM fab confirmed a full return to operations after the July 28 earthquake; and Nikkei Asia reported HP, Asus and Acer have begun using small volumes of CXMT DRAM amid an unprecedented memory shortage. Here is the roundup.</p>
+<h2>1. HKU 2D-Material In-Memory Chip: Sub-0.1 fJ per Search, ~100 Million Times Faster Than a CPU</h2>
+  <p>According to <b>The University of Hong Kong (HKU)</b> (published 15:09 Beijing time, Aug 4), a team led by Professor <b>Can Li</b> from the Department of Electrical and Electronic Engineering and the Centre for Advanced Semiconductors and Integrated Circuits (CASIC) has published a paper in <b>Nature Nanotechnology</b> reporting an <b>analog content-addressable memory (CAM)</b> chip built on two-dimensional (2D) MoS2 flash memory, designed to bypass the von Neumann bottleneck — the slow, energy-hungry shuttling of data between memory and processors.</p>
+  <p>Traditional SRAM-based digital CAMs require up to 16 transistors (16T) per cell, making them bulky, power-hungry and limited to digital signals. The HKU team used MoS2 — a 2D material tens of thousands of times thinner than a human hair — to shrink each analog CAM cell to just <b>2 transistors (2T)</b>, and employed the semimetal <b>antimony (Sb)</b> as contact electrodes to dismantle the "Schottky barrier" that restricts electron flow, achieving a high read-out current of over 60 μA/μm and an ON/OFF ratio exceeding 10⁹.</p>
+  <p>The fabricated analog CAM array demonstrated a record <b>energy consumption of under 0.1 femtojoules per search per cell and a latency of just 36 picoseconds</b> — for context, light travels only about 0.3 millimeters in one picosecond, so the search completes before light can even cross the chip. When calculating analog Hamming distance for machine learning classification, the chip performed roughly <b>100 million times faster than a standard CPU</b> while maintaining high accuracy across multiple datasets. Through 3D heterogeneous integration, the team also vertically stacked N-type MoS2 and P-type WSe2 within a single CAM cell, halving the area and eliminating peripheral inverter circuits.</p>
+  <p>Professor Li noted that the "attention mechanism" underpinning large language models (LLMs) is essentially a search process — retrieving information from a compressed knowledge base — and the team is exploring using this high-performance hardware to implement search mechanisms for large AI models. The breakthrough also paves the way for ultra-compact <b>edge AI chips</b> that could run tasks like smartphone facial recognition entirely on-device without uploading private data to the cloud.</p>
+<h2>2. TSMC to Ramp 2nm to ~100,000 Wafers a Month by Year-End, Pull 3nm Expansion Ahead</h2>
+  <p>According to <b>TweakTown</b> (citing Taiwan's Economic Daily News, published 13:57 Beijing time, Aug 4), TSMC is rapidly expanding its most advanced process capacity: <b>2nm (N2)</b> monthly output is expected to roughly double from about 50,000–60,000 wafers in H1 2026 to <b>100,000 by year-end</b>, while <b>3nm</b> output is projected to reach about 180,000 wafers per month in Q4 2026 — with TrendForce estimating the 3nm ramp could land two to three months ahead of the original schedule. N2 currently contributes only about 3% of TSMC's revenue, but its tape-out count is already several times that of 3nm at the same stage.</p>
+  <p>The expansion is being driven by AI-era customers. Apple's <b>A20 / A20 Pro</b> chips, expected to power the iPhone 18 series launching in September, are built on TSMC's N2 process; Qualcomm and MediaTek's next-generation SoCs are slated for 2nm production in 2027; and on the data-center side, AMD's <b>MI450 series</b> and NVIDIA's <b>Rubin Ultra</b> will also use 2nm. Analysts estimate NVIDIA alone is absorbing roughly 35,000 additional 3nm wafers per month, with AMD, Broadcom and Apple racing to lock in allocation. CoWoS advanced packaging and HBM remain parallel bottlenecks. Separate reports suggest Apple, wary of supply constraints, may shift to the 1.4nm node after two generations on 2nm.</p>
+<h2>3. TSMC's Kumamoto JASM Fab Returns to Full Operations, Announces 250 Million Yen Donation</h2>
+  <p>According to <b>Digitimes</b> (12:09, Aug 4) and <b>Focus Taiwan / CNA</b> (12:25 PM, Aug 4), TSMC has announced that its Japanese subsidiary <b>JASM (Japan Advanced Semiconductor Manufacturing)</b> in Kikuyo, Kumamoto Prefecture, has <b>returned to normal operations</b> following disruptions from the recent earthquake, and pledged a <b>250 million yen</b> donation to disaster relief, alongside a TSMC Charity Foundation employee fundraising campaign.</p>
+  <p>A <b>magnitude-7.1 earthquake</b> struck Kumamoto Prefecture on July 28, registering upper-5 seismic intensity at the fab site; JASM evacuated employees per its criteria and then completed structural inspections and equipment calibration. TSMC credited its Kumamoto employees and suppliers for the swift restoration. JASM's first fab began commercial production at the end of 2024 and currently produces roughly 55,000 12-inch wafers per month — less than 3% of TSMC's total capacity, so even a worst-case shutdown would not have been systemic. A second fab is under construction nearby, with 3nm mass production slated for 2028. The episode underscores TSMC's strategy of geographically diversifying across Taiwan, Japan, Arizona and Germany.</p>
+<h2>4. Nikkei Asia: HP, Asus and Acer Begin Using CXMT DRAM Chips</h2>
+  <p>According to <b>Nikkei Asia</b> (published 12:15 Beijing time, Aug 4), leading PC makers HP, Asus and Acer have begun using <b>small volumes of DRAM chips from China's ChangXin Memory Technologies (CXMT)</b> in entry-level laptops amid an unprecedented memory shortage fueled by AI infrastructure demand. Several major PC makers completed validation of CXMT's DRAM around mid-2026, but current usage remains very limited, and the models involved are mainly sold in <b>non-U.S. markets</b> — in part because CXMT is prioritizing supply to Chinese customers such as Huawei.</p>
+  <p>Sources said PC makers are treading carefully, wary that large-scale adoption could anger major suppliers Micron, Samsung Electronics and SK Hynix. Still, purchases by HP and others mark a significant win for CXMT: the company recently listed on Shanghai's STAR Market with a market capitalization that has surpassed Intel's, and holds roughly 7.67% of global DRAM market share, ranking fourth worldwide. With memory prices climbing and supply tight, PC makers' pragmatic choice not to overlook a potential supply source is opening the door for China's memory industry into international supply chains.</p>
+  <p>From HKU's 2D in-memory chip breakthrough in the lab, to TSMC's 2nm ramp and Kumamoto recovery, to CXMT knocking on the door of global PC supply chains — Aug 4's semiconductor stories span the research frontier and the realities of a supply-constrained industry. Architecture innovation and manufacturing capacity are racing in parallel.</p>
+  <p>Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Keep up with the latest AI news and tools? Check out the <a href="https://ai-daily.cc.cd/tools.html" target="_blank">AI Daily · Free Tools Hub</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

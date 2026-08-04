@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aug 3 Tech Update: Alibaba Launches 2.4T-Parameter Qwen3.8-Max, DeepSeek V4-Flash Costs $0.03 Per Test, OpenAI Reveals Long-Horizon Agent Architecture - AI Daily</title>
+  <meta name="description" content="⚡ Aug 3 general tech roundup: Alibaba officially released its flagship Qwen3.8-Max model (2.4 trillion parameters), announcing it will open-source Max-class weights for the first time next week alongside QwenWork public beta; DeepSeek's V4-Flash costs just $0.03 per benchmark test, roughly 105x cheaper than Claude Fable 5, with Reuters reporting a new funding round at a 500 billion yuan valuation; OpenAI, on the one-year anniversary of its Responses API, detailed its long-horizon agent architecture; Black Hat 2026 opened in Las Vegas with a wave of AI agent security launches and Horizon3 at a $2B valuation."></meta>
+  <meta name="keywords" content="Tech News,Alibaba,Qwen3.8-Max,Qwen,DeepSeek,V4-Flash,AI Pricing War,OpenAI,AI Agents,Responses API,Black Hat 2026,AI Security,Horizon3,QwenWork"></meta>
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/574-tech-news-qwen38-deepseek-openai-agents-blackhat-aug-3-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/574-tech-news-qwen38-deepseek-openai-agents-blackhat-aug-3-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/574-tech-news-qwen38-deepseek-openai-agents-blackhat-aug-3-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-03</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="574-tech-news-qwen38-deepseek-openai-agents-blackhat-aug-3-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-03</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Alibaba</span><span class="tag">Qwen3.8-Max</span><span class="tag">Qwen</span><span class="tag">DeepSeek</span><span class="tag">V4-Flash</span><span class="tag">AI Pricing War</span><span class="tag">OpenAI</span><span class="tag">AI Agents</span><span class="tag">Black Hat</span><span class="tag">AI Security</span><span class="tag">Horizon3</span></div>
+  <h1>⚡ Aug 3 Tech Update: Alibaba Launches 2.4T-Parameter Qwen3.8-Max, DeepSeek V4-Flash Costs $0.03 Per Test, OpenAI Details Its Agent Architecture</h1>
+  <p>Monday's tech world was dominated by China's two big-model powerhouses: Alibaba's Qwen team officially released the 2.4-trillion-parameter flagship Qwen3.8-Max and unusually promised to open-source Max-class weights for the first time; DeepSeek's V4-Flash, at roughly $0.03 per benchmark test, set the overseas developer community abuzz — "like magic," as one post put it. Meanwhile, OpenAI, on the one-year anniversary of its Responses API, detailed the internal architecture that turns its models into long-horizon "digital employees," and Black Hat 2026 opened in Las Vegas with AI agent security as the main theme. Here is this roundup.</p>
+
+  <h2>1. Alibaba Launches Qwen3.8-Max: 2.4T Parameters, First-Ever Open Max-Class Weights, QwenWork in Public Beta</h2>
+  <p>On August 3, Alibaba's Tongyi Qianwen team officially released its flagship <b>Qwen3.8-Max</b>: <b>2.4 trillion total parameters</b> in a sparse MoE architecture with about 95 billion activated per query, a <b>1-million-token context window</b>, and native multimodal input spanning text, images, video and documents. It is the formal version of the Qwen3.8-Max-Preview unveiled on July 19 — the same architecture refined through systematic post-training, with Alibaba claiming it is "second only to Claude Fable 5" and ranking No. 2 globally in third-party blind tests like Arena.</p>
+  <p>The headline move is the <b>first-ever open-source release of Max-class weights</b>: next week, Alibaba will publish Qwen3.8-Max weights on Hugging Face and ModelScope, alongside the dense <b>Qwen3.8-27B</b> — the first time a Max-class Qwen model has been opened, bringing a datacenter-scale 2.4T model into the self-hosted era. On the product side, <b>QwenWork</b>, a workplace AI agent platform for non-developers, entered public beta the same day, powered by Qwen3.8-Max. The API is live on Alibaba Cloud Model Studio, QwenCloud and Qoder at <b>$2 per million input tokens and $6 per million output</b>, under Kimi K3's $3/$15. Alibaba's Hong Kong-listed shares closed up about 7% at HK$125.20.</p>
+  <p>Its most striking demo: Qwen3.8-Max autonomously built a complete AI coding framework (Hermes Agent) over <b>16 days with no human intervention</b> — from requirements analysis and architecture design to implementation and debugging. Benchmarks include PaperBench at 93.0 (up 28.2 points from the prior generation), a leading 86.1 on OSWorld-Verified, 92.6 on GPQA Diamond and 82.8 on IF Bench.</p>
+
+  <h2>2. DeepSeek V4-Flash Sparks a Pricing Storm: $0.03 Per Test, 105x Cheaper</h2>
+  <p>DeepSeek opened public beta of its V4-Flash stable API on July 31 and open-sourced it on August 2: a <b>284B-parameter MoE with 13B active per token</b>, natively supporting a 1-million-token context. What electrified developers is the cost curve — third-party evaluator Artificial Analysis found V4-Flash costs just $0.14 per million input tokens and $0.28 per million output, and that completing its full benchmark suite (210 million output tokens) cost a total of $72.02, <b>or about $0.03 per test</b>. By comparison: $0.86 for Kimi K3, $1.86 for OpenAI's GPT-5.6 Sol, and $3.15 for Claude Fable 5 — in some tests, more than 100x cheaper (up to ~105x). Developers reported real-world single-task bills as low as $0.0005.</p>
+  <p>"Musk needs to try V4 Flash himself. It's like magic." The quote spread from X, and users soon noticed Musk had indeed followed DeepSeek's official account, fueling speculation. On agentic benchmarks, V4 Flash scored 82.7 on Terminal Bench 2.1, 76.7 on Cybergym and 70.3 on Toolathlon Verified, with a 50 on Artificial Analysis's Intelligence Index, matching Gemini 3.6 Flash. Reuters reported DeepSeek is raising a new round at a <b>valuation of up to 500 billion yuan, planning to raise as much as 50 billion yuan</b> for AI data centers and inference chip R&D.</p>
+  <p>Despite fears that low prices would crush AI capex, analysts note the four hyperscalers (Alphabet, Amazon, Meta, Microsoft) are still expected to spend about <b>$650 billion on AI infrastructure in 2026</b> (up from $410 billion in 2025), with Amazon alone lifting 2026 CapEx to $220 billion — <b>cheaper APIs expand total token consumption exponentially</b>. The era of blindly stacking GPUs is giving way to an era of systematic cost optimization.</p>
+
+  <h2>3. OpenAI Details Its Long-Horizon Agent Architecture: Turning Models Into "Digital Employees"</h2>
+  <p>On the one-year anniversary of its Responses API, OpenAI published a major technical article revealing how it turns its models from chatbots into agents that reliably complete complex tasks. The core is a new agent runtime architecture: <b>Responses API + shell tools + hosted container workspaces</b>. Give it a goal and the model plans steps, runs programs, queries data, generates files, and even calls external systems — behaving like a true "digital employee."</p>
+  <p>The key mechanism is <b>native context compaction</b>: OpenAI's latest models are explicitly trained to analyze prior conversation state and produce a "compaction" — an efficient, accurate token representation that preserves critical history while dropping redundant content, and the compression is aligned with how the model was trained. The company says this solves the hardest bottleneck of long-running tasks — state persistence across file systems and sessions — letting a single prompt expand into a complete end-to-end workflow (discover the right skill, fetch context, query data, execute). For an industry plagued by agent latency and lost context, it is a significant mechanism upgrade.</p>
+
+  <h2>4. Black Hat 2026 Opens: AI Agent Security Everywhere, Horizon3 Valued at $2B</h2>
+  <p>Black Hat USA 2026 kicked off in Las Vegas on August 3 with <b>AI agent security as the dominant theme</b>. Data security platform Cyera launched <b>Agent Guardian</b> and Cyera Endpoint, promising to make every AI agent "as visible and accountable as a human employee" — monitoring every tool call, database query and reasoning step, covering Claude Code, Cursor, Microsoft Copilot, AWS Bedrock and more, with continuous red-teaming against prompt injection, jailbreaks and privilege escalation. Cyera is valued at $12 billion with over $2.3 billion raised. ESET announced an expanded AI security portfolio — AI Agent Security, AI Behavioral Monitoring and AI Conversation Security — arriving September 30 across ESET PROTECT. Simbian released an AI Threat Hunt Agent, completing a "past-present-future" security loop alongside its AI SOC and AI Pentest agents.</p>
+  <p>Venture capital was equally hot: AI penetration-testing platform <b>Horizon3</b> closed a <b>$250 million Series E at a $2 billion valuation</b>, more than tripling its valuation in 14 months. Its NodeZero platform uses AI to find and exploit attack paths in production systems — echoing the agentic offense-defense narrative across the show floor: as attackers speed up with AI, defenders have no choice but to move faster.</p>
+
+  <p>From a 2.4T-parameter open-source gamble to a $0.03 "cost nuke," to stuffing models into containers and putting them to work — the focus of AI competition is shifting from "whose model is strongest" to "who can make models work most cheaply and reliably." Once Qwen3.8-Max's weights go public next week, the race enters another round of white heat.</p>
+
+  <p>Want to discover more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want the latest AI news and tools? Follow <a href="https://ai-daily.cc.cd/tools.html" target="_blank">AI Daily · Free Tools Library</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

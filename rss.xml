@@ -6,10 +6,248 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Mon, 03 Aug 2026 14:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 02:00:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+  <title>⚡ 8月5日国际要闻：美伊谈判再现破局曙光、霍尔木兹再有一艘货船遇袭、俄乌互袭致平民伤亡扩大、美新增43家中企入黑名单</title>
+  <link>https://ai-daily.cc.cd/posts/594-international-news-us-iran-hormuz-russia-ukraine-china-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日国际要闻：美财长贝森特称重开霍尔木兹海峡协议「今天或明天」即可达成，卡塔尔称接触已到「非常深入阶段」，但伊朗否认与美直接会谈，布伦特油价应声下挫逾4%；海峡外再有一艘干散货船遭不明弹体袭击，船员弃船、一名海员失踪；俄乌互袭升级，乌无人机袭击莫斯科州仓库致5死10伤并连环炸毁Wildberries多座仓库，俄反手轰击苏梅、尼古拉耶夫致平民伤亡扩大；特朗普警告中国若向伊朗供武将「非常失望」，恰逢美国将43家中企列入涉疆「强迫劳动」实体清单。</description>
+  <pubDate>Wed, 05 Aug 2026 02:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/594-international-news-us-iran-hormuz-russia-ukraine-china-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日金融要闻：标普500与道指同创历史新高、卡特彼勒Q2营收首破200亿美元、美国6月岗位空缺降至735.9万、原油跌至三周低点</title>
+  <link>https://ai-daily.cc.cd/posts/593-finance-news-sp500-dow-record-caterpillar-jolts-oil-hormuz-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日金融要闻：周二（美东8月4日）盘中，标普500与道指同创历史新高，标普首度超越6月纪录、道指涨893点、纳指涨2.1%；卡特彼勒Q2营收首破200亿美元、同比增24%，创历史新高并上调全年指引；美国6月JOLTS岗位空缺降至735.9万、低于预期，招聘回升显示劳动力市场仍稳固；因美伊重开霍尔木兹海峡谈判预期升温，布伦特原油一度跌约5.6%至79.12美元、触及三周低点。</description>
+  <pubDate>Wed, 05 Aug 2026 01:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/593-finance-news-sp500-dow-record-caterpillar-jolts-oil-hormuz-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日泛科技要闻：SpaceX猎鹰9残骸今日撞击月球、SK海力士发布HBF标准与V10 375层NAND、Anthropic签百亿美元算力大单、英伟达评估下调Rubin Ultra HBM配置</title>
+  <link>https://ai-daily.cc.cd/posts/592-tech-news-spacex-moon-impact-sk-hynix-hbf-anthropic-volta-nvidia-rubin-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日泛科技要闻：一枚在太空漂流18个月的SpaceX猎鹰9号火箭残骸将于今日约06:35 UTC撞击月球爱因斯坦陨石坑附近，威力约3吨TNT，南美与北美部分地区可用望远镜观测；SK海力士携手闪迪在FMS 2026发布业界首个HBF标准规范，并展出全球首创的V10 375层4D NAND；Anthropic被曝与英伟达支持的云初创Volta Infra签署100亿美元、为期六年的算力协议；TrendForce指出2027年DRAM持续供不应求，英伟达正评估下调Rubin Ultra的HBM配置。</description>
+  <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/592-tech-news-spacex-moon-impact-sk-hynix-hbf-anthropic-volta-nvidia-rubin-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：Cloudflare发布Agentic互联网可编程钱包、微软Project Perception智能体化安全公开预览、思科开源AI安全模型Antares、Bending Spoons 12.8亿美元收购Airtable</title>
+  <link>https://ai-daily.cc.cd/posts/591-tech-news-agentic-security-commerce-cloudflare-microsoft-cisco-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：Cloudflare正式发布Cloudflare Wallets，为AI智能体提供可编程钱包与x402稳定币微支付，构建Agentic互联网双端市场；微软Project Perception智能体化安全系统进入公开预览，红蓝绿三色智能体团队在Defender内闭环攻防；思科开源AI安全小模型家族Antares首批两个「开放权重」模型上线Hugging Face；上市后首笔收购Bending Spoons宣布以12.8亿美元现金收购Airtable。</description>
+  <pubDate>Tue, 04 Aug 2026 15:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/591-tech-news-agentic-security-commerce-cloudflare-microsoft-cisco-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日金融要闻：SpaceX首份财报今晚揭晓股价较高点近腰斩、欧洲股市创历史新高、Palantir财报次日盘前暴涨16%、央行5000亿买断式逆回购</title>
+  <link>https://ai-daily.cc.cd/posts/590-finance-news-spacex-earnings-europe-stocks-record-pboc-reverse-repo-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日金融要闻：SpaceX将于美东时间今晚盘后公布上市后首份财报，股价较6月16日高点201.80美元近乎腰斩至114.53美元，市值从3万亿美元高点蒸发超1万亿，8月6日首批9.115亿股解禁；欧洲STOXX 600指数盘中触及656.85点历史新高，拜耳、汇丰财报超预期；美股盘前Palantir暴涨16%、Caterpillar营收首破200亿美元，道指期货涨逾600点；中国人民银行公告8月5日开展5000亿元买断式逆回购，期限3个月；多晶硅期货连续第二日大涨、「反内卷」行情延续。</description>
+  <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/590-finance-news-spacex-earnings-europe-stocks-record-pboc-reverse-repo-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：首部L3/L4自动驾驶安全强标发布、新思×英伟达芯片设计自主智能体、荣耀Robot Phone定档8月12日、高德世界模型24小时推理</title>
+  <link>https://ai-daily.cc.cd/posts/589-tech-news-autonomous-driving-safety-standard-synopsys-nvidia-honor-robot-phone-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：工信部正式发布我国首部L3/L4自动驾驶安全强制性国标《智能网联汽车 自动驾驶系统安全要求》（GB 44721—2026），拟2027年7月1日实施，引入Safety Case安全档案机制；新思科技联手英伟达在DAC发布可长时运行、面向芯片设计的自主智能体AI；荣耀全球首款机器人手机Robot Phone定档8月12日并开启全渠道预约；高德ABot-World-0成为全球首个实现24小时连续稳定推理的交互式世界模型并开源；AI制药新锐Phylo与中外制药合作，将Biomni Lab智能体平台部署进药物发现工作流。</description>
+  <pubDate>Tue, 04 Aug 2026 11:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/589-tech-news-autonomous-driving-safety-standard-synopsys-nvidia-honor-robot-phone-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日国际要闻：特朗普称谈判是伊朗「斩首前最后机会」、革命卫队无人机袭击科威特美军基地、乌军夜袭莫斯科周边野莓仓库与西兹兰炼油厂</title>
+  <link>https://ai-daily.cc.cd/posts/588-international-news-trump-iran-decapitation-irgc-kuwait-wildberries-syzran-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日国际要闻：特朗普在白宫称与伊朗谈判正在进行、这是德黑兰签署协议的「斩首前最后机会」，伊朗外交部发言人巴加埃断然否认与美直接谈判、强调只与阿曼就霍尔木兹海峡临时航道磋商；革命卫队出动至少3架无人机袭击科威特美军基地，UKMTO通报霍尔木兹海域一艘货船遭「不明射弹」击中；乌军4日凌晨大规模无人机夜袭俄后方，莫斯科州契诃夫与圣彼得堡附近野莓物流仓库遇袭起火、西兹兰炼油厂烈焰冲天，ISW称乌军在哈尔科夫方向击退俄军推进。</description>
+  <pubDate>Tue, 04 Aug 2026 10:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/588-international-news-trump-iran-decapitation-irgc-kuwait-wildberries-syzran-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日金融要闻：美联储威廉姆斯称通胀若不降将加息、美日联手干预日元引爆套利平仓隐忧、比特币逼近6.4万美元、A股AI狂飙银行重挫</title>
+  <link>https://ai-daily.cc.cd/posts/587-finance-news-fed-williams-yen-intervention-bitcoin-asia-stocks-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日金融要闻：纽约联储主席威廉姆斯预计通胀下半年回落、但警告若不及预期将加息，FOMC连续第五次按兵不动却现三票反对；美财长贝森特罕见抛欧元买入日元参与美日联合干预、公开向美联储施压扩容FIMA，逾万亿美元日元套利交易平仓风险悬顶；亚洲股市周二早盘回暖、布伦特企稳84.65美元，A股上演AI狂飙、银行重挫的风格切换；比特币亚洲时段收复6.3万美元、逼近6.4万美元，Strategy再度减持1638枚比特币。</description>
+  <pubDate>Tue, 04 Aug 2026 09:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/587-finance-news-fed-williams-yen-intervention-bitcoin-asia-stocks-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：港大2D存算芯片搜索快过光速、台积电2nm年底月产10万片、熊本厂震后全面复产、PC大厂试用长鑫DRAM</title>
+  <link>https://ai-daily.cc.cd/posts/586-tech-news-mos2-cam-tsmc-2nm-jasm-cxmt-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：香港大学团队基于二维MoS2材料打造模拟内容寻址内存（CAM）芯片，单次搜索能耗低于0.1飞焦、延迟仅36皮秒，比CPU快约一亿倍；台积电2nm产能年底冲刺月产10万片、3nm提前扩产；台积电熊本JASM厂震后全面复产并捐2.5亿日元；日经亚洲曝惠普、华硕、宏碁开始小规模采用长鑫CXMT的DRAM芯片。</description>
+  <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/586-tech-news-mos2-cam-tsmc-2nm-jasm-cxmt-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：苹果申请对OpenAI临时禁令双方再交锋、DeepSeek V4 Flash因流量爆棚短暂故障后恢复</title>
+  <link>https://ai-daily.cc.cd/posts/585-tech-news-apple-openai-injunction-deepseek-v4-flash-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：苹果向美国法官申请初步禁令，要求禁止两名前员工与OpenAI访问、使用或披露所谓的苹果机密信息，并同步申请加快证据开示，OpenAI发文驳斥称苹果「搞错了」、禁令毫无必要，双方围绕AI硬件商业机密的对抗再度升级；同日，DeepSeek-V4-Flash因访问量「史无前例」出现API容量不足、上午近乎不可用，官方确认性能下降后已恢复服务。</description>
+  <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/585-tech-news-apple-openai-injunction-deepseek-v4-flash-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日国际要闻：伊朗披露取消对乌打击计划、俄军一夜136架无人机袭乌、巴勒斯坦外长痛批定居者暴力、伊拉克称霍尔木兹通航谅解在望</title>
+  <link>https://ai-daily.cc.cd/posts/584-international-news-iran-ukraine-hormuz-russia-drones-west-bank-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日国际要闻：伊朗最高领袖军事顾问礼萨伊披露，伊朗武装力量曾完成对乌克兰三处目标的打击准备，在基辅就7月25日里海船只事件「道歉」后取消行动，并警告任何试图使用非指定航线的美国军舰都将遭打击；俄军8月3日晚至4日凌晨从罗斯托夫州发射伊斯坎德尔-M弹道导弹并从多地发射136架攻击无人机袭乌，乌防空截至08:00拦截117架；巴勒斯坦外长沙欣指责约旦河西岸定居者袭击激增是在以色列政府与军方直接支持协调下进行，今年已有至少20名巴勒斯坦人因此丧生；伊拉克石油部长称正与伊朗就油轮顺利通过霍尔木兹海峡谈判，期待数日内达成重要谅解。</description>
+  <pubDate>Tue, 04 Aug 2026 05:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/584-international-news-iran-ukraine-hormuz-russia-drones-west-bank-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日金融要闻：亚洲股市高开低走、布伦特原油企稳、美国25州起诉新关税、贝索斯拟减持亚马逊</title>
+  <link>https://ai-daily.cc.cd/posts/583-finance-news-asia-stocks-oil-25-states-tariffs-bezos-amazon-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日金融要闻：美股周一三大指数收涨、道指创历史新高后，亚洲股市周二高开低走，日经转跌约0.7%、韩股承压；布伦特原油从约5%的暴跌中企稳回升至85美元附近；美国25个州联合起诉特朗普政府对60个贸易伙伴的新关税，称其为最高法院已否决关税的「幌子」；贝索斯提交Form 144拟出售最多1500万股亚马逊股票（约40.7亿美元）。</description>
+  <pubDate>Tue, 04 Aug 2026 05:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/583-finance-news-asia-stocks-oil-25-states-tariffs-bezos-amazon-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：Telegram遭全球App Store下架又恢复、Lyft联手百度2026年欧洲推无人出租车、SK海力士FMS首发HBF标准</title>
+  <link>https://ai-daily.cc.cd/posts/582-tech-news-telegram-app-store-lyft-baidu-robotaxi-sk-hynix-hbf-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：Telegram于8月4日凌晨遭全球Apple App Store下架、约两小时后恢复，175个测试区域商店全部不可用，苹果与杜罗夫均未说明原因；美国网约车巨头Lyft与百度宣布合作，自2026年起在英国和德国率先部署无人驾驶出租车，百度RT6将登陆Lyft平台，未来数年车队扩至数千辆；FMS 2026存储大会今日在硅谷开幕，SK海力士联合闪迪发布全球首个HBF（高带宽闪存）标准规范，并首秀第十代375层4D NAND晶圆。</description>
+  <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/582-tech-news-telegram-app-store-lyft-baidu-robotaxi-sk-hynix-hbf-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：DeepSeek-V4-Flash登顶全球调用量榜首、EA被沙特财团550亿美元私有化完成、OpenAI下调GPT-5.6价格引爆AI应用股</title>
+  <link>https://ai-daily.cc.cd/posts/581-tech-news-deepseek-v4-flash-openrouter-ea-saudi-privatization-openai-luna-price-cut-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：DeepSeek-V4-Flash以7.1万亿Token周调用量登顶全球大模型调用量榜首，国产大模型包揽前五，中国周调用量28.13万亿连续十四周超美国；沙特PIF财团8月4日完成对艺电(EA)约550亿美元的全现金私有化收购，为史上最大全现金私有化交易；OpenAI将GPT-5.6 Luna降价80%、Terra降价20%，A股AI应用概念股集体大涨。</description>
+  <pubDate>Tue, 04 Aug 2026 03:15:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/581-tech-news-deepseek-v4-flash-openrouter-ea-saudi-privatization-openai-luna-price-cut-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日金融要闻：道指创收盘历史新高、谷歌市值反超苹果升至全球第二、亚马逊首破3万亿美元、7月ISM制造业PMI创四年新高</title>
+  <link>https://ai-daily.cc.cd/posts/580-finance-news-dow-record-google-apple-amazon-ism-marriott-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日金融要闻：美东8月3日美股强势开局——道指涨1.32%收53,178.41点创历史收盘新高，纳指涨2.13%；谷歌（Alphabet）市值达4.51万亿美元反超苹果升至全球第二，亚马逊市值首次突破3万亿美元；美国7月ISM制造业PMI升至55.6创2022年5月以来新高，就业分项33个月来首次扩张；万豪国际Q2财报EPS超预期但营收不及预期、股价大跌逾7%；Palantir盘后确认Q2营收19.35亿美元同比增93%、大涨12%，本周聚焦AMD、SpaceX首份财报与周五非农。</description>
+  <pubDate>Tue, 04 Aug 2026 01:05:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/580-finance-news-dow-record-google-apple-amazon-ism-marriott-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：Black Hat 2026开幕AI智能体安全成绝对主角、Cyera与Simbian扎堆发布智能体防护新品、前DeepMind团队Reimagine Robotics出隐身</title>
+  <link>https://ai-daily.cc.cd/posts/579-tech-news-black-hat-ai-agent-security-reimagine-robotics-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：Black Hat USA 2026在拉斯维加斯开幕，121场简报中35场（29%）直接涉及AI安全——Check Point、NVIDIA与Oligo研究直指智能体框架运行时与自传播僵尸网络，「智能体利用」正式成为独立安全学科；安全厂商扎堆发布新品——Cyera推出Agent Guardian守护企业智能体、Simbian发布AI威胁猎捕智能体补全SecOps闭环、Tanium推自主安全能力、Zero Networks落地OWASP最小代理权原则；前谷歌DeepMind应用机器人团队负责人Jonathan Scholz创办的Reimagine Robotics正式出隐身，「在岗教学」机器人把新行为原型时间从一天压缩到10分钟。</description>
+  <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/579-tech-news-black-hat-ai-agent-security-reimagine-robotics-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：白宫召集OpenAI/Anthropic/谷歌敲定AI自愿安全测试框架、Snap Q2营收超预期AI驱动广告效率大增、Advanced Energy创纪录财报</title>
+  <link>https://ai-daily.cc.cd/posts/578-ai-news-white-house-snap-advanced-energy-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：特朗普政府周二将在白宫召集OpenAI、Anthropic、谷歌等AI巨头，审查已完成的自愿网络安全测试框架——该框架源于6月2日行政令，允许政府提前最多30天访问前沿模型，基准测试保密，行政令明确不得演变为强制许可制度；Snap周一盘后发布Q2财报——营收16亿美元同比增19%超预期，日活4.93亿，调整后EBITDA达2.5亿美元为去年同期6倍，AI代码审查节省3万小时、AI客服月答390万问题，并上调全年AI基础设施开支5000万美元；Advanced Energy创纪录Q2——营收5.74亿美元增30%超指引上端，数据中心计算业务全年料增至少50%。</description>
+  <pubDate>Mon, 03 Aug 2026 23:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/578-ai-news-white-house-snap-advanced-energy-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日国际要闻：加沙解除武装协议博弈白热化、泽连斯基制裁直指俄导弹产能、昂山素季政变后首见外国官员</title>
+  <link>https://ai-daily.cc.cd/posts/577-international-news-gaza-netanyahu-ukraine-sanctions-suu-kyi-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日国际要闻：Board of Peace特使姆拉德诺夫敦促以色列暂停加沙袭击14天遭拒，以方称「不会从当前战线撤退」，埃卡土三国谴责以军违反国际法；泽连斯基签署新一轮对俄国防工业制裁令，涉23名个人与20家实体，直指伊斯坎德尔-M导弹产能；昂山素季2021年政变后首次公开会见ICRC代表。</description>
+  <pubDate>Mon, 03 Aug 2026 22:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/577-international-news-gaza-netanyahu-ukraine-sanctions-suu-kyi-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日金融要闻：安森美财报超指引AI数据中心收入今年料翻倍、福泰制药Q2营收超预期、Diamondback每股收益6.65美元、比特币重回6.38万美元</title>
+  <link>https://ai-daily.cc.cd/posts/576-finance-news-onsemi-vertex-diamondback-earnings-bitcoin-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日金融要闻：美东8月3日盘后财报潮——安森美Q2营收、毛利率与EPS全面高于指引中点，AI数据中心收入预计2026年翻倍以上，自由现金流利润率从约7%扩至27%；福泰制药Q2营收33.3亿美元同比增12%超预期约4.6%，上调全年指引至131-132亿美元；Diamondback能源Q2营收55.6亿美元增51%、每股收益6.65美元大超预期，产量首破100万桶油当量/日，回购授权翻倍至160亿美元；比特币随美股大涨重回6.38万美元上方，标普500创近4年最佳月度开局，本周聚焦AMD、SpaceX财报与周五非农。</description>
+  <pubDate>Mon, 03 Aug 2026 21:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/576-finance-news-onsemi-vertex-diamondback-earnings-bitcoin-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：Palantir Q2营收18.5亿美元超预期盘后仍跌2%、美股AI巨头集体狂欢芯片股续跌、英伟达发布Jetson T3000机器人平台</title>
+  <link>https://ai-daily.cc.cd/posts/575-tech-news-palantir-q2-earnings-us-tech-stocks-nvidia-jetson-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：Palantir周一盘后发布Q2财报——营收18.5亿美元同比增81%、调整后EPS 0.35美元双超预期，连续12个季度营收超预期，全年指引上调至76-78亿美元，但盘后仍跌约2%，「利好出尽」担忧延续；美股周一收盘标普500涨1.57%距历史高点仅0.2%，微软、亚马逊、Meta、谷歌集体大涨4%-6%，英伟达涨3.2%，芯片股续跌费半盘中跌超3%，CoreWeave暴涨15%带动「新云」反弹，WTI原油跌6.5%跌破80美元；英伟达发布Jetson T3000/T2000边缘AI模块与Cosmos 3 Edge 4B世界模型，主打机器人与物理AI。</description>
+  <pubDate>Mon, 03 Aug 2026 20:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/575-tech-news-palantir-q2-earnings-us-tech-stocks-nvidia-jetson-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月3日泛科技要闻：阿里发布2.4万亿参数Qwen3.8-Max、DeepSeek V4-Flash单测0.03美元、OpenAI自曝智能体架构</title>
+  <link>https://ai-daily.cc.cd/posts/574-tech-news-qwen38-deepseek-openai-agents-blackhat-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技要闻：阿里正式发布旗舰模型Qwen3.8-Max（2.4万亿参数、激活95B、百万Token上下文），宣布下周首次开源Max级权重并同步开源Qwen3.8-27B，「千问办公」同步公测，API定价2/6美元每百万Token；DeepSeek V4-Flash以单次测试0.03美元刷屏海外，较Claude Fable 5便宜约105倍，路透称其正以5000亿元估值融资最高500亿元；OpenAI在Responses API一周年之际自曝长时程智能体架构（Responses API+shell工具+托管容器+原生上下文压缩）；Black Hat 2026开幕，Cyera、ESET、Simbian扎堆发布AI智能体安全新品，AI渗透测试平台Horizon3以20亿美元估值完成2.5亿美元E轮融资。</description>
+  <pubDate>Mon, 03 Aug 2026 19:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/574-tech-news-qwen38-deepseek-openai-agents-blackhat-aug-3-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日国际要闻：伊朗否认与美谈判上演「24小时反转」、乌克兰Magura无人机首袭克里米亚雷达、俄乌互袭再致数十死</title>
+  <link>https://ai-daily.cc.cd/posts/573-international-news-iran-us-talks-magura-crimea-ukraine-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日国际要闻：特朗普周日宣布叫停「二战以来最大规模」对伊空袭并称美伊谈判周一重启，但伊朗外交部发言人巴盖伊周一例会明确否认——「我们目前没有与美国谈判，谈判对象是阿曼」，特朗普随即怒斥德黑兰「无比虚伪」；伊朗与阿曼关于霍尔木兹海峡新航线的谈判已进入最后阶段，CNN披露美军中央司令部正全员征集「创新施压伊朗」新点子，布伦特原油跌约4.6%；乌克兰军情总局公布独家画面：第13特种部队7月底首次用Magura舰载FPV无人机打击克里米亚俄军「波德廖特」雷达指挥车与Parol-4敌我识别系统；俄乌周一互袭再致17人死——克拉斯诺达尔度假村无人机残骸6死含3童、克里维里赫加油站3死、俄军攻占哈尔科夫两居民点。</description>
+  <pubDate>Tue, 04 Aug 2026 02:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/573-international-news-iran-us-talks-magura-crimea-ukraine-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日金融要闻：日美联合干预日元创2011年来首次、阿斯利康-BMS惊爆4000亿美元合并谈判、美股午盘走高但芯片股再遭抛售</title>
+  <link>https://ai-daily.cc.cd/posts/572-finance-news-yen-intervention-astrazeneca-bms-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日金融要闻：日本财务省与美国财政部确认上周五实施协调的「买入日元」联合干预，为2011年以来首次，日元从163.73急升至157.57，日本还将利用美联储FIMA回购便利避免抛售美债；英国《金融时报》爆料阿斯利康与百时美施贵宝就潜在合并谈判数月，合并市值约4000亿美元，AZN伦敦收盘大跌约9%创2020年来最大单日跌幅、BMS盘前涨6%；美股周一午盘走高，标普500涨0.84%创两周新高、道指涨1.21%、纳指100涨0.47%，但费城半导体指数跌超3%，航空股与软件股领涨；本周SpaceX发布上市后首份财报、AMD周二盘后登场，Marriott因Q2不及预期跌逾5%、GameStop跌逾11%。</description>
+  <pubDate>Tue, 04 Aug 2026 01:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/572-finance-news-yen-intervention-astrazeneca-bms-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月4日泛科技要闻：June AI携2000万美元出隐身、Yellow.ai借SPAC赴美上市、西门子联英伟达推芯片自主验证</title>
+  <link>https://ai-daily.cc.cd/posts/571-tech-news-june-ai-yellowai-siemens-nvidia-aug-4-2026.zh.html</link>
+  <description>⚡ 8月4日泛科技要闻：企业AI实施平台June AI宣布走出隐身模式并完成2000万美元pre-Seed融资，由Marc Benioff旗下TIME Ventures领投，戴尔创始人Michael Dell、VMware联合创始人Diane Greene、Box创始人Aaron Levie、CrowdStrike创始人George Kurtz参投；企业级智能体AI平台Yellow.ai宣布与SPAC公司Bluerock合并登陆纳斯达克，估值约5.5亿美元，代码YAI；西门子宣布扩大与英伟达合作，升级Fuse EDA AI Agent系统实现芯片「自主验证」，特性分析周期缩短逾10倍、Token成本降低5至10倍。</description>
+  <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/571-tech-news-june-ai-yellowai-siemens-nvidia-aug-4-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月3日泛科技要闻：Visa 24亿美元收购BioCatch强化反欺诈、英国AI芯片创企Olix估值达33亿美元、高德ABot-World单张消费级显卡连续推理24小时</title>
+  <link>https://ai-daily.cc.cd/posts/570-tech-news-visa-biocatch-olix-amap-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技要闻：支付巨头Visa宣布以24亿美元现金收购以色列行为反欺诈公司BioCatch，预计2027财年第二季度末完成；英国AI芯片初创公司Olix完成3.12亿美元B轮融资，估值升至33亿美元，创欧洲最大AI芯片融资纪录，Arm与里德·哈斯廷斯参投；高德开源世界模型ABot-World-0把单张消费级显卡的连续交互推理时长拉长到24小时，将长时交互视频生成从数据中心下沉到消费硬件。</description>
+  <pubDate>Mon, 03 Aug 2026 23:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/570-tech-news-visa-biocatch-olix-amap-aug-3-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月3日国际要闻：以色列对加沙缴械协议公开“摊牌”拒绝撤军、俄乌无人机互袭升级、俄滑翔炸弹袭扎波罗热</title>
+  <link>https://ai-daily.cc.cd/posts/569-international-news-israel-gaza-disarmament-ukraine-zaporizhzhia-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日国际要闻：以色列总理府发言人斯皮尔曼公开表示，以方已就特朗普力推的“哈马斯全面解除武装”协议向白宫表达“严重安全顾虑”，坚持在哈马斯真正缴械前拒绝从加沙撤军，并要求收缴武器彻底销毁、反对卡塔尔与土耳其参与核查、保留对加沙的动武权；与此同时以军连续第二晚空袭加沙造成至少13人死亡。俄乌战场方面，乌克兰无人机第三度打击俄罗斯Wildberries仓库（弗拉基米尔州），俄国防部称一夜拦截131架无人机，乌方无人机部队宣称四天内打击四座炼油厂与塔曼海上码头、摧毁12座储油罐，俄军当夜向乌克兰发射181架攻击无人机，泽连斯基再次敦促西方加快交付“爱国者”拦截弹；俄军滑翔炸弹袭击扎波罗热致1人死亡、数十人受伤。</description>
+  <pubDate>Mon, 03 Aug 2026 22:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/569-international-news-israel-gaza-disarmament-ukraine-zaporizhzhia-aug-3-2026.zh.html</guid>
+</item>
+
+                                      <item>
+  <title>⚡ 8月3日金融要闻：OPEC+九月再增产18.8万桶/日、美伊谈判重启油价重挫、比特币跌破6.3万美元</title>
+  <link>https://ai-daily.cc.cd/posts/568-finance-news-opec-oil-crypto-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日金融要闻：七个核心产油国8月2日决定9月再增产18.8万桶/日，正式完成2023年自愿减产的全面回滚；特朗普周末叫停对伊打击、美伊谈判周一重启，布伦特原油一度大跌7.3%至81.55美元，10年期美债收益率回落至4.68%；加密货币独立走弱，比特币跌破6.3万美元，Coldcard硬件钱包攻击持续发酵、现货比特币ETF上周净流出约6,150万美元。市场聚焦本周美国7月非农就业报告。</description>
+  <pubDate>Mon, 03 Aug 2026 21:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/568-finance-news-opec-oil-crypto-aug-3-2026.zh.html</guid>
+</item>
+
+<item>
+  <title>⚡ 8月3日泛科技要闻：北大研制全球首款毫秒级神经动力学芯片、韩国Robotis开源人形机器人全部软件、首程控股战略投资幺正量子</title>
+  <link>https://ai-daily.cc.cd/posts/567-pku-neurodynamic-chip-robotis-open-source-shoucheng-quantum-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技要闻：北京大学杨玉超教授团队联合中科院研制出全球首款基于相变忆阻器的毫秒级神经动力学系统芯片，单步运算时间压缩至2.12毫秒，为脑机接口、脑疾病早筛与个性化诊疗开辟全新路径；韩国Robotis成为韩国首家完整开源人形机器人AI Sapiens全部软件的公司，公开Sim2Real迁移工具、强化学习工作流与全部驱动代码；首程控股旗下基金战略投资国内唯一QCCD离子阱量子计算公司幺正量子，从具身智能延伸至量子计算。</description>
+  <pubDate>Mon, 03 Aug 2026 20:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/567-pku-neurodynamic-chip-robotis-open-source-shoucheng-quantum-aug-3-2026.zh.html</guid>
+</item>
+
+<item>
+  <title>⚡ 8月3日泛科技要闻：谷歌Gemini Robotics 2解锁机器人「全身智能」、Pixel Tag首次曝光、小米昆仑架构携澎程SUV登场</title>
+  <link>https://ai-daily.cc.cd/posts/566-tech-news-gemini-robotics-2-pixel-tag-xiaomi-pengcheng-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技要闻：谷歌DeepMind发布Gemini Robotics 2系列，首次实现人形机器人全身智能控制，五指灵巧手拧灯泡、双机协作整理工具箱，On-Device 2以不到200个样例适配新本体；谷歌首款蓝牙追踪器Pixel Tag提前泄露，药丸形设计对标AirTag，或于8月12日发布会亮相；小米发布昆仑架构，推出智能可变大空间SUV澎程N90 Max与N70 Max，预售价25.99万元起、纯电续航最高505公里。</description>
+  <pubDate>Mon, 03 Aug 2026 19:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/566-tech-news-gemini-robotics-2-pixel-tag-xiaomi-pengcheng-aug-3-2026.zh.html</guid>
+</item>
+
+<item>
+  <title>⚡ 8月3日国际要闻：昂山素季会见红十字国际委员会、休达移民潮72死引爆欧盟团结危机、欧盟海军登检俄影子舰队油轮</title>
+  <link>https://ai-daily.cc.cd/posts/565-international-news-suu-kyi-icrc-ceuta-eu-shadow-fleet-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日国际要闻：昂山素季会见红十字国际委员会驻缅代表，为数年来首次公开会见外国官员；西班牙飞地休达遭遇史上最大规模移民潮，约6万人涌入、至少72人遇难，欧盟22国联名要求召开紧急会议，意大利暂停申根自由流动；欧盟海军在地中海登检俄罗斯影子舰队油轮Toa Payoh；乌克兰无人机袭击莫斯科与圣彼得堡并炸燃弗拉基米尔州Wildberries仓库。</description>
+  <pubDate>Mon, 03 Aug 2026 18:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/565-international-news-suu-kyi-icrc-ceuta-eu-shadow-fleet-aug-3-2026.zh.html</guid>
+</item>
+
+<item>
+  <title>⚡ 8月3日金融要闻：美日罕见联手力挺日元、美联储9-3投票现罕见分裂、沪指重回4000点寒武纪市值再超茅台</title>
+  <link>https://ai-daily.cc.cd/posts/564-finance-news-yen-intervention-fed-a-share-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日金融要闻：日本财务省与美国财政部确认罕见的协调干预买入日元，日元两日急升3.8%、一度触及约155.20的三个月高点，东京或已投入约589.7亿美元；美联储7月29日以9-3维持利率不变，三名委员异议为2016年以来首次、也是新任主席56年来罕见，30年期美债收益率升至约20年高位，穆迪首席经济学家赞迪警告政策不透明或引发严重抛售；A股今日高开高走，沪指收涨0.97%重回4000点报4007.76点，寒武纪市值再超茅台。</description>
+  <pubDate>Mon, 03 Aug 2026 17:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/564-finance-news-yen-intervention-fed-a-share-aug-3-2026.zh.html</guid>
+</item>
+
+<item>
+  <title>⚡ 8月3日泛科技要闻：Naver联手英伟达Brookfield建AI工厂、昉擎科技A1轮估值破百亿、Crealight锁定千万颗DSP芯片</title>
+  <link>https://ai-daily.cc.cd/posts/563-naver-ai-factory-fangjing-crealight-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技要闻：韩国Naver披露AI工厂 Phase 1 合同结构，英伟达拟以10亿美元入股、Brookfield最高90亿美元设立SPV采购GPU，目标总装机迈向GW级；国产分离式架构AI计算企业昉擎科技完成A1轮融资、估值突破百亿元跻身独角兽；AI光互连需求爆发，Crealight提前锁定2027年约千万颗DSP芯片远期供应。</description>
+  <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/563-naver-ai-factory-fangjing-crealight-aug-3-2026.zh.html</guid>
+</item>
+
 
                                 <item>
+  <title>⚡ 8月3日泛科技要闻：韩国国家AI计算中心破土动工总投资2.5万亿韩元、微软Project Perception智能体安全系统今日公开预览</title>
+  <link>https://ai-daily.cc.cd/posts/562-korea-national-ai-center-microsoft-project-perception-aug-3-2026.zh.html</link>
+  <description>⚡ 8月3日泛科技要闻：韩国国家AI计算中心在海南郡正式破土动工，总投资约2.5万亿韩元（约18亿美元），三星SDS联合体领衔公私合营KOACC，计划2028年建成1.5万颗GPU、2030年扩至5万颗，剑指亚洲AI基础设施枢纽；微软Project Perception今日进入公开预览，红蓝绿三队AI安全代理协同作战，自研MAI-Cyber-1-Flash模型在CyberGym基准上拿下96%得分、较Anthropic Mythos高12分，成本降低约50%。</description>
+  <pubDate>Mon, 03 Aug 2026 15:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/562-korea-national-ai-center-microsoft-project-perception-aug-3-2026.zh.html</guid>
+</item>
+<item>
   <title>⚡ 8月3日国际要闻：乌克兰635架无人机猛袭俄罗斯腹地、俄军打击乌尼古拉耶夫港、霍尔木兹附近油轮再传爆炸</title>
   <link>https://ai-daily.cc.cd/posts/561-international-news-ukraine-drone-russia-port-hormuz-tanker-aug-3-2026.zh.html</link>
   <description>⚡ 8月3日国际要闻：乌克兰向俄罗斯境内发起一场规模空前的无人机袭击，俄方称拦截635架，多地通报人员伤亡与设施受损，电商巨头Wildberries仓储起火；俄国防部同日宣称打击乌克兰尼古拉耶夫港两艘载军事物资的船只及黑海一艘补给船；UKMTO报告一艘油轮在霍尔木兹海峡入口附近听到爆炸声，船员安全，为紧张谈判再添变数。</description>

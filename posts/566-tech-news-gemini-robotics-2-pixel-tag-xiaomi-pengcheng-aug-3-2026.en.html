@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aug 3 Tech Update: Google's Gemini Robotics 2 Unlocks Whole-Body Intelligence, Pixel Tag Surfaces, Xiaomi Debuts Kunlun Architecture With Pengcheng SUVs - AI Daily</title>
+  <meta name="description" content="⚡ Aug 3 tech roundup: Google DeepMind unveiled Gemini Robotics 2, its most advanced robotics model family, enabling whole-body control of humanoid robots, five-fingered dexterous hands and multi-robot collaboration, with the On-Device 2 model adapting to new robot bodies in hours with fewer than 200 examples; Google's first Bluetooth tracker, Pixel Tag, leaked on European retailer listings, featuring a pill-shaped design aimed at Apple's AirTag and possibly launching at the Aug 12 Made by Google event; Xiaomi unveiled its second EV technology architecture, Kunlun, launching the industry's first 'intelligent variable large-space SUVs' — the Pengcheng N90 Max and N70 Max, priced from RMB 259,900 with up to 505 km of CLTC pure-EV range.</p>
+  <meta name="keywords" content="Tech News,Google,Gemini Robotics 2,DeepMind,humanoid robot,embodied AI,dexterous hand,Apollo 2,Pixel Tag,Bluetooth tracker,AirTag,Made by Google,Xiaomi,Kunlun architecture,Pengcheng,EREV SUV,Lei Jun"></meta>
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/566-tech-news-gemini-robotics-2-pixel-tag-xiaomi-pengcheng-aug-3-2026.en.html">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/566-tech-news-gemini-robotics-2-pixel-tag-xiaomi-pengcheng-aug-3-2026.zh.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/566-tech-news-gemini-robotics-2-pixel-tag-xiaomi-pengcheng-aug-3-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-03</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="566-tech-news-gemini-robotics-2-pixel-tag-xiaomi-pengcheng-aug-3-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-03</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Google</span><span class="tag">Gemini Robotics 2</span><span class="tag">DeepMind</span><span class="tag">Humanoid Robots</span><span class="tag">Pixel Tag</span><span class="tag">Xiaomi</span><span class="tag">Kunlun Architecture</span><span class="tag">Pengcheng</span></div>
+  <h1>⚡ Aug 3 Tech Update: Google's Gemini Robotics 2 Brings 'Whole-Body Intelligence' to Robots, Pixel Tag Surfaces, Xiaomi's Kunlun Architecture Debuts With the Pengcheng SUV Line</h1>
+  <p>Monday was a banner day for big-company moves across the tech landscape. Google DeepMind officially rolled out the Gemini Robotics 2 family, pushing AI from "controlling a robotic arm" to "controlling an entire humanoid" — with screwing in lightbulbs, tying trash bags and two-robot teamwork as the new demo stars. Google's first Bluetooth tracker, Pixel Tag, surfaced early on European retailer listings, taking a pill-shaped design straight at Apple's AirTag. And in China, Xiaomi held a tech launch in Beijing for its second EV architecture — Kunlun — unveiling the industry's first "intelligent variable large-space SUV" line, the Pengcheng series, priced from RMB 259,900. Here is this roundup of general tech news.</p>
+
+  <h2>1. Google DeepMind Unveils Gemini Robotics 2: Whole-Body Humanoid Control and Two-Robot Teamwork</h2>
+  <p>Google DeepMind announced the Gemini Robotics 2 family on August 3, centered on "whole-body intelligence" — moving robots from table-top, upper-body tasks to full-body coordination from feet to fingertips. The family consists of three models: <b>Gemini Robotics 2</b> (a vision-language-action, or VLA, model that converts vision and language input directly into motor control), <b>Gemini Robotics ER 2</b> (an embodied-reasoning model that understands the environment, plans multi-step tasks and communicates with humans), and <b>Gemini Robotics On-Device 2</b> (a lightweight VLA optimized to run locally on robot hardware).</p>
+  <p>In official demos, the Apptronik Apollo 2 humanoid — equipped with a five-fingered, 22-degree-of-freedom SharpaWave hand — autonomously completed whole-body tasks like "put the watering can into the green bin on the bottom shelf," involving walking, crouching, grasping and placing. It can also screw in lightbulbs, seal ziplock bags and tie trash bags, while the two-fingered Franka Duo platform packs tools of varied shapes tightly into a toolbox. Google's published results are refreshingly candid: the two-finger gripper hit average success rates of <b>74.2% (general pick-and-place), 78.9% (tool matching) and 89.6% (precision insertion)</b>; the multi-finger hand shows a much wider gap — 92% for unscrewing a bulb, but only 36% for screwing one in, 44% for tying a trash bag, and 32% and 40% for using a dustpan and sealing a ziplock bag, respectively.</p>
+  <p>Multi-robot collaboration is another headline upgrade: in the demo, Apollo and Franka Duo work together to organize a toolbox — Apollo issues the task and Duo packs the tools — with each robot running its own model, coordinated by ER 2's high-level reasoning rather than a single central network manipulating both bodies. ER 2 continuously watches the video feed to gauge progress, detect failures and decide whether to retry. On adaptation efficiency, Gemini Robotics On-Device 2 inherits "motion transfer" techniques and typically needs <b>fewer than 200 examples and just a few hours of data</b> to adapt to entirely new two-arm robot embodiments (such as the Dexmate, SO101 and Trossen platforms).</p>
+  <p>On safety, Google introduced a new agentic-safety benchmark, <b>ASIMOV-Agentic</b>, which evaluates whether an embodied-reasoning agent can refuse unsafe tool calls from a VLA, predict whether a task is feasible, and proactively request human intervention when uncertain. Gemini Robotics ER 2 is now available on Google AI Studio and in private preview on the Gemini Enterprise Agent Platform; the VLA and On-Device models are open to early-access partners. Google calls Gemini Robotics 2 an important milestone toward "physical AGI," with partners including Apptronik, Boston Dynamics and Agile Robots.</p>
+
+  <h2>2. Google's Pixel Tag Surfaces: Pill-Shaped Tracker Aimed at AirTag, Possibly Launching With Pixel 11</h2>
+  <p>Years after Apple's AirTag and the mass expansion of the Android Find My Device network, Google finally appears ready to ship its own Bluetooth tracker. On August 3, reports emerged that a tracker called "Pixel Tag" had leaked early on European online-retailer listings, revealing its design and key details for the first time.</p>
+  <p>Based on the leaked images, Pixel Tag features a <b>long pill-shaped design</b>, a clear departure from the round or square trackers common on the market. A fine grille at the bottom is believed to house a speaker that emits a loud alert tone for close-range finding — handy for locating items lost in couch crevices. Notably, Pixel Tag has no integrated keyring hole, so users will likely need third-party cases or accessories for physical attachment, much like the AirTag.</p>
+  <p>Two core specs remain unconfirmed: <b>ultra-wideband (UWB)</b> — Apple has included UWB since the first AirTag for precise, directional close-range positioning, and skipping it would leave Google at a clear accuracy disadvantage — and <b>power</b>, i.e., whether it takes a replaceable coin cell or a built-in rechargeable battery. Reports suggest Pixel Tag will very likely debut at Google's <b>"Made by Google" event on August 12</b>, alongside the Pixel 11 series and other new hardware. The model number is GA12506 with a launch color of "Fog Light"; pricing and multi-pack options remain unknown.</p>
+
+  <h2>3. Xiaomi Debuts the Kunlun Architecture, Launching the 'Intelligent Variable Large-Space SUV' Pengcheng Line</h2>
+  <p>Xiaomi held a technology launch in Beijing on August 3, formally unveiling its second EV technology architecture — <b>Xiaomi Kunlun</b>, built over three and a half years and comprising three core pillars: the Kunlun platform, the Kunlun Super Range-Extender System and the Kunlun All-Domain Safety System. Based on it, Xiaomi launched the industry's first "intelligent variable large-space SUVs" — the SKYNOMAD Pengcheng series, including the seven-seat flagship EREV <b>Pengcheng N90 Max</b> and the five-seat all-wheel-drive EREV <b>Pengcheng N70 Max</b>, priced at <b>RMB 299,000 and RMB 259,900</b> respectively, with pre-orders opening immediately and official launch expected in September.</p>
+  <p>Space is the series' core selling point. The Kunlun platform repositions the rear motor, battery pack and fuel tank to achieve a completely flat floor from cockpit to trunk, supporting multiple scene modes — face-to-face seating, work, rest and full bed modes — all adjustable via electric controls and Xiaomi's XiaoAI voice assistant, backed by high-strength rails, 39 anti-pinch designs and countdown reminders. On range, the Kunlun Super Range-Extender System is built around a "big-battery EREV" approach with two self-developed EREV-specific battery packs, delivering up to <b>505 km of CLTC pure-EV range</b>; a newly customized 1.5T range extender brings the N90 Max's depleted-battery fuel consumption down to 6.26 L/100km, with a combined range of 1,705 km.</p>
+  <p>For safety, the Kunlun All-Domain Safety System features an armored cage body with high-strength steel and aluminum accounting for 90.4% of the structure, including 2,200 MPa super steel in key areas, plus the "Xiaomi Dragon Armor battery system" for end-to-end cell-to-pack protection. On the smart side, the Pengcheng series shares the same premium base as the SU7/YU7 — Xiaomi's four-in-one domain control module, the Snapdragon 8 Gen 3 mobile platform and the Nvidia Thor in-vehicle compute platform — with Xiaomi HAD, 700 TOPS of Thor compute and twin lidars as standard. Since entering EVs in 2021, Xiaomi's SU7 and YU7 have surpassed 700,000 cumulative deliveries and taken first place in J.D. Power owner surveys for new-car quality and appeal; the Pengcheng series marks the opening of the company's EV "second chapter."</p>
+
+  <p>Want to discover more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.</p>
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want the latest AI news and tools? Follow <a href="https://ai-daily.cc.cd/tools.html" target="_blank">AI Daily · Free Tools Library</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
