@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>August 5 Tech Update: WebKit Proxy & iCloud Private Relay IP/DNS Leaks, Munich Funds libexpat for 6 Months, INTERPOL Says AI Fuels Over Half of Africa's Cybercrime, Palo Alto Reveals 'Pass the Passkey' Attack Surface - AI Daily</title>
+  <meta name="description" content="⚡ Aug 5 tech roundup: Mysk researchers found three WebKit features — DNS prefetching, WebAuthn Related Origin Requests and WebTransport — that bypass proxy configuration and expose the device's real IP and DNS to websites, also affecting Apple's iCloud Private Relay; the City of Munich is now formally employing libexpat maintainer Sebastian Pipping for up to six months under its Open Source Sabbatical program, with five known unfixed vulnerabilities as top priority; INTERPOL's African Cyberthreat Assessment Report 2026 found AI now powers 55% of reported cybercrime in Africa, with losses nearly tripling to $484 million; and Palo Alto Networks Unit 42 disclosed a new 'Pass the Passkey' attack surface against Google's synced passkey ecosystem, where malware can take over passkey-protected accounts without user interaction and extract all synced private keys."></meta>
+  <meta name="keywords" content="tech news,cybersecurity,WebKit,DNS leak,IP leak,iCloud Private Relay,privacy,Psylo,libexpat,open source,Munich,XML parser,INTERPOL,cybercrime,AI,Passkey,passwordless authentication,Palo Alto,Unit 42"></meta>
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-05</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-05</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Cybersecurity</span><span class="tag">WebKit</span><span class="tag">DNS Leak</span><span class="tag">iCloud Private Relay</span><span class="tag">libexpat</span><span class="tag">Open Source</span><span class="tag">INTERPOL</span><span class="tag">Cybercrime</span><span class="tag">AI</span><span class="tag">Passkey</span><span class="tag">Unit 42</span></div>
+  <h1>⚡ August 5 Tech Update: WebKit Proxy and iCloud Private Relay IP/DNS Leaks, Munich Pays to Maintain Open-Source XML Parser libexpat for 6 Months, INTERPOL Says AI Fuels More Than Half of Africa's Cybercrime, Palo Alto Reveals a New 'Pass the Passkey' Attack Surface</h1>
+  <p>Four hard-hitting stories dominated tech and security circles over the past few hours: security researchers confirmed that three WebKit features can bypass proxy configuration and expose a device's real IP and DNS to websites — Apple's iCloud Private Relay is affected too; the City of Munich began formally employing the maintainer of the open-source XML parser libexpat for up to six months; INTERPOL reported that AI now powers more than half of Africa's reported cybercrime, with financial losses nearly tripling year over year; and Palo Alto Networks' Unit 42 disclosed a new attack surface against passwordless Passkey authentication. Here is this round's tech roundup.</p>
+
+  <h2>1. Mysk confirms three WebKit features bypass proxies, leaking real IP and DNS — iCloud Private Relay affected</h2>
+  <p>According to <b>Mysk Blog</b> (August 4, 2026, by Talal Haj Bakry and Tommy Mysk), WebKit-based browsers on iOS and macOS can be built to route all web traffic through proxy servers — that is how Tor browsers on iOS and Mysk's own privacy browser <b>Psylo</b> work. Every network connection a web page makes is supposed to flow through the configured proxy, so websites only ever see the proxy's IP address. Instead, the researchers found <b>three WebKit features that bypass the proxy configuration and send traffic directly from the device</b>, exposing the user's real IP address and DNS servers to websites.</p>
+  <p>Concretely: <b>DNS prefetching</b> resolves hostnames through the device's normal DNS path, revealing the real DNS servers instead of the proxy's (available since iOS 26.0); <b>WebAuthn Related Origin Requests</b> make the operating system's credential service fetch a validation file directly from the device, exposing its real IP (available since iOS 18.0); and <b>WebTransport</b> opens a direct HTTP/3 connection that bypasses the proxy, again exposing the real IP (available since iOS 26.4). The researchers stress the same leaks also impact Apple's <b>iCloud Private Relay</b>, while traditional VPNs are not affected since they tunnel the entire device's traffic at the system level.</p>
+  <blockquote>Impact and fixes: the team published a proof-of-concept detection site at leaks.psylo.app. The leaks are fixed in Psylo 1.3.1, which now blocks dns-prefetch hints and disables WebTransport and WebAuthn by default — each can be re-enabled per site via explicit opt-in, keeping privacy trade-offs in the user's hands. The researchers also reached out to the Tor Project and the developers of Onion Browser on iOS.</blockquote>
+
+  <h2>2. City of Munich pays the maintainer of open-source XML parser libexpat for up to six months</h2>
+  <p>According to <b>Hartwork Blog</b> (maintainer Sebastian Pipping, August 4, 2026, 20:04), <b>libexpat</b> — the fast streaming XML parser written in C99, licensed under the MIT license, and one of the most widely used open-source XML parsing libraries alongside libxml2 — has ended its multi-year "security vacation." Starting <b>August 1, 2026</b>, Pipping is being paid to maintain libexpat as his "regular job" for up to six months, employed by the City of Munich's digital agency digitial@M under the umbrella of the city's <b>Open Source Sabbatical</b> program, with a regular working contract (terminable by either party) and remote work from home.</p>
+  <p>For the first time in roughly a decade, maintaining libexpat no longer competes with his day job. His top priorities: <b>fixing the currently five known unfixed vulnerabilities</b>, adding support for XML 1.0r5, and further improving the project's robustness and maintainability. Just yesterday and today, much of his time went into fixing a vulnerability uncovered by <b>Mozilla</b>. He notes that "queueing theory and laws of physics still apply" and invites the community to send more vulnerabilities his way over the coming months — the best window in years to get Expat issues fixed in reasonable time.</p>
+
+  <h2>3. INTERPOL: AI now powers more than half of Africa's cybercrime as losses nearly triple to $484M</h2>
+  <p>According to <b>Africanews / INTERPOL</b> (August 4, 2026), INTERPOL's <b>African Cyberthreat Assessment Report 2026</b> found that AI is now involved in <b>55%</b> of cybercrime cases recorded across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks. Based on data from <b>36 African countries</b>, the 40-page assessment says cybercrime has evolved into a highly organized, cross-border industry that is increasingly hard for authorities to detect and stop.</p>
+  <p>The economic toll is striking: cybercrime-related financial losses climbed from <b>$192 million in 2024 to $484 million</b> over the past year, which investigators attribute to AI-powered fraud, stolen login credentials and sophisticated social-engineering attacks. The report also found that <b>72%</b> of surveyed countries identified scam centers operating within their borders, with the highest concentration in West and Southern Africa. Regional trends differ — in East Africa, mobile-money fraud and ransomware targeting critical infrastructure are among the biggest threats. The findings arrive as Africa's digital economy keeps expanding, with more than 1.1 billion mobile subscribers recorded in 2025.</p>
+
+  <h2>4. Palo Alto Unit 42 reveals 'Pass the Passkey': a novel attack surface in passwordless authentication</h2>
+  <p>According to <b>Palo Alto Networks Unit 42</b> (by Arie Olshtein, published August 3, 2026), the research team disclosed new attack classes against passwordless authentication, focusing on <b>Google's synced passkey ecosystem</b> and the <b>Cloud Authenticator</b> used by desktop clients. The attacks show how malware on a compromised endpoint can misuse onboarding, recovery and device-trust workflows to take over passkey-protected accounts — even though passkeys, which replace passwords and traditional MFA with public-key cryptography, leave no shared secret to steal, reuse or phish.</p>
+  <p>Worse, an attacker can <b>authenticate without user interaction</b>, <b>bypass user-verification requirements</b>, and <b>extract all synced passkey private keys</b>. The research is part 3 in Unit 42's series examining passkey adoption from a security perspective (part 1: "The Art of the Invisible Key"; part 2: "Google Authenticator: The Hidden Mechanisms of Passwordless Authentication"). The team's core warning: as passkeys scale to billions of accounts, attackers evolve too, and defenders must prepare for a new generation of attack surfaces.</p>
+  <blockquote>Broader context: from IP/DNS leaks to passkey takeovers to AI-driven fraud — when devices, authentication and intelligence-gathering are all armed with a new generation of tooling, the traditional "patch one vulnerability" mindset gives way to engineering for continuous compromise. Open source, meanwhile, has become a prime target for supply-chain attacks and malicious maintainers this year, which is part of why Munich is taking the rare step of directly funding maintenance of a critical OSS parsing library.</blockquote>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want to discover more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

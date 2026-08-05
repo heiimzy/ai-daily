@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>8月5日泛科技要闻：WebKit代理与iCloud Private Relay曝IP/DNS泄漏、慕尼黑市资助libexpat六个月、INTERPOL称AI渗入非洲过半网络犯罪、Palo Alto披露Passkey新攻击面 - AI Daily</title>
+  <meta name="description" content="⚡ 8月5日泛科技要闻：Mysk披露WebKit三处功能（DNS预取、WebAuthn关联源请求、WebTransport）绕过代理配置、把设备真实IP与DNS直接暴露给网站，影响iOS代理浏览器与苹果iCloud Private Relay；慕尼黑市通过开源休假计划正式雇佣libexpat维护者Sebastian Pipping最长六个月，优先修复5个已知漏洞；INTERPOL发布的《非洲网络威胁评估报告2026》显示非洲55%已报道网络犯罪涉及AI，损失从2024年的1.92亿美元飙升至4.84亿美元；Palo Alto Networks Unit 42披露针对Google同步Passkey生态的「Pass the Passkey」新型攻击面，恶意软件可无需用户交互接管passkey保护的账户并提取全部私钥。"></meta>
+  <meta name="keywords" content="泛科技要闻,科技新闻,网络安全,WebKit,DNS泄漏,IP泄漏,iCloud Private Relay,隐私,Psylo,libexpat,开源,慕尼黑,XML解析器,INTERPOL,网络犯罪,AI,Passkey,无密码认证,Palo Alto,Unit 42"></meta>
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-05</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-05</div>
+  <div class="post-tags"><span class="tag">泛科技要闻</span><span class="tag">科技新闻</span><span class="tag">网络安全</span><span class="tag">WebKit</span><span class="tag">DNS泄漏</span><span class="tag">iCloud Private Relay</span><span class="tag">libexpat</span><span class="tag">开源</span><span class="tag">INTERPOL</span><span class="tag">网络犯罪</span><span class="tag">AI</span><span class="tag">Passkey</span></div>
+  <h1>⚡ 8月5日泛科技要闻：WebKit代理与iCloud Private Relay曝IP/DNS泄漏、慕尼黑市出资资助开源XML解析器libexpat六个月、INTERPOL称AI已渗入非洲过半网络犯罪、Palo Alto披露Passkey全新攻击面</h1>
+  <p>过去几个小时，科技与安全圈被四件硬核事件刷屏：安全研究员发现 WebKit 三处功能可绕过代理配置、直接把设备真实 IP 与 DNS 暴露给网站，连苹果的 iCloud Private Relay 也中招；德国慕尼黑市首次以「正式雇佣」的方式资助开源 XML 解析器 libexpat 的维护长达六个月；INTERPOL 发布报告称 AI 已渗入非洲超过一半已报道网络犯罪，给非洲带来的经济损失较上年直接翻倍；Palo Alto Networks 的 Unit 42 则披露了针对无密码认证 Passkey 生态的「Pass the Passkey」新型攻击面。以下是本轮泛科技要闻汇总。</p>
+
+  <h2>一、Mysk确认WebKit三处功能绕过代理：代理浏览器与苹果iCloud Private Relay存在IP/DNS泄漏</h2>
+  <p>据<b>Mysk Blog</b>（2026年8月4日，作者Talal Haj Bakry与Tommy Mysk）报道，iOS 与 macOS 上的 WebKit 内核浏览器可以配置把所有网页流量都路由经过代理服务器——这正是 iOS 上 Tor 浏览器以及他们自己开发的隐私浏览器 <b>Psylo</b> 的工作原理：页面发起的所有网络连接本应都流经配置的代理，让网站只能看到代理的 IP。但他们发现，WebKit 有<b>三处功能会绕过代理、直接从设备发送流量</b>，从而把用户的真实 IP 地址和 DNS 服务器暴露给网站。</p>
+  <p>具体包括：<b>DNS 预取（DNS prefetching）</b>会走设备正常 DNS 路径解析主机名，暴露真实 DNS 而非代理的 DNS（自 iOS 26.0 起可用）；<b>WebAuthn 关联源请求（Related Origin Requests）</b>会让操作系统的凭据服务直接从设备下载校验文件，暴露设备真实 IP（自 iOS 18.0 起可用）；<b>WebTransport</b> 会直接建立 HTTP/3 连接、绕过代理，同样泄露真实 IP（自 iOS 26.4 起可用）。研究员强调，这些泄漏同样影响苹果的 <b>iCloud Private Relay</b>；而传统 VPN 不受影响，因为 VPN 是在系统层面隧穿整机的网络流量。</p>
+  <blockquote>影响与修复：研究员提供了检测泄漏的概念验证站点 leaks.psylo.app。漏洞已在 Psylo 1.3.1 中修复——如今默认阻止 dns-prefetch 提示，并默认禁用 WebTransport 与 WebAuthn，真正需要的功能可逐个按站点手动开启，把隐私权衡交还给用户。团队也联系了 Tor 项目与 iOS 版 Onion Browser 的开发者。</blockquote>
+
+  <h2>二、慕尼黑市出资「雇佣」开源XML解析器libexpat维护者六个月：5个已知漏洞优先修复</h2>
+  <p>据<b>Hartwork Blog</b>（维护者Sebastian Pipping，2026年8月4日20:04）报道，作为 C 语言编写的高性能流式 XML 解析器，<b>libexpat</b>（即 Expat）与 libxml2 并列是最被广泛使用的开源 XML 解析库。自 <b>2026年8月1日</b>起，该项目长达数年的「安全休假」宣告结束——Pipping 将通过慕尼黑市的<b>开源休假计划（Open Source Sabbatical）</b>，在数字机构 digitial@M 的雇佣下，以正式工作合同的形式（双方均可解约、远程在家办公）被付费维护 libexpat 最长六个月。</p>
+  <p>这是 Pipping 十年来第一次把维护 libexpat 当作「正式工作」而非业余兼职。他的核心优先级包括：<b>修复目前已知的5个未修复漏洞</b>、增加对 XML 1.0r5 的支持，以及进一步提升项目的健壮性与可维护性。就在发布这天，他把不少时间投入到修复一个由 <b>Mozilla</b> 发现的漏洞上。他也坦言：「队列理论和物理定律依然适用」，并呼吁社区在接下来的数月里向他报送更多漏洞——这是近年修复 libexpat 的最佳窗口期。</p>
+
+  <h2>三、INTERPOL：AI已渗入非洲过半网络犯罪，损失一年翻倍至4.84亿美元</h2>
+  <p>据<b>Africanews / INTERPOL</b>（2026年8月4日）报道，INTERPOL 发布的《<b>非洲网络威胁评估报告2026</b>》显示，AI 已渗入非洲大陆<b>超过一半（55%）</b>已登记网络犯罪案件，让犯罪分子得以发动更快、更具说服力、规模更大的攻击。报告基于 <b>36个非洲国家</b>的数据、厚达40页，指出网络犯罪已演变成一个高度组织化、跨国的产业，越来越难被当局侦测和制止。</p>
+  <p>经济代价同样触目惊心：INTERPOL 称与网络犯罪相关的经济损失在过去一年从 2024 年的 <b>1.92亿美元</b> 攀升至 <b>4.84亿美元</b>，调查人员将激增归因于 AI 驱动的诈骗、被盗登录凭据以及精密的社工攻击。报告还发现，<b>72%</b> 的受访国家境内存在诈骗中心运营，其中以西非和南部非洲最为集中。区域差异也很明显：在东非，移动支付诈骗与针对关键基础设施的勒索软件是最突出的威胁。在非洲2025年拥有逾 11 亿移动订阅用户、数字经济持续扩张的背景下，这一问题尤为严峻。</p>
+
+  <h2>四、Palo Alto Unit 42披露「Pass the Passkey」：无密码认证遭遇新的攻击面</h2>
+  <p>据<b>Palo Alto Networks Unit 42</b>（作者Arie Olshtein，2026年8月3日发布）报道，安全团队披露了一类针对无密码认证的新攻击手法，重点聚焦 Google 的<b>同步 Passkey 生态</b>及其供桌面客户端使用的<b>云端认证器（Cloud Authenticator）</b>。研究发现，攻击者可以滥用终端设备上的入驻（onboarding）、恢复（recovery）与设备信任（device trust）工作流，对受 Passkey 保护的账户发起接管——即使这些账户没有共享密码可窃取、可复用或可钓鱼。</p>
+  <p>攻击者甚至能在<b>无需用户交互</b>的情况下完成认证、<b>绕过用户验证（user verification）要求</b>，并<b>提取全部同步的 Passkey 私钥</b>。该研究是 Unit 42 关于 Passkey 采用安全性的系列研究报告的第三部分（前两部分分别为《无形之钥的艺术》《Google Authenticator：无密码认证的隐藏机制》）。研究团队强调，随着 Passkey 规模化普及到数十亿账户，攻击者也必然演化出新一代攻击面——这正是本研究所要提前揭示的防御要点。</p>
+  <blockquote>背景延伸：从 IP/DNS 泄漏到 Passkey 接管，再到 AI 驱动的诈骗——当设备、认证与情报收集都被新一代工具武装起来时，传统「修复一个漏洞」的安全观正让位于「持续假设被攻破」的工程化防御。开源软件在今年尤其成为供应链攻击与恶意维护者的重灾区，这也是慕尼黑市罕见直接资助关键 OSS 解析库维护的原因之一。</blockquote>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

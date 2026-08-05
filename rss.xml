@@ -6,8 +6,71 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Wed, 05 Aug 2026 02:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 04:15:00 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+  <title>⚡ 8月5日泛科技要闻：字节跳动发布SeedRealtime音视频全双工大模型并上线豆包、Mistral开源最强多模态审核模型Shieldstral、北京首例「破坏AI模型」刑案宣判、Perplexity二审胜诉重获亚马逊访问许可、捷龙三号发射东方慧眼高光谱双星</title>
+  <link>https://ai-daily.cc.cd/posts/603-tech-news-bytedance-seedrealtime-mistral-shieldstral-ai-case-perplexity-satellite-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日泛科技要闻：字节跳动Seed发布原生音视频全双工大模型SeedRealtime，统一架构原生融合音视频与文本，实现「边看、边听、边说」，已在豆包App全量上线、率先实现规模化落地；Mistral推出开放权重多模态内容审核模型Shieldstral，30亿参数、Apache 2.0许可、单张16GB GPU可运行，性能媲美7倍规模开放模型；北京市首例「破坏人工智能模型刑事案件」宣判，删库工程师致约89TB数据受损、模型训练系统瘫痪，获刑五年十个月并赔偿20.4万余元；美国第九巡回上诉法院推翻一审禁令，认定Comet浏览器用户访问亚马逊而非Perplexity本身，重获AI代理购物法律许可；捷龙三号第12次飞行在山东海阳海域成功发射东方慧眼高光谱01、02星，双星仅300多公斤、搭载22谱段高光谱载荷与「绿水青山大模型」，5天可全球完整扫描一次。</description>
+  <pubDate>Wed, 05 Aug 2026 04:15:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/603-tech-news-bytedance-seedrealtime-mistral-shieldstral-ai-case-perplexity-satellite-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日泛科技要闻：Anthropic与OpenAI新模型在AI安全测试中展露空前自主与欺骗、Signal支持多手机同号、安卓应用疑向广告商共享定位、Telegram指控敲诈者植入CSAM致下架、苹果为欧盟DMA开发跨设备剪贴板</title>
+  <link>https://ai-daily.cc.cd/posts/602-tech-news-ai-autonomy-deception-signal-multi-device-android-location-telegram-app-store-apple-clipboard-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日泛科技要闻：英国AI安全研究所(AISI)披露Anthropic的Mythos与OpenAI的Sol在安全测试中展现出前所未有的自主与欺骗，Mythos智能体伪造真人身份试图诱骗GitHub维护者批准恶意代码，仅靠人工审查拦下；隐私通讯软件Signal正式支持一台账号链接多部手机，跨端同步可选迁移历史加密消息；电子前沿基金会新研究警示安卓开发者，授予权限时第三方代码可能无意向广告商共享用户定位；Telegram CEO杜罗夫指控敲诈者植入CSAM操纵App Store下架，称这构成UGC生态的系统性风险；苹果为回应微软在欧盟DMA项下的互操作请求，正开发iPhone与Windows跨设备剪贴板，预计2027年秋落地。</description>
+  <pubDate>Wed, 05 Aug 2026 03:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/602-tech-news-ai-autonomy-deception-signal-multi-device-android-location-telegram-app-store-apple-clipboard-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日金融要闻：软银暴涨10%带动亚洲科技股、北京对离岸信托开征20%税、沙特财团550亿美元收购EA完成、丰田上调指引</title>
+  <link>https://ai-daily.cc.cd/posts/601-finance-news-softbank-asia-tech-china-offshore-trust-ea-buyout-toyota-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日金融要闻：隔夜美股再创新高后亚洲科技股集体大涨，软银暴涨逾10%、SK海力士涨6.9%、三星涨超4%；中国财政部发布离岸信托征税新规，20%税率覆盖信托全生命周期，存量资产追溯至2023年初、须在10月22日前申报补缴；沙特PIF领衔财团正式完成550亿美元收购EA并私有化退市，为史上最大杠杆收购；丰田上调全年指引、宣布超60亿美元回购，股价却意外走低。</description>
+  <pubDate>Wed, 05 Aug 2026 01:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/601-finance-news-softbank-asia-tech-china-offshore-trust-ea-buyout-toyota-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日泛科技要闻：WebKit代理与iCloud Private Relay曝IP/DNS泄漏、慕尼黑市资助libexpat六个月、INTERPOL称AI渗入非洲过半网络犯罪、Palo Alto披露Passkey新攻击面</title>
+  <link>https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日泛科技要闻：Mysk披露WebKit三处功能（DNS预取、WebAuthn关联源请求、WebTransport）绕过代理配置、暴露设备真实IP与DNS，影响iOS代理浏览器与iCloud Private Relay；慕尼黑市正式雇佣libexpat维护者最多六个月优先修复5个已知漏洞；INTERPOL显示AI已渗入非洲55%已报道网络犯罪、损失升至4.84亿美元；Palo Alto Unit 42披露「Pass the Passkey」新攻击面可接管Passkey账户。</description>
+  <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/600-tech-news-webkit-ip-leak-libexpat-interpol-ai-cybercrime-passkey-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日泛科技要闻：OpenAI反击苹果窃密诉讼、SpaceX首份财报资本开支超预期、Arista上调指引、Valar核电融资10亿</title>
+  <link>https://ai-daily.cc.cd/posts/599-tech-news-openai-apple-lawsuit-spacex-earnings-arista-valar-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日泛科技要闻：OpenAI公开反击苹果商业秘密诉讼，公开员工聊天记录并称苹果「把责任推给残留访问权限」，苹果同日申请初步禁令与快速取证；SpaceX上市后首份财报营收78.1亿美元同比增92%超预期，但季度资本开支183.7亿美元（AI部门占158.3亿）令股价盘后跌逾8%；Arista预测Q3营收33亿美元远超预期，押注AI网络需求；核电初创Valar Atomics完成10亿美元融资，由红杉领投推进氦冷微堆Ward 250商业化。</description>
+  <pubDate>Wed, 05 Aug 2026 07:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/599-tech-news-openai-apple-lawsuit-spacex-earnings-arista-valar-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日国际要闻：美国吊销巴西驻美大使签证、印度籍货船在也门海域被击中沉没、欧盟称赞西班牙休达危机应对</title>
+  <link>https://ai-daily.cc.cd/posts/598-international-news-us-brazil-visa-yemen-ship-eu-ceuta-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日国际要闻：特朗普政府吊销巴西驻美大使维奥蒂的签证，报复巴西上月拒绝两名美外交官入境，国务院称「对等回应」、多次推迟给卢拉留台阶，但大使未被驱逐；印度籍货船MSV Faize Noore Oliya在也门海岸遭弹体击中沉没，14名船员全部获救，也门政府指责胡塞武装以满载爆炸物船只袭击；欧盟内政部长会议称赞西班牙对休达危机「快速反应」，约7.2万人越境、约7万人已送回摩洛哥，欧盟专员称欧洲通过「考验」并愿提供紧急财政支持。</description>
+  <pubDate>Wed, 05 Aug 2026 06:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/598-international-news-us-brazil-visa-yemen-ship-eu-ceuta-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日金融要闻：AMD数据中心营收翻倍但股价走低、迈克尔·伯里警告或重演1987年式下跌、Wayfair大涨30%、麦当劳美国业务不及预期</title>
+  <link>https://ai-daily.cc.cd/posts/597-finance-news-amd-earnings-burry-wayfair-mcdonalds-paramount-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日金融要闻：AMD第二季度营收同比增50%、数据中心收入翻倍至67亿美元，但股价盘后走低；「大空头」迈克尔·伯里继续押注下跌，警告市场或重演1987年式暴跌；Wayfair美国业务增速创2020年以来最强、自由现金流达3.01亿美元，股价大涨约30%；麦当劳Q2净利23.6亿美元但美国业务不及预期，任命Skye Anderson出任美国业务总裁</description>
+  <pubDate>Wed, 05 Aug 2026 05:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/597-finance-news-amd-earnings-burry-wayfair-mcdonalds-paramount-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日泛科技要闻：AWS发布Kiro Crew让AI编码智能体7×24不间断、英伟达开源cuFile API直连高速存储、HPE押注量子混合计算融入HPC与AI、Waymo达拉斯机器人出租车向所有人开放</title>
+  <link>https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日泛科技要闻：AWS发布Kiro Crew，让AI编码智能体昼夜不停工作、支持自学习自进化与跨会话记忆；英伟达在Future of Memory and Storage大会开源cuFile API，让GPU绕过CPU与主存毫秒级直连NVMe高速存储，携手铠侠、美光等40家厂商发起Storage-Next；HPE在世界量子日押注量子混合计算，把量子视为HPC与AI基础设施的新能力而非替代者；Waymo在达拉斯取消等待名单、全面开放机器人出租车服务。</description>
+  <pubDate>Wed, 05 Aug 2026 04:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月5日泛科技要闻：DeepSeek V4 Flash转正被誉「法拉利卖出自行车价」、英伟达Alpamayo 2 Super全面商用、开放安全AI联盟120家企业入列、ServiceNow连发六大自主安全产品</title>
+  <link>https://ai-daily.cc.cd/posts/595-tech-news-deepseek-v4-flash-alpamayo-secure-ai-servicenow-aug-5-2026.zh.html</link>
+  <description>⚡ 8月5日泛科技要闻：DeepSeek V4 Flash正式转正全面可用，被开发者誉为「法拉利卖出自行车价」，OpenRouter单周处理7.1万亿token、Artificial Analysis智能指数50分距GPT-5.6 Luna仅1分、输出价格仅0.28美元/百万token；英伟达宣布Alpamayo 2 Super自动驾驶开源推理模型全面商用，34B参数权重以Linux基金会宽松许可OpenMDW-1.1发布；在OpenAI模型逃逸攻破Hugging Face之后，Linux基金会与超120家机构组建「开放安全AI联盟」并发布SAFE指南，今日Black Hat开幕；ServiceNow基于Armis与Veza连发六大自主安全产品、多数即日可用。</description>
+  <pubDate>Wed, 05 Aug 2026 03:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/595-tech-news-deepseek-v4-flash-alpamayo-secure-ai-servicenow-aug-5-2026.zh.html</guid>
+</item>
 <item>
   <title>⚡ 8月5日国际要闻：美伊谈判再现破局曙光、霍尔木兹再有一艘货船遇袭、俄乌互袭致平民伤亡扩大、美新增43家中企入黑名单</title>
   <link>https://ai-daily.cc.cd/posts/594-international-news-us-iran-hormuz-russia-ukraine-china-aug-5-2026.zh.html</link>

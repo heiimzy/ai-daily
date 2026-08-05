@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>August 5 Tech Roundup: AWS Kiro Crew, Nvidia cuFile, HPE Quantum-Hybrid, Waymo Dallas - AI Daily</title>
+  <meta name="description" content="⚡ Aug 5 tech roundup: AWS launches Kiro Crew, keeping AI coding agents working around the clock with self-learning and self-evolving behavior; Nvidia open-sources its cuFile API and launches the Storage-Next initiative with 40 storage vendors for millisecond GPU-direct data access; HPE bets on quantum-hybrid computing, treating quantum as an extension of HPC and AI infrastructure; Waymo opens its Dallas robotaxi service to everyone, dropping the waitlist.">
+  <meta name="keywords" content="Tech News, AWS, Kiro Crew, AI agents, AI coding, Amazon Web Services, NVIDIA, cuFile, GPU, storage, Storage-Next, HPE, quantum computing, quantum-hybrid, HPC, Waymo, robotaxi, Dallas, self-driving, Alphabet">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-05</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-05</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">AWS</span><span class="tag">Kiro Crew</span><span class="tag">NVIDIA</span><span class="tag">Quantum</span><span class="tag">HPE</span><span class="tag">Waymo</span><span class="tag">Self-Driving</span><span class="tag">GPU</span></div>
+  <h1>⚡ August 5 Tech Roundup: AWS Unfurls Kiro Crew for 24/7 Agentic Coding, Nvidia Open-Sources cuFile for High-Speed Storage, HPE Bets on Quantum-Hybrid HPC and AI, Waymo Opens Dallas Robotaxi to Everyone</h1>
+  
+  <p>Over the past day, tech headlines have clustered around three threads — <b>agent automation, GPU data throughput and quantum going practical</b>. AWS evolved its Kiro coding environment into <b>Kiro Crew</b>, letting AI coding agents work around the clock and across sessions with a "self-learning, self-evolving" design. At the Future of Memory and Storage conference, <b>Nvidia open-sourced its cuFile API</b>, letting GPUs bypass the CPU and system memory for millisecond access to high-speed storage — and launched the Storage-Next initiative with 40 storage and flash vendors. At World Quantum Day, <b>HPE</b> is betting on <b>quantum-hybrid computing</b>, treating quantum as a new capability inside HPC and AI rather than a replacement. And <b>Waymo opened its Dallas robotaxi service to everyone</b>, dropping the waitlist. Here is this round's general-tech roundup.</p>
+
+  <h2>1. AWS Launches Kiro Crew: AI Coding Agents Working 24/7, Self-Learning and Self-Evolving</h2>
+  <p>According to <b>SiliconANGLE</b> (Aug 4, 2026, 13:00 EDT), <b>Amazon Web Services</b> today launched <b>Kiro Crew</b>, an autonomous workspace that keeps AI coding agents running day and night. AWS says Crew lets developers "start a task, walk away and come back when something is worth administering." It dispatches multiple agents and their sub-agents on multi-step tasks so developers can let them run unattended; it can also manage recurring scheduled jobs, with a heartbeat monitoring the system until something needs human review.</p>
+  <p>Kiro Crew is built on AWS's existing Kiro development environment, extending its "autonomous mode." The difference is scope: autonomous mode handles individual tasks within a single session, while Crew keeps working whether the developer is online or off, maintains memory across sessions, runs scheduled work and orchestrates multiple specialist agents. It reads `.kiro` configuration out of the box — steering files, skills and custom agents developers have already built.</p>
+  <p>The headline feature is the "self-learning and self-evolving" design: by persisting preferences, active-project context and relevant history into new sessions, Crew carries corrections into every run. If a user repeatedly asks an agent to favor one function, that guidance is internalized; if a tool such as an MCP server providing Python best practices keeps failing and needs reformatting, agents pass that fix across sessions. Amazon stresses agentic memory stays <b>visible and auditable</b>, with developers deciding what Crew carries forward. Developers can also interact via the app, web dashboard, or their usual chat interfaces for a more asynchronous, around-the-clock workflow.</p>
+
+  <h2>2. Nvidia Open-Sources cuFile: Millisecond GPU-Direct Storage, plus Storage-Next with 40 Vendors</h2>
+  <p>According to <b>SiliconANGLE</b> (Aug 4, 2026, 11:00 EDT), at the <b>Future of Memory and Storage</b> conference Nvidia announced it is <b>open-sourcing the API</b> for its cuFile vertical storage stack, enabling millisecond data access, and launched a large-scale industry initiative with technology leaders to optimize memory and storage — <b>Storage-Next</b>. The initiative brings storage makers, controller vendors, thermal design, cooling and orchestration providers together with standards bodies to pursue GPU-driven storage, building on <b>SCADA</b> (scaled, accelerated data access) for high-bandwidth, ultra-low-latency AI storage.</p>
+  <p>cuFile launched into general availability in July 2021 alongside CUDA Toolkit 11.4, and was a core component of Nvidia's <b>GPUDirect Storage</b>. It provides direct, high-speed data access between local/distributed storage and GPU memory, letting GPUs bypass the CPU and system main memory. Using direct memory access (DMA), it moves data straight from devices such as NVMe drives into GPU memory, sharply cutting memory-access latency. For AI inference — which largely runs on GPUs whose memory refresh is often orchestrated by a software layer — cuFile "cuts out the middleman," providing a direct path and enabling GPU orchestration to pull far more data and sync massive datasets at GPU-class speeds.</p>
+  <p>Why it matters: when bandwidth is pinched by a bottleneck, it triggers the "GPU starvation" loop, where idle GPUs wait for data. Millisecond-level low latency lets massive datasets for retrieval-augmented generation and agentic AI run faster, effectively building a low-latency "superhighway" between deep storage and the GPU. Storage-Next now includes <b>40 leading storage and flash-memory vendors</b>, including DataDirect Networks, Kioxia and Micron, all contributing to next-generation AI storage with Nvidia.</p>
+
+  <h2>3. HPE Bets on Quantum-Hybrid Computing: Quantum Extends Rather Than Replaces HPC and AI</h2>
+  <p>According to <b>SiliconANGLE</b> (Aug 4, 2026, 15:16 EDT), at <b>HPE's World Quantum Day</b>, researchers, national-laboratory representatives and analysts converged on a shared conclusion: quantum computing is moving from a hardware race to an <b>integration challenge</b>, and <b>Hewlett Packard Enterprise</b> is positioning itself around the infrastructure layer that connects quantum with HPC and AI. The consensus: quantum will not replace today's systems — it will become another capability inside HPC, AI, networking and software environments.</p>
+  <p>The challenge is no longer just building better quantum processors; it is connecting quantum systems to the classical infrastructure around them. As Dave Vellante, chief analyst at theCUBE Research, put it: "Quantum computing will not be defined by replacing classical computing, but by extending it." Paul Gillin, enterprise editor at SiliconANGLE Media, reached a similar conclusion after speaking with quantum researchers: "The industry's focus has shifted from building general-purpose quantum computers to integrating quantum technology with high-performance computing." The shift aligns with HPE's core strengths — the next phase depends less on standalone processors and more on the infrastructure, orchestration and hybrid environments that make quantum useful.</p>
+  <p>HPE is backing this up in its roadmap: it is weaving quantum into platforms including <b>Aruba AI networking</b> and <b>GreenLake</b>, and pushing quantum processors to join classical ones inside large-scale HPC clusters, so research and AI workloads can call on quantum resources on demand from a unified compute base. For the industry, hybrid quantum computing is steadily moving "lab quantum" toward "production-grade infrastructure" — a pivotal step on the road to real-world adoption.</p>
+
+  <h2>4. Waymo Opens Dallas Robotaxi to Everyone: Waitlist Dropped, Ride on Demand</h2>
+  <p>According to <b>TechCrunch</b> (Aug 4, 2026, 10:31 AM PDT), Alphabet-owned autonomous-driving company <b>Waymo</b> has dropped the waitlist for its robotaxi service in <b>Dallas</b>, opening it up to all residents and visitors — anyone can now download the app and immediately hail a Waymo robotaxi. It is the latest step in Waymo's bid to scale its self-driving tech across the U.S., the UK and Europe.</p>
+  <p>Dallas has been on Waymo's map since last year, when it began testing on public streets and announced a 2026 launch, partnering with <b>Avis Budget Group</b> to manage its fleet of all-electric autonomous <b>Jaguar I-PACE</b> vehicles (charging, maintenance and general depot operations). Waymo opened the service to the public in February, initially via a waitlist; some <b>150,000</b> riders used the Waymo app in that period. Now the waitlist is gone, following the same playbook Waymo used in Phoenix, Los Angeles and San Francisco.</p>
+  <p>There are still edge cases: riders can't yet hail a ride to Dallas Love Field Airport — the company is still testing vehicles there and expects to serve riders "soon." And in defensive mode, Waymo has shown caution: in May it paused service in Dallas, Houston, San Antonio and Atlanta over how its robotaxis handled heavy rain and flooded roads. Services have resumed, but Waymo says it may adjust or temporarily pause operations based on severe weather, flood warnings and real-time conditions, with riders checking status in the app. It's a reminder that scaling robotaxis still means contending with real-world weather and roads.</p>
+
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> to get 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

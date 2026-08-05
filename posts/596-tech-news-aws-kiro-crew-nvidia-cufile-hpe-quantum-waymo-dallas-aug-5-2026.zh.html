@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>8月5日泛科技要闻：AWS Kiro Crew、英伟达cuFile开源、HPE量子混合计算、Waymo达拉斯开放 - AI Daily</title>
+  <meta name="description" content="⚡ 8月5日泛科技要闻：AWS发布Kiro Crew，让AI编码智能体昼夜不停工作、支持自学习自进化与跨会话记忆；英伟达宣布开源cuFile API并联合40家存储厂商发起Storage-Next，让GPU绕过CPU与主存毫秒级直连高速存储；HPE在世界量子日大会押注量子混合计算，把量子与HPC、AI在基础设施层打通；Waymo在达拉斯全面开放机器人出租车服务，取消等待名单让所有居民与访客即下即用。">
+  <meta name="keywords" content="泛科技,科技要闻,AWS,Kiro Crew,智能体,AI编码,Amazon Web Services,英伟达,NVIDIA,cuFile,GPU,存储,Storage-Next,HPE,量子计算,量子混合,HPC,Waymo,萝卜快跑,机器人出租车,Robotaxi,达拉斯,自动驾驶,Alphabet">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-05</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="596-tech-news-aws-kiro-crew-nvidia-cufile-hpe-quantum-waymo-dallas-aug-5-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-05</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">科技新闻</span><span class="tag">AWS</span><span class="tag">Kiro Crew</span><span class="tag">英伟达</span><span class="tag">量子计算</span><span class="tag">HPE</span><span class="tag">Waymo</span><span class="tag">自动驾驶</span><span class="tag">GPU</span></div>
+  <h1>⚡ 8月5日泛科技要闻：AWS发布Kiro Crew让AI编码智能体7×24不间断、英伟达开源cuFile API直连高速存储、HPE押注量子混合计算融入HPC与AI、Waymo达拉斯机器人出租车向所有人开放</h1>
+  
+  <p>过去一天，科技行业的热点围绕「智能体自动化、GPU数据吞吐与量子真实落地」三条主线推进：AWS 将其 AI 编码环境 Kiro 演进成 <b>Kiro Crew</b>，让 AI 编程智能体可以昼夜不停、跨会话连续工作，并宣称具备「自学习、自进化」能力；英伟达在 Future of Memory and Storage 大会上<b>开源 cuFile API</b>，让 GPU 绕过 CPU 与系统主存、毫秒级直连高速存储，同时联手 40 家存储与闪存厂商发起 Storage-Next 开放计划；HPE 在「世界量子日」上押注<b>量子混合计算</b>，把量子视为 HPC 与 AI 基础设施的一个新能力而非替代者；Waymo 则在达拉斯<b>全面开放</b>机器人出租车服务，取消等待名单。以下为本轮泛科技要闻汇总。</p>
+
+  <h2>一、AWS 发布 Kiro Crew：AI 编码智能体 7×24 昼夜不停、自学习自进化</h2>
+  <p>据<b>SiliconANGLE</b>（2026年8月4日，美东 13:00 更新）报道，<b>Amazon Web Services（AWS）</b>今日推出 <b>Kiro Crew</b>——一个能让 AI 编码智能体<b>全天候不断工作</b>的自主工作空间。AWS 表示，Crew 让开发者「启动一个任务、转身离开，等有值得处理的事再回来」：它会同时调度多个智能体及其子智能体执行多步骤任务，用户可放手让其无人值守运行；还能管理按计划周期执行的例行任务，系统通过心跳（heartbeat）监控直到有需要人工复核的事项出现。</p>
+  <p>Kiro Crew 基于 AWS 既有的 Kiro 开发环境构建，是其「自治模式」（autonomous mode）的规模延伸。区别在于作用范围：自治模式只在单个会话内处理单个任务，而 Crew 无论开发者在线与否都能持续工作、跨会话保持记忆、运行定时任务并编排多个专业智能体。它开箱即可读取 `.kiro` 配置、技能与开发者已自定义的智能体，构架于 steering files 之上。</p>
+  <p>最受关注的是 AWS 所称的<b>「自学习、自进化」</b>设计：通过把偏好、当前项目上下文与相关历史持久化地注入新会话，Crew 会把经验带进每一次运行。例如若用户反复要求智能体偏好使用某个函数，该规则会被固化为长期指导；若某个 MCP 服务器（如提供 Python 最佳实践）对某些请求频繁失败，智能体也会把修正信息跨会话传递。同时 Amazon 强调智能体记忆<b>保持可见、可审计</b>，由开发者决定哪些信息由 Crew 继续携带。开发者可通过 App 与网页仪表盘检视对话、文件、审批、记忆、调度与 Apps，也可以用日常聊天界面直接与 Crew 交互——异步化、不间断地推进日常研发。</p>
+
+  <h2>二、英伟达开源 cuFile API：GPU 毫秒级直连高速存储，携手 40 厂商发起 Storage-Next</h2>
+  <p>据<b>SiliconANGLE</b>（2026年8月4日，美东 11:00 更新）报道，在<b>Future of Memory and Storage 大会</b>上，<b>英伟达</b>宣布<b>开源</b>其 cuFile 垂直存储栈的应用编程接口（API），实现毫秒级数据访问；同时与业界巨头发起大规模开放计划 <b>Storage-Next</b>，联合存储制造商、控制器厂商、散热设计、冷却与编排供应商以及标准组织，共同挖掘由 GPU 驱动的下一代存储机会，并在此框架下基于 <b>SCADA</b>（scaled、accelerated data access）构建高带宽、极低延迟的 AI 存储基座。</p>
+  <p>cuFile API 最初于 2021 年 7 月随 CUDA Toolkit 11.4 正式发布，是英伟达 <b>GPUDirect Storage</b> 软件的核心组件。它提供本地分布式存储与 GPU 显存之间的<b>直连高速数据通路</b>，让 GPU 绕过 CPU 与系统主存，借助直接内存访问（DMA）把 NVMe 等存储设备的数据直达 GPU 显存，显著降低内存访问延迟。对 AI 推理而言，刷新显存通常依赖另一层软件由 GPU 编排，cuFile 相当于「砍掉中间商」，提供直接访问路径并让 GPU 自主编排，从而以跟得上顶级 GPU 速度的速率同步海量数据集。</p>
+  <p>为什么这很重要？若数据带宽被瓶颈掐住，就会出现所谓的<b>「GPU 饥饿」循环</b>（GPU starvation loop）——分布式阵列中部分 GPU 因等待数据而空转。毫秒级低延迟让 RAG（检索增强生成）与智能体 AI 的海量数据集跑得更快，相当于在深层存储与 GPU 之间架起一条低时延「超级高速公路」。Storage-Next 已纳入 <b>40 家</b>领先存储与闪存厂商，包括 DataDirect Networks、<b>铠侠（Kioxia）</b>与<b>美光（Micron）</b>，它们将与英伟达共同贡献下一代 AI 存储技术。</p>
+
+  <h2>三、HPE 押注量子混合计算：量子将延伸而非取代 HPC 与 AI</h2>
+  <p>据<b>SiliconANGLE</b>（2026年8月4日，美东 15:16 更新）报道，在 <b>HPE 世界量子日</b>活动上，研究人员、国家实验室代表与分析师的共识是：量子计算正从「硬件竞赛」转向「集成挑战」——<b>Hewlett Packard Enterprise（HPE）</b>正把自己定位在<b>连接量子与 HPC、AI 的基础设施层</b>。大家一致认为，量子<b>不会取代</b>当今系统，而会成为 HPC、AI、网络与软件环境内部的新能力。</p>
+  <p>挑战已不再是单纯造出更好的量子处理器，而是<b>把量子系统与经典基础设施连接起来</b>。硅角（theCUBE Research）首席分析师 Dave Vellante 指出：「量子计算的定位不是取代经典计算，而是延伸它。」硅角媒体企业编辑 Paul Gillin 在与量子研究者交流后也得出类似结论：「行业焦点已从构建通用量子计算机，转向把量子技术与高性能计算集成。」这一转向与 HPE 的核心优势高度契合——量子下一阶段将更少依赖独立处理器，更多依赖让量子真正有用的<b>基础设施、编排与混合环境</b>。</p>
+  <p>HPE 在此方向上已不止于表态：公司将量子技术融入其 <b>Aruba AI 网络</b>与 <b>GreenLake</b> 等关键平台，并推动量子处理器与经典处理器一同接入大规模 HPC 集群，让科研与 AI 负载能够在统一的算力底座上按需调用量子资源。对行业的意义在于：混合（hybrid）量子计算正把「实验室里的量子」推向「生产环境可用的基础设施」，这也是量子走向现实应用的关键转折点。</p>
+
+  <h2>四、Waymo 达拉斯全面开放：机器人出租车取消等待名单、居民访客即下即用</h2>
+  <p>据<b>TechCrunch</b>（2026年8月4日，美西 10:31）报道，<b>Alphabet 系自动驾驶公司 Waymo</b>在达拉斯<b>取消机器人出租车服务的等待名单</b>，向所有居民与访客开放——任何人现在都能下载 App 并立即叫到一辆 Waymo 自动驾驶车，这是它在美国、英国与欧洲规模化部署自研自动驾驶技术的最新一步。</p>
+  <p>达拉斯是 Waymo 去年的布局城市之一，当时它开始在公共道路测试并宣布 2026 年上线服务，还与 <b>Avis Budget Group</b> 合作，由后者管理其全电动自动驾驶 <b>捷豹 I-PACE</b> 车队的充电与维护等日常运维。今年 2 月，Waymo 在达拉斯面向公众开放服务，但初期需要等待名单；Waymo 称此期间约 <b>15 万名</b>乘客用过其 App。如今名单正式取消，沿用其在菲尼克斯、洛杉矶与旧金山等地的「全面开放」剧本。</p>
+  <p>不过服务尚有边界：乘客暂时<b>无法</b>打的前往达拉斯爱田机场（Dallas Love Field），公司称仍在机场测试自动驾驶车辆、预计「很快」开放。今年 5 月，Waymo 曾因自动驾驶车辆在暴雨与积水道路上表现不佳，暂停了达拉斯、休斯顿、圣安东尼奥与亚特兰大的服务；虽已恢复，但 Waymo 表示未来仍可能根据恶劣天气、洪水预警与实时路况调整或临时暂停运营，乘客可通过 App 查看服务状态。这也提醒我们，自动驾驶的大规模商用之路，仍需与真实世界的气候与路况持续博弈。</p>
+
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
