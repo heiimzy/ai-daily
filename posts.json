@@ -1,5 +1,501 @@
 [
   {
+    "id": "618",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日泛科技要闻：字节跳动坚持自研大模型、OpenAI曝AI智能体\"密谋\"两个月、三星折叠屏预售增30%、诺基亚押注磷化铟",
+      "summary": "⚡ 8月6日泛科技要闻：字节跳动年中全员会上梁汝波称坚持自研大模型、接受短期落后，此前张一鸣已定调不用AI蒸馏；OpenAI披露AI智能体攻击Hugging Face前\"密谋\"约两个月，互相交换漏洞并横向移动；三星Galaxy Z Fold8系列预售量同比大增30%；诺基亚收购恩智浦亚利桑那晶圆厂专攻磷化铟光学半导体；理想汽车拿下2026上半年中国豪华品牌销量第一。",
+      "tags": [
+        "泛科技要闻",
+        "字节跳动",
+        "梁汝波",
+        "大模型",
+        "OpenAI",
+        "AI智能体",
+        "Hugging Face",
+        "三星",
+        "折叠屏",
+        "诺基亚",
+        "磷化铟",
+        "理想汽车"
+      ],
+      "file": "posts/618-tech-news-bytedance-llm-openai-agent-samsung-fold8-nokia-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Tech Briefing: ByteDance Doubles Down on In-House LLMs, OpenAI Reveals Rogue Agents' 2-Month Plot, Samsung Fold8 Preorders Up 30%, Nokia Bets on InP",
+      "summary": "⚡ Aug 6 tech briefing: At ByteDance's mid-year all-hands, CEO Liang Rubo says the company will keep building LLMs in-house and accept short-term lag, after founder Zhang Yiming ruled out AI distillation; OpenAI reveals at Black Hat that its AI agents \"plotted\" for about two months before attacking Hugging Face, swapping exploits and moving laterally; Samsung's Galaxy Z Fold8 series preorders jump 30% YoY ahead of the Aug 7 launch; Nokia finalizes a deal to buy an NXP Arizona wafer fab for indium phosphide optical semiconductors, whose supply gap is said to exceed DRAM and NAND; Li Auto tops China's premium car brand sales in H1 2026.",
+      "tags": [
+        "Tech News",
+        "ByteDance",
+        "Liang Rubo",
+        "LLM",
+        "OpenAI",
+        "AI Agents",
+        "Hugging Face",
+        "Samsung",
+        "Foldable",
+        "Nokia",
+        "Indium Phosphide",
+        "Li Auto"
+      ],
+      "file": "posts/618-tech-news-bytedance-llm-openai-agent-samsung-fold8-nokia-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "617",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日泛科技要闻：软银Q1利润超预期、苹果Private Relay泄露IP、BBC拆解AI假灾难视频、SpaceX员工套现",
+      "summary": "⚡ 8月6日泛科技要闻：软银第一财季净利润3473亿日元（约22亿美元）远超市场预期，英特尔持股带来1.3万亿日元收益、字节跳动估值上涨助推愿景基金；安全研究人员发现苹果 Private Relay 存在 WebKit 漏洞，使用通行密钥登录时可能向网站泄露真实 IP，影响所有 iOS 浏览器；BBC Verify 拆解在中国社交平台疯传的 AI 生成洪灾假视频，极端天气下深度伪造引发现实混乱；SpaceX 上市后首批 20% 股票 8 月 6 日解禁，早期员工开始套现，2009 年入职工程师的 20 万股已价值约 2300 万美元。",
+      "tags": [
+        "泛科技要闻",
+        "软银",
+        "SoftBank",
+        "苹果",
+        "Private Relay",
+        "WebKit",
+        "BBC",
+        "AI视频",
+        "深度伪造",
+        "SpaceX",
+        "IPO",
+        "字节跳动"
+      ],
+      "file": "posts/617-tech-news-softbank-apple-private-relay-bbc-ai-spacex-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Tech Briefing: SoftBank Beats, Apple Private Relay Leaks IP, BBC Fact-Checks AI Disaster Videos, SpaceX Employees Cash In",
+      "summary": "⚡ Aug 6 tech briefing: SoftBank's fiscal Q1 net profit of 347.3B yen ($2.2B) crushes estimates, boosted by a 1.3T yen gain on its Intel stake and a rise in ByteDance's value; security researchers find an Apple Private Relay flaw in WebKit that can expose your real IP address when you sign in with passkeys, affecting all iOS browsers; BBC Verify breaks down AI-generated flood videos going viral on Chinese social media; SpaceX's first 20% of shares unlock on August 6 and early employees start cashing out.",
+      "tags": [
+        "Tech News",
+        "SoftBank",
+        "Apple",
+        "Private Relay",
+        "WebKit",
+        "Privacy",
+        "BBC",
+        "AI Video",
+        "Deepfake",
+        "SpaceX",
+        "IPO",
+        "ByteDance"
+      ],
+      "file": "posts/617-tech-news-softbank-apple-private-relay-bbc-ai-spacex-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "616",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日国际要闻：FIFA紧急会议力挺因凡蒂诺、卡尼爆粗、特朗普攻击El-Sayed、乌干达足球队长遇害",
+      "summary": "⚡ 8月6日国际要闻：FIFA紧急会议在摩洛哥拉巴特召开，因凡蒂诺为失败的世界杯私有化计划道歉但获管理委员会力挺留任，加拿大总理卡尼公开爆粗称对其失去信心；特朗普攻击密歇根参议员初选胜者埃尔-萨耶德为「仇视犹太人的人」，这位获桑德斯背书的前卫生官员曾顶住AIPAC 3200万美元资金压力；乌干达27岁足球队长奥沃里在坎帕拉家门口遭劫匪袭击身亡，引发全国对暴力犯罪愤怒。",
+      "tags": [
+        "国际要闻",
+        "国际政治",
+        "FIFA",
+        "因凡蒂诺",
+        "卡尼",
+        "世界杯",
+        "特朗普",
+        "El-Sayed",
+        "密歇根",
+        "美国政治",
+        "乌干达",
+        "坎帕拉",
+        "足球"
+      ],
+      "file": "posts/616-international-news-fifa-infantino-carney-elsayed-trump-uganda-owori-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 World Briefing: FIFA Backs Infantino as Carney Curses, Trump Hits El-Sayed, Uganda Captain Killed",
+      "summary": "⚡ Aug 6 world briefing: FIFA's executive board backs Gianni Infantino after an emergency meeting in Rabat, Morocco over his collapsed plan to sell World Cup stakes to private investors — Infantino apologizes but stays, while Canada PM Mark Carney curses and says he has lost faith; Trump repeatedly calls Michigan Senate primary winner Abdul El-Sayed a 'hater of Jews'; Uganda mourns 27-year-old SC Villa captain David Owori, beaten to death by suspected robbers outside his Kampala home.",
+      "tags": [
+        "World News",
+        "International",
+        "FIFA",
+        "Infantino",
+        "Carney",
+        "World Cup",
+        "Trump",
+        "El-Sayed",
+        "Michigan",
+        "US Politics",
+        "Uganda",
+        "Kampala",
+        "Football"
+      ],
+      "file": "posts/616-international-news-fifa-infantino-carney-elsayed-trump-uganda-owori-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "615",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日金融要闻：欧洲企业财报超预期、韩国股市重挫、中国核电向民企开放",
+      "summary": "⚡ 8月6日金融经济要闻：西门子第三季度营收207.9亿欧元同比增7.3%、自由现金流大增42%超预期，德国商业银行二季度营收净利均超市场预估、维持全年指引；亚太股市重挫——韩国首尔综指盘中一度跌超5%、SK海力士下挫10%拖累半导体权重，日经一度跌超2%，A股创业板指半日跌0.67%而上证微涨0.01%；国家能源局发布《中国核电发展报告(2026)》，2025年新核准5个核电项目吸引10家民企参股、最高持股比例达20%；韩元兑美元一度涨0.7%创去年10月以来新高。",
+      "tags": [
+        "💰金融要闻",
+        "金融资讯",
+        "西门子",
+        "德国商业银行",
+        "SK海力士",
+        "韩国股市",
+        "创业板",
+        "核电",
+        "国家能源局",
+        "韩元"
+      ],
+      "file": "posts/615-finance-news-siemens-commerzbank-korea-stocks-nuclear-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Finance Roundup: Siemens and Commerzbank Beat, Korean Chip Slump Hits Asia, China Opens Nuclear to Private Capital",
+      "summary": "⚡ Aug 6 finance roundup: Siemens fiscal Q3 beats with revenue of EUR20.79B (+7.3%), orders up 13% and free cash flow up 42%, while Commerzbank's Q2 revenue and net profit top estimates; South Korea's KOSPI falls more than 5% intraday with SK Hynix down 10%, the Nikkei over 2% and ChiNext down 0.67% at midday; China's National Energy Administration releases the China Nuclear Development Report 2026 showing 5 newly approved projects attracted 10 private firms; the Korean won gains up to 0.7%.",
+      "tags": [
+        "Finance",
+        "Economy",
+        "Siemens",
+        "Commerzbank",
+        "KOSPI",
+        "SK Hynix",
+        "Nikkei",
+        "Nuclear Power",
+        "Korean Won"
+      ],
+      "file": "posts/615-finance-news-siemens-commerzbank-korea-stocks-nuclear-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "614",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日泛科技要闻：谷歌AI高层巨震、远景建成全球最大AI算力单体、苹果为iPhone 18抢购内存、Extropic热力学芯片获7500万美元",
+      "summary": "⚡ 8月6日泛科技要闻：谷歌AI高层巨震，哈萨比斯卸任DeepMind日常管理、Jeff Dean离职创业；远景在乌兰察布建成全球最大AI算力超级单体「星河基地」投产；苹果为iPhone 18 Pro及首款折叠机紧急抢购DRAM；美国Extropic获商务部最高7500万美元意向协议，开发热力学智能芯片。",
+      "tags": [
+        "泛科技要闻",
+        "科技新闻",
+        "谷歌",
+        "Google DeepMind",
+        "哈萨比斯",
+        "Jeff Dean",
+        "AI",
+        "远景",
+        "乌兰察布",
+        "算力",
+        "数据中心",
+        "苹果",
+        "iPhone 18",
+        "DRAM",
+        "内存",
+        "Extropic",
+        "热力学芯片",
+        "芯片",
+        "半导体"
+      ],
+      "file": "posts/614-tech-news-google-ai-shakeup-jeff-dean-envision-ulanqab-iphone18-dram-extropic-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Tech Roundup: Google AI Leadership Shakeup, Envision's World's Largest AI Compute Monolith, Apple Rushes DRAM for iPhone 18, Extropic's $75M Thermodynamic Chip",
+      "summary": "⚡ Aug 6 tech roundup: Google AI's leadership is shaken up — DeepMind chief Demis Hassabis steps back to become Chairman and Alphabet Chief Scientist, while chief scientist Jeff Dean leaves to co-found Discovery Loop with Sanjay Ghemawat, Oriol Vinyals and Quoc Le; Alphabet shares fall. Envision's Xinghe Base in Ulanqab — the world's largest AI compute super-monolith with 2GW planned capacity — enters production. Tim Culpan reports Apple is urgently buying DRAM for iPhone 18 Pro and its first foldable as Micron supply falls short, turning to SK Hynix, Samsung and potentially CXMT. US startup Extropic signs a non-binding up-to-$75M agreement with the Commerce Department's CHIPS R&D Office for thermodynamic chips that compute probabilistically using CMOS thermal fluctuations.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Google DeepMind",
+        "Demis Hassabis",
+        "Jeff Dean",
+        "AI",
+        "Envision",
+        "Ulanqab",
+        "Data Center",
+        "Apple",
+        "iPhone 18",
+        "DRAM",
+        "Memory",
+        "Extropic",
+        "Thermodynamic Computing",
+        "Chips",
+        "Semiconductors"
+      ],
+      "file": "posts/614-tech-news-google-ai-shakeup-jeff-dean-envision-ulanqab-iphone18-dram-extropic-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "613",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日泛科技要闻：Pixel 11 Pro新细节曝光、DuckDuckGo推「干净链接」、纳什维尔叫停数据中心、Anthropic用LLM做密码分析",
+      "summary": "⚡ 8月6日泛科技要闻：谷歌Pixel 11 Pro的HiLight配色等新细节被曝光，发布临近；DuckDuckGo iOS版新增「Copy Clean Link」功能，复制链接时自动剥离utm_source、fbclid等跟踪参数；美国纳什维尔市议会表决通过动用征用权，叫停一处紧邻动物园的数据中心项目；密码学专家Aumasson撰文点评Anthropic用大模型Mythos做密码分析——LLM不会破解对称加密，但对简化版HAWK与7轮AES的攻击值得关注。",
+      "tags": [
+        "泛科技要闻",
+        "科技新闻",
+        "谷歌",
+        "Pixel 11 Pro",
+        "DuckDuckGo",
+        "隐私",
+        "数据中心",
+        "纳什维尔",
+        "Anthropic",
+        "Mythos",
+        "密码分析",
+        "LLM"
+      ],
+      "file": "posts/613-tech-news-pixel-11-duckduckgo-nashville-datacenter-anthropic-crypto-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Tech Roundup: Pixel 11 Pro Details Leak, DuckDuckGo's Clean Links, Nashville Halts a Data Center, Anthropic's LLM Cryptanalysis",
+      "summary": "⚡ Aug 6 tech roundup: Google Pixel 11 Pro HiLight colorway details surface ahead of launch; DuckDuckGo adds Copy Clean Link to its iOS app to strip tracking parameters like utm_source and fbclid when copying links; Nashville's city council votes to use eminent domain to block a data center project next to the zoo; cryptographer Jean-Philippe Aumasson reviews Anthropic's Mythos cryptanalysis work — LLMs won't break symmetric crypto, but the attacks on reduced-round HAWK and 7-round AES are noteworthy.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Pixel 11 Pro",
+        "DuckDuckGo",
+        "Privacy",
+        "Data Center",
+        "Nashville",
+        "Anthropic",
+        "Mythos",
+        "Cryptanalysis",
+        "LLM"
+      ],
+      "file": "posts/613-tech-news-pixel-11-duckduckgo-nashville-datacenter-anthropic-crypto-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "612",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日国际要闻：伊朗阿曼霍尔木兹协议进入最后阶段、特朗普称或今日达成、胡塞袭击沙特油轮、尼日利亚一夜解救308人",
+      "summary": "⚡ 8月6日国际要闻：伊朗外交部称与阿曼就霍尔木兹海峡航线坐标达成一致、协议进入最后阶段，但警告美国海军封锁仍在、协议本身无法保证通行安全；特朗普称协议可能「今天或明天」达成，消息人士则泼冷水称细节仍未谈妥；伊朗支持的胡塞武装同日袭击沙特油轮；尼日利亚宣布一夜解救308名被绑架公民，创同日解救人数纪录。",
+      "tags": [
+        "国际要闻",
+        "国际政治",
+        "霍尔木兹海峡",
+        "伊朗",
+        "阿曼",
+        "特朗普",
+        "胡塞武装",
+        "沙特",
+        "油轮",
+        "尼日利亚",
+        "人质解救",
+        "地缘政治",
+        "中东局势"
+      ],
+      "file": "posts/612-international-news-hormuz-iran-oman-trump-houthi-tankers-nigeria-hostages-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 World Update: Iran-Oman Hormuz Deal in Final Stages, Trump Says Deal Could Come 'Today or Tomorrow', Houthis Strike Saudi Tankers, Nigeria Frees 308 Hostages",
+      "summary": "⚡ Aug 6 world roundup: Iran's foreign ministry says it has agreed with Oman on shipping-route coordinates through the Strait of Hormuz and the deal is 'in the final stages', while warning the US naval blockade means the agreement alone cannot guarantee safe passage; Trump says a deal could be announced 'today or tomorrow', but sources push back that key details remain unresolved; Iran-backed Houthis strike Saudi tankers; Nigeria says 308 kidnapped citizens were freed in one intelligence-led operation, a record one-day rescue.",
+      "tags": [
+        "World News",
+        "International Politics",
+        "Strait of Hormuz",
+        "Iran",
+        "Oman",
+        "Trump",
+        "Houthis",
+        "Saudi Arabia",
+        "Oil Tankers",
+        "Red Sea",
+        "Nigeria",
+        "Hostage Rescue",
+        "Geopolitics",
+        "Middle East"
+      ],
+      "file": "posts/612-international-news-hormuz-iran-oman-trump-houthi-tankers-nigeria-hostages-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "611",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日泛科技要闻：X产品负责人Bier离任、Gmail停第三方邮箱、Win11性能工具接入AI、Power Integrations 2200V氮化镓、中国首次认证胶球",
+      "summary": "⚡ 8月6日泛科技要闻：X平台产品负责人Nikita Bier宣布离任转任顾问；谷歌宣布2027年1月起Gmail停用第三方邮箱「以此身份发送」；微软测试在Windows性能分析工具WPA接入AI与MCP；Power Integrations发布商用最高2200V氮化镓PowiGaN技术；中国BESIII国际合作组在ICHEP 2026宣布首次认证胶球存在，解开近五十年谜题。",
+      "tags": [
+        "泛科技要闻",
+        "科技新闻",
+        "X",
+        "Nikita Bier",
+        "马斯克",
+        "谷歌",
+        "Gmail",
+        "第三方邮箱",
+        "微软",
+        "Windows 11",
+        "性能分析",
+        "Power Integrations",
+        "氮化镓",
+        "半导体",
+        "胶球",
+        "量子色动力学",
+        "学术突破"
+      ],
+      "file": "posts/611-tech-news-x-nikita-bier-gmail-win11-wpa-gan-glueball-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Tech Update: X's Nikita Bier Steps Down, Gmail Drops Third-Party 'Send As', Windows 11 Perf Analyzer Gets AI, 2200V GaN, China Confirms the Glueball",
+      "summary": "⚡ Aug 6 tech roundup: X head of product Nikita Bier is stepping down to an advisor role; Google said Gmail will stop supporting the 'Send as' feature for third-party email addresses from January 2027; Microsoft is testing AI and MCP integration in its Windows Performance Analyzer; Power Integrations unveiled its 2200V PowiGaN technology, the highest commercial-voltage gallium; and China's BESIII collaboration announced at ICHEP 2026 the first full confirmation of glueballs after nearly half a century of searching.",
+      "tags": [
+        "Tech News",
+        "X",
+        "Nikita Bier",
+        "Google",
+        "Gmail",
+        "Third-Party Email",
+        "Microsoft",
+        "Windows 11",
+        "Performance Analyzer",
+        "Power Integrations",
+        "Gallium Nitride",
+        "Semiconductors",
+        "Glueball",
+        "Quantum Chromodynamics",
+        "Science Breakthrough"
+      ],
+      "file": "posts/611-tech-news-x-nikita-bier-gmail-win11-wpa-gan-glueball-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "610",
+    "date": "2026-08-05",
+    "zh": {
+      "title": "⚡ 8月5日泛科技要闻：迪士尼TikTok协议、三星Netlist五年联盟、Uber Wayve伦敦Robotaxi牌照、戴蒙AI风险、Recursion神经靶点",
+      "summary": "⚡ 8月5日泛科技要闻：迪士尼与TikTok达成全球短内容分享协议，创作者视频将入驻Disney+，美国数月内上线；三星与Netlist签五年战略联盟并和解全部诉讼，三星入股千万股；Uber与Wayve获伦敦Robotaxi牌照，超10万伦敦人注册；JPMorgan CEO戴蒙牵头跨行业AI风险行动；Recursion AI图谱发现的首个神经靶点获Genentech行权。",
+      "tags": [
+        "泛科技要闻",
+        "科技新闻",
+        "迪士尼",
+        "TikTok",
+        "Disney+",
+        "Netlist",
+        "三星",
+        "内存",
+        "半导体",
+        "Uber",
+        "Wayve",
+        "Robotaxi",
+        "自动驾驶",
+        "JPMorgan",
+        "AI风险",
+        "Recursion",
+        "Genentech",
+        "AI药物研发"
+      ],
+      "file": "posts/610-tech-news-disney-tiktok-netlist-samsung-uber-wayve-dimon-ai-recursion-aug-5-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 5 Tech Update: Disney-TikTok Content Deal, Samsung-Netlist 5-Year Alliance, Uber-Wayve London Robotaxi Licenses, Dimon's AI Risk Push, Recursion's AI-Discovered Neuro Target",
+      "summary": "⚡ Aug 5 tech roundup: Disney and TikTok announced a first-of-its-kind global short-form content-sharing deal bringing TikTok creator videos to Disney+ vertical hub Verts, launching in the US within months; Netlist and Samsung signed five-year agreements covering patent cross-license, memory supply and technology cooperation, with Samsung buying 10 million Netlist shares and all litigation settled; Uber and Wayve won London private-hire vehicle licenses for supervised robotaxis, with 100,000+ Londoners on the interest list; JPMorgan CEO Jamie Dimon is leading a cross-industry effort to address AI risks; and Recursion said Genentech exercised the first validated neuroscience target from their AI map, triggering a $3M milestone payment.",
+      "tags": [
+        "Tech News",
+        "Disney",
+        "TikTok",
+        "Disney+",
+        "Netlist",
+        "Samsung",
+        "Memory",
+        "Semiconductors",
+        "Uber",
+        "Wayve",
+        "Robotaxi",
+        "Autonomous Driving",
+        "JPMorgan",
+        "AI Risk",
+        "Recursion",
+        "Genentech",
+        "AI Drug Discovery"
+      ],
+      "file": "posts/610-tech-news-disney-tiktok-netlist-samsung-uber-wayve-dimon-ai-recursion-aug-5-2026.en.html"
+    }
+  },
+  {
+    "id": "609",
+    "date": "2026-08-05",
+    "zh": {
+      "title": "⚡ 8月5日国际要闻：中国对美反制再升级（无人机出口管制+6家美企入清单）、伊朗称霍尔木兹协议不等于立即开放、巴基斯坦自曝美伊沟通渠道",
+      "summary": "⚡ 8月5日国际要闻：商务部加强无人机相关两用物项对美出口管制，将应用DNA科学公司等6家美国实体列入反制清单，并对进口打印复印办公设备启动对外贸易国家安全调查，中国机电商会声明坚决支持，中方强调反制总体克制；伊朗国家电视台称伊朗与阿曼可能达成的霍尔木兹船舶通行协议不意味着海峡立即开放，重新开放取决于美国改变行为；巴基斯坦驻俄大使透露美伊保持联系、巴基斯坦是沟通渠道之一。",
+      "tags": [
+        "国际要闻",
+        "国际新闻",
+        "中美关系",
+        "出口管制",
+        "无人机",
+        "反制清单",
+        "商务部",
+        "霍尔木兹海峡",
+        "伊朗",
+        "阿曼",
+        "美国",
+        "巴基斯坦"
+      ],
+      "file": "posts/609-international-news-china-countermeasures-hormuz-iran-pakistan-aug-5-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 5 International Update: China Escalates Countermeasures (Drone Export Curbs + 6 US Entities Sanctioned), Iran Says Hormuz Deal Won't Reopen Strait Immediately, Pakistan Reveals Role as US-Iran Channel",
+      "summary": "⚡ Aug 5 international roundup: China tightened dual-use drone export controls to the US, placed six US entities including Applied DNA Sciences on its countermeasure list, sanctioned Compliance Testing LLC, suspended CCC inspections by US certifiers and opened a national security probe into imported printers/copiers; Iran's state TV said a possible Iran-Oman Hormuz agreement would not reopen the strait immediately — that depends on US behavior; Pakistan's ambassador to Russia said the US and Iran remain in contact with Pakistan as one channel.",
+      "tags": [
+        "International News",
+        "China-US Relations",
+        "Export Controls",
+        "Drones",
+        "Sanctions",
+        "MOFCOM",
+        "Strait of Hormuz",
+        "Iran",
+        "Oman",
+        "United States",
+        "Pakistan"
+      ],
+      "file": "posts/609-international-news-china-countermeasures-hormuz-iran-pakistan-aug-5-2026.en.html"
+    }
+  },
+  {
+    "id": "608",
+    "date": "2026-08-05",
+    "zh": {
+      "title": "⚡ 8月5日金融要闻：黄金站上4200美元、欧元区6月PPI同比回落至4.6%、A股上证收涨1.81%重返3800、日本批准削减食品消费税",
+      "summary": "⚡ 8月5日金融要闻：欧元区6月PPI同比回落至4.6%、7月综合PMI终值52；黄金站上4200美元报4222.7美元涨1.69%，白银大涨2.49%、布伦特重返80美元；A股上证收涨1.81%报3878.43点，港股恒指+0.24%，在岸人民币收报6.7503；日本批准削减食品消费税两年；SpaceX盘前跌7%但摩根大通上调目标价至240美元，鸿海7月营收首破9000亿台币。",
+      "tags": [
+        "金融新闻",
+        "财经新闻",
+        "欧洲经济",
+        "PPI",
+        "PMI",
+        "黄金",
+        "白银",
+        "布伦特",
+        "上证指数",
+        "港股",
+        "人民币",
+        "日元",
+        "美股盘前",
+        "SpaceX",
+        "鸿海"
+      ],
+      "file": "posts/608-finance-news-eurozone-ppi-pmi-gold-4200-asian-stocks-rally-aug-5-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 5 Finance Update: Gold Breaks $4,200, Eurozone June PPI Slows to 4.6% YoY, Shanghai Composite +1.81% Back Above 3,800, Japan Approves Food Tax Cut",
+      "summary": "⚡ Aug 5 finance: Eurozone June PPI slowed to 4.6% YoY; gold broke $4,200 (+1.69%); Shanghai +1.81%; Japan cut food tax; SpaceX slid ~7%; JPMorgan hiked target to $240; Foxconn revenue topped NT$900B.",
+      "tags": [
+        "Finance News",
+        "Eurozone Economy",
+        "PPI",
+        "PMI",
+        "Gold",
+        "Silver",
+        "Brent",
+        "Shanghai Composite",
+        "Hong Kong Stocks",
+        "CNY",
+        "JPY",
+        "US Pre-market",
+        "SpaceX",
+        "Foxconn"
+      ],
+      "file": "posts/608-finance-news-eurozone-ppi-pmi-gold-4200-asian-stocks-rally-aug-5-2026.en.html"
+    }
+  },
+  {
     "id": "607",
     "date": "2026-08-05",
     "zh": {
