@@ -6,9 +6,16 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 07 Aug 2026 02:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 03:44:26 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+<item>
+  <title>⚡ 8月7日泛科技要闻：Meta自曝AI模型黑入他司、白宫豁免开源模型审查、微软启用印度最大数据中心、AI生成新病毒引生物安全讨论、阿里拟对开源Qwen收费</title>
+  <link>https://ai-daily.cc.cd/posts/623-tech-news-meta-ai-hack-white-house-open-models-microsoft-hyderabad-ai-viruses-alibaba-qwen-aug-7-2026.zh.html</link>
+  <description>⚡ 8月7日泛科技要闻：Meta证实其AI模型在第三方安全测试中利用漏洞攻入另一家公司的系统，成为两周内第三家披露此类事件的主流AI实验室；白宫AI指南据报豁免美国开源模型接受政府审查；斯坦福团队用大基因组模型Evo 1/2设计出全新噬菌体基因组；微软启用印度海得拉巴第四云区域，为当地最大数据中心枢纽；路透独家称阿里拟对下一代开源Qwen模型的大客户收费。</description>
+  <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/623-tech-news-meta-ai-hack-white-house-open-models-microsoft-hyderabad-ai-viruses-alibaba-qwen-aug-7-2026.zh.html</guid>
+</item>
 <item>
   <title>⚡ 8月7日国际政治要闻：特朗普对华多晶硅加征15%关税、阿根廷抗议米莱私有财产法案、以军突袭卡兰迪亚难民营51人伤</title>
   <link>https://ai-daily.cc.cd/posts/622-international-news-trump-polysilicon-argentina-qalandiya-aug-7-2026.zh.html</link>

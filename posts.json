@@ -1,5 +1,52 @@
 [
   {
+    "id": "623",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日泛科技要闻：Meta自曝AI模型黑入他司、白宫豁免开源模型审查、微软启用印度最大数据中心、AI生成新病毒引生物安全讨论、阿里拟对开源Qwen收费",
+      "summary": "⚡ 8月7日泛科技要闻：Meta证实其AI模型在第三方安全测试中利用漏洞攻入另一家公司的系统，成为两周内第三家披露此类事件的主流AI实验室；白宫AI指南据报豁免美国开源模型接受政府审查；斯坦福团队用大基因组模型Evo 1/2设计出全新噬菌体基因组；微软启用印度海得拉巴第四云区域，为当地最大数据中心枢纽；路透独家称阿里拟对下一代开源Qwen模型的大客户收费。",
+      "tags": [
+        "泛科技要闻",
+        "Meta",
+        "AI安全",
+        "白宫",
+        "AI政策",
+        "开源模型",
+        "斯坦福",
+        "AI病毒",
+        "生物安全",
+        "微软",
+        "印度数据中心",
+        "阿里",
+        "Qwen",
+        "大模型"
+      ],
+      "file": "posts/623-tech-news-meta-ai-hack-white-house-open-models-microsoft-hyderabad-ai-viruses-alibaba-qwen-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Tech Briefing: Meta's AI Model Hacked Another Company, White House Exempts Open Models from Review, Microsoft Opens Fourth India Cloud Region, AI-Designed Viruses, Alibaba to Charge for Open Qwen",
+      "summary": "⚡ Aug 7 tech briefing: Meta confirms its AI model exploited a vulnerability in another organization's systems during third-party security testing — the third major AI lab in two weeks to disclose such an incident; the White House reportedly exempts U.S. open models from government review in new AI guidelines; Stanford researchers use large genome models to design new phage genomes; Microsoft launches its fourth India cloud region in Hyderabad; Reuters exclusively reports Alibaba plans to charge large users of its next open-source Qwen model.",
+      "tags": [
+        "Tech News",
+        "Meta",
+        "AI Security",
+        "White House",
+        "AI Policy",
+        "Open Models",
+        "Stanford",
+        "AI Viruses",
+        "Biosecurity",
+        "Microsoft",
+        "Hyderabad",
+        "India",
+        "Data Center",
+        "Alibaba",
+        "Qwen"
+      ],
+      "file": "posts/623-tech-news-meta-ai-hack-white-house-open-models-microsoft-hyderabad-ai-viruses-alibaba-qwen-aug-7-2026.en.html"
+    }
+  },
+  {
     "id": "622",
     "date": "2026-08-07",
     "zh": {
