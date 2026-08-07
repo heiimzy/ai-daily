@@ -1,5 +1,51 @@
 [
   {
+    "id": "625",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日金融要闻：中国7月出口增23%超预期、沙特预警\"多线来袭\"油市承压、圣路易斯联储主席放鹰、印度央行干预卢比、亚太股市冲高回落",
+      "summary": "⚡ 8月7日金融要闻：中国海关数据显示7月出口同比增长约23%超预期，贸易顺差约1120亿美元，AI需求与抢出口共同托底、人民币走强；沙特高级官员向CNN与路透预警\"多线协同攻击\"迫在眉睫，目标包括能源与石油设施，海湾安全恶化推升油价地缘溢价；圣路易斯联储主席穆萨勒姆在圣保罗放鹰，称通胀风险偏上行、政策须施加\"有意义的约束\"；印度央行抛售美元支撑卢比；亚太股市避险升温，日经指数跌约1%、韩国综指冲高回落。",
+      "tags": [
+        "金融要闻",
+        "中国出口",
+        "贸易数据",
+        "人民币",
+        "沙特",
+        "海湾局势",
+        "原油",
+        "美联储",
+        "穆萨勒姆",
+        "加息",
+        "印度央行",
+        "卢比",
+        "亚太股市",
+        "日经指数"
+      ],
+      "file": "posts/625-finance-news-china-exports-saudi-warning-musalem-rupee-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Finance Briefing: China July Exports Beat at +23%, Saudi Warns of Multi-Front Attacks, St. Louis Fed's Musalem Turns Hawkish, RBI Supports the Rupee, Asian Stocks Reverse",
+      "summary": "⚡ Aug 7 finance briefing: Chinese customs data shows July exports rose about 23% year-on-year, beating estimates, with the trade surplus near $112 billion as AI demand and tariff front-running underpinned shipments and the yuan strengthened; a senior Saudi official told CNN and Reuters that multi-front coordinated attacks are imminent, with energy and oil facilities among potential targets; St. Louis Fed President Musalem struck a hawkish tone in Sao Paulo; the RBI sold USD/INR to support the rupee; Asian stocks turned risk-off, with the Nikkei down about 1% and the KOSPI giving up an intraday push toward 6,400.",
+      "tags": [
+        "Finance News",
+        "China Exports",
+        "Trade Data",
+        "Yuan",
+        "Saudi Arabia",
+        "Gulf",
+        "Oil",
+        "Federal Reserve",
+        "Musalem",
+        "Rate Hike",
+        "RBI",
+        "Rupee",
+        "Asian Stocks",
+        "Nikkei"
+      ],
+      "file": "posts/625-finance-news-china-exports-saudi-warning-musalem-rupee-aug-7-2026.en.html"
+    }
+  },
+  {
     "id": "624",
     "date": "2026-08-07",
     "zh": {
