@@ -6,9 +6,23 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 07 Aug 2026 05:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:15:00 GMT</lastBuildDate>
         <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>⚡ 8月7日泛科技要闻：谷歌AI权力重回布林、哈萨比斯退居二线，SpaceX官宣168亿美元Terafab芯片工厂，福特Fathom电动皮卡2.8万美元起售，Meta印度陷72小时危机</title>
+      <link>https://ai-daily.cc.cd/posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.zh.html</link>
+      <description>⚡ 8月7日泛科技要闻：谷歌AI权力架构大调整——联合创始人布林重新掌权，DeepMind首席执行官哈萨比斯退居二线出任董事长兼Alphabet首席科学家，杰夫·迪恩等Gemini核心工程师出走创业；SpaceX与特斯拉正式官宣在得州建设投资168亿美元的Terafab芯片工厂，规划超1亿平方英尺制造空间、至少3000个岗位，英特尔参与，总投入或达1190亿美元；福特公布全新电动皮卡Fathom，起售价28350美元、含运费29945美元，2027年秋交付；Meta在印度遭遇「72小时危机」，因莫迪视频被限与CSAM、深度伪造等问题面临失去安全港保护风险，审查扩大至X与Telegram。</description>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 8月7日国际政治要闻：埃尔多安访沙特谈三方防务、特朗普背书失灵奥格尔斯初选出局、墨西哥派兵1500镇守牛油果产区</title>
+      <link>https://ai-daily.cc.cd/posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.zh.html</link>
+      <description>⚡ 8月7日国际政治要闻：土耳其总统埃尔多安访问沙特阿拉伯，与王储穆罕穆德·本·萨勒曼及巴基斯坦总理夏巴兹举行三方会晤，多家媒体报道三国或将于吉达签署联合防务协议；美国共和党初选出现罕见变局——特朗普「完全背书」的田纳西州联邦众议员奥格尔斯败选，被前农商委员哈彻反超6.6个百分点；墨西哥向主要牛油果产区部署逾1500名军人，此前美方以安全为由暂停出口检验、冻结了对墨最大市场的出货。</description>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.zh.html</guid>
+    </item>
     <item>
       <title>⚡ 8月7日金融要闻：中国7月出口增23%超预期、沙特预警"多线来袭"油市承压、圣路易斯联储主席放鹰、印度央行干预卢比、亚太股市冲高回落</title>
       <link>https://ai-daily.cc.cd/posts/625-finance-news-china-exports-saudi-warning-musalem-rupee-aug-7-2026.zh.html</link>
