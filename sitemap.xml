@@ -6298,4 +6298,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/628-tech-news-samsung-isocell-xiaomi-mijia-korea-exports-800v-dc-aug-7-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/628-tech-news-samsung-isocell-xiaomi-mijia-korea-exports-800v-dc-aug-7-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
