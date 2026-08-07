@@ -1,5 +1,48 @@
 [
   {
+    "id": "622",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日国际政治要闻：特朗普对华多晶硅加征15%关税、阿根廷抗议米莱私有财产法案、以军突袭卡兰迪亚难民营51人伤",
+      "summary": "⚡ 8月7日国际政治要闻：特朗普签署行政令对进口多晶硅产品征收15%关税并设最低进口价，反制占全球近垄断地位的中国产能；数千阿根廷民众在布宜诺斯艾利斯抗议米莱「私有财产神圣不可侵犯」法案，警方动用催泪瓦斯与橡皮子弹；以色列军队对约旦河西岸卡兰迪亚难民营发动大规模突袭，至少51名巴勒斯坦人受伤。",
+      "tags": [
+        "国际政治要闻",
+        "特朗普",
+        "关税",
+        "多晶硅",
+        "中美博弈",
+        "阿根廷",
+        "米莱",
+        "私有财产法案",
+        "布宜诺斯艾利斯",
+        "以色列",
+        "约旦河西岸",
+        "卡兰迪亚",
+        "巴勒斯坦"
+      ],
+      "file": "posts/622-international-news-trump-polysilicon-argentina-qalandiya-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 International Briefing: Trump Hits China with 15% Polysilicon Tariff, Argentina Protests Milei's Property Bill, Israel Raids Qalandiya Camp",
+      "summary": "⚡ Aug 7 international politics briefing: President Trump signs an executive order imposing a 15% tariff and minimum import prices on polysilicon products to counter China; thousands rally in Buenos Aires against Milei's 'Inviolability of Private Property' bill as police fire tear gas; Israeli forces stage a 'large-scale' raid on Qalandiya refugee camp in the occupied West Bank, wounding at least 51 Palestinians.",
+      "tags": [
+        "International Politics",
+        "Trump",
+        "Tariff",
+        "Polysilicon",
+        "China",
+        "Argentina",
+        "Property Bill",
+        "Buenos Aires",
+        "Israel",
+        "West Bank",
+        "Qalandiya",
+        "Palestine"
+      ],
+      "file": "posts/622-international-news-trump-polysilicon-argentina-qalandiya-aug-7-2026.en.html"
+    }
+  },
+  {
     "id": "621",
     "date": "2026-08-07",
     "zh": {
