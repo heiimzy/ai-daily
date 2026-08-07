@@ -1,5 +1,138 @@
 [
   {
+    "id": "621",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日泛科技要闻：AMD收购Taalas、OpenAI曝Astra下周发布、英伟达Rubin Ultra降HBM、OpenAI首款硬件300-400美元",
+      "summary": "⚡ 8月7日泛科技要闻：AMD收购AI推理芯片初创公司Taalas，平台可将任意AI模型转为定制硅片；OpenAI被曝下周发布新预训练模型Astra，为GPT-4.5以来最大；英伟达为缓解HBM短缺拟下调Rubin Ultra配置；三星首发两亿像素16-bit RAW传感器；OpenAI首款AI硬件为甜甜圈造型智能音箱，定价300-400美元。",
+      "tags": [
+        "泛科技要闻",
+        "AMD",
+        "Taalas",
+        "AI芯片",
+        "OpenAI",
+        "Astra",
+        "大模型",
+        "英伟达",
+        "Rubin Ultra",
+        "HBM",
+        "三星",
+        "ISOCELL",
+        "图像传感器",
+        "AI硬件",
+        "智能音箱"
+      ],
+      "file": "posts/621-tech-news-amd-taalas-openai-astra-nvidia-rubin-samsung-isocell-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Tech Briefing: AMD to Acquire Taalas for AI Inference, OpenAI Reportedly to Launch Astra Next Week, Nvidia Weighs Lower HBM Config for Rubin Ultra, OpenAI's First Hardware Priced at $300-400",
+      "summary": "⚡ Aug 7 tech briefing: AMD announced plans to acquire AI inference chip startup Taalas, whose platform can turn any AI model into custom silicon; a tipster claims OpenAI will launch its new pretrained model Astra (codename mewfour) as early as next week, the largest model trained since GPT-4.5; The Information reports Nvidia is weighing lower HBM configurations for the Rubin Ultra GPU to ease memory shortages; Mark Gurman reports OpenAI's first AI hardware is a donut-shaped smart speaker priced at $300-400, targeting a 2027 release.",
+      "tags": [
+        "Tech News",
+        "AMD",
+        "Taalas",
+        "AI Chip",
+        "OpenAI",
+        "Astra",
+        "LLM",
+        "Nvidia",
+        "Rubin Ultra",
+        "HBM",
+        "Samsung",
+        "ISOCELL",
+        "Image Sensor",
+        "AI Hardware",
+        "Smart Speaker"
+      ],
+      "file": "posts/621-tech-news-amd-taalas-openai-astra-nvidia-rubin-samsung-isocell-aug-7-2026.en.html"
+    }
+  },
+  {
+    "id": "620",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日泛科技要闻：微软将GPT-5.6 Sol设为Copilot默认模型、谷歌150亿美元印度数据中心遭质疑、上海汽车营销合规公约、病毒中心警示仿冒软件",
+      "summary": "⚡ 8月6日泛科技要闻：微软内部备忘录要求Copilot默认用OpenAI旗舰GPT-5.6 Sol，上财年OpenAI为微软贡献241亿美元收入；谷歌150亿美元印度数据中心被指加剧供水压力、距保护区仅860米，法院已受理诉讼；上海发布汽车营销合规公约，规范付费解锁、禁低价销售、禁抹黑对比；国家病毒中心警示仿冒软件病毒四大特点。",
+      "tags": [
+        "泛科技要闻",
+        "微软",
+        "OpenAI",
+        "GPT-5.6 Sol",
+        "GitHub Copilot",
+        "谷歌",
+        "数据中心",
+        "印度",
+        "上海",
+        "汽车行业",
+        "合规公约",
+        "网络安全",
+        "计算机病毒"
+      ],
+      "file": "posts/620-tech-news-microsoft-openai-google-india-datacenter-shanghai-auto-cverc-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Tech Briefing: Microsoft Makes GPT-5.6 Sol the Default Copilot Model, Google's $15B India Data Center Faces Water & Wildlife Challenges, Shanghai Issues Auto Marketing Compliance Charter, Virus Center Warns on Fake Software",
+      "summary": "⚡ Aug 6 tech briefing: Microsoft CoreAI EVP Jay Parikh's internal memo makes OpenAI's GPT-5.6 Sol the default GitHub Copilot model, after OpenAI contributed $24.1B of Microsoft's AI revenue last fiscal year; Google's $15B data center campus in Visakhapatnam, India enters full construction amid allegations it will strain water supplies and sits 860m from a wildlife sanctuary, with a High Court public-interest case pending; Shanghai's cyberspace administration and multiple agencies released an auto-industry marketing compliance charter targeting paid unlocks, below-cost selling and smear campaigns; China's National Computer Virus Emergency Response Center warned of July's four major virus trends, with fake mainstream software, activation tools, official documents and summer tutoring apps as top vectors.",
+      "tags": [
+        "Tech News",
+        "Microsoft",
+        "OpenAI",
+        "GPT-5.6 Sol",
+        "GitHub Copilot",
+        "Google",
+        "Data Center",
+        "India",
+        "Shanghai",
+        "Auto Industry",
+        "Compliance",
+        "Cybersecurity"
+      ],
+      "file": "posts/620-tech-news-microsoft-openai-google-india-datacenter-shanghai-auto-cverc-aug-6-2026.en.html"
+    }
+  },
+  {
+    "id": "619",
+    "date": "2026-08-06",
+    "zh": {
+      "title": "⚡ 8月6日金融要闻：港股恒指跌1.49%、黄金突破4250美元创七周新高、沙特阿美下调9月亚洲油价六年新低、美联储库克放鹰、刚果(金)禁铜钴出口",
+      "summary": "⚡ 8月6日金融要闻：亚洲股市在AI股回调拖累下走低，港股恒指收跌1.49%报25530点、恒生科技指数跌2.28%，A股涨跌互现而黄金股领涨；国际金价连续第四日上涨、突破4250美元创七周新高，Gabelli基金经理Mancini称牛市未完看向5000美元、更看好金矿股；沙特阿美将9月销往亚洲的阿拉伯轻质原油官方售价下调至较基准贴水2美元/桶，创2020年6月以来新低；美联储理事库克在安克雷奇放鹰，称通胀仍过高、必要时准备加息；刚果(金)据报禁止出口铜精矿和钴精矿，新税制三个月后生效。",
+      "tags": [
+        "金融要闻",
+        "港股",
+        "恒生指数",
+        "黄金",
+        "金价",
+        "沙特阿美",
+        "原油",
+        "美联储",
+        "库克",
+        "加息",
+        "刚果金",
+        "铜精矿",
+        "钴精矿"
+      ],
+      "file": "posts/619-finance-news-asia-markets-gold-saudi-aramco-fed-drc-aug-6-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 6 Finance Briefing: Hang Seng Falls 1.49% as AI Rally Cools, Gold Hits 7-Week High Above $4,250, Aramco Cuts Sept Asia Prices to 6-Year Low, Fed's Cook Turns Hawkish, DRC Bars Copper & Cobalt Exports",
+      "summary": "⚡ Aug 6 finance briefing: Asian stocks slip as the AI rally cools — Hong Kong's Hang Seng closes down 1.49% at 25,530 with the tech index off 2.28%, while China's A-shares end mixed with gold stocks leading gains; gold climbs for a fourth straight day above $4,250/oz, a seven-week high, with Gabelli fund manager Chris Mancini arguing the bull case is intact and looking toward $5,000, favoring gold miners; Saudi Aramco cuts its September Arab Light OSP for Asia to a $2.00/bbl discount, the lowest since June 2020; Fed Governor Lisa Cook says in Anchorage that inflation is still too high and she is prepared to back rate hikes if necessary; the DRC reportedly bans exports of copper concentrate and cobalt concentrate under a new tax regime taking effect in three months.",
+      "tags": [
+        "Finance News",
+        "Hang Seng",
+        "Gold",
+        "Saudi Aramco",
+        "Crude Oil",
+        "Federal Reserve",
+        "Lisa Cook",
+        "Rate Hike",
+        "DRC",
+        "Copper",
+        "Cobalt"
+      ],
+      "file": "posts/619-finance-news-asia-markets-gold-saudi-aramco-fed-drc-aug-6-2026.en.html"
+    }
+  },
+  {
     "id": "618",
     "date": "2026-08-06",
     "zh": {
