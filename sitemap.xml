@@ -6208,4 +6208,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/619-finance-news-asia-markets-gold-saudi-aramco-fed-drc-aug-6-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/619-finance-news-asia-markets-gold-saudi-aramco-fed-drc-aug-6-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/621-tech-news-amd-taalas-openai-astra-nvidia-rubin-samsung-isocell-aug-7-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/621-tech-news-amd-taalas-openai-astra-nvidia-rubin-samsung-isocell-aug-7-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/620-tech-news-microsoft-openai-google-india-datacenter-shanghai-auto-cverc-aug-6-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/620-tech-news-microsoft-openai-google-india-datacenter-shanghai-auto-cverc-aug-6-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
