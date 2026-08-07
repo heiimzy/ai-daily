@@ -6,9 +6,30 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Thu, 06 Aug 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:20:00 +0000</lastBuildDate>
     <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
+<item>
+  <title>⚡ 8月7日泛科技要闻：AMD收购Taalas、OpenAI曝Astra下周发布、英伟达Rubin Ultra降HBM、OpenAI首款硬件300-400美元</title>
+  <link>https://ai-daily.cc.cd/posts/621-tech-news-amd-taalas-openai-astra-nvidia-rubin-samsung-isocell-aug-7-2026.zh.html</link>
+  <description>⚡ 8月7日泛科技要闻：AMD收购AI推理芯片初创公司Taalas，平台可将任意AI模型转为定制硅片；OpenAI被曝下周发布新预训练模型Astra，为GPT-4.5以来最大；英伟达为缓解HBM短缺拟下调Rubin Ultra配置；三星首发两亿像素16-bit RAW传感器；OpenAI首款AI硬件为甜甜圈造型智能音箱，定价300-400美元。</description>
+  <pubDate>Fri, 07 Aug 2026 00:20:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/621-tech-news-amd-taalas-openai-astra-nvidia-rubin-samsung-isocell-aug-7-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月6日泛科技要闻：微软将GPT-5.6 Sol设为Copilot默认模型、谷歌150亿美元印度数据中心遭质疑、上海汽车营销合规公约、病毒中心警示仿冒软件</title>
+  <link>https://ai-daily.cc.cd/posts/620-tech-news-microsoft-openai-google-india-datacenter-shanghai-auto-cverc-aug-6-2026.zh.html</link>
+  <description>⚡ 8月6日泛科技要闻：微软内部备忘录要求Copilot默认用OpenAI旗舰GPT-5.6 Sol，上财年OpenAI为微软贡献241亿美元收入；谷歌150亿美元印度数据中心被指加剧供水压力、距保护区仅860米，法院已受理诉讼；上海发布汽车营销合规公约，规范付费解锁、禁低价销售、禁抹黑对比；国家病毒中心警示仿冒软件病毒四大特点。</description>
+  <pubDate>Thu, 06 Aug 2026 11:10:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/620-tech-news-microsoft-openai-google-india-datacenter-shanghai-auto-cverc-aug-6-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月6日金融要闻：港股恒指跌1.49%、黄金突破4250美元创七周新高、沙特阿美下调9月亚洲油价六年新低、美联储库克放鹰、刚果(金)禁铜钴出口</title>
+  <link>https://ai-daily.cc.cd/posts/619-finance-news-asia-markets-gold-saudi-aramco-fed-drc-aug-6-2026.zh.html</link>
+  <description>⚡ 8月6日金融要闻：亚洲股市在AI股回调拖累下走低，港股恒指收跌1.49%报25530点、恒生科技指数跌2.28%，A股涨跌互现而黄金股领涨；国际金价连续第四日上涨、突破4250美元创七周新高，Gabelli基金经理Mancini称牛市未完看向5000美元；沙特阿美将9月销往亚洲的阿拉伯轻质原油官方售价下调至贴水2美元/桶，创2020年6月以来新低；美联储理事库克放鹰称必要时准备加息；刚果(金)据报禁止出口铜精矿和钴精矿。</description>
+  <pubDate>Thu, 06 Aug 2026 09:16:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/619-finance-news-asia-markets-gold-saudi-aramco-fed-drc-aug-6-2026.zh.html</guid>
+</item>
 <item>
   <title>⚡ 8月6日泛科技要闻：字节跳动坚持自研大模型、OpenAI曝AI智能体"密谋"两个月、三星折叠屏预售增30%、诺基亚押注磷化铟</title>
   <link>https://ai-daily.cc.cd/posts/618-tech-news-bytedance-llm-openai-agent-samsung-fold8-nokia-aug-6-2026.zh.html</link>
