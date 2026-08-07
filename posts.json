@@ -1,5 +1,47 @@
 [
   {
+    "id": "624",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日泛科技要闻：SIA称Q2全球芯片销售增35%、Anthropic组建自研芯片团队、LG规划家电与机器人AI芯片、SpaceX拟建Gigasat工厂量产AI卫星",
+      "summary": "⚡ 8月7日泛科技要闻：美国半导体行业协会（SIA）发布数据称2026年二季度全球半导体销售额达4033亿美元、环比增长35.1%，全年有望突破1.5万亿美元；Anthropic证实组建自研硅片团队，与模型协同设计定制芯片、进一步降低对英伟达的依赖；韩国LG规划三档AI芯片覆盖家电与家庭机器人，端侧AI成为消费电子新战场；SpaceX计划在得州巴斯特罗普县建设约1100万平方英尺的Gigasat工厂，量产AI卫星与轨道数据中心。",
+      "tags": [
+        "泛科技要闻",
+        "半导体",
+        "SIA",
+        "Anthropic",
+        "自研芯片",
+        "英伟达",
+        "LG",
+        "AI芯片",
+        "机器人",
+        "SpaceX",
+        "AI卫星",
+        "数据中心"
+      ],
+      "file": "posts/624-tech-news-chip-sales-anthropic-silicon-lg-ai-chips-spacex-gigasat-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Tech Briefing: SIA Says Q2 Global Chip Sales Up 35%, Anthropic to Build In-House Silicon, LG Plans Consumer & Robot AI Chips, SpaceX to Build Gigasat Factory",
+      "summary": "⚡ Aug 7 tech briefing: The Semiconductor Industry Association (SIA) says global semiconductor sales reached $403.3 billion in Q2 2026, up 35.1% quarter-on-quarter, with 2026 on track to exceed $1.5 trillion; Anthropic confirms it is building a custom silicon team to co-design chips with its models and reduce reliance on Nvidia; LG plans three tiers of AI chips for appliances and home robots as on-device AI becomes the new consumer-electronics battleground; SpaceX plans an ~11-million-square-foot Gigasat factory in Bastrop County, Texas, to mass-produce AI satellites and orbital data centers.",
+      "tags": [
+        "Tech News",
+        "Semiconductors",
+        "SIA",
+        "Anthropic",
+        "Custom Silicon",
+        "Nvidia",
+        "LG",
+        "AI Chips",
+        "Robots",
+        "SpaceX",
+        "AI Satellite",
+        "Data Center"
+      ],
+      "file": "posts/624-tech-news-chip-sales-anthropic-silicon-lg-ai-chips-spacex-gigasat-aug-7-2026.en.html"
+    }
+  },
+  {
     "id": "623",
     "date": "2026-08-07",
     "zh": {
