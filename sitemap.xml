@@ -6248,4 +6248,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/623-tech-news-meta-ai-hack-white-house-open-models-microsoft-hyderabad-ai-viruses-alibaba-qwen-aug-7-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/623-tech-news-meta-ai-hack-white-house-open-models-microsoft-hyderabad-ai-viruses-alibaba-qwen-aug-7-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
