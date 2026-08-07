@@ -1,5 +1,97 @@
 [
   {
+    "id": "627",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日泛科技要闻：谷歌AI权力重回布林、哈萨比斯退居二线，SpaceX官宣168亿美元Terafab芯片工厂，福特Fathom电动皮卡2.8万美元起售，Meta印度陷72小时危机",
+      "summary": "⚡ 8月7日泛科技要闻：谷歌AI权力架构大调整——联合创始人布林重新掌权，DeepMind首席执行官哈萨比斯退居二线出任董事长兼Alphabet首席科学家，杰夫·迪恩等Gemini核心工程师出走创业；SpaceX与特斯拉正式官宣在得州建设投资168亿美元的Terafab芯片工厂，规划超1亿平方英尺制造空间、至少3000个岗位，英特尔参与，总投入或达1190亿美元；福特公布全新电动皮卡Fathom，起售价28350美元、含运费29945美元，2027年秋交付；Meta在印度遭遇「72小时危机」，因莫迪视频被限与CSAM、深度伪造等问题面临失去安全港保护风险，审查扩大至X与Telegram。",
+      "tags": [
+        "泛科技要闻",
+        "谷歌",
+        "布林",
+        "DeepMind",
+        "哈萨比斯",
+        "SpaceX",
+        "Terafab",
+        "芯片工厂",
+        "特斯拉",
+        "福特",
+        "Fathom",
+        "电动皮卡",
+        "Meta",
+        "印度",
+        "安全港"
+      ],
+      "file": "posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Tech Briefing: AI Power Shifts Back to Brin as Hassabis Steps Aside, SpaceX Confirms $16.8B Terafab, Ford Fathom EV Truck from $28,350, Meta Faces 72-Hour Crisis in India",
+      "summary": "⚡ Aug 7 tech briefing: Google shifts AI power back to co-founder Sergey Brin as DeepMind CEO Hassabis steps aside to become chairman and Alphabet chief scientist, while Jeff Dean and other Gemini leads leave to found Discovery Loop; SpaceX and Tesla officially confirm the $16.8B Terafab chip factory in Texas with 100M+ sq ft and 3,000+ jobs, Intel on board and up to $119B in total spending; Ford names its new Fathom EV pickup starting at $28,350 ($29,945 delivered), deliveries in fall 2027; Meta faces a 72-hour crisis in India over the Modi video row, CSAM and deepfakes, risking the loss of safe-harbour protections as scrutiny widens to X and Telegram.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Brin",
+        "DeepMind",
+        "Hassabis",
+        "SpaceX",
+        "Terafab",
+        "Chip Factory",
+        "Tesla",
+        "Ford",
+        "Fathom",
+        "EV Pickup",
+        "Meta",
+        "India",
+        "Safe Harbour"
+      ],
+      "file": "posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.en.html"
+    }
+  },
+  {
+    "id": "626",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日国际政治要闻：埃尔多安访沙特谈三方防务、特朗普背书失灵奥格尔斯初选出局、墨西哥派兵1500镇守牛油果产区",
+      "summary": "⚡ 8月7日国际政治要闻：土耳其总统埃尔多安访问沙特阿拉伯，与王储穆罕穆德·本·萨勒曼及巴基斯坦总理夏巴兹举行三方会晤，多家媒体报道三国或将于吉达签署联合防务协议；美国共和党初选出现罕见变局——特朗普「完全背书」的田纳西州联邦众议员奥格尔斯败选，被前农商委员哈彻反超6.6个百分点；墨西哥向主要牛油果产区部署逾1500名军人，此前美方以安全为由暂停出口检验、冻结了对墨最大市场的出货。",
+      "tags": [
+        "国际政治要闻",
+        "土耳其",
+        "埃尔多安",
+        "沙特",
+        "吉达",
+        "防务协议",
+        "巴基斯坦",
+        "霍尔木兹海峡",
+        "美国中期选举",
+        "特朗普",
+        "墨西哥",
+        "牛油果"
+      ],
+      "file": "posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 World Briefing: Erdogan in Saudi for Trilateral Talks, Trump's Endorsement Fails as Ogles Loses Primary, Mexico Deploys 1,500 Troops to Protect Avocado Regions",
+      "summary": "⚡ Aug 7 international briefing: Turkish President Erdogan visits Saudi Arabia for a trilateral meeting with Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, with media reporting a joint defense agreement could be signed in Jeddah; Tennessee Rep. Andy Ogles loses his Republican primary despite Trump's complete and total endorsement; Mexico deploys more than 1,500 soldiers to its main avocado-producing regions after the US paused export inspections over security concerns.",
+      "tags": [
+        "International News",
+        "Turkey",
+        "Erdogan",
+        "Saudi Arabia",
+        "Jeddah",
+        "Defense Agreement",
+        "Pakistan",
+        "Hormuz",
+        "US Midterms",
+        "Trump",
+        "Tennessee",
+        "Primary",
+        "Mexico",
+        "Avocado"
+      ],
+      "file": "posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.en.html"
+    }
+  },
+  {
     "id": "625",
     "date": "2026-08-07",
     "zh": {
