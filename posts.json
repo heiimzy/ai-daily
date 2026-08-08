@@ -1,5 +1,39 @@
 [
   {
+    "id": "633",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日泛科技要闻：红杉中国押注卫星制造、马柬深化AI与无人机防务、东微半导体净利大增、ORNL推进聚变燃料循环",
+      "summary": "⚡ 8月8日泛科技要闻：红杉中国加入「Space Star Technology」2.97亿美元新一轮融资，加码商业航天与卫星制造；马来西亚与柬埔寨深化防务合作，重点聚焦AI与无人机技术；东微半导体上半年净利同比大增133%、设备出口订单暴增逾150%；美国橡树岭国家实验室(ORNL)与Type One Energy达成新协议，共同推进聚变燃料循环等创新技术，向实用聚变发电再迈一步。",
+      "tags": [
+        "泛科技要闻",
+        "商业航天",
+        "卫星",
+        "红杉中国",
+        "马来西亚",
+        "无人机",
+        "半导体设备",
+        "聚变"
+      ],
+      "file": "posts/633-tech-news-space-star-drone-fusion-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Tech Roundup: Sequoia China Backs Satellite Maker in $297M Round, Malaysia-Cambodia Deepen AI & Drone Defense Ties, Dongwei H1 Profits Jump, ORNL & Type One Energy Advance Fusion Fuel Cycle",
+      "summary": "⚡ Aug 8 tech roundup: Sequoia China joins an approximately $297M round for commercial satellite maker Space Star Technology; Malaysia and Cambodia agree to deepen defense cooperation centered on AI and drone technology; Dongwei Technology posts a 133% jump in H1 net profit with equipment export orders up over 150%; and the U.S.'s Oak Ridge National Laboratory (ORNL) teams with Type One Energy to advance fusion fuel cycle innovations. Details below, with source publication times verified.",
+      "tags": [
+        "Tech News",
+        "Commercial Space",
+        "Satellite",
+        "Sequoia China",
+        "Defense",
+        "Drones",
+        "Semiconductor",
+        "Fusion"
+      ],
+      "file": "posts/633-tech-news-space-star-drone-fusion-aug-8-2026.en.html"
+    }
+  },
+  {
     "id": "632",
     "date": "2026-08-08",
     "zh": {
