@@ -6371,4 +6371,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
