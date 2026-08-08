@@ -6,10 +6,20 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 08 Aug 2026 01:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:16:46 GMT</lastBuildDate>
         <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
-                <item>
+                
+            <item>
+              <title>⚡ 8月8日国际政治要闻：沙特-土耳其-巴基斯坦签署麦加联合防御协议、哥伦比亚右翼新总统就职誓言粉碎贩毒集团，联合国警告苏丹战争夺走整整一代人的教育</title>
+              <link>https://ai-daily.cc.cd/posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日国际政治要闻：沙特、土耳其、巴基斯坦三国在麦加正式签署《麦加联合防御协议》，明确对任一缔约国的武装攻击即为对三国共同攻击，被解读为区域秩序受美国-以色列对伊朗战争重塑的标志。哥伦比亚右翼新人德·拉·埃斯普里埃拉在卡利就任总统，誓言粉碎贩毒集团并放弃对话路线。联合国警告持续1210天的苏丹战争每六名儿童五名失学，正夺走整整一代人的未来。</description>
+              <pubDate>Sat, 08 Aug 2026 02:16:46 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.zh.html</guid>
+            </item>
+
+
+<item>
               <title>⚡ 8月8日金融要闻：美国7月非农意外裁员2.3万、标普500创历史新高，黄金冲破4400美元，白宫再度推动罢免美联储理事库克</title>
               <link>https://ai-daily.cc.cd/posts/630-finance-news-us-jobs-report-gold-4400-fed-cook-aug-8-2026.zh.html</link>
               <description>⚡ 8月8日金融要闻：美国7月非农就业意外减少2.3万个岗位（预期增加约8万），5-6月数据累计下修10.3万，失业率反而降至4.1%；标普500收盘创历史新高并录得4月以来最佳单周表现。黄金期货应声突破4,400美元/盎司、单日涨约3%。白宫在最高法院裁决后再度推动罢免美联储理事丽莎·库克；参议院以86-11票通过针对俄罗斯能源出口的全面制裁法案，最高可加征100%关税。</description>
