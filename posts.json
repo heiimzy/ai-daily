@@ -1,5 +1,39 @@
 [
   {
+    "id": "636",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日泛科技要闻：美国商务部审查中国AI企业海外获取英伟达芯片、Evo AI设计出16种全新病毒，亚马逊自建巨型天然气电厂、华为Mate 90 Pro Max曝光3D堆叠麒麟芯片",
+      "summary": "⚡ 8月8日泛科技要闻：美国商务部BIS启动审查，调查中国AI企业如何通过海外租用算力等合法渠道获取英伟达先进芯片，矛头直指Moonshot AI的Kimi K3；斯坦福大学与Arc Institute用AI模型Evo设计出16种自然界不存在的全新病毒；亚马逊确认出资建设7.65吉瓦的得州私有天然气电厂，为AI数据中心自供电力；华为Mate 90 Pro Max泄露信息显示其采用3D堆叠的麒麟9050 Pro芯片与7000mAh电池，被视为绕开光刻机限制的标志性路线。",
+      "tags": [
+        "泛科技要闻",
+        "英伟达",
+        "芯片出口管制",
+        "Evo",
+        "合成生物",
+        "亚马逊",
+        "数据中心",
+        "华为"
+      ],
+      "file": "posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Tech Roundup: US Commerce Reviews How Chinese AI Firms Get Nvidia Chips Overseas, Evo AI Designs 16 Brand-New Viruses, Amazon Builds Giant Private Gas Plant, Huawei Mate 90 Pro Max Leaks 3D-Stacked Kirin Chip",
+      "summary": "⚡ Aug 8 tech roundup: the US Commerce Department's BIS is reviewing how Chinese AI firms obtain Nvidia chips overseas — including renting overseas compute — with Moonshot AI's Kimi K3 in its sights; Stanford and the Arc Institute used the AI model Evo to design 16 brand-new viruses not found in nature; Amazon confirmed it is backing a 7.65GW private gas power plant in Texas to power AI data centers; and the Huawei Mate 90 Pro Max leak reveals a 3D-stacked Kirin 9050 Pro chip and 7,000mAh battery.",
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "Export Controls",
+        "Evo",
+        "Synthetic Biology",
+        "Amazon",
+        "Data Centers",
+        "Huawei"
+      ],
+      "file": "posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.en.html"
+    }
+  },
+  {
     "id": "635",
     "date": "2026-08-08",
     "zh": {
