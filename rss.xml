@@ -6,8 +6,16 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sat, 08 Aug 2026 04:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:07:00 +0000</lastBuildDate>
         <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+                <item>
+              <title>⚡ 8月8日金融要闻：比特币ETF净流入近1亿美元、以太坊ETF吸金5000万，BIP-110分叉重放风险引警惕，霍尔木兹海峡谈判现突破</title>
+              <link>https://ai-daily.cc.cd/posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日金融要闻：美国现货比特币ETF单日净流入约9,885万美元、以太坊ETF净流入约4,960万美元，Solana与XRP现货ETF零流入；比特币开发者Kevin Loaec警告BIP-110若触发链分裂存在重放攻击风险，矿工支持率仅约2.6%；XRP Ledger v3.3.0提出「机密转账」等六项修订，瞄准超5.3亿美元代币化资产；美国官员称伊朗-阿曼霍尔木兹海峡谈判接近达成协议，油价与通胀预期承压。</description>
+              <pubDate>Sat, 08 Aug 2026 05:00:00 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.zh.html</guid>
+            </item>
 
                 <item>
               <title>⚡ 8月8日泛科技要闻：红杉中国押注卫星制造、马柬深化AI与无人机防务、东微半导体净利大增、ORNL推进聚变燃料循环</title>
