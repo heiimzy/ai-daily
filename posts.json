@@ -1,5 +1,37 @@
 [
   {
+    "id": "631",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日国际政治要闻：沙特-土耳其-巴基斯坦签署麦加联合防御协议、哥伦比亚右翼新总统就职誓言粉碎贩毒集团，联合国警告苏丹战争夺走整整一代人的教育",
+      "summary": "⚡ 8月8日国际政治要闻：沙特、土耳其、巴基斯坦三国在麦加正式签署《麦加联合防御协议》，明确对任一缔约国的武装攻击即视为对三国共同攻击，被解读为区域秩序受美国-以色列对伊朗战争重塑的标志。哥伦比亚右翼新人德·拉·埃斯普里埃拉在卡利就任总统，誓言粉碎贩毒集团并放弃对话路线。联合国警告持续1210天的苏丹战争每六名儿童五名失学，正夺走整整一代人的未来。",
+      "tags": [
+        "国际政治要闻",
+        "沙特",
+        "美国",
+        "中东",
+        "哥伦比亚",
+        "苏丹",
+        "联合国"
+      ],
+      "file": "posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 World Politics: Mecca Joint Defence Pact Signed, Colombia's Right-wing Newcomer Sworn In, UN Warns Sudan's War Robs a Generation",
+      "summary": "⚡ Aug 8 world news: Saudi Arabia, Turkey and Pakistan sign the Mecca Joint Defence Agreement; Colombia's right-wing newcomer takes office vowing to crush cartels; the UN warns Sudan's 1,210-day war is robbing an entire generation of education.",
+      "tags": [
+        "World News",
+        "Saudi Arabia",
+        "United States",
+        "Middle East",
+        "Colombia",
+        "Sudan",
+        "United Nations"
+      ],
+      "file": "posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.en.html"
+    }
+  },
+  {
     "id": "630",
     "date": "2026-08-08",
     "zh": {
