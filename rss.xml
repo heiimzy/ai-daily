@@ -6,10 +6,18 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 07 Aug 2026 08:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 GMT</lastBuildDate>
         <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
+        <item>
+              <title>⚡ 8月8日AI要闻：OpenAI称在研模型Astra或触及关键网络安全能力阈值</title>
+              <link>https://ai-daily.cc.cd/posts/629-tech-news-openai-astra-critical-cyber-capabilities-aug-8-2026.zh.html</link>
+              <description>⚡ AI要闻：OpenAI官方博客披露，其尚在研发中的新模型Astra在内部初步评估中可能已触及「Preparedness框架」下的关键（Critical）网络安全能力等级——即能在无需人类干预下独立开发针对多种加固关键系统的全等级零日漏洞，或仅凭目标描述即自行设计与执行端到端网络攻击策略。OpenAI据此暂停相关内部活动、收紧安全护栏，并与政府部门及多家AI安全组织合作深入测试，同时强调Astra与先前的Hugging Face漏洞事件无关。</description>
+              <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/629-tech-news-openai-astra-critical-cyber-capabilities-aug-8-2026.zh.html</guid>
+            </item>
+
+<item>
       <title>⚡ 8月7日泛科技快讯：三星200MP ISOCELL HPC传感器用上DeepPix、小米Mijia入印度大家电、韩国出口首超日本、800V直流重塑AI数据中心</title>
       <link>https://ai-daily.cc.cd/posts/628-tech-news-samsung-isocell-xiaomi-mijia-korea-exports-800v-dc-aug-7-2026.zh.html</link>
       <description>⚡ 8月7日泛科技快讯：三星正式发布新一代200MP手机图像传感器ISOCELL HPC，首度搭载DeepPix像素架构，全阱容量提升60%、单帧16-bit HDR，支持8K@30fps与4K@180fps视频；小米在印度推出Mijia子品牌，从手机扩展至AIoT智能家居与大家电，正面叫板三星与LG；韩国在AI芯片带动下上半年出口额史上首次超越日本；行业加速采用800V直流（800V DC）高压供电架构，重塑AI数据中心配电。</description>
