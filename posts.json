@@ -1,5 +1,39 @@
 [
   {
+    "id": "630",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日金融要闻：美国7月非农意外裁员2.3万、标普500创历史新高，黄金冲破4400美元，白宫再度推动罢免美联储理事库克",
+      "summary": "⚡ 8月8日金融要闻：美国7月非农就业意外减少2.3万个岗位（预期增加约8万），5-6月数据累计下修10.3万，失业率反而降至4.1%；标普500收盘创历史新高并录得4月以来最佳单周表现。黄金期货应声突破4,400美元/盎司、单日涨约3%。白宫在最高法院裁决后再度推动罢免美联储理事丽莎·库克；参议院以86-11票通过针对俄罗斯能源出口的全面制裁法案，最高可加征100%关税。",
+      "tags": [
+        "金融要闻",
+        "非农",
+        "美联储",
+        "黄金",
+        "标普500",
+        "Lisa Cook",
+        "俄罗斯制裁",
+        "美国经济"
+      ],
+      "file": "posts/630-finance-news-us-jobs-report-gold-4400-fed-cook-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Finance News: U.S. Sheds 23,000 Jobs in Surprise July Report, S&P 500 Hits Record High, Gold Tops $4,400",
+      "summary": "⚡ Aug 8 finance news: The U.S. economy unexpectedly lost 23,000 jobs in July (vs. ~80,000 expected), with May and June revised down by a combined 103,000, yet the unemployment rate fell to 4.1%. The S&P 500 closed at a record high with its best week since April. Gold futures blew past $4,400/oz, up about 3% on the day. The White House renewed its push to fire Fed Governor Lisa Cook after a Supreme Court ruling, and the Senate passed a sweeping Russia energy sanctions bill 86-11, with tariffs of up to 100%.",
+      "tags": [
+        "Finance News",
+        "Jobs Report",
+        "Federal Reserve",
+        "Gold",
+        "S&P 500",
+        "Lisa Cook",
+        "Russia Sanctions",
+        "US Economy"
+      ],
+      "file": "posts/630-finance-news-us-jobs-report-gold-4400-fed-cook-aug-8-2026.en.html"
+    }
+  },
+  {
     "id": "629",
     "date": "2026-08-08",
     "zh": {
