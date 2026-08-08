@@ -1,5 +1,39 @@
 [
   {
+    "id": "634",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日金融要闻：比特币ETF净流入近1亿美元、以太坊ETF吸金5000万，BIP-110分叉重放风险引警惕，霍尔木兹海峡谈判现突破",
+      "summary": "⚡ 8月8日金融要闻：美国现货比特币ETF单日净流入约9,885万美元、以太坊ETF净流入约4,960万美元，资金集中流向BTC与ETH，Solana与XRP现货ETF零流入；比特币开发者Kevin Loaec警告BIP-110若触发链分裂存在重放攻击风险，矿工支持率仅约2.6%；XRP Ledger v3.3.0提出「机密转账」等六项修订，瞄准超5.3亿美元代币化资产；美国官员称伊朗-阿曼霍尔木兹海峡谈判接近达成协议，油价与通胀预期承压。",
+      "tags": [
+        "金融要闻",
+        "比特币",
+        "以太坊",
+        "现货ETF",
+        "BIP-110",
+        "XRP Ledger",
+        "霍尔木兹海峡",
+        "原油"
+      ],
+      "file": "posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Finance: Bitcoin ETFs Draw ~$100M, Ethereum ETFs Add $50M, BIP-110 Replay Warning, Hormuz Talks Near Breakthrough",
+      "summary": "⚡ Aug 8 finance roundup: U.S. spot Bitcoin ETFs post ~$98.85M in daily net inflows while spot Ethereum ETFs add ~$49.6M, with Solana and XRP ETFs drawing zero flows; Bitcoin developer Kevin Loaec warns of replay attack risk if BIP-110 triggers a chain split (miner support ~2.6%); XRP Ledger v3.3.0 proposes six amendments including Confidential Transfers aimed at $530M+ in tokenized assets; and a U.S. official says Iran-Oman talks are close to a deal to reopen the Strait of Hormuz, pressuring oil and inflation expectations.",
+      "tags": [
+        "Finance News",
+        "Bitcoin",
+        "Ethereum",
+        "Spot ETF",
+        "BIP-110",
+        "XRP Ledger",
+        "Strait of Hormuz",
+        "Oil"
+      ],
+      "file": "posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.en.html"
+    }
+  },
+  {
     "id": "633",
     "date": "2026-08-08",
     "zh": {
