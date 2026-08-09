@@ -1,5 +1,532 @@
 [
   {
+    "id": "637",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日泛科技要闻：OpenAI收购演示初创NextSlide、X推出原创造者激励计划、毅力号将破火星行驶纪录、DeepMind WeatherNext让飓风预警提前一天",
+      "summary": "⚡ 8月9日泛科技要闻：OpenAI低调收购演示文稿初创NextSlide，其团队并入ChatGPT研发；X宣布9月8日起停用收益分成、推出强调「原创性」的Original Content Rewards创作者激励计划；NASA毅力号火星车即将突破45公里、打破前面号的单机行驶里程纪录，约九成路程由车上AI自动驾驶完成；谷歌DeepMind与谷歌研究院在《自然》发表的WeatherNext大模型，据称能让飓风预警平均提前一天，为灾区争取宝贵备战时间。",
+      "tags": [
+        "泛科技要闻",
+        "OpenAI",
+        "ChatGPT",
+        "X",
+        "创作者激励",
+        "火星",
+        "毅力号",
+        "DeepMind",
+        "AI气象"
+      ],
+      "file": "posts/637-tech-news-openai-nextslide-x-rewards-perseverance-deepminds-weathernext-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 Tech Roundup: OpenAI Acquires Presentation Startup NextSlide, X Rolls Out Original-Content Rewards, Perseverance Set to Break an Off-World Driving Record, DeepMind WeatherNext Adds a Day of Hurricane Warning",
+      "summary": "⚡ Aug 9 tech roundup: OpenAI quietly acquires the presentation startup NextSlide and brings its team onto ChatGPT; X (formerly Twitter) sunsets its Revenue Sharing and, starting Sept 8, rolls out Original Content Rewards around originality; NASA's Perseverance rover is set to crack over 45 km of Mars driving, breaking Opportunity's off-world record, with ~90% of its miles autonomous; and Google DeepMind's WeatherNext, detailed in a Nature study, gives forecasters roughly a day of extra hurricane lead time.",
+      "tags": [
+        "Tech News",
+        "OpenAI",
+        "ChatGPT",
+        "X",
+        "Creator Rewards",
+        "Mars",
+        "Perseverance",
+        "DeepMind",
+        "AI Weather"
+      ],
+      "file": "posts/637-tech-news-openai-nextslide-x-rewards-perseverance-deepminds-weathernext-aug-9-2026.en.html"
+    }
+  },
+  {
+    "id": "636",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日泛科技要闻：美国商务部审查中国AI企业海外获取英伟达芯片、Evo AI设计出16种全新病毒，亚马逊自建巨型天然气电厂、华为Mate 90 Pro Max曝光3D堆叠麒麟芯片",
+      "summary": "⚡ 8月8日泛科技要闻：美国商务部BIS启动审查，调查中国AI企业如何通过海外租用算力等合法渠道获取英伟达先进芯片，矛头直指Moonshot AI的Kimi K3；斯坦福大学与Arc Institute用AI模型Evo设计出16种自然界不存在的全新病毒；亚马逊确认出资建设7.65吉瓦的得州私有天然气电厂，为AI数据中心自供电力；华为Mate 90 Pro Max泄露信息显示其采用3D堆叠的麒麟9050 Pro芯片与7000mAh电池，被视为绕开光刻机限制的标志性路线。",
+      "tags": [
+        "泛科技要闻",
+        "英伟达",
+        "芯片出口管制",
+        "Evo",
+        "合成生物",
+        "亚马逊",
+        "数据中心",
+        "华为"
+      ],
+      "file": "posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Tech Roundup: US Commerce Reviews How Chinese AI Firms Get Nvidia Chips Overseas, Evo AI Designs 16 Brand-New Viruses, Amazon Builds Giant Private Gas Plant, Huawei Mate 90 Pro Max Leaks 3D-Stacked Kirin Chip",
+      "summary": "⚡ Aug 8 tech roundup: the US Commerce Department's BIS is reviewing how Chinese AI firms obtain Nvidia chips overseas — including renting overseas compute — with Moonshot AI's Kimi K3 in its sights; Stanford and the Arc Institute used the AI model Evo to design 16 brand-new viruses not found in nature; Amazon confirmed it is backing a 7.65GW private gas power plant in Texas to power AI data centers; and the Huawei Mate 90 Pro Max leak reveals a 3D-stacked Kirin 9050 Pro chip and 7,000mAh battery.",
+      "tags": [
+        "Tech News",
+        "Nvidia",
+        "Export Controls",
+        "Evo",
+        "Synthetic Biology",
+        "Amazon",
+        "Data Centers",
+        "Huawei"
+      ],
+      "file": "posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "635",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日国际政治要闻：俄军导弹袭击基辅外围3人遇难含幼童、美国参议院通过新一轮对俄制裁，亚美尼亚审判教会领袖、罗马占屋风波与刚果金42年首次人口普查",
+      "summary": "⚡ 8月8日国际政治要闻：俄军导弹袭击基辅外围造成3人死亡（含1名儿童），美国参议院以86-11通过新一轮对俄能源制裁，对仍购俄油气国家征收100%关税；亚美尼亚为教会最高领袖及六名神职人员开审「涉俄间谍」案；罗马一处占居多年的办公大楼遭查封，约300人（含约100名儿童）在40℃高温下露宿街头；巴勒斯坦基督徒在暴力与驱逐中离开故土；刚果民主共和国启动42年来首次全国人口普查。",
+      "tags": [
+        "国际政治要闻",
+        "乌克兰",
+        "俄罗斯",
+        "美国制裁",
+        "亚美尼亚",
+        "罗马",
+        "巴勒斯坦",
+        "刚果民主共和国"
+      ],
+      "file": "posts/635-intl-political-news-kyiv-sanctions-armenia-rome-squat-drc-census-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 World Affairs: Russia Strikes Near Kyiv Kill 3, US Senate Passes New Russia Sanctions, Armenia Trials Church Leader, Rome Squat Crisis & DRC's First Census in 42 Years",
+      "summary": "⚡ Aug 8 world-affairs roundup: Russian missile strikes near Kyiv kill three people including a child as the US Senate passes fresh Russia energy sanctions (86-11) imposing 100% tariffs on countries still buying Russian oil and gas; Armenia puts its Apostolic Church leader and six senior clergy on trial over alleged spying for Russia; about 300 residents (about 100 children) sleep on a sweltering Rome street after a squatted building was sealed; Palestinian Christians are leaving their Holy Land amid violence; and the DRC begins its first census in 42 years.",
+      "tags": [
+        "Intl Affairs",
+        "Ukraine",
+        "Russia",
+        "US Sanctions",
+        "Armenia",
+        "Rome",
+        "Palestine",
+        "DRC"
+      ],
+      "file": "posts/635-intl-political-news-kyiv-sanctions-armenia-rome-squat-drc-census-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "634",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日金融要闻：比特币ETF净流入近1亿美元、以太坊ETF吸金5000万，BIP-110分叉重放风险引警惕，霍尔木兹海峡谈判现突破",
+      "summary": "⚡ 8月8日金融要闻：美国现货比特币ETF单日净流入约9,885万美元、以太坊ETF净流入约4,960万美元，资金集中流向BTC与ETH，Solana与XRP现货ETF零流入；比特币开发者Kevin Loaec警告BIP-110若触发链分裂存在重放攻击风险，矿工支持率仅约2.6%；XRP Ledger v3.3.0提出「机密转账」等六项修订，瞄准超5.3亿美元代币化资产；美国官员称伊朗-阿曼霍尔木兹海峡谈判接近达成协议，油价与通胀预期承压。",
+      "tags": [
+        "金融要闻",
+        "比特币",
+        "以太坊",
+        "现货ETF",
+        "BIP-110",
+        "XRP Ledger",
+        "霍尔木兹海峡",
+        "原油"
+      ],
+      "file": "posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Finance: Bitcoin ETFs Draw ~$100M, Ethereum ETFs Add $50M, BIP-110 Replay Warning, Hormuz Talks Near Breakthrough",
+      "summary": "⚡ Aug 8 finance roundup: U.S. spot Bitcoin ETFs post ~$98.85M in daily net inflows while spot Ethereum ETFs add ~$49.6M, with Solana and XRP ETFs drawing zero flows; Bitcoin developer Kevin Loaec warns of replay attack risk if BIP-110 triggers a chain split (miner support ~2.6%); XRP Ledger v3.3.0 proposes six amendments including Confidential Transfers aimed at $530M+ in tokenized assets; and a U.S. official says Iran-Oman talks are close to a deal to reopen the Strait of Hormuz, pressuring oil and inflation expectations.",
+      "tags": [
+        "Finance News",
+        "Bitcoin",
+        "Ethereum",
+        "Spot ETF",
+        "BIP-110",
+        "XRP Ledger",
+        "Strait of Hormuz",
+        "Oil"
+      ],
+      "file": "posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "633",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日泛科技要闻：红杉中国押注卫星制造、马柬深化AI与无人机防务、东微半导体净利大增、ORNL推进聚变燃料循环",
+      "summary": "⚡ 8月8日泛科技要闻：红杉中国加入「Space Star Technology」2.97亿美元新一轮融资，加码商业航天与卫星制造；马来西亚与柬埔寨深化防务合作，重点聚焦AI与无人机技术；东微半导体上半年净利同比大增133%、设备出口订单暴增逾150%；美国橡树岭国家实验室(ORNL)与Type One Energy达成新协议，共同推进聚变燃料循环等创新技术，向实用聚变发电再迈一步。",
+      "tags": [
+        "泛科技要闻",
+        "商业航天",
+        "卫星",
+        "红杉中国",
+        "马来西亚",
+        "无人机",
+        "半导体设备",
+        "聚变"
+      ],
+      "file": "posts/633-tech-news-space-star-drone-fusion-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Tech Roundup: Sequoia China Backs Satellite Maker in $297M Round, Malaysia-Cambodia Deepen AI & Drone Defense Ties, Dongwei H1 Profits Jump, ORNL & Type One Energy Advance Fusion Fuel Cycle",
+      "summary": "⚡ Aug 8 tech roundup: Sequoia China joins an approximately $297M round for commercial satellite maker Space Star Technology; Malaysia and Cambodia agree to deepen defense cooperation centered on AI and drone technology; Dongwei Technology posts a 133% jump in H1 net profit with equipment export orders up over 150%; and the U.S.'s Oak Ridge National Laboratory (ORNL) teams with Type One Energy to advance fusion fuel cycle innovations. Details below, with source publication times verified.",
+      "tags": [
+        "Tech News",
+        "Commercial Space",
+        "Satellite",
+        "Sequoia China",
+        "Defense",
+        "Drones",
+        "Semiconductor",
+        "Fusion"
+      ],
+      "file": "posts/633-tech-news-space-star-drone-fusion-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "632",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日泛科技要闻：Google Ask Maps上线智能体酒店搜索、Meta挖角AWS高管加码云业务、Apple新增43款助听设备、泰国发布半导体国家路线图",
+      "summary": "⚡ 8月8日泛科技要闻：Google Ask Maps上线智能体酒店搜索，可按「氛围」找房并返回真实价格，可选接入Gmail叠加行程；Meta挖角AWS高管Dave Brown并洽谈向Anthropic出租算力；Apple新增43款Made for iPhone助听设备，总数达623款；泰国发布Siam Silica半导体路线图，2030年前拟建成8家IC设计公司、1座晶圆厂、2座先进封装设施。",
+      "tags": [
+        "泛科技要闻",
+        "Google",
+        "智能体",
+        "Meta",
+        "云业务",
+        "Apple",
+        "半导体",
+        "泰国"
+      ],
+      "file": "posts/632-tech-news-google-maps-agentic-meta-cloud-apple-hearing-thailand-chips-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Tech News: Google Ask Maps Rolls Out Agentic Hotel Search, Meta Poaches AWS Exec Dave Brown for Cloud Push, Apple Adds 43 Hearing Devices, Thailand Unveils Semiconductor Roadmap",
+      "summary": "⚡ Aug 8 tech roundup: Google Maps' Ask Maps now supports agentic hotel search — find hotels by vibe with real pricing and availability, with an optional Personal Intelligence integration that pulls Gmail itinerary context. Meta is reportedly poaching AWS senior VP Dave Brown to lead its data-center buildout and is in early talks to lease spare compute to Anthropic. Apple updated its Made for iPhone hearing device list with 43 new models (623 total). Thailand unveiled its Siam Silica semiconductor roadmap, targeting 8 IC design firms, one fab and two advanced packaging plants by 2030.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Agentic AI",
+        "Meta",
+        "Cloud",
+        "Apple",
+        "Semiconductor",
+        "Thailand"
+      ],
+      "file": "posts/632-tech-news-google-maps-agentic-meta-cloud-apple-hearing-thailand-chips-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "631",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日国际政治要闻：沙特-土耳其-巴基斯坦签署麦加联合防御协议、哥伦比亚右翼新总统就职誓言粉碎贩毒集团，联合国警告苏丹战争夺走整整一代人的教育",
+      "summary": "⚡ 8月8日国际政治要闻：沙特、土耳其、巴基斯坦三国在麦加正式签署《麦加联合防御协议》，明确对任一缔约国的武装攻击即视为对三国共同攻击，被解读为区域秩序受美国-以色列对伊朗战争重塑的标志。哥伦比亚右翼新人德·拉·埃斯普里埃拉在卡利就任总统，誓言粉碎贩毒集团并放弃对话路线。联合国警告持续1210天的苏丹战争每六名儿童五名失学，正夺走整整一代人的未来。",
+      "tags": [
+        "国际政治要闻",
+        "沙特",
+        "美国",
+        "中东",
+        "哥伦比亚",
+        "苏丹",
+        "联合国"
+      ],
+      "file": "posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 World Politics: Mecca Joint Defence Pact Signed, Colombia's Right-wing Newcomer Sworn In, UN Warns Sudan's War Robs a Generation",
+      "summary": "⚡ Aug 8 world news: Saudi Arabia, Turkey and Pakistan sign the Mecca Joint Defence Agreement; Colombia's right-wing newcomer takes office vowing to crush cartels; the UN warns Sudan's 1,210-day war is robbing an entire generation of education.",
+      "tags": [
+        "World News",
+        "Saudi Arabia",
+        "United States",
+        "Middle East",
+        "Colombia",
+        "Sudan",
+        "United Nations"
+      ],
+      "file": "posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "630",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日金融要闻：美国7月非农意外裁员2.3万、标普500创历史新高，黄金冲破4400美元，白宫再度推动罢免美联储理事库克",
+      "summary": "⚡ 8月8日金融要闻：美国7月非农就业意外减少2.3万个岗位（预期增加约8万），5-6月数据累计下修10.3万，失业率反而降至4.1%；标普500收盘创历史新高并录得4月以来最佳单周表现。黄金期货应声突破4,400美元/盎司、单日涨约3%。白宫在最高法院裁决后再度推动罢免美联储理事丽莎·库克；参议院以86-11票通过针对俄罗斯能源出口的全面制裁法案，最高可加征100%关税。",
+      "tags": [
+        "金融要闻",
+        "非农",
+        "美联储",
+        "黄金",
+        "标普500",
+        "Lisa Cook",
+        "俄罗斯制裁",
+        "美国经济"
+      ],
+      "file": "posts/630-finance-news-us-jobs-report-gold-4400-fed-cook-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 Finance News: U.S. Sheds 23,000 Jobs in Surprise July Report, S&P 500 Hits Record High, Gold Tops $4,400",
+      "summary": "⚡ Aug 8 finance news: The U.S. economy unexpectedly lost 23,000 jobs in July (vs. ~80,000 expected), with May and June revised down by a combined 103,000, yet the unemployment rate fell to 4.1%. The S&P 500 closed at a record high with its best week since April. Gold futures blew past $4,400/oz, up about 3% on the day. The White House renewed its push to fire Fed Governor Lisa Cook after a Supreme Court ruling, and the Senate passed a sweeping Russia energy sanctions bill 86-11, with tariffs of up to 100%.",
+      "tags": [
+        "Finance News",
+        "Jobs Report",
+        "Federal Reserve",
+        "Gold",
+        "S&P 500",
+        "Lisa Cook",
+        "Russia Sanctions",
+        "US Economy"
+      ],
+      "file": "posts/630-finance-news-us-jobs-report-gold-4400-fed-cook-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "629",
+    "date": "2026-08-08",
+    "zh": {
+      "title": "⚡ 8月8日AI要闻：OpenAI称在研模型Astra或触及「关键网络安全」能力阈值",
+      "summary": "⚡ AI要闻：OpenAI官方博客披露，其尚在研发中的新模型Astra在内部初步评估中可能已触及「Preparedness框架」下的关键（Critical）网络安全能力等级——即能在无需人类干预下独立开发针对多种加固关键系统的全等级零日漏洞，或仅凭目标描述即自行设计与执行端到端网络攻击策略。OpenAI据此暂停相关内部活动、收紧安全护栏，并与政府部门及多家AI安全组织合作深入测试，同时强调Astra与先前的Hugging Face漏洞事件无关。",
+      "tags": [
+        "AI要闻",
+        "OpenAI",
+        "Astra",
+        "人工智能",
+        "网络安全",
+        "大模型",
+        "安全保障"
+      ],
+      "file": "posts/629-tech-news-openai-astra-critical-cyber-capabilities-aug-8-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 8 AI News: OpenAI Says In-Development Astra Model May Hit 'Critical' Cybersecurity Capabilities",
+      "summary": "AI update: OpenAI disclosed that its in-development Astra model may have reached the 'Critical' cybersecurity level under its Preparedness Framework — able to autonomously identify and develop zero-day exploits across many hardened real-world critical systems, or devise end-to-end cyberattack strategies from a target description alone. OpenAI is pausing internal work on Astra, raising security guardrails, and working with government agencies and select AI safety groups, noting Astra was not involved in the earlier Hugging Face breach.",
+      "tags": [
+        "AI News",
+        "OpenAI",
+        "Astra",
+        "AI Safety",
+        "Cybersecurity",
+        "Large Model"
+      ],
+      "file": "posts/629-tech-news-openai-astra-critical-cyber-capabilities-aug-8-2026.en.html"
+    }
+  },
+  {
+    "id": "628",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日泛科技快讯：三星200MP ISOCELL HPC传感器用上DeepPix、小米Mijia入印度大家电、韩国出口首超日本、800V直流重塑AI数据中心",
+      "summary": "⚡ 8月7日泛科技快讯：三星发布200MP ISOCELL HPC传感器，首度搭载DeepPix像素架构，全阱容量提升60%、单帧16-bit HDR，支持8K@30fps与4K@180fps视频；小米在印度推出Mijia子品牌，扩展到AIoT智能家居与大家电，叫板三星与LG；韩国上半年出口在AI芯片带动下首超日本；行业加速采用800V直流供电架构重塑AI数据中心。",
+      "tags": [
+        "泛科技要闻",
+        "三星",
+        "ISOCELL HPC",
+        "DeepPix",
+        "图像传感器",
+        "小米",
+        "Mijia",
+        "印度",
+        "韩国",
+        "AI芯片",
+        "出口",
+        "数据中心",
+        "800V直流"
+      ],
+      "file": "posts/628-tech-news-samsung-isocell-xiaomi-mijia-korea-exports-800v-dc-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Tech Briefing: Samsung's 200MP ISOCELL HPC Debuts DeepPix, Xiaomi Brings Mijia to India, South Korea Exports Top Japan, 800V DC Reshapes AI Data Centers",
+      "summary": "Tech briefing: Samsung unveils its new 200MP ISOCELL HPC image sensor with the all-new DeepPix pixel architecture — 60% higher full-well capacity, single-frame 16-bit HDR, 8K@30fps and 4K@180fps video, 1/1.3-inch optical format with 0.6μm pixels; Xiaomi launches the Mijia sub-brand in India, expanding from phones into AIoT smart home and large appliances to take on Samsung and LG; South Korea's first-half exports overtake Japan for the first time, driven by AI chips; the industry accelerates 800V DC power architecture for AI data centers.",
+      "tags": [
+        "Tech News",
+        "Samsung",
+        "ISOCELL HPC",
+        "DeepPix",
+        "Image Sensor",
+        "Xiaomi",
+        "Mijia",
+        "India",
+        "South Korea",
+        "AI Chips",
+        "Exports",
+        "Data Center",
+        "800V DC"
+      ],
+      "file": "posts/628-tech-news-samsung-isocell-xiaomi-mijia-korea-exports-800v-dc-aug-7-2026.en.html"
+    }
+  },
+  {
+    "id": "627",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日泛科技要闻：谷歌AI权力重回布林、哈萨比斯退居二线，SpaceX官宣168亿美元Terafab芯片工厂，福特Fathom电动皮卡2.8万美元起售，Meta印度陷72小时危机",
+      "summary": "⚡ 8月7日泛科技要闻：谷歌AI权力架构大调整——联合创始人布林重新掌权，DeepMind首席执行官哈萨比斯退居二线出任董事长兼Alphabet首席科学家，杰夫·迪恩等Gemini核心工程师出走创业；SpaceX与特斯拉正式官宣在得州建设投资168亿美元的Terafab芯片工厂，规划超1亿平方英尺制造空间、至少3000个岗位，英特尔参与，总投入或达1190亿美元；福特公布全新电动皮卡Fathom，起售价28350美元、含运费29945美元，2027年秋交付；Meta在印度遭遇「72小时危机」，因莫迪视频被限与CSAM、深度伪造等问题面临失去安全港保护风险，审查扩大至X与Telegram。",
+      "tags": [
+        "泛科技要闻",
+        "谷歌",
+        "布林",
+        "DeepMind",
+        "哈萨比斯",
+        "SpaceX",
+        "Terafab",
+        "芯片工厂",
+        "特斯拉",
+        "福特",
+        "Fathom",
+        "电动皮卡",
+        "Meta",
+        "印度",
+        "安全港"
+      ],
+      "file": "posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Tech Briefing: AI Power Shifts Back to Brin as Hassabis Steps Aside, SpaceX Confirms $16.8B Terafab, Ford Fathom EV Truck from $28,350, Meta Faces 72-Hour Crisis in India",
+      "summary": "⚡ Aug 7 tech briefing: Google shifts AI power back to co-founder Sergey Brin as DeepMind CEO Hassabis steps aside to become chairman and Alphabet chief scientist, while Jeff Dean and other Gemini leads leave to found Discovery Loop; SpaceX and Tesla officially confirm the $16.8B Terafab chip factory in Texas with 100M+ sq ft and 3,000+ jobs, Intel on board and up to $119B in total spending; Ford names its new Fathom EV pickup starting at $28,350 ($29,945 delivered), deliveries in fall 2027; Meta faces a 72-hour crisis in India over the Modi video row, CSAM and deepfakes, risking the loss of safe-harbour protections as scrutiny widens to X and Telegram.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Brin",
+        "DeepMind",
+        "Hassabis",
+        "SpaceX",
+        "Terafab",
+        "Chip Factory",
+        "Tesla",
+        "Ford",
+        "Fathom",
+        "EV Pickup",
+        "Meta",
+        "India",
+        "Safe Harbour"
+      ],
+      "file": "posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.en.html"
+    }
+  },
+  {
+    "id": "626",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日国际政治要闻：埃尔多安访沙特谈三方防务、特朗普背书失灵奥格尔斯初选出局、墨西哥派兵1500镇守牛油果产区",
+      "summary": "⚡ 8月7日国际政治要闻：土耳其总统埃尔多安访问沙特阿拉伯，与王储穆罕穆德·本·萨勒曼及巴基斯坦总理夏巴兹举行三方会晤，多家媒体报道三国或将于吉达签署联合防务协议；美国共和党初选出现罕见变局——特朗普「完全背书」的田纳西州联邦众议员奥格尔斯败选，被前农商委员哈彻反超6.6个百分点；墨西哥向主要牛油果产区部署逾1500名军人，此前美方以安全为由暂停出口检验、冻结了对墨最大市场的出货。",
+      "tags": [
+        "国际政治要闻",
+        "土耳其",
+        "埃尔多安",
+        "沙特",
+        "吉达",
+        "防务协议",
+        "巴基斯坦",
+        "霍尔木兹海峡",
+        "美国中期选举",
+        "特朗普",
+        "墨西哥",
+        "牛油果"
+      ],
+      "file": "posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 World Briefing: Erdogan in Saudi for Trilateral Talks, Trump's Endorsement Fails as Ogles Loses Primary, Mexico Deploys 1,500 Troops to Protect Avocado Regions",
+      "summary": "⚡ Aug 7 international briefing: Turkish President Erdogan visits Saudi Arabia for a trilateral meeting with Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, with media reporting a joint defense agreement could be signed in Jeddah; Tennessee Rep. Andy Ogles loses his Republican primary despite Trump's complete and total endorsement; Mexico deploys more than 1,500 soldiers to its main avocado-producing regions after the US paused export inspections over security concerns.",
+      "tags": [
+        "International News",
+        "Turkey",
+        "Erdogan",
+        "Saudi Arabia",
+        "Jeddah",
+        "Defense Agreement",
+        "Pakistan",
+        "Hormuz",
+        "US Midterms",
+        "Trump",
+        "Tennessee",
+        "Primary",
+        "Mexico",
+        "Avocado"
+      ],
+      "file": "posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.en.html"
+    }
+  },
+  {
+    "id": "625",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日金融要闻：中国7月出口增23%超预期、沙特预警\"多线来袭\"油市承压、圣路易斯联储主席放鹰、印度央行干预卢比、亚太股市冲高回落",
+      "summary": "⚡ 8月7日金融要闻：中国海关数据显示7月出口同比增长约23%超预期，贸易顺差约1120亿美元，AI需求与抢出口共同托底、人民币走强；沙特高级官员向CNN与路透预警\"多线协同攻击\"迫在眉睫，目标包括能源与石油设施，海湾安全恶化推升油价地缘溢价；圣路易斯联储主席穆萨勒姆在圣保罗放鹰，称通胀风险偏上行、政策须施加\"有意义的约束\"；印度央行抛售美元支撑卢比；亚太股市日经指数跌约1%、韩综指冲高回落。",
+      "tags": [
+        "金融要闻",
+        "中国出口",
+        "贸易数据",
+        "人民币",
+        "沙特",
+        "海湾局势",
+        "原油",
+        "美联储",
+        "穆萨勒姆",
+        "加息",
+        "印度央行",
+        "卢比",
+        "亚太股市",
+        "日经指数"
+      ],
+      "file": "posts/625-finance-news-china-exports-saudi-warning-musalem-rupee-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Finance Briefing: China July Exports Beat at +23%, Saudi Warns of Multi-Front Attacks, St. Louis Fed's Musalem Turns Hawkish, RBI Supports the Rupee, Asian Stocks Reverse",
+      "summary": "⚡ Aug 7 finance briefing: Chinese customs data shows July exports rose about 23% year-on-year, beating estimates, with the trade surplus near $112 billion as AI demand and tariff front-running underpinned shipments and the yuan strengthened; a senior Saudi official told CNN and Reuters that multi-front coordinated attacks are imminent, with energy and oil facilities among potential targets; St. Louis Fed President Musalem struck a hawkish tone in Sao Paulo; the RBI sold USD/INR to support the rupee; Asian stocks turned risk-off, with the Nikkei down about 1% and the KOSPI giving up an intraday push toward 6,400.",
+      "tags": [
+        "Finance News",
+        "China Exports",
+        "Trade Data",
+        "Yuan",
+        "Saudi Arabia",
+        "Gulf",
+        "Oil",
+        "Federal Reserve",
+        "Musalem",
+        "Rate Hike",
+        "RBI",
+        "Rupee",
+        "Asian Stocks",
+        "Nikkei"
+      ],
+      "file": "posts/625-finance-news-china-exports-saudi-warning-musalem-rupee-aug-7-2026.en.html"
+    }
+  },
+  {
+    "id": "624",
+    "date": "2026-08-07",
+    "zh": {
+      "title": "⚡ 8月7日泛科技要闻：SIA称Q2全球芯片销售增35%、Anthropic组建自研芯片团队、LG规划家电与机器人AI芯片、SpaceX拟建Gigasat工厂量产AI卫星",
+      "summary": "⚡ 8月7日泛科技要闻：美国半导体行业协会（SIA）发布数据称2026年二季度全球半导体销售额达4033亿美元、环比增长35.1%，全年有望突破1.5万亿美元；Anthropic证实组建自研硅片团队，与模型协同设计定制芯片、进一步降低对英伟达的依赖；韩国LG规划三档AI芯片覆盖家电与家庭机器人，端侧AI成为消费电子新战场；SpaceX计划在得州巴斯特罗普县建设约1100万平方英尺的Gigasat工厂，量产AI卫星与轨道数据中心。",
+      "tags": [
+        "泛科技要闻",
+        "半导体",
+        "SIA",
+        "Anthropic",
+        "自研芯片",
+        "英伟达",
+        "LG",
+        "AI芯片",
+        "机器人",
+        "SpaceX",
+        "AI卫星",
+        "数据中心"
+      ],
+      "file": "posts/624-tech-news-chip-sales-anthropic-silicon-lg-ai-chips-spacex-gigasat-aug-7-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 7 Tech Briefing: SIA Says Q2 Global Chip Sales Up 35%, Anthropic to Build In-House Silicon, LG Plans Consumer & Robot AI Chips, SpaceX to Build Gigasat Factory",
+      "summary": "⚡ Aug 7 tech briefing: The Semiconductor Industry Association (SIA) says global semiconductor sales reached $403.3 billion in Q2 2026, up 35.1% quarter-on-quarter, with 2026 on track to exceed $1.5 trillion; Anthropic confirms it is building a custom silicon team to co-design chips with its models and reduce reliance on Nvidia; LG plans three tiers of AI chips for appliances and home robots as on-device AI becomes the new consumer-electronics battleground; SpaceX plans an ~11-million-square-foot Gigasat factory in Bastrop County, Texas, to mass-produce AI satellites and orbital data centers.",
+      "tags": [
+        "Tech News",
+        "Semiconductors",
+        "SIA",
+        "Anthropic",
+        "Custom Silicon",
+        "Nvidia",
+        "LG",
+        "AI Chips",
+        "Robots",
+        "SpaceX",
+        "AI Satellite",
+        "Data Center"
+      ],
+      "file": "posts/624-tech-news-chip-sales-anthropic-silicon-lg-ai-chips-spacex-gigasat-aug-7-2026.en.html"
+    }
+  },
+  {
     "id": "623",
     "date": "2026-08-07",
     "zh": {

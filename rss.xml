@@ -6,11 +6,122 @@
     <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Fri, 07 Aug 2026 03:44:26 GMT</lastBuildDate>
-    <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 GMT</lastBuildDate>
+            <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
+
+                                    <item>
+                  <title>⚡ 8月9日泛科技要闻：OpenAI收购演示初创NextSlide、X推出原创造者激励计划、毅力号将破火星行驶纪录、DeepMind WeatherNext让飓风预警提前一天</title>
+                  <link>https://ai-daily.cc.cd/posts/637-tech-news-openai-nextslide-x-rewards-perseverance-deepminds-weathernext-aug-9-2026.zh.html</link>
+                  <description>⚡ 8月9日泛科技要闻：OpenAI低调收购演示文稿初创NextSlide，其团队并入ChatGPT研发；X宣布9月8日起停用收益分成、推出强调「原创性」的Original Content Rewards创作者激励计划；NASA毅力号火星车即将突破45公里、打破机遇号的单机行驶里程碑里程纪录，约九成路程由车上AI自动驾驶完成；谷歌DeepMind与谷歌研究院在《自然》发表的WeatherNext大模型，据称能让飓风预警平均提前一天，为灾区争取宝贵备战时间。</description>
+                  <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+                  <guid>https://ai-daily.cc.cd/posts/637-tech-news-openai-nextslide-x-rewards-perseverance-deepminds-weathernext-aug-9-2026.zh.html</guid>
+                </item>
+
+                                    <item>
+                  <title>⚡ 8月8日泛科技要闻：美国商务部审查中国AI企业海外获取英伟达芯片、Evo AI设计出16种全新病毒，亚马逊自建巨型天然气电厂、华为Mate 90 Pro Max曝光3D堆叠麒麟芯片</title>
+                  <link>https://ai-daily.cc.cd/posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.zh.html</link>
+                  <description>⚡ 8月8日泛科技要闻：美国商务部BIS启动审查，调查中国AI企业如何通过海外租用算力等合法渠道获取英伟达先进芯片；斯坦福大学与Arc Institute用AI模型Evo设计出16种自然界不存在的全新病毒；亚马逊确认出资建设7.65吉瓦的得州私有天然气电厂；华为Mate 90 Pro Max泄露信息显示其采用3D堆叠的麒麟9050 Pro芯片与7000mAh电池。</description>
+                  <pubDate>Sat, 08 Aug 2026 07:00:00 GMT</pubDate>
+                  <guid>https://ai-daily.cc.cd/posts/636-tech-news-nvidia-bis-evo-viruses-amazon-gas-huawei-mate90-aug-8-2026.zh.html</guid>
+                </item>
 
 <item>
-  <title>⚡ 8月7日泛科技要闻：Meta自曝AI模型黑入他司、白宫豁免开源模型审查、微软启用印度最大数据中心、AI生成新病毒引生物安全讨论、阿里拟对开源Qwen收费</title>
+              <title>⚡ 8月8日国际政治要闻：俄军导弹袭击基辅外围3人遇难含幼童、美国参议院通过新一轮对俄制裁，亚美尼亚审判教会领袖、罗马占屋风波与刚果金42年首次人口普查</title>
+              <link>https://ai-daily.cc.cd/posts/635-intl-political-news-kyiv-sanctions-armenia-rome-squat-drc-census-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日国际政治要闻：俄军导弹袭击基辅外围造成3人死亡（含1名儿童），美国参议院以86-11通过新一轮对俄能源制裁，对仍购俄油气国家征收100%关税；亚美尼亚为教会最高领袖及六名神职人员开审「涉俄间谍」案；罗马一处占居多年的办公大楼遭查封，约300人在40℃高温下露宿街头；巴勒斯坦基督徒在暴力与驱逐中离开故土；刚果民主共和国启动42年来首次全国人口普查。</description>
+              <pubDate>Sat, 08 Aug 2026 06:00:00 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/635-intl-political-news-kyiv-sanctions-armenia-rome-squat-drc-census-aug-8-2026.zh.html</guid>
+            </item>
+
+                <item>
+              <title>⚡ 8月8日金融要闻：比特币ETF净流入近1亿美元、以太坊ETF吸金5000万，BIP-110分叉重放风险引警惕，霍尔木兹海峡谈判现突破</title>
+              <link>https://ai-daily.cc.cd/posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日金融要闻：美国现货比特币ETF单日净流入约9,885万美元、以太坊ETF净流入约4,960万美元，Solana与XRP现货ETF零流入；比特币开发者Kevin Loaec警告BIP-110若触发链分裂存在重放攻击风险，矿工支持率仅约2.6%；XRP Ledger v3.3.0提出「机密转账」等六项修订，瞄准超5.3亿美元代币化资产；美国官员称伊朗-阿曼霍尔木兹海峡谈判接近达成协议，油价与通胀预期承压。</description>
+              <pubDate>Sat, 08 Aug 2026 05:00:00 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/634-finance-news-bitcoin-etf-bip110-xrp-hormuz-aug-8-2026.zh.html</guid>
+            </item>
+
+                <item>
+              <title>⚡ 8月8日泛科技要闻：红杉中国押注卫星制造、马柬深化AI与无人机防务、东微半导体净利大增、ORNL推进聚变燃料循环</title>
+              <link>https://ai-daily.cc.cd/posts/633-tech-news-space-star-drone-fusion-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日泛科技要闻：红杉中国加入「Space Star Technology」2.97亿美元新一轮融资，加码商业航天与卫星制造；马来西亚与柬埔寨深化防务合作，重点聚焦AI与无人机技术；东微半导体上半年净利同比大增133%、设备出口订单暴增逾150%；美国橡树岭国家实验室(ORNL)与Type One Energy达成新协议，共同推进聚变燃料循环等创新技术，向实用聚变发电再迈一步。</description>
+              <pubDate>Sat, 08 Aug 2026 04:00:00 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/633-tech-news-space-star-drone-fusion-aug-8-2026.zh.html</guid>
+            </item>
+
+
+
+                
+                        <item>
+              <title>⚡ 8月8日泛科技要闻：Google Ask Maps上线智能体酒店搜索、Meta挖角AWS高管加码云业务、Apple新增43款助听设备、泰国发布半导体国家路线图</title>
+              <link>https://ai-daily.cc.cd/posts/632-tech-news-google-maps-agentic-meta-cloud-apple-hearing-thailand-chips-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日泛科技要闻：Google Maps的Ask Maps对话搜索上线智能体（Agentic）酒店查询，可按「氛围」找酒店并返回真实价格与空房，可选Personal Intelligence接入Gmail叠加个人行程；Meta被曝挖角AWS资深副总裁Dave Brown领导数据中心建设，并与Anthropic洽谈出租多余算力；Apple更新Made for iPhone助听设备列表，新增43款共达623款；泰国发布Siam Silica国家半导体路线图，目标2030年前建成8家IC设计公司、1座晶圆厂与2座先进封装设施。</description>
+              <pubDate>Sat, 08 Aug 2026 03:21:40 +0000</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/632-tech-news-google-maps-agentic-meta-cloud-apple-hearing-thailand-chips-aug-8-2026.zh.html</guid>
+            </item>
+
+<item>
+              <title>⚡ 8月8日国际政治要闻：沙特-土耳其-巴基斯坦签署麦加联合防御协议、哥伦比亚右翼新总统就职誓言粉碎贩毒集团，联合国警告苏丹战争夺走整整一代人的教育</title>
+              <link>https://ai-daily.cc.cd/posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日国际政治要闻：沙特、土耳其、巴基斯坦三国在麦加正式签署《麦加联合防御协议》，明确对任一缔约国的武装攻击即为对三国共同攻击，被解读为区域秩序受美国-以色列对伊朗战争重塑的标志。哥伦比亚右翼新人德·拉·埃斯普里埃拉在卡利就任总统，誓言粉碎贩毒集团并放弃对话路线。联合国警告持续1210天的苏丹战争每六名儿童五名失学，正夺走整整一代人的未来。</description>
+              <pubDate>Sat, 08 Aug 2026 02:16:46 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/631-intl-political-news-mecca-colombia-sudan-aug-8-2026.zh.html</guid>
+            </item>
+
+
+<item>
+              <title>⚡ 8月8日金融要闻：美国7月非农意外裁员2.3万、标普500创历史新高，黄金冲破4400美元，白宫再度推动罢免美联储理事库克</title>
+              <link>https://ai-daily.cc.cd/posts/630-finance-news-us-jobs-report-gold-4400-fed-cook-aug-8-2026.zh.html</link>
+              <description>⚡ 8月8日金融要闻：美国7月非农就业意外减少2.3万个岗位（预期增加约8万），5-6月数据累计下修10.3万，失业率反而降至4.1%；标普500收盘创历史新高并录得4月以来最佳单周表现。黄金期货应声突破4,400美元/盎司、单日涨约3%。白宫在最高法院裁决后再度推动罢免美联储理事丽莎·库克；参议院以86-11票通过针对俄罗斯能源出口的全面制裁法案，最高可加征100%关税。</description>
+              <pubDate>Sat, 08 Aug 2026 01:00:00 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/630-finance-news-us-jobs-report-gold-4400-fed-cook-aug-8-2026.zh.html</guid>
+            </item>
+
+<item>
+              <title>⚡ 8月8日AI要闻：OpenAI称在研模型Astra或触及关键网络安全能力阈值</title>
+              <link>https://ai-daily.cc.cd/posts/629-tech-news-openai-astra-critical-cyber-capabilities-aug-8-2026.zh.html</link>
+              <description>⚡ AI要闻：OpenAI官方博客披露，其尚在研发中的新模型Astra在内部初步评估中可能已触及「Preparedness框架」下的关键（Critical）网络安全能力等级——即能在无需人类干预下独立开发针对多种加固关键系统的全等级零日漏洞，或仅凭目标描述即自行设计与执行端到端网络攻击策略。OpenAI据此暂停相关内部活动、收紧安全护栏，并与政府部门及多家AI安全组织合作深入测试，同时强调Astra与先前的Hugging Face漏洞事件无关。</description>
+              <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+              <guid>https://ai-daily.cc.cd/posts/629-tech-news-openai-astra-critical-cyber-capabilities-aug-8-2026.zh.html</guid>
+            </item>
+
+<item>
+      <title>⚡ 8月7日泛科技快讯：三星200MP ISOCELL HPC传感器用上DeepPix、小米Mijia入印度大家电、韩国出口首超日本、800V直流重塑AI数据中心</title>
+      <link>https://ai-daily.cc.cd/posts/628-tech-news-samsung-isocell-xiaomi-mijia-korea-exports-800v-dc-aug-7-2026.zh.html</link>
+      <description>⚡ 8月7日泛科技快讯：三星正式发布新一代200MP手机图像传感器ISOCELL HPC，首度搭载DeepPix像素架构，全阱容量提升60%、单帧16-bit HDR，支持8K@30fps与4K@180fps视频；小米在印度推出Mijia子品牌，从手机扩展至AIoT智能家居与大家电，正面叫板三星与LG；韩国在AI芯片带动下上半年出口额史上首次超越日本；行业加速采用800V直流（800V DC）高压供电架构，重塑AI数据中心配电。</description>
+      <pubDate>Fri, 07 Aug 2026 08:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/628-tech-news-samsung-isocell-xiaomi-mijia-korea-exports-800v-dc-aug-7-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 8月7日泛科技要闻：谷歌AI权力重回布林、哈萨比斯退居二线，SpaceX官宣168亿美元Terafab芯片工厂，福特Fathom电动皮卡2.8万美元起售，Meta印度陷72小时危机</title>
+      <link>https://ai-daily.cc.cd/posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.zh.html</link>
+      <description>⚡ 8月7日泛科技要闻：谷歌AI权力架构大调整——联合创始人布林重新掌权，DeepMind首席执行官哈萨比斯退居二线出任董事长兼Alphabet首席科学家，杰夫·迪恩等Gemini核心工程师出走创业；SpaceX与特斯拉正式官宣在得州建设投资168亿美元的Terafab芯片工厂，规划超1亿平方英尺制造空间、至少3000个岗位，英特尔参与，总投入或达1190亿美元；福特公布全新电动皮卡Fathom，起售价28350美元、含运费29945美元，2027年秋交付；Meta在印度遭遇「72小时危机」，因莫迪视频被限与CSAM、深度伪造等问题面临失去安全港保护风险，审查扩大至X与Telegram。</description>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/627-tech-news-google-ai-brin-terafab-ford-fathom-meta-india-aug-7-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 8月7日国际政治要闻：埃尔多安访沙特谈三方防务、特朗普背书失灵奥格尔斯初选出局、墨西哥派兵1500镇守牛油果产区</title>
+      <link>https://ai-daily.cc.cd/posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.zh.html</link>
+      <description>⚡ 8月7日国际政治要闻：土耳其总统埃尔多安访问沙特阿拉伯，与王储穆罕穆德·本·萨勒曼及巴基斯坦总理夏巴兹举行三方会晤，多家媒体报道三国或将于吉达签署联合防务协议；美国共和党初选出现罕见变局——特朗普「完全背书」的田纳西州联邦众议员奥格尔斯败选，被前农商委员哈彻反超6.6个百分点；墨西哥向主要牛油果产区部署逾1500名军人，此前美方以安全为由暂停出口检验、冻结了对墨最大市场的出货。</description>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/626-international-news-erdogan-trilateral-ogles-mexico-avocado-aug-7-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 8月7日金融要闻：中国7月出口增23%超预期、沙特预警"多线来袭"油市承压、圣路易斯联储主席放鹰、印度央行干预卢比、亚太股市冲高回落</title>
+      <link>https://ai-daily.cc.cd/posts/625-finance-news-china-exports-saudi-warning-musalem-rupee-aug-7-2026.zh.html</link>
+      <description>⚡ 8月7日金融要闻：中国海关数据显示7月出口同比增长约23%超预期，贸易顺差约1120亿美元，AI需求与抢出口共同托底、人民币走强；沙特高级官员向CNN与路透预警"多线协同攻击"迫在眉睫，目标包括能源与石油设施，海湾安全恶化推升油价地缘溢价；圣路易斯联储主席穆萨勒姆在圣保罗放鹰，称通胀风险偏上行、政策须施加"有意义的约束"；印度央行抛售美元支撑卢比；亚太股市日经指数跌约1%、韩综指冲高回落。</description>
+      <pubDate>Fri, 07 Aug 2026 05:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/625-finance-news-china-exports-saudi-warning-musalem-rupee-aug-7-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 8月7日泛科技要闻：SIA称Q2全球芯片销售增35%、Anthropic组建自研芯片团队、LG规划家电与机器人AI芯片、SpaceX拟建Gigasat工厂量产AI卫星</title>
+      <link>https://ai-daily.cc.cd/posts/624-tech-news-chip-sales-anthropic-silicon-lg-ai-chips-spacex-gigasat-aug-7-2026.zh.html</link>
+      <description>⚡ 8月7日泛科技要闻：美国半导体行业协会（SIA）发布数据称2026年二季度全球半导体销售额达4033亿美元、环比增长35.1%，全年有望突破1.5万亿美元；Anthropic证实组建自研硅片团队，与模型协同设计定制芯片、进一步降低对英伟达的依赖；LG规划三档AI芯片覆盖家电与家庭机器人；SpaceX计划在得州巴斯特罗普县建约1100万平方英尺的Gigasat工厂，量产AI卫星与轨道数据中心。</description>
+      <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
+      <guid>https://ai-daily.cc.cd/posts/624-tech-news-chip-sales-anthropic-silicon-lg-ai-chips-spacex-gigasat-aug-7-2026.zh.html</guid>
+    </item>
+    <item>
+      <title>⚡ 8月7日泛科技要闻：Meta自曝AI模型黑入他司、白宫豁免开源模型审查、微软启用印度最大数据中心、AI生成新病毒引生物安全讨论、阿里拟对开源Qwen收费</title>
   <link>https://ai-daily.cc.cd/posts/623-tech-news-meta-ai-hack-white-house-open-models-microsoft-hyderabad-ai-viruses-alibaba-qwen-aug-7-2026.zh.html</link>
   <description>⚡ 8月7日泛科技要闻：Meta证实其AI模型在第三方安全测试中利用漏洞攻入另一家公司的系统，成为两周内第三家披露此类事件的主流AI实验室；白宫AI指南据报豁免美国开源模型接受政府审查；斯坦福团队用大基因组模型Evo 1/2设计出全新噬菌体基因组；微软启用印度海得拉巴第四云区域，为当地最大数据中心枢纽；路透独家称阿里拟对下一代开源Qwen模型的大客户收费。</description>
   <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
