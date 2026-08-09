@@ -1,5 +1,250 @@
 [
   {
+    "id": "644",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日泛科技要闻：国产芯上微装350nm光刻机通过工艺验证、宇树科技明日申购、南澳州与OpenAI签历史性协议、余承东拆机MateBook Pro S、SK海力士前职员泄密判刑",
+      "summary": "⚡ 8月9日泛科技要闻：上海芯上微装自主研发的350nm步进投影光刻机（AST6200）通过工艺验证并获头部客户批量订单；A股人形机器人第一股宇树科技定于8月10日申购，发行价150.80元/股，DeepSeek、腾讯获战略配售；南澳州州长在OpenAI总部签历史性合作备忘录；余承东发布MateBook Pro S鸿蒙电脑拆机视频；SK海力士前职员因向华为旗下公司泄密被判刑18个月。",
+      "tags": [
+        "泛科技要闻",
+        "芯上微装",
+        "350nm光刻机",
+        "宇树科技",
+        "人形机器人",
+        "OpenAI",
+        "华为",
+        "SK海力士"
+      ],
+      "file": "posts/644-tech-news-xinshang-unitree-openai-matebook-sk-hynix-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 Tech Roundup: Xinshang Micro 350nm Lithography Passes Verification, Unitree IPO Subscription Tomorrow, South Australia Signs Historic OpenAI MoU, MateBook Pro S Teardown, SK hynix Ex-Employee Jailed",
+      "summary": "⚡ Aug 9 tech roundup: Xinshang Micro's 350nm stepper lithography (AST6200) passes process verification and wins repeat orders; Unitree, the A-share 'first humanoid robot stock,' opens subscription Aug 10 at RMB 150.80/share with DeepSeek and Tencent in strategic placement; South Australia's premier signs a historic MoU with OpenAI; Yu Chengdong tears down Huawei's MateBook Pro S; a former SK hynix employee gets 18 months for leaking secrets to a Huawei affiliate. All source times verified.",
+      "tags": [
+        "Tech News",
+        "Xinshang Micro",
+        "Lithography",
+        "Unitree",
+        "Humanoid Robot",
+        "OpenAI",
+        "Huawei",
+        "SK hynix"
+      ],
+      "file": "posts/644-tech-news-xinshang-unitree-openai-matebook-sk-hynix-aug-9-2026.en.html"
+    }
+  },
+  {
+    "id": "643",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日国际政治要闻：哥伦比亚新总统就职次日遇汽车炸弹、美国海军19艘核潜艇升级导弹化、伊朗为霍尔木兹重开提出新条件",
+      "summary": "⚡ 8月9日国际政治要闻：哥伦比亚新任总统宣誓就职次日，泛美公路一处收费站遭汽车炸弹袭击，军方称疑为原「哥武」武装分支所为；美国海军计划将19艘弗吉尼亚级核潜艇升级为导弹潜艇，扩大印太方向打击能力；伊朗最高国家安全委员会就重开霍尔木兹海峡向美国提出六项新条件，超出6月17日谅解备忘录范围，凸显「不谈不战」僵局难解。",
+      "tags": [
+        "国际政治要闻",
+        "哥伦比亚",
+        "汽车炸弹",
+        "美国海军",
+        "弗吉尼亚级核潜艇",
+        "SSGN",
+        "伊朗",
+        "霍尔木兹海峡"
+      ],
+      "file": "posts/643-intl-political-news-colombia-bomb-us-navy-iran-hormuz-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 International Politics: Colombia toll-booth car bomb a day after president sworn in, US Navy turns 19 submarines into missile boats, Iran unveils new Hormuz demands",
+      "summary": "⚡ Aug 9 international politics roundup: a car bomb destroyed a toll booth on the Pan-American Highway in southwest Colombia a day after the newly sworn-in president took office, with the army attributing it to former FARC factions; the US Navy is expanding missile payloads on up to 19 Virginia-class submarines; and Iran's Supreme National Security Council has set six new conditions for reopening the Strait of Hormuz beyond the June 17 memorandum. All source publication times verified.",
+      "tags": [
+        "International Politics",
+        "Colombia",
+        "Car Bomb",
+        "US Navy",
+        "Virginia-class",
+        "SSGN",
+        "Iran",
+        "Strait of Hormuz"
+      ],
+      "file": "posts/643-intl-political-news-colombia-bomb-us-navy-iran-hormuz-aug-9-2026.en.html"
+    }
+  },
+  {
+    "id": "642",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日金融要闻：比特币现货ETF周流入8.65亿美元创4月来最佳、韩国股市波动率回落至两月低点，纳斯达克12月推23小时交易、油价地缘溢价退潮",
+      "summary": "⚡ 8月9日金融要闻：比特币现货ETF上周净流入约8.65亿美元，创4月以来最佳单周表现，贝莱德客户贡献约6.94亿美元；韩国股市波动率回落至两个月低点，约14亿美元杠杆头寸被强制平仓；纳斯达克确认12月6日启动23/5交易，美股每日仅休市1小时；霍尔木兹海峡有望重开叠加供应过剩担忧，油价从地缘溢价高位回落。",
+      "tags": [
+        "金融要闻",
+        "比特币",
+        "现货ETF",
+        "贝莱德",
+        "韩国股市",
+        "纳斯达克",
+        "23小时交易",
+        "油价"
+      ],
+      "file": "posts/642-finance-news-btc-etf-korea-nasdaq-oil-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 Finance Roundup: Bitcoin ETFs See Best Week Since April with $865M Inflows, Korea Volatility Eases, Nasdaq to Launch 23-Hour Trading in December, Oil Retreats",
+      "summary": "⚡ Aug 9 finance roundup: US spot Bitcoin ETFs logged about $865 million in weekly net inflows — their best week since April — with BlackRock clients contributing roughly $693.5 million; South Korea's stock volatility fell to a two-month low as about $1.4 billion in leveraged positions were flushed out; Nasdaq confirmed it will launch 23/5 trading on December 6, leaving US stocks closed just one hour a day; and oil retreated from geopolitical highs on hopes the Strait of Hormuz may reopen amid supply-glut worries. All source publication times verified.",
+      "tags": [
+        "Finance",
+        "Bitcoin ETF",
+        "BlackRock",
+        "Korea",
+        "Kospi",
+        "Nasdaq",
+        "Oil"
+      ],
+      "file": "posts/642-finance-news-btc-etf-korea-nasdaq-oil-aug-9-2026.en.html"
+    }
+  },
+  {
+    "id": "641",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日科技要闻：OpenAI向免费用户开放无限文本聊天、英伟达开源cuFile存储库、SK海力士考虑出售中国封装厂股份，谷歌发布「AI势能新篇章」、Cloudflare上调业绩",
+      "summary": "⚡ 8月9日泛科技要闻：OpenAI宣布向免费版ChatGPT用户开放无限文本聊天；英伟达将GPU存储加速库cuFile开源，让GPU以零拷贝方式直达文件系统数据；SK海力士据报正评估出售无锡封装工厂股份，加速中国大陆供应链调整；Google官方博客发表《AI势能的新篇章》，Cloudflare则上调2026全年业绩指引并扩大AI智能体平台。",
+      "tags": [
+        "泛科技要闻",
+        "OpenAI",
+        "ChatGPT",
+        "英伟达",
+        "cuFile",
+        "SK海力士",
+        "Google",
+        "Cloudflare"
+      ],
+      "file": "posts/641-tech-news-openai-nvidia-cufile-sk-hynix-google-cloudflare-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 Tech Roundup: OpenAI Unlocks Unlimited Text Chat, Nvidia Open-Sources cuFile, SK hynix Weighs China Plant Stake Sale, Google's AI Chapter, Cloudflare Lifts Guidance",
+      "summary": "⚡ Aug 9 tech roundup: OpenAI says free ChatGPT users now get unlimited text chat; Nvidia open-sources its cuFile GPU storage acceleration library; SK hynix reportedly weighs selling a stake in its Chinese packaging plant; Google's blog charts the next chapter of AI momentum; Cloudflare raises 2026 guidance and expands its AI agent platform. All source times verified.",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "ChatGPT",
+        "Nvidia",
+        "cuFile",
+        "SK hynix",
+        "Google",
+        "Cloudflare"
+      ],
+      "file": "posts/641-tech-news-openai-nvidia-cufile-sk-hynix-google-cloudflare-aug-9-2026.en.html"
+    }
+  },
+  {
+    "id": "640",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日泛科技要闻：三星攻关-30℃极寒热泵、泰勒晶圆厂启动实习生招聘，乐天玛特千台Ocado机器人，苹果删除千问指南、LG验证边缘AI",
+      "summary": "⚡ 8月9日泛科技要闻：三星电子宣布与美国能源部橡树岭国家实验室（ORNL）合作开发耐-30℃极寒环境的热泵技术，并启动得州泰勒先进晶圆厂首批实习生招聘；乐天玛特在釜山「Zetta Smart Center」部署1000台Ocado机器人；苹果中国官网删除Apple智能接入阿里千问使用手册，客服称正等待监管审批；LG Uplus与博通合作验证Wi-Fi 8边缘AI自愈网络技术。",
+      "tags": [
+        "泛科技要闻",
+        "三星",
+        "橡树岭国家实验室",
+        "热泵",
+        "泰勒晶圆厂",
+        "乐天玛特",
+        "Ocado",
+        "苹果",
+        "千问",
+        "LG Uplus"
+      ],
+      "file": "posts/640-tech-news-samsung-heatpump-taylor-lotte-ocado-apple-qwen-lg-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 Tech Roundup: Samsung Targets -30°C Heat Pumps with ORNL and Opens Taylor Fab Internships, Lotte Mart Deploys 1,000 Ocado Robots, Apple Pulls Qwen Guide in China, LG Uplus Validates Edge AI",
+      "summary": "⚡ Aug 9 tech roundup: Samsung teams with the DOE's Oak Ridge National Laboratory to develop heat pump technology for subminus-30°C regions and opens first internships at its Taylor, Texas foundry ahead of year-end operations; Lotte Mart switches on its Busan 'Zetta Smart Center' with 1,000 Ocado robots for AI-driven fresh grocery fulfillment; Apple China pulls its Qwen integration manual with customer service citing pending regulatory approval; and LG Uplus validates edge AI that auto-detects and restores home network issues on a Broadcom Wi-Fi 8 platform. All source publication times verified.",
+      "tags": [
+        "Tech News",
+        "Samsung",
+        "ORNL",
+        "Heat Pump",
+        "Taylor Fab",
+        "Lotte Mart",
+        "Ocado",
+        "Apple",
+        "Qwen",
+        "LG Uplus"
+      ],
+      "file": "posts/640-tech-news-samsung-heatpump-taylor-lotte-ocado-apple-qwen-lg-aug-9-2026.en.html"
+    }
+  },
+  {
+    "id": "639",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日国际政治要闻：伊朗革命卫队为重开霍尔木兹海峡定下条件、匈牙利提名前最高法院院长巴卡任总统，约旦河西岸定居者袭击卷土重来",
+      "summary": "⚡ 8月9日国际政治要闻：伊朗革命卫队（IRGC）为重开霍尔木兹海峡提出条件——结束美国海上封锁并赔偿战争损失；美军副总统称美国已「摧毁」伊朗核计划，战争加速五角大楼转向低造价武器；匈牙利新任总理马贾罗尔提名前最高法院院长、欧洲人权法院法官安德拉什·巴卡任总统，蒂萨党预计本周日完成弹劾并启幕欧尔班时代终结；约旦河西岸定居者袭击过去数周持续上升，巴勒斯坦人失去土地、民众直言「整个系统步步紧逼」。",
+      "tags": [
+        "国际政治要闻",
+        "伊朗",
+        "霍尔木兹海峡",
+        "IRGC",
+        "匈牙利",
+        "总统",
+        "约旦河西岸",
+        "定居者袭击"
+      ],
+      "file": "posts/639-intl-political-news-iran-hormuz-hungary-westbank-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 International Politics: IRGC Sets Conditions to Reopen Strait of Hormuz, Hungary Nominates Baka for President, West Bank Settler Attacks Rise",
+      "summary": "⚡ Aug 9 International Politics roundup: Iran's IRGC sets conditions to reopen the Strait of Hormuz, including ending the US naval blockade and compensating war damages, while Washington claims it has 'destroyed' Iran's nuclear program and the war pushes the Pentagon toward lower-cost weapons; Hungary's PM Magyar nominates former Supreme Court President and ECHR judge Andras Baka for the presidency, laying the groundwork for ending the Orban era; and settler attacks against Palestinian residents in the West Bank keep rising. All sources time-verified.",
+      "tags": [
+        "International Politics",
+        "Iran",
+        "Hormuz",
+        "IRGC",
+        "Hungary",
+        "Presidency",
+        "West Bank",
+        "Settler violence"
+      ],
+      "file": "posts/639-intl-political-news-iran-hormuz-hungary-westbank-aug-9-2026.en.html"
+    }
+  },
+  {
+    "id": "638",
+    "date": "2026-08-09",
+    "zh": {
+      "title": "⚡ 8月9日金融要闻：中国7月CPI同比上涨0.5%低于预期、比特币BIP-110分叉正式落地，霍尔木兹海峡冲击油价、五角大楼敦促加速武器生产",
+      "summary": "⚡ 8月9日金融要闻：国家统计局公布7月CPI同比上涨0.5%（预期0.80%、前值1.00%），环比下降0.1%；PPI同比上涨3.5%；比特币BIP-110分叉在区块961632正式落地，主链已领先少数链18个区块，开发者紧急呼吁升级客户端；霍尔木兹海峡局势冲击能源市场，ADNOC油轮遭导弹袭击、伊拉克石油出口骤降75%；伊朗战争消耗国防库存，五角大楼敦促国防企业加快武器生产；国内金饰克价重返1300元。",
+      "tags": [
+        "金融要闻",
+        "CPI",
+        "PPI",
+        "国家统计局",
+        "比特币",
+        "BIP-110",
+        "霍尔木兹海峡",
+        "油价",
+        "五角大楼",
+        "黄金"
+      ],
+      "file": "posts/638-finance-news-china-cpi-bip110-hormuz-pentagon-gold-aug-9-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 9 Finance Roundup: China July CPI Rises Just 0.5% Y/Y, Missing Estimates; Bitcoin's BIP-110 Fork Lands; Hormuz Jolts Oil Markets; Pentagon Urges Faster Weapons Production",
+      "summary": "⚡ Aug 9 finance roundup: China's July CPI rose 0.5% year over year (0.80% expected, 1.00% prior) and fell 0.1% month over month, while PPI rose 3.5%; Bitcoin's BIP-110 fork officially landed at block 961,632 with the main chain already 18 blocks ahead of the minority chain and developers urging client upgrades; Hormuz tensions hit energy markets as an ADNOC tanker was hit by a missile and Iraq's oil exports plunged 75%; the Iran war has drained U.S. defense stockpiles, prompting the Pentagon to urge faster weapons production; and China gold jewelry prices returned to 1,300 yuan per gram. All sources time-verified.",
+      "tags": [
+        "Finance News",
+        "CPI",
+        "PPI",
+        "China",
+        "Bitcoin",
+        "BIP-110",
+        "Strait of Hormuz",
+        "Oil",
+        "Pentagon",
+        "Gold"
+      ],
+      "file": "posts/638-finance-news-china-cpi-bip110-hormuz-pentagon-gold-aug-9-2026.en.html"
+    }
+  },
+  {
     "id": "637",
     "date": "2026-08-09",
     "zh": {
