@@ -1,5 +1,74 @@
 [
   {
+    "id": "646",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日泛科技要闻：英特尔256核Diamond Rapids至强、索尼台积电熊本投1万亿日元、iQOO Neo11至尊版8月18日发布、千问开放平台上线、竹制快递包装提速",
+      "summary": "⚡ 8月10日泛科技要闻：爆料称英特尔仍将推出256核\"Diamond Rapids\"至强，对应650W高功率Johnson City平台；索尼与台积电拟在熊本合资投资1万亿日元，2029年量产下一代图像传感器并供货苹果iPhone；iQOO Neo11至尊版公布三款配色，8月18日发布；阿里千问开放平台上线，顺丰、自如、盈米等伙伴接入；竹基可降解快递包装进入应用测试。来源发布时间均已验证。",
+      "tags": [
+        "泛科技要闻",
+        "英特尔",
+        "Diamond Rapids",
+        "至强",
+        "索尼",
+        "台积电",
+        "图像传感器",
+        "iQOO",
+        "千问",
+        "开放平台",
+        "竹基包装"
+      ],
+      "file": "posts/646-tech-news-intel-diamond-rapids-sony-tsmc-iqoo-qwen-bamboo-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Tech Update: Intel's 256-Core Diamond Rapids Xeon Leaked, Sony & TSMC to Pour ¥1 Trillion into Kumamoto, iQOO Neo11 Ultimate Launches Aug 18, Qwen Open Platform Debuts",
+      "summary": "⚡ Aug 10 general tech roundup: leaker @jaykihn0 says Intel will still ship a 256-core 'Diamond Rapids' Xeon on the 650W Johnson City platform; Sony and TSMC plan a roughly ¥1 trillion Kumamoto JV to mass-produce next-gen image sensors for Apple's iPhone by 2029; iQOO reveals three colors for the Neo11 Ultimate, launching Aug 18 as the 'industry's only 2K + 9100mAh performance flagship'; Alibaba's Qwen Open Platform goes live with partners including SF Express, Ziroom, and Yumai; bamboo-based degradable express packaging enters pilot testing with a 1-billion-unit annual target. All source times verified.",
+      "tags": [
+        "Tech News",
+        "Intel",
+        "Diamond Rapids",
+        "Xeon",
+        "Sony",
+        "TSMC",
+        "Image Sensors",
+        "iQOO",
+        "Qwen",
+        "Bamboo Packaging"
+      ],
+      "file": "posts/646-tech-news-intel-diamond-rapids-sony-tsmc-iqoo-qwen-bamboo-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "645",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日泛科技要闻：马斯克Terafab超级芯片工厂面积超五角大楼等多地标总和、特斯拉FSD连续零干预突破4万公里、超声贴片助眠提前43分钟、GeForce NOW变云电脑",
+      "summary": "⚡ 8月10日泛科技要闻：马斯克超级芯片工厂Terafab建筑面积超五角大楼、Apple Park等多个地标总和，总投资最高达1190亿美元；特斯拉车主创下FSD连续零干预行驶2.5万英里（约4万公里）新纪录；德州大学奥斯汀分校研发超声柔性贴片NEUSLeeP，使受试者进入REM睡眠平均提前43分钟；博主利用漏洞把英伟达GeForce NOW改造成可跑AI模型的云电脑。来源发布时间均已验证。",
+      "tags": [
+        "泛科技要闻",
+        "Terafab",
+        "芯片",
+        "特斯拉FSD",
+        "NEUSLeeP",
+        "GeForce NOW"
+      ],
+      "file": "posts/645-tech-news-musk-terafab-fsd-neusleep-geforce-now-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 General Tech Update: Musk's Terafab Is Bigger Than the Pentagon and Apple Park Combined, Tesla FSD Tops 40,000 km, a Sleep Patch That Works 43 Minutes Faster, GeForce NOW as a Cloud PC",
+      "summary": "⚡ Aug 10 general tech roundup: Musk's Terafab super-fab tops 100 million sq ft, larger than the Pentagon and Apple Park combined, with investment up to $119B; a Tesla owner sets a new record of 25,000 miles of FSD driving with zero interventions; UT Austin's NEUSLeeP ultrasound patch helps subjects fall into REM sleep about 43 minutes earlier; a tinkerer turns Nvidia's GeForce NOW into a cloud PC. Sources and timestamps verified.",
+      "tags": [
+        "Tech News",
+        "Terafab",
+        "Chips",
+        "Tesla FSD",
+        "NEUSLeeP",
+        "GeForce NOW"
+      ],
+      "file": "posts/645-tech-news-musk-terafab-fsd-neusleep-geforce-now-aug-10-2026.en.html"
+    }
+  },
+  {
     "id": "644",
     "date": "2026-08-09",
     "zh": {

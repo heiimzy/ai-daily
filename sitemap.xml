@@ -6461,4 +6461,24 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/645-tech-news-musk-terafab-fsd-neusleep-geforce-now-aug-10-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/645-tech-news-musk-terafab-fsd-neusleep-geforce-now-aug-10-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/646-tech-news-intel-diamond-rapids-sony-tsmc-iqoo-qwen-bamboo-aug-10-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/646-tech-news-intel-diamond-rapids-sony-tsmc-iqoo-qwen-bamboo-aug-10-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

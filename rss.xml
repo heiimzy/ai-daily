@@ -3,13 +3,27 @@
   <channel>
     <title>AI日报 - AI新闻·工具·变现·效率</title>
     <link>https://ai-daily.cc.cd/</link>
-    <description>⚡ 8月2日科技要闻：苹果为应对AI生成漏洞报告的洪流，对安全漏洞提交设置上限并引入30天冷静期，重复提交未经人工验证的AI发现将被暂停180天；xAI于8月1日推出Grok Imagine Video 1.5，支持原生1080p文生视频、最多7张参考图与3路音频输入；中国风投在三年低点后重启AI与机器人基金募资；《纽约时报》援引Epoch AI预测称AI芯片部署每9个月翻一番。</description>
+    <description>⚡ 8月10日泛科技要闻：马斯克超级芯片工厂Terafab建筑面积超五角大楼、Apple Park等多个地标总和，总投资最高达1190亿美元；特斯拉车主创下FSD连续零干预行驶2.5万英里（约4万公里）新纪录；德州大学奥斯汀分校研发超声柔性贴片NEUSLeeP，使受试者进入REM睡眠平均提前43分钟；博主利用漏洞把英伟达GeForce NOW改造成可跑AI模型的云电脑。来源发布时间均已验证。</description>
     <language>zh-cn</language>
 
-    <lastBuildDate>Sun, 09 Aug 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 03:32:45 +0000</lastBuildDate>
             <atom:link href="https://ai-daily.cc.cd/rss.xml" rel="self" type="application/rss+xml"/>
 
                                 
+<item>
+  <title>⚡ 8月10日泛科技要闻：英特尔256核Diamond Rapids至强、索尼台积电熊本投1万亿日元、iQOO Neo11至尊版8月18日发布、千问开放平台上线、竹制快递包装提速</title>
+  <link>https://ai-daily.cc.cd/posts/646-tech-news-intel-diamond-rapids-sony-tsmc-iqoo-qwen-bamboo-aug-10-2026.zh.html</link>
+  <description>⚡ 8月10日泛科技要闻：爆料称英特尔仍将推出256核"Diamond Rapids"至强，对应650W高功率Johnson City平台；索尼与台积电拟在熊本合资投资1万亿日元，2029年量产下一代图像传感器并供货苹果iPhone；iQOO Neo11至尊版公布三款配色，8月18日发布；阿里千问开放平台上线，顺丰、自如、盈米等伙伴接入；竹基可降解快递包装进入应用测试。来源发布时间均已验证。</description>
+  <pubDate>Mon, 10 Aug 2026 03:32:45 +0000</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/646-tech-news-intel-diamond-rapids-sony-tsmc-iqoo-qwen-bamboo-aug-10-2026.zh.html</guid>
+</item>
+<item>
+  <title>⚡ 8月10日泛科技要闻：马斯克Terafab超级芯片工厂面积超五角大楼等多地标总和、特斯拉FSD连续零干预突破4万公里、超声贴片助眠提前43分钟、GeForce NOW变云电脑</title>
+  <link>https://ai-daily.cc.cd/posts/645-tech-news-musk-terafab-fsd-neusleep-geforce-now-aug-10-2026.zh.html</link>
+  <description>⚡ 8月10日泛科技要闻：马斯克超级芯片工厂Terafab建筑面积超五角大楼、Apple Park等多个地标总和，总投资最高达1190亿美元；特斯拉车主创下FSD连续零干预行驶2.5万英里（约4万公里）新纪录；德州大学奥斯汀分校研发超声柔性贴片NEUSLeeP，使受试者进入REM睡眠平均提前43分钟；博主利用漏洞把英伟达GeForce NOW改造成可跑AI模型的云电脑。来源发布时间均已验证。</description>
+  <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  <guid>https://ai-daily.cc.cd/posts/645-tech-news-musk-terafab-fsd-neusleep-geforce-now-aug-10-2026.zh.html</guid>
+</item>
 <item>
   <title>⚡ 8月9日泛科技要闻：国产芯上微装350nm光刻机通过工艺验证、宇树科技明日申购、南澳州与OpenAI签历史性协议、余承东拆机MateBook Pro S、SK海力士前职员泄密判刑</title>
   <link>https://ai-daily.cc.cd/posts/644-tech-news-xinshang-unitree-openai-matebook-sk-hynix-aug-9-2026.zh.html</link>
