@@ -1,5 +1,81 @@
 [
   {
+    "id": "656",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日金融要闻：英特尔拟增发150亿美元、伯克希尔Q2回购45亿、SpaceX重回IPO发行价、波音换股Archer、美联储「更高更久」",
+      "summary": "⚡ 8月10日金融要闻：英特尔宣布150亿美元普通股增发支持AI算力需求，年内股价已涨175%；伯克希尔Q2运营利润增16%、回购45亿美元，新CEO Abel开始动用现金；SpaceX股价重回135美元IPO发行价；波音向Archer出售三家子公司换19.75%股权，Archer盘前涨16%；美联储「更高更久」，9月或10月加息押注升温。来源发布时间均已验证。",
+      "tags": [
+        "金融要闻",
+        "英特尔",
+        "增发",
+        "伯克希尔",
+        "SpaceX",
+        "IPO",
+        "波音",
+        "Archer",
+        "美联储",
+        "利率"
+      ],
+      "file": "posts/656-finance-news-intel-offering-berkshire-spacex-archer-rates-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Finance Update: Intel to Raise $15B in Stock Offering, Berkshire Buybacks Hit $4.5B, SpaceX Back Near IPO Price, Boeing Swaps Units for Archer Stake, Fed 'Higher for Longer'",
+      "summary": "⚡ Aug 10 finance roundup: Intel announces a $15 billion common stock offering to fund surging AI compute demand, with shares up 175% in 2026; Berkshire Q2 operating earnings rise 16% with $4.5B in buybacks and cash down to $365.5B as new CEO Greg Abel starts deploying the hoard; SpaceX rebounds to near its $135 IPO price, with Deutsche Bank calling the $100B annualized revenue target 'likely very achievable'; Boeing sells Wisk, SkyGrid and Insitu to Archer Aviation for a 19.75% stake, sending Archer up 16% premarket; and the Fed's 'higher for longer' narrative firms up as September or October rate-hike odds climb. All source times verified.",
+      "tags": [
+        "Finance News",
+        "Intel",
+        "Stock Offering",
+        "Berkshire",
+        "SpaceX",
+        "IPO",
+        "Boeing",
+        "Archer",
+        "Federal Reserve",
+        "Interest Rates"
+      ],
+      "file": "posts/656-finance-news-intel-offering-berkshire-spacex-archer-rates-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "655",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日科技要闻：四大云商采购承诺近2万亿美元、超七成美国人反对数据中心、Steam欧洲渠道遭攻击、HoverAir推出机变无人机相机、AI农技建议误毁庄稼",
+      "summary": "⚡ 8月10日科技要闻：分析师估计Alphabet、微软、Meta、亚马逊四大云商累计采购承诺近2万亿美元，谷歌从1500亿飙升至8110亿，内存成为战略资产；民调显示超70%美国人反对家附近建数据中心，纳什维尔动物园旁7亿美元项目被阻；Steam欧洲硬件分销商CEVA遭网络攻击，Valve警告谨防钓鱼；HoverAir推出Versa口袋相机可变身AI跟拍无人机；中国67岁农民轻信AI农技方案致24.7英亩芝麻枯死。来源发布时间均已验证。",
+      "tags": [
+        "科技要闻",
+        "数据中心",
+        "超大规模云",
+        "AI基础设施",
+        "存储芯片",
+        "HoverAir",
+        "无人机",
+        "网络安全",
+        "Steam",
+        "AI风险"
+      ],
+      "file": "posts/655-tech-news-hyperscalers-data-center-backlash-steam-hoverair-farmer-ai-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Tech Update: Hyperscalers Top $2T in Commitments, 70% of Americans Oppose Data Centers, Steam's Europe Distributor Hit by Cyberattack, HoverAir Unveils Modular Drone-Camera, AI Farming Advice Wipes Out Crops",
+      "summary": "⚡ Aug 10 tech roundup: Analyst estimates say the four largest hyperscalers now hold nearly $2 trillion in purchase commitments, with Google's surging to ~$811B and memory becoming a strategic asset; a poll finds over 70% of Americans oppose data centers near their homes; Steam's European hardware distributor CEVA suffered a cyberattack and Valve warns buyers to expect phishing; HoverAir unveiled the Versa, a pocket gimbal camera that transforms into an AI-tracking drone; and a 67-year-old Chinese farmer lost 24.7 acres of sesame after following AI pesticide advice. All source times verified.",
+      "tags": [
+        "Tech News",
+        "Data Centers",
+        "Hyperscalers",
+        "AI Infrastructure",
+        "Memory",
+        "HoverAir",
+        "Drones",
+        "Cybersecurity",
+        "Steam",
+        "AI Risk"
+      ],
+      "file": "posts/655-tech-news-hyperscalers-data-center-backlash-steam-hoverair-farmer-ai-aug-10-2026.en.html"
+    }
+  },
+  {
     "id": "654",
     "date": "2026-08-10",
     "zh": {

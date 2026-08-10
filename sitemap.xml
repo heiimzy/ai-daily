@@ -6561,4 +6561,24 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/655-tech-news-hyperscalers-data-center-backlash-steam-hoverair-farmer-ai-aug-10-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/655-tech-news-hyperscalers-data-center-backlash-steam-hoverair-farmer-ai-aug-10-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/656-finance-news-intel-offering-berkshire-spacex-archer-rates-aug-10-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/656-finance-news-intel-offering-berkshire-spacex-archer-rates-aug-10-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
