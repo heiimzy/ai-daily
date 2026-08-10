@@ -1,5 +1,301 @@
 [
   {
+    "id": "654",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日科技要闻：谷歌Play让步竞品商店、Meta开源30B智能体、联发科营收增12%、Foxtron变三菱ASX VR-e、PowerToys端侧AI",
+      "summary": "⚡ 8月10日科技要闻：谷歌确认第三方应用商店可经新机制入驻美国Play商店，竞品Aptoide Games将上架Play；Meta开源30B本地智能体模型Muse Glimmer，4bit量化可本地运行；联发科7月营收484.75亿新台币增12.16%；三菱ASX VR-e基于富士康Foxtron，Q4登陆澳大利亚；PowerToys预览版加入端侧Phi Silica。来源发布时间均已验证。",
+      "tags": [
+        "科技要闻",
+        "谷歌",
+        "Google Play",
+        "Meta",
+        "开源AI",
+        "联发科",
+        "富士康",
+        "三菱",
+        "微软",
+        "PowerToys"
+      ],
+      "file": "posts/654-tech-news-google-play-meta-glimmer-mediatek-foxtron-powertoys-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Tech Update: Google Play Opens to Rival Store Aptoide, Meta Open-Sources 30B Agent Model Muse Glimmer, MediaTek July Revenue Up 12%, Foxconn Foxtron Becomes Mitsubishi ASX VR-e, PowerToys Gains On-Device AI",
+      "summary": "⚡ Aug 10 tech roundup: Google confirms qualified third-party app stores can enter the US Play Store via a new registration mechanism, with rival Aptoide Games about to launch on Google Play; Meta open-sources Muse Glimmer, a 30B-parameter model built for always-on local AI agents, runnable on 24GB GPUs with 4-bit quantization; MediaTek reports July revenue of NT$48.475B, up 12.16% YoY; Mitsubishi's new EV ASX VR-e, based on Foxconn's Foxtron Bria, heads to Australia in Q4; Microsoft's PowerToys preview adds on-device Phi Silica to Advanced Paste. All source times verified.",
+      "tags": [
+        "Tech News",
+        "Google",
+        "Google Play",
+        "Meta",
+        "Open Source AI",
+        "MediaTek",
+        "Foxconn",
+        "Mitsubishi",
+        "Microsoft",
+        "PowerToys"
+      ],
+      "file": "posts/654-tech-news-google-play-meta-glimmer-mediatek-foxtron-powertoys-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "653",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日国际要闻：乌克兰无人机夜袭鞑靼斯坦13死、黎巴嫩南部民宅遭以军拆除、巴控克什米尔选举缩水、泰国前议员行凶后直播自白",
+      "summary": "⚡ 8月10日国际要闻：乌克兰无人机夜袭俄鞑靼斯坦下卡姆斯克，致13死39伤（含1名儿童），俄称一夜击落450余架无人机，为开战以来俄本土最致命单次袭击之一；以色列推土机在美调解谈判推进之际拆除黎巴嫩南部Zawtar两村民宅；巴控克什米尔第三阶段立法选举仅4/11选区如期投票，联动委员会抵制与抗议已致超50人死亡；泰国前议员Chalong Riewrang射杀前警官后拨入YouTube直播向主持人自白。来源发布时间均已验证。",
+      "tags": [
+        "国际要闻",
+        "国际政治",
+        "乌克兰",
+        "俄罗斯",
+        "黎巴嫩",
+        "以色列",
+        "克什米尔",
+        "泰国"
+      ],
+      "file": "posts/653-intl-news-ukraine-tatarstan-israel-lebanon-kashmir-thai-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 World Update: Drone Strike Kills 13 in Tatarstan, Israel Demolishes Homes in Southern Lebanon, Kashmir Vote Shrinks, Thai Ex-MP Confesses to Shooting on YouTube",
+      "summary": "⚡ Aug 10 World Update: A Ukrainian drone strike on Tatarstan's Nizhnekamsk kills at least 13 (including a child) with 39 injured; Israel demolishes homes in two southern Lebanese villages even as US-mediated talks continue; only 4 of 11 constituencies vote on schedule in the final phase of Pakistan-administered Kashmir's election amid unrest that has killed over 50; Thai ex-MP Chalong Riewrang shoots a former police official then confesses on a YouTube livestream. All source times verified.",
+      "tags": [
+        "World News",
+        "International Politics",
+        "Ukraine",
+        "Russia",
+        "Lebanon",
+        "Israel",
+        "Kashmir",
+        "Thailand"
+      ],
+      "file": "posts/653-intl-news-ukraine-tatarstan-israel-lebanon-kashmir-thai-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "652",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日金融要闻：人民币收涨59点央行授权德银清算行、宇树科技申购启动、7月IPO供给高峰、欧元区信心指数超预期、油价上涨",
+      "summary": "⚡ 8月10日金融要闻：在岸人民币收报6.7442涨59点，央行授权德银任法兰克福清算行；宇树科技今日申购，发行价150.80元、市盈率219倍、募资近61亿；7月IPO供给迎高峰，长鑫科技579.19亿成注册制最大IPO；欧元区Sentix信心指数0.9超预期，日债30年期收益率3.98%，美元兑日元158.57；布伦特原油涨0.81%至84.23美元，荷兰天然气跳涨5%。来源发布时间均已验证。",
+      "tags": [
+        "金融要闻",
+        "人民币",
+        "央行",
+        "IPO",
+        "宇树科技",
+        "长鑫科技",
+        "欧元区",
+        "日本国债",
+        "美元兑日元",
+        "原油"
+      ],
+      "file": "posts/652-finance-news-cny-clearing-unitree-ipo-cxmt-sentix-oil-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Finance Update: CNY Gains 59 Pips to 6.7442, PBOC Names Deutsche Bank Frankfurt RMB Clearing Bank, Unitree IPO Subscription Opens, July IPO Supply at Year High, Oil Rises on Hormuz Uncertainty",
+      "summary": "⚡ Aug 10 finance roundup: onshore CNY closes at 6.7442, up 59 pips; the PBOC authorizes Deutsche Bank as the Frankfurt RMB clearing bank; Unitree Robotics opens its A-share IPO subscription at RMB 150.80/share with a 219x P/E, raising nearly RMB 6.1B; July saw a year-high IPO supply with 21 registration approvals and CXMT's RMB 57.92B raise becoming the largest A-share IPO since the registration reform; Eurozone Sentix prints 0.9 vs -0.5 expected, Japan's 30Y JGB yield rises to 3.98%, USD/JPY climbs over 0.5% to 158.57; Brent rises 0.81% to $84.23 on Hormuz uncertainty, Dutch gas jumps 5%. All source times verified.",
+      "tags": [
+        "Finance News",
+        "CNY",
+        "PBOC",
+        "IPO",
+        "Unitree",
+        "CXMT",
+        "Eurozone",
+        "JGB",
+        "USD/JPY",
+        "Crude Oil"
+      ],
+      "file": "posts/652-finance-news-cny-clearing-unitree-ipo-cxmt-sentix-oil-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "651",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日泛科技要闻：台积电拟收友达两厂扩先进封装、Firebird亚美尼亚AI工厂投运、SK海力士回应重庆厂出售、小马智行破1亿公里、蚂蚁校招80%AI岗",
+      "summary": "⚡ 8月10日泛科技要闻：消息称台积电洽谈收购友达中科两座面板厂以扩充先进封装产能，交易金额有望突破300亿新台币；Firebird宣布全独联体最大AI工厂在亚美尼亚投运，获NVIDIA投资，计划2027年底部署300MW算力；SK海力士回应彭博社出售重庆工厂股份报道称尚无定论；小马智行全球自动驾驶里程突破1亿公里；蚂蚁集团2027校招超80%为AI相关岗位。来源发布时间均已验证。",
+      "tags": [
+        "泛科技要闻",
+        "台积电",
+        "友达",
+        "先进封装",
+        "AI工厂",
+        "英伟达",
+        "SK海力士",
+        "小马智行",
+        "自动驾驶",
+        "蚂蚁集团"
+      ],
+      "file": "posts/651-tech-news-tsmc-auco-firebird-sk-hynix-ponyai-ant-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Tech Update: TSMC in Talks to Buy Two AUO Plants, Firebird Opens CIS's Largest AI Factory, SK Hynix Responds to Chongqing Sale Report, Pony.ai Hits 100M Autonomous KM, Ant Hiring 80%+ AI Roles",
+      "summary": "⚡ Aug 10 tech roundup: TSMC reportedly in talks to acquire two AUO panel plants adjacent to its Central Taiwan fabs to expand advanced packaging capacity, with the deal potentially exceeding NT$30 billion; Firebird announces the CIS region's largest AI factory is operational in Armenia, with NVIDIA planning to invest; SK Hynix says there is 'no final decision' on reports it may sell a stake in its Chongqing plant; Pony.ai's global autonomous driving mileage surpasses 100 million km; Ant Group's 2027 campus recruitment opens with over 80% AI-related roles. All source times verified.",
+      "tags": [
+        "Tech News",
+        "TSMC",
+        "AUO",
+        "Advanced Packaging",
+        "AI Factory",
+        "NVIDIA",
+        "SK Hynix",
+        "Pony.ai",
+        "Autonomous Driving",
+        "Ant Group"
+      ],
+      "file": "posts/651-tech-news-tsmc-auco-firebird-sk-hynix-ponyai-ant-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "650",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日泛科技要闻：台积电7月营收增44.7%、三星HBM4良率近80%、拼多多上线\"最快明天达\"、Linux曝18年漏洞、SAXON Q量子计算机预定",
+      "summary": "⚡ 8月10日泛科技要闻：台积电7月合并营收4675.8亿新台币，同比增长44.7%；三星HBM4良率接近80%，Q3销售额剑指上季3倍；拼多多上线\"最快明天达\"核心入口，加码时效履约；腾讯朱雀实验室披露Linux内核18年漏洞SCTPhantom，可提权逃逸容器；SAXON Q 128/512量子比特计算机开启预定，室温运行。来源发布时间均已验证。",
+      "tags": [
+        "泛科技要闻",
+        "台积电",
+        "三星",
+        "HBM4",
+        "拼多多",
+        "即时零售",
+        "Linux",
+        "网络安全",
+        "量子计算"
+      ],
+      "file": "posts/650-tech-news-tsmc-samsung-hbm4-pdd-sctphantom-saxonq-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Tech Update: TSMC July Revenue Up 44.7%, Samsung HBM4 Yield Nears 80%, PDD Launches 'Fastest Next-Day' Entry, Linux Flaw SCTPhantom Exposed, SAXON Q Quantum PCs Open Pre-Orders",
+      "summary": "⚡ Aug 10 tech roundup: TSMC posts NT$467.58B July consolidated revenue, up 44.7% YoY and 5.6% MoM; Samsung's HBM4 yield reportedly nears 80%, with Q3 HBM4 sales targeted at 3x last quarter; PDD officially launches its \"fastest next-day delivery\" core entry point, pushing into JD.com and Meituan turf; Tencent Zhuque Lab discloses SCTPhantom (CVE-2026-64564), an 18-year-old Linux kernel privilege-escalation flaw that can escape containers; Germany's SAXON Q opens pre-orders for 128/512-qubit room-temperature quantum computers. All source times verified.",
+      "tags": [
+        "Tech News",
+        "TSMC",
+        "Samsung",
+        "HBM4",
+        "PDD",
+        "Instant Retail",
+        "Linux",
+        "Cybersecurity",
+        "Quantum Computing"
+      ],
+      "file": "posts/650-tech-news-tsmc-samsung-hbm4-pdd-sctphantom-saxonq-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "649",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日国际政治要闻：美军霍尔木兹封锁转向55艘商船、特朗普转打伊朗经济牌、任命白宫法律顾问、以色列迟两年确认被拘者死亡",
+      "summary": "⚡ 8月10日国际政治要闻：美军上周再改道20艘商船，霍尔木兹封锁累计转向55艘，美伊谈判断裂风险加剧；特朗普释放信号，从新一轮军事打击转向以经济施压推动伊朗谈判，称德黑兰\"只在其半谈判\"、经济\"非常糟糕\"；特朗普宣布任命前律师威尔·沙尔夫为新任白宫法律顾问，9月1日就任；以色列在近两年后才证实一名加沙被拘留者死于羁押，遇难总数增至328人。来源发布时间均在近两小时以内。",
+      "tags": [
+        "国际政治",
+        "霍尔木兹海峡",
+        "美伊关系",
+        "特朗普",
+        "白宫",
+        "以色列",
+        "加沙",
+        "中东"
+      ],
+      "file": "posts/649-intl-news-hormuz-blockade-trump-iran-scharf-israel-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 World Update: U.S. Diverts 55 Ships Under Hormuz Blockade, Trump Pivots to Economic Pressure on Iran, Scharf Named White House Counsel",
+      "summary": "⚡ Aug 10 international politics roundup: U.S. forces diverted 20 more commercial vessels this week, bringing the Hormuz blockade tally to 55 ships as negotiations stay deadlocked; Trump signals a shift from fresh military strikes to economic pressure on Iran, saying Tehran is 'only semi-negotiating' and its economy is in 'very bad shape'; Trump names former lawyer Will Scharf as White House counsel effective September 1; Israel confirms, nearly two years late, that a Gaza detainee died in custody, pushing the total to 328 since 1967. All source times verified.",
+      "tags": [
+        "International Politics",
+        "Strait of Hormuz",
+        "U.S.-Iran",
+        "Trump",
+        "White House",
+        "Israel",
+        "Gaza",
+        "Middle East"
+      ],
+      "file": "posts/649-intl-news-hormuz-blockade-trump-iran-scharf-israel-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "648",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日金融要闻：比特币突破6.5万美元、比特币ETF周吸金8.54亿、亚股反弹黄金周涨超7%、A股创业板指跌2%",
+      "summary": "⚡ 8月10日午间金融要闻：比特币突破65,000美元，本周美国通胀数据成关键考验；比特币现货ETF上周净流入8.54亿美元，贝莱德IBIT独占6.94亿；非农爆冷降温加息预期，日韩台股市领涨亚洲，韩国芯片股大涨触发熔断；A股午盘分化，创业板指跌2%，医疗服务与消费板块走强；金价周涨超7%，避险需求与降息交易共振。来源发布时间均已验证。",
+      "tags": [
+        "金融要闻",
+        "比特币",
+        "现货ETF",
+        "美联储",
+        "亚股",
+        "黄金",
+        "A股",
+        "韩国股市"
+      ],
+      "file": "posts/648-finance-news-bitcoin-65000-etf-flows-asian-stocks-gold-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Finance Update: Bitcoin Tops $65K, BTC ETFs Pull in $854M, Asian Stocks Rally, Gold Up 7% Weekly, ChiNext Drops 2%",
+      "summary": "⚡ Aug 10 midday finance roundup: Bitcoin breaks above $65,000 with US inflation data due this week; spot BTC ETFs saw $854M in net inflows last week, BlackRock's IBIT taking $694M; soft nonfarm payrolls cool rate-hike bets, sending Japan, Korea and Taiwan stocks higher with Korean chip stocks triggering a circuit breaker; A-shares diverge with ChiNext down 2% while healthcare and consumer gain; gold posts a 7%+ weekly gain as safe-haven demand meets rate-cut trades. All source times verified.",
+      "tags": [
+        "Finance News",
+        "Bitcoin",
+        "Spot ETF",
+        "Federal Reserve",
+        "Asian Stocks",
+        "Gold",
+        "A-shares",
+        "Korea"
+      ],
+      "file": "posts/648-finance-news-bitcoin-65000-etf-flows-asian-stocks-gold-aug-10-2026.en.html"
+    }
+  },
+  {
+    "id": "647",
+    "date": "2026-08-10",
+    "zh": {
+      "title": "⚡ 8月10日泛科技要闻：小米校招AI岗位增50%、欧盟IRIS²卫星扩至348颗、哈萨比斯曾有意离开Alphabet、iGame火神主板X3D超频、拜雅DT 275 PRO",
+      "summary": "⚡ 8月10日泛科技要闻：小米宣布2027届全球校园招聘启动，AI相关岗位需求增长50%，产研类占比70%；欧盟委员会与SpaceRISE联盟签署IRIS²实施协议，卫星星座扩至348颗、首批2029年前发射；外媒曝2024年诺奖得主哈萨比斯在Alphabet高管变动前曾有意离开，最终转任DeepMind董事长；七彩虹iGame X870E VULCAN OC V14火神主板评测，X3D AI超频突破性能上限；拜雅DT 275 PRO专业监听耳机上架京东，定价1199元。来源发布时间均在近一小时以内。",
+      "tags": [
+        "泛科技要闻",
+        "小米",
+        "校园招聘",
+        "AI岗位",
+        "欧盟",
+        "IRIS²",
+        "卫星互联网",
+        "哈萨比斯",
+        "Alphabet",
+        "iGame",
+        "火神主板",
+        "拜雅",
+        "监听耳机"
+      ],
+      "file": "posts/647-tech-news-xiaomi-hiring-iris2-hassabis-igame-beyerdynamic-aug-10-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 10 Tech Update: Xiaomi AI Campus Hiring Up 50%, EU Expands IRIS² to 348 Satellites, Hassabis Reportedly Wanted to Leave Alphabet, iGame Vulcan X3D Overclocking, Beyerdynamic DT 275 PRO",
+      "summary": "⚡ Aug 10 general tech roundup: Xiaomi launches its 2027 global campus hiring with AI roles up 50% and R&D at 70%; the EU signs the IRIS² implementation agreement with SpaceRISE, expanding the constellation to 348 satellites with first launches before 2029; Pathfounders reports Hassabis considered leaving Alphabet before its AI reshuffle; Colorful iGame X870E VULCAN OC V14 review shows X3D AI overclocking setting frequency records; Beyerdynamic DT 275 PRO lands on JD.com at 1,199 yuan. All source times verified within the past hour.",
+      "tags": [
+        "Tech News",
+        "Xiaomi",
+        "Campus Hiring",
+        "AI Jobs",
+        "EU",
+        "IRIS²",
+        "Satellite Internet",
+        "Hassabis",
+        "Alphabet",
+        "iGame",
+        "Vulcan Motherboard",
+        "Beyerdynamic",
+        "Monitoring Headphones"
+      ],
+      "file": "posts/647-tech-news-xiaomi-hiring-iris2-hassabis-igame-beyerdynamic-aug-10-2026.en.html"
+    }
+  },
+  {
     "id": "646",
     "date": "2026-08-10",
     "zh": {
