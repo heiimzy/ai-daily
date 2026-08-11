@@ -6581,4 +6581,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/657-finance-news-nvidia-500b-tmtg-loss-crowdstrike-warsh-oil-aug-11-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/657-finance-news-nvidia-500b-tmtg-loss-crowdstrike-warsh-oil-aug-11-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/658-intl-news-colombia-quake-trump-vaccines-turkey-pkk-aug-11-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/658-intl-news-colombia-quake-trump-vaccines-turkey-pkk-aug-11-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/659-tech-news-anthropic-ipo-rubin-ultra-c919-navitas-glass-iphone-aug-11-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/659-tech-news-anthropic-ipo-rubin-ultra-c919-navitas-glass-iphone-aug-11-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

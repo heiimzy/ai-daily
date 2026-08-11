@@ -1,5 +1,105 @@
 [
   {
+    "id": "659",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日科技要闻：Anthropic 9月上市、Rubin Ultra降配、C919首飞国际航线、Navitas诉瑞萨、玻璃iPhone未取消",
+      "summary": "⚡ 8月11日科技要闻：华尔街日报称Anthropic最快9月或10月初上市，估值达9650亿美元；英伟达为应对HBM短缺，测试192GB/256GB HBM4版Rubin Ultra；国航C919明日执飞首个国际商业航班北京⇌乌兰巴托；Navitas在美国起诉瑞萨GaN专利侵权；彭博社澄清苹果全玻璃iPhone未取消。来源发布时间均已验证。",
+      "tags": [
+        "科技新闻",
+        "Anthropic",
+        "英伟达",
+        "C919",
+        "Navitas",
+        "苹果"
+      ],
+      "file": "posts/659-tech-news-anthropic-ipo-rubin-ultra-c919-navitas-glass-iphone-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 Tech Update: Anthropic IPO in Sept, Rubin Ultra Spec Cut, C919 First International Flight, Navitas Sues Renesas, Glass iPhone Not Canceled",
+      "summary": "⚡ Aug 11 tech roundup: WSJ reports Anthropic could IPO in September at a $965B valuation; Nvidia tests 192GB/256GB HBM4 Rubin Ultra versions amid the HBM shortage; Air China's C919 flies its first international route Beijing-Ulaanbaatar tomorrow; Navitas sues Renesas over GaN patents; Bloomberg says Apple's all-glass iPhone is not canceled. All source times verified.",
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Nvidia",
+        "C919",
+        "Navitas",
+        "Apple"
+      ],
+      "file": "posts/659-tech-news-anthropic-ipo-rubin-ultra-c919-navitas-glass-iphone-aug-11-2026.en.html"
+    }
+  },
+  {
+    "id": "658",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日国际要闻：哥伦比亚7.4级强震132死、特朗普签署疫苗令砍至11种、土耳其通过PKK大赦法",
+      "summary": "⚡ 8月11日国际要闻：哥伦比亚乔科省发生7.4级强震，系该国多年来最大地震，已致至少132人死亡、480余人受伤，佩雷拉40死65栋楼倒塌，新总统宣布全国灾难状态；特朗普签署行政令将儿童疫苗从18种减至11种并拆分MMR联合疫苗，遭儿科学会与共和党参议员Cassidy谴责；土耳其议会以468票对88票通过历史性法案，为放下武器的PKK成员提供重返平民生活路径，预计首批释放约3500名在押人员。来源发布时间均已验证。",
+      "tags": [
+        "国际要闻",
+        "国际政治",
+        "哥伦比亚",
+        "地震",
+        "特朗普",
+        "疫苗",
+        "土耳其",
+        "PKK"
+      ],
+      "file": "posts/658-intl-news-colombia-quake-trump-vaccines-turkey-pkk-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 World Update: Colombia Quake Kills 132, Trump Overhauls Childhood Vaccines, Turkey Passes PKK Amnesty Law",
+      "summary": "⚡ Aug 11 world roundup: A magnitude 7.4 earthquake — Colombia's largest in years — has killed at least 132 people and injured more than 480, with Pereira and Cali hit hardest and a national disaster declared by new President de la Espriella; President Trump signs an executive order slashing recommended childhood vaccines from 18 to 11 and splitting the MMR shot, drawing sharp rebukes from the AAP and Republican Sen. Bill Cassidy; and Turkey's parliament passes a landmark law giving PKK members who lay down arms a path back to civilian life, with some 3,500 detainees expected to be released in the first phase. All source times verified.",
+      "tags": [
+        "World News",
+        "International",
+        "Colombia",
+        "Earthquake",
+        "Trump",
+        "Vaccines",
+        "Turkey",
+        "PKK"
+      ],
+      "file": "posts/658-intl-news-colombia-quake-trump-vaccines-turkey-pkk-aug-11-2026.en.html"
+    }
+  },
+  {
+    "id": "657",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日金融要闻：英伟达拉六大资管公司押注5000亿、特朗普媒体Q2巨亏2.38亿、网络安全股创新高、特朗普承认与美联储主席通话、油价大涨5%重返82美元",
+      "summary": "⚡ 8月11日金融要闻：英伟达与Apollo、黑石、贝莱德、Brookfield、高盛、KKR签署超5000亿美元AI算力融资框架，黄仁勋称芯片为「可投资资产」；特朗普媒体Q2净亏超2.38亿美元、加密资产减值逾1.9亿；CrowdStrike与Palo Alto网络安全股创历史新高，BTIG上调Palo Alto目标价至380美元；特朗普承认近日与美联储主席Warsh通话，独立性质疑再起；WTI大涨约5%重返82美元、布油87.72美元，霍尔木兹谈判前景存疑。来源发布时间均已验证。",
+      "tags": [
+        "金融要闻",
+        "英伟达",
+        "AI融资",
+        "TMTG",
+        "网络安全",
+        "美联储",
+        "Warsh",
+        "油价",
+        "霍尔木兹"
+      ],
+      "file": "posts/657-finance-news-nvidia-500b-tmtg-loss-crowdstrike-warsh-oil-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 Finance Update: Nvidia Lines Up 00B in Financing, Trump Media Posts 38M Q2 Loss, Cybersecurity Stocks Hit Records, Trump Confirms Fed Call, Oil Back Above 2",
+      "summary": "⚡ Aug 11 finance roundup: Nvidia signs MoUs with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR to mobilize 00B+ for AI infrastructure, with Jensen Huang calling chips ‘investable assets’; Trump Media posts a Q2 net loss above 38M hit by over 90M in digital-asset write-downs; CrowdStrike and Palo Alto hit records as Black Hat renews AI-security demand; Trump says he spoke briefly to Fed Chair Warsh, reigniting independence concerns; and WTI jumps about 5% back above 2. All source times verified.",
+      "tags": [
+        "Finance News",
+        "Nvidia",
+        "AI Financing",
+        "TMTG",
+        "Cybersecurity",
+        "Federal Reserve",
+        "Kevin Warsh",
+        "Oil",
+        "Hormuz"
+      ],
+      "file": "posts/657-finance-news-nvidia-500b-tmtg-loss-crowdstrike-warsh-oil-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "656",
     "date": "2026-08-10",
     "zh": {
