@@ -1,5 +1,67 @@
 [
   {
+    "id": "664",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日国际要闻：叙利亚法院缺席判处阿萨德死刑、越南VinSpace牵手SpaceX明年发射卫星、伊拉克库尔德地区称遭千余次打击",
+      "summary": "⚡ 8月11日国际要闻：叙利亚法院缺席判处阿萨德死刑并认定战争罪与反人类罪成立，其表弟纳吉布同案被判死刑；越南VinSpace宣布与SpaceX合作、最快2027年Q2经Transporter拼车计划发射首批卫星；伊拉克库尔德地区政府称开战以来遭导弹和无人机袭击逾千次、贸易锐减70%、损失超10亿美元。来源发布时间均已验证。",
+      "tags": [
+        "国际新闻",
+        "叙利亚",
+        "阿萨德",
+        "越南",
+        "SpaceX",
+        "伊拉克",
+        "库尔德"
+      ],
+      "file": "posts/664-intl-news-assad-death-sentence-vinspace-spacex-kurdistan-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 World News: Syrian Court Sentences Assad to Death in Absentia, Vietnam's VinSpace Teams with SpaceX, Iraqi Kurdistan Counts the War's Toll",
+      "summary": "⚡ Aug 11 world news: a Syrian court sentences ousted leader Bashar al-Assad to death in absentia for war crimes and crimes against humanity, with cousin Atef Najib also condemned; Vietnam's VinSpace announces a SpaceX partnership to launch its first satellites as early as Q2 2027; Iraqi Kurdistan's PM says the region has been struck over 1,000 times, with trade down 70% and losses topping $1.1 billion. Source times verified.",
+      "tags": [
+        "World News",
+        "Syria",
+        "Assad",
+        "Vietnam",
+        "SpaceX",
+        "Iraq",
+        "Kurdistan"
+      ],
+      "file": "posts/664-intl-news-assad-death-sentence-vinspace-spacex-kurdistan-aug-11-2026.en.html"
+    }
+  },
+  {
+    "id": "663",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日金融市场：标普500休整待美国CPI、金价续创新高、原油站稳82美元、美日联合干预日元",
+      "summary": "⚡ 8月11日金融市场：美国-伊朗协议推迟令美股涨势陷入停顿，标普500进入区间震荡，市场聚焦即将公布的美国7月CPI；金价在疲软非农后续创新高并逼近4500关键趋势线；原油站稳82美元、目标突破82.55；日元在美日联合干预后买盘仍显乏力，野村估计干预规模或达14.1万亿日元；意大利6月贸易顺差扩大至42.3亿欧元。来源发布时间均已验证。",
+      "tags": [
+        "金融新闻",
+        "美股",
+        "美联储",
+        "黄金",
+        "原油",
+        "日元"
+      ],
+      "file": "posts/663-finance-news-sp500-gold-oil-yen-italy-trade-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 Market Update: S&P 500 Consolidates Ahead of US CPI, Gold Extends Record Rally, Oil Holds $82, Yen Buying Muted",
+      "summary": "⚡ Aug 11 market update: the S&P 500 rally stalls as the US-Iran deal is delayed, with all eyes on Thursday's US CPI; gold extends into new highs and nears the $4,500 trendline; crude holds above $82 eyeing a breakout past $82.55; yen buying stays muted after US-Japan intervention, with Nomura estimating ~¥14.1T spent; Italy's trade surplus widens to €4.2B in June. Source times verified.",
+      "tags": [
+        "Finance",
+        "US Stocks",
+        "Fed",
+        "Gold",
+        "Oil",
+        "Yen"
+      ],
+      "file": "posts/663-finance-news-sp500-gold-oil-yen-italy-trade-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "662",
     "date": "2026-08-11",
     "zh": {
