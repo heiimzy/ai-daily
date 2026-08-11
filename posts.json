@@ -1,5 +1,43 @@
 [
   {
+    "id": "667",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日国际要闻：黎巴嫩成中东首个废除死刑国家、匈牙利选出欧尔班时代后新总统、泽连斯基称俄以朝鲜导弹夜袭、红海胡塞袭击致3名船员死亡、特朗普被曝秘密换机躲避伊朗威胁",
+      "summary": "⚡ 8月11日国际要闻：黎巴嫩议会表决废除死刑、成为中东首个正式废除死刑的国家，司法部长称此举「具有历史意义」；匈牙利议会以160票赞成、6票反对选举前最高法院院长包考为新总统，再显与欧尔班时代决裂；泽连斯基称俄军以朝鲜导弹夜袭乌克兰、一夜至少9人遇难；疑似胡塞袭击红海埃及货船致3名船员死亡，美方被曝在巴基斯坦外海拦截伊朗关联船只；华盛顿邮报爆料特朗普上月借餐车掩护秘密换机躲避伊朗暗杀威胁。来源发布时间均已验证。",
+      "tags": [
+        "国际新闻",
+        "黎巴嫩",
+        "废除死刑",
+        "匈牙利",
+        "乌克兰",
+        "朝鲜导弹",
+        "红海",
+        "胡塞武装",
+        "特朗普",
+        "伊朗"
+      ],
+      "file": "posts/667-intl-news-lebanon-death-penalty-hungary-baka-nk-missiles-houthi-trump-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 World News: Lebanon Abolishes Death Penalty, Hungary Elects New President, Zelensky Says Russia Fired North Korean Missiles, Houthi Strike Kills 3 Crew, Trump's Secret Plane Swap",
+      "summary": "⚡ Aug 11 world news: Lebanon's parliament votes to abolish the death penalty, becoming the first Middle Eastern country to do so; Hungary's parliament elects former Supreme Court president Andras Baka as president by 160-6 in another break from the Orban era; Zelensky says Russia fired North Korean missiles in an overnight attack that killed at least nine; a suspected Houthi strike on an Egyptian cargo ship in the Red Sea kills three crew while a US helicopter is reported to have hit an Iran-linked vessel off Pakistan; the Washington Post reports Trump secretly swapped planes via a catering truck over an Iranian threat. Source times verified.",
+      "tags": [
+        "World News",
+        "Lebanon",
+        "Death Penalty",
+        "Hungary",
+        "Ukraine",
+        "North Korea",
+        "Red Sea",
+        "Houthi",
+        "Trump",
+        "Iran"
+      ],
+      "file": "posts/667-intl-news-lebanon-death-penalty-hungary-baka-nk-missiles-houthi-trump-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "666",
     "date": "2026-08-11",
     "zh": {
