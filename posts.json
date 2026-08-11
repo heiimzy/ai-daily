@@ -1,5 +1,43 @@
 [
   {
+    "id": "666",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日金融要闻：瑞士央行美股持仓创新高、新兴市场资金回流、英伟达开源Nemotron 3.5 Lightning、纳斯达克收购LeveL Markets、美伊接近达成霍尔木兹安排",
+      "summary": "⚡ 8月11日金融要闻：瑞士央行最新13F申报显示其美股持仓二季度增长超10%、达1914亿美元创历史新高，前三大持仓为英伟达、苹果和微软；国际金融协会（IIF）数据显示7月新兴市场股票资金流出放缓至78亿美元、债务流入267亿美元，非居民投资者组合净流入188亿美元结束连续两月外流；英伟达发布300亿参数开源模型Nemotron 3.5 Lightning，美股盘前涨近2%；纳斯达克宣布达成收购LeveL Markets最终协议，推进全天候市场战略；巴基斯坦防长称美伊接近就霍尔木兹达成某种安排，布伦特原油报87.99美元。来源发布时间均已验证。",
+      "tags": [
+        "金融要闻",
+        "瑞士央行",
+        "13F",
+        "新兴市场",
+        "IIF",
+        "英伟达",
+        "Nemotron",
+        "纳斯达克",
+        "霍尔木兹",
+        "原油"
+      ],
+      "file": "posts/666-finance-news-snb-13f-emerging-markets-nvidia-nemotron-nasdaq-level-oil-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 Finance Update: SNB's US Stock Holdings Hit a Record, EM Portfolios See $18.8B Net Inflow in July, Nvidia Open-Sources Nemotron 3.5 Lightning, Nasdaq to Acquire LeveL Markets, US-Iran Close to a Hormuz Arrangement",
+      "summary": "⚡ Aug 11 finance roundup: the Swiss National Bank's latest 13F filing shows its US stock reserves rose over 10% in Q2 to a record $191.4 billion, with Nvidia, Apple and Microsoft the top three holdings; IIF data show EM equity outflows slowed to $7.8 billion in July while debt drew $26.7 billion, with a net $18.8 billion portfolio inflow ending two straight months of outflows; Nvidia releases Nemotron 3.5 Lightning, an open 30B-parameter MoE model, sending shares up nearly 2% premarket; Nasdaq announces a definitive agreement to acquire LeveL Markets for its always-on markets strategy; Pakistan's defense minister says the US and Iran are close to 'some sort of arrangement' on Hormuz, with Brent at $87.99. Source times verified.",
+      "tags": [
+        "Finance News",
+        "Swiss National Bank",
+        "13F",
+        "Emerging Markets",
+        "IIF",
+        "Nvidia",
+        "Nemotron",
+        "Nasdaq",
+        "Hormuz",
+        "Oil"
+      ],
+      "file": "posts/666-finance-news-snb-13f-emerging-markets-nvidia-nemotron-nasdaq-level-oil-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "665",
     "date": "2026-08-11",
     "zh": {
