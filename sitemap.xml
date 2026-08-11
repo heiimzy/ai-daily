@@ -6611,4 +6611,24 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/661-intl-news-houthis-yemen-ukraine-north-korea-libya-refinery-aug-11-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/661-intl-news-houthis-yemen-ukraine-north-korea-libya-refinery-aug-11-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/660-finance-news-rba-rates-pboc-liquidity-gm-samsung-gold-oil-aug-11-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/660-finance-news-rba-rates-pboc-liquidity-gm-samsung-gold-oil-aug-11-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
