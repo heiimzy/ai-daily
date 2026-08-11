@@ -1,5 +1,43 @@
 [
   {
+    "id": "665",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日科技要闻：Claude攻克黎曼猜想、旅行者2号延寿、Joby 5亿美元收购军用防御、REDMI K100 Pro发布、锂一次电池「双高」突破",
+      "summary": "⚡ 8月11日科技要闻：Anthropic宣布未公开研究版Claude在攻克黎曼猜想上取得重大突破，将临界线上零点比例下界从41.6%提升至67.2%；NASA执行「Big Bang」软件更新，为距地球130亿英里的旅行者2号再延寿一年；Joby Aviation宣布5亿美元收购俄亥俄州防务公司Resonant Sciences；小米发布REDMI K100 Pro/Max，最高9070mAh电池；中科院大连化物所锂一次电池实现高能量密度+高功率「双高」突破。来源发布时间均已验证。",
+      "tags": [
+        "科技新闻",
+        "Anthropic",
+        "Claude",
+        "黎曼猜想",
+        "NASA",
+        "旅行者2号",
+        "Joby",
+        "小米",
+        "REDMI",
+        "电池"
+      ],
+      "file": "posts/665-tech-news-claude-riemann-voyager2-joby-redmi-battery-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 Tech News: Claude Makes Major Progress on Riemann Hypothesis, NASA Extends Voyager 2, Joby Buys Defense Firm for $500M, REDMI K100 Pro Launches",
+      "summary": "⚡ Aug 11 tech news: Anthropic says an unreleased research version of Claude made major progress on the Riemann hypothesis, lifting the lower bound on zeros on the critical line from 41.6% to 67.2%; NASA's 'Big Bang' update gives Voyager 2, 13 billion miles away, one more year; Joby acquires defense firm Resonant Sciences for $500 million; Xiaomi launches REDMI K100 Pro/Max with up to a 9,070mAh battery; a CAS Dalian team's lithium primary battery hits 'dual-high' records. Source times verified.",
+      "tags": [
+        "Tech News",
+        "Anthropic",
+        "Claude",
+        "Riemann Hypothesis",
+        "NASA",
+        "Voyager 2",
+        "Joby",
+        "Xiaomi",
+        "REDMI",
+        "Battery"
+      ],
+      "file": "posts/665-tech-news-claude-riemann-voyager2-joby-redmi-battery-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "664",
     "date": "2026-08-11",
     "zh": {
