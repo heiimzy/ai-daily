@@ -1,5 +1,35 @@
 [
   {
+    "id": "662",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日AI科技动态：OpenAI完成70亿美元员工回购、推出GPT-5.6-Cyber防御模型、扎克伯格万字AI宣言引发讨论",
+      "summary": "⚡ 8月11日AI科技动态：OpenAI据报完成70亿美元员工股份回购，估值维持8520亿美元；为应对激增的AI引发的网络攻击，OpenAI扩展Daybreak防御服务并新增专攻安全防御的GPT-5.6-Cyber模型；扎克伯格发表6500字「个人超级智能」AI宣言引发热议，64%美国人认为社交媒体损害民主。来源发布时间均已验证。",
+      "tags": [
+        "科技新闻",
+        "大公司动态",
+        "OpenAI",
+        "Meta",
+        "网络安全",
+        "AI"
+      ],
+      "file": "posts/662-ai-news-openai-tender-cyber-zuckerberg-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 AI Tech Update: OpenAI Closes $7B Employee Buyback, Launches GPT-5.6-Cyber Defense Model, Zuckerberg's 6,500-Word AI Manifesto",
+      "summary": "⚡ Aug 11 AI tech update: OpenAI reportedly completes a $7 billion employee tender offer at a flat $852B valuation; OpenAI expands Its Daybreak cyber defense service with a new GPT-5.6-Cyber defensive model as AI-led attacks multiply; Mark Zuckerberg publishes a 6,500-word 'personal superintelligence' manifesto stirring debate amid a public trust crisis. Source times verified.",
+      "tags": [
+        "Tech News",
+        "Enterprises",
+        "OpenAI",
+        "Meta",
+        "Cybersecurity",
+        "AI"
+      ],
+      "file": "posts/662-ai-news-openai-tender-cyber-zuckerberg-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "661",
     "date": "2026-08-11",
     "zh": {
