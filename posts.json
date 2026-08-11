@@ -1,5 +1,69 @@
 [
   {
+    "id": "661",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日国际要闻：胡塞武装导弹袭击也门两城、泽连斯基嘲笑普京依赖朝鲜、利比亚最大炼油厂遭袭起火、特朗普土耳其秘密换机避险",
+      "summary": "⚡ 8月11日国际要闻：胡塞武装向也门al-Makha及马里卜发射弹道导弹，前一天导弹袭击已致7死30伤；泽连斯基嘲讽普京「俄罗斯史上首次无法独自作战」，俄境内600英里深处的无人机打击已致13死；利比亚最大炼油厂Zawiya遭无人机袭击起火，国家石油公司称或宣布不可抗力；美媒曝特朗普在土耳其北约峰会后秘密换乘小型军机飞往英国，以规避伊朗暗杀威胁。来源发布时间均已验证。",
+      "tags": [
+        "国际要闻",
+        "国际政治",
+        "胡塞武装",
+        "也门",
+        "乌克兰",
+        "朝鲜",
+        "利比亚",
+        "特朗普"
+      ],
+      "file": "posts/661-intl-news-houthis-yemen-ukraine-north-korea-libya-refinery-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 World Update: Houthis Missile Yemeni Cities, Zelensky Mocks Putin's North Korea Reliance, Libya's Largest Refinery Hit by Drone, Trump's Secret Flight from Turkey",
+      "summary": "⚡ Aug 11 world roundup: Houthis launch ballistic missiles on al-Makha and Marib after a strike that killed 7; Zelensky says Russia for the first time cannot wage war without North Korea after a 600-mile deep drone strike kills 13; Libya's largest Zawiya refinery catches fire after a drone attack with NOC warning of force majeure; and the Washington Post reports Trump secretly switched planes in Turkey over an Iranian assassination threat. All source times verified.",
+      "tags": [
+        "World News",
+        "International",
+        "Houthis",
+        "Yemen",
+        "Ukraine",
+        "North Korea",
+        "Libya",
+        "Trump"
+      ],
+      "file": "posts/661-intl-news-houthis-yemen-ukraine-north-korea-libya-refinery-aug-11-2026.en.html"
+    }
+  },
+  {
+    "id": "660",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日金融要闻：澳洲联储按兵不动、中国央行暂停流动性投放、通用出售电池合资股权、金价站上4400美元",
+      "summary": "⚡ 8月11日金融要闻：澳洲联储连续第二次维持关键利率4.35%不变；中国人民银行暂停短期流动性投放，为6月以来首次；据报通用汽车将向三星SDI出售其印第安纳州电池合资企业50%股权；油价与美债收益率回升之际，金价站上4400美元，市场聚焦美国7月CPI。来源发布时间均已验证。",
+      "tags": [
+        "金融要闻",
+        "澳洲联储",
+        "中国人民银行",
+        "通用汽车",
+        "三星SDI",
+        "黄金"
+      ],
+      "file": "posts/660-finance-news-rba-rates-pboc-liquidity-gm-samsung-gold-oil-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 Finance Update: RBA Holds at 4.35%, PBoC Pauses Liquidity, GM Exits Indiana Battery JV, Gold Holds Above $4,400",
+      "summary": "⚡ Aug 11 finance roundup: Australia's RBA holds its cash rate at 4.35% for a second straight meeting; China's PBoC pauses short-term liquidity injections for the first time since June; GM reportedly sells its 50% stake in the Indiana battery JV to Samsung SDI; and gold holds above $4,400 as markets await U.S. July CPI. All source times verified.",
+      "tags": [
+        "Finance News",
+        "RBA",
+        "PBoC",
+        "GM",
+        "Samsung SDI",
+        "Gold"
+      ],
+      "file": "posts/660-finance-news-rba-rates-pboc-liquidity-gm-samsung-gold-oil-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "659",
     "date": "2026-08-11",
     "zh": {
