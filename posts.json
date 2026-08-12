@@ -3,7 +3,7 @@
     "id": "673",
     "date": "2026-08-12",
     "zh": {
-      "title": "⚡ 8月12日泛科技要闻：阿里云上线国内首个2万亿参数超节点、台积电CoWoS良率高达99%、世界最大冲击式水电机组转子吊装、IBM 2.4亿美元AI算力大单、《Vita》生命科学期刊首发",
+      "title": "⚡ 8月12日泛科技要闻：阿里云2万亿参数超节点、台积电CoWoS良率99%、西藏世界最大水电机组转子吊装、IBM 2.4亿美元算力大单、《Vita》期刊首发",
       "summary": "⚡ 8月12日泛科技要闻：阿里云灵骏真武M890超节点实例上线，成国内首个成功运行超2万亿参数大模型的算力形态；台积电先进封装5.5倍光罩CoWoS良率可达99%；世界最大冲击式水电机组在西藏大唐扎拉水电站完成转子吊装；IBM与Together AI签2.4亿美元多年期合同、部署英伟达HGX B300推理集群；我国主导的生命科学领域《Vita》系列期刊纸质刊首期发布。来源发布时间均已验证。",
       "tags": [
         "科技新闻",
@@ -19,7 +19,7 @@
       "file": "posts/673-tech-news-alibaba-supernode-tsmc-cowos-zala-hydro-ibm-together-ai-vita-aug-12-2026.zh.html"
     },
     "en": {
-      "title": "⚡ Aug 12 Tech News: Alibaba Cloud 2T-Parameter Supernode, TSMC CoWoS 99% Yield, World's Largest Impulse Hydro Rotor Lift, IBM's $240M AI Compute Deal, Vita Journal Debuts",
+      "title": "⚡ Aug 12 Tech News: Alibaba Cloud 2T-Parameter Supernode, TSMC CoWoS 99% Yield, World's Largest Impulse Hydro Rotor Lift, IBM $240M AI Compute Deal, Vita Debuts",
       "summary": "⚡ Aug 12 general-tech roundup: Alibaba Cloud launches the Lingjun Zhenwu M890 supernode, the first compute form in China to run 2T-parameter models; TSMC says 5.5x-reticle CoWoS hits up to 99% yield; the world's largest impulse hydro unit completes its rotor lift at Tibet's Zala station; IBM signs a $240M deal with Together AI for an NVIDIA HGX B300 inference cluster; and China-led life-science journal Vita publishes its first print issue. Source times verified.",
       "tags": [
         "Tech News",
