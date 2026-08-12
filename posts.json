@@ -1,5 +1,33 @@
 [
   {
+    "id": "676",
+    "date": "2026-08-12",
+    "zh": {
+      "title": "⚡ 8月12日泛科技要闻：Chrome设备绑定会话凭证防账号被盗、今日上演年度最大日全食、旧金山候选人上线Claude版AI对手、黄仁勋称AI工厂算力成可投资资产",
+      "summary": "⚡ 8月12日泛科技要闻：谷歌Chrome推出「设备绑定会话凭证」(DBSC)，把加密密钥锁进TPM/安全芯片以抵御会话Cookie失窃类账号劫持；2026年度规模最大的日全食今日上演，全食带横跨格陵兰、冰岛与西班牙北部；旧金山国会候选人Scott Wiener上线由Anthropic Claude驱动的竞选对手AI聊天机器人ConnieChan.ai，因涉嫌性别歧视与政治冒充被迫下线；英伟达CEO黄仁勋发文称AI工厂算力正「成为可投资资产类别」。来源发布时间均已验证。",
+      "tags": [
+        "泛科技",
+        "谷歌Chrome",
+        "网络安全",
+        "日全食",
+        "人工智能"
+      ],
+      "file": "posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 12 Tech Briefing: Chrome's Device-Bound Session Credentials, the 2026 Total Solar Eclipse, a Claude-Powered 'AI Opponent' in SF Politics, Jensen Huang on AI-Factory Compute as an Asset Class",
+      "summary": "⚡ Aug 12 tech briefing: Google Chrome rolls out device-bound session credentials (DBSC), locking an encryption key inside the TPM/secure enclave to defeat session-cookie theft; the biggest total solar eclipse of 2026 takes place today with totality crossing Greenland, Iceland and northern Spain; SF candidate Scott Wiener launches ConnieChan.ai, a Claude-powered chatbot mimicking his rival, then pulls it offline amid impersonation complaints; Nvidia CEO Jensen Huang says AI-factory compute is 'becoming an investable asset class'. Source timestamps verified.",
+      "tags": [
+        "Tech News",
+        "Google Chrome",
+        "Cybersecurity",
+        "Solar Eclipse",
+        "AI"
+      ],
+      "file": "posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.en.html"
+    }
+  },
+  {
     "id": "675",
     "date": "2026-08-12",
     "zh": {
