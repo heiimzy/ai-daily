@@ -1,5 +1,33 @@
 [
   {
+    "id": "675",
+    "date": "2026-08-12",
+    "zh": {
+      "title": "⚡ 8月12日国际要闻：泽连斯基向美递交结束战争提案、印度农产品出口遭多国设限、联合国警告约旦河西岸濒临临界点、特朗普与内塔尼亚胡因加沙方案生隙、美军称完全控制霍尔木兹海峡",
+      "summary": "⚡ 8月12日国际要闻：泽连斯基表示已向美国递交结束俄乌战争的新提案，并警告俄罗斯拟借议会选举发起新一轮动员；日本暂停进口印度芒果、中国撤销三家印度大米出口商许可证，印度农产品出口承压；联合国警告约旦河西岸处于「临界点」，以军当日逮捕23名巴勒斯坦人；内塔尼亚胡拒绝特朗普的加沙和平方案、美以关系生隙；特朗普称美军「完全控制」霍尔木兹海峡。来源发布时间均已验证。",
+      "tags": [
+        "国际新闻",
+        "俄乌战争",
+        "中东局势",
+        "国际贸易",
+        "联合国"
+      ],
+      "file": "posts/675-intl-news-zelenskyy-proposals-india-exports-west-bank-hormuz-aug-12-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 12 World Briefing: Zelenskyy Sends War-Ending Proposals to US, Indian Farm Exports Hit by Multiple Curbs, UN Warns West Bank at 'Breaking Point', Netanyahu Rejects Trump's Gaza Plan, US Claims 'Total Control' of Strait of Hormuz",
+      "summary": "⚡ Aug 12 world briefing: Zelenskyy says Kyiv has handed the US new proposals to end the 4.5-year war with Russia and warns Moscow may use next month's parliamentary elections as a pretext for a fresh mobilisation; Japan suspends Indian mango imports, China revokes licences of three Indian rice exporters; UN warns the West Bank is at a 'breaking point' as Israeli forces arrest 23 Palestinians; Netanyahu rejects Trump's Gaza peace plan; Trump says US forces are in 'total control' of the Strait of Hormuz. Source timestamps verified.",
+      "tags": [
+        "World News",
+        "Russia-Ukraine War",
+        "Middle East",
+        "Trade",
+        "UN"
+      ],
+      "file": "posts/675-intl-news-zelenskyy-proposals-india-exports-west-bank-hormuz-aug-12-2026.en.html"
+    }
+  },
+  {
     "id": "674",
     "date": "2026-08-12",
     "zh": {
