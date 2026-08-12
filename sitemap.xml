@@ -6711,4 +6711,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/672-tech-news-gemini-billion-india-rbi-ai-loans-joby-universal-patents-aug-12-2026.zh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ai-daily.cc.cd/posts/672-tech-news-gemini-billion-india-rbi-ai-loans-joby-universal-patents-aug-12-2026.en.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
