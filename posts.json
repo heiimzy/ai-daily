@@ -1,5 +1,37 @@
 [
   {
+    "id": "672",
+    "date": "2026-08-12",
+    "zh": {
+      "title": "⚡ 8月12日泛科技要闻：谷歌Gemini用户破10亿、印度央行主张用AI放贷、Joby 5亿美元收购国防科技公司、环影单日获四项专利",
+      "summary": "⚡ 8月12日泛科技要闻：谷歌CEO皮查伊宣布Gemini月活用户突破10亿、成公司增长最快产品；印度央行行长在孟买FIBAC会议上力主用AI审批那些人类信贷员会拒绝的贷款，同时警示黑箱与偏见风险；电动垂直起降飞行器公司Joby以约5亿美元收购国防技术公司Resonant Sciences，将整合其国防与自主飞行业务；好莱坞环球影城单日获四项美国专利，涵盖悬浮漂浮式乘骑系统、主动流体自适应座椅与AI语音导览。来源发布时间均已验证。",
+      "tags": [
+        "科技新闻",
+        "Gemini",
+        "谷歌",
+        "AI放贷",
+        "Joby",
+        "环球影城",
+        "专利"
+      ],
+      "file": "posts/672-tech-news-gemini-billion-india-rbi-ai-loans-joby-universal-patents-aug-12-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 12 Tech News: Google Gemini Tops 1B Users, India RBI Backs AI Lending, Joby Buys Defense Firm for $500M, Universal Wins Four Patents",
+      "summary": "⚡ Aug 12 tech roundup: Google CEO Sundar Pichai says Gemini has passed 1 billion monthly users, making it Google's fastest-growing product; India's central bank governor urges lenders to use AI to approve loans human officers would reject, while flagging black-box and bias risks; eVTOL maker Joby Aviation agrees to buy defense technology firm Resonant Sciences for about $500 million; and Universal is awarded four US patents in a single day spanning a floating ride system, adaptive seating and an AI audio guide. Source times verified.",
+      "tags": [
+        "Tech News",
+        "Gemini",
+        "Google",
+        "AI Lending",
+        "Joby",
+        "Universal",
+        "Patents"
+      ],
+      "file": "posts/672-tech-news-gemini-billion-india-rbi-ai-loans-joby-universal-patents-aug-12-2026.en.html"
+    }
+  },
+  {
     "id": "671",
     "date": "2026-08-12",
     "zh": {
