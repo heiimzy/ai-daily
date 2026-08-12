@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>8月12日泛科技要闻：Chrome推出设备绑定会话凭证、今日上演年度最大日全食、旧金山候选人上线Claude版AI对手、黄仁勋谈AI工厂算力资产化 - AI Daily</title>
+  <meta name="description" content="⚡ 8月12日泛科技要闻：谷歌Chrome推出「设备绑定会话凭证」(DBSC)，把加密密钥锁进TPM/安全芯片以抵御会话Cookie失窃类账号劫持；2026年度规模最大的日全食今日上演，全食带横跨格陵兰、冰岛与西班牙北部；旧金山国会候选人Scott Wiener上线由Anthropic Claude驱动的竞选对手AI聊天机器人ConnieChan.ai，因涉嫌性别歧视与政治冒充被迫下线；英伟达CEO黄仁勋发文称AI工厂算力正「成为可投资资产类别」。来源发布时间均已验证。">
+  <meta name="keywords" content="泛科技,谷歌Chrome,设备绑定会话凭证,DBSC,TPM,网络安全,账号劫持,日全食,2026日全食,格陵兰,冰岛,西班牙,ConnieChan,Anthropic,Claude,AI聊天机器人,旧金山,Scott Wiener,英伟达,黄仁勋,AI工厂算力">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.zh.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI 日报</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-12</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← 返回首页</a>
+  <a href="676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.en.html">English</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-12</div>
+  <div class="post-tags"><span class="tag">泛科技</span><span class="tag">谷歌Chrome</span><span class="tag">网络安全</span><span class="tag">日全食</span><span class="tag">人工智能</span></div>
+  <h1>⚡ 8月12日泛科技要闻：Chrome推出设备绑定会话凭证、今日上演年度最大日全食、旧金山候选人上线Claude版AI对手、黄仁勋谈AI工厂算力资产化</h1>
+
+  <p>8月12日午后，全球科技与科学界消息密集：<b>谷歌Chrome推出新的账号安全机制「设备绑定会话凭证」</b>，把加密密钥锁进设备芯片，直击会话Cookie失窃这一愈发常见的账号劫持手法；<b>本年度规模最大的日全食今日上演</b>，全食带横跨格陵兰、冰岛与西班牙北部，引发全球观测热潮；<b>旧金山国会候选人Scott Wiener上线一个由Anthropic Claude驱动的「AI竞选对手」聊天机器人</b>，因招致性别歧视与政治冒充指控而被迫下线；<b>英伟达CEO黄仁勋在其社交账号发文</b>，称AI工厂算力正「成为一个可投资资产类别」。以下为各条要闻详解，所有来源发布时间均已逐一验证。</p>
+
+  <h2>一、Chrome推出「设备绑定会话凭证」：把账号安全钥匙锁进芯片</h2>
+  <p>据<b>Ars Technica</b>（2026年8月12日 07:00 UTC发布）报道，<b>谷歌Chrome浏览器新增了一项可能迄今最有效的账号劫持防护机制——设备绑定会话凭证（Device-Bound Session Credentials，DBSC）</b>。该机制在运行浏览器的设备硅芯片内生成一个唯一加密密钥：Windows上由可信平台模块TPM承载，macOS与iOS则存放在安全芯片（Secure Enclave）中。</p>
+  <p>其原理是：当网站设置会话Cookie后，用户的浏览器必须用存放在硅片内的密钥，对每次请求进行<b>签名</b>。由于TPM或安全芯片<b>绝不会向外部释放私钥</b>，攻击者即便通过信息窃取木马（infostealer）或中间人攻击（adversary-in-the-middle）成功偷走会话Cookie，也无法通过DBSC挑战——因为他们无法用设备私钥完成签名，自然也就无法冒充真正的用户登录。</p>
+  <p>安全研究员、Report URI创始人Scott Helme评价称：「攻击者可以偷走Cookie，但无法回答DBSC挑战——私钥仍安全地留在你的设备上，这是这里的核心保护。」目前DBSC仅在Windows版Chrome 147与macOS版Chrome 150中上线，且仅面向部分用户开放测试，应是谷歌在灰度验证后逐步全量推送。这一机制被视为2FA、通行密钥等「共同密钥」方案之后的下一代登录守护，懂技术的读者可在开发者工具→Application面板中查看「device bound sessions」是否已启用。</p>
+
+  <h2>二、今日上演本年度最大日全食：全食带跨越格陵兰、冰岛与西班牙</h2>
+  <p>据<b>路透社</b>「Where to see the total solar eclipse」观测指南（2026年8月12日发布），<b>2026年8月12日，本年度规模最大的日全食（月影全食）今日上演</b>。本次全食带自俄罗斯北极地区起，横跨格陵兰、冰岛，最终抵达西班牙北部——其中<b>西班牙成为欧洲最受追捧的观测地</b>，预计将吸引大量天文爱好者与游客聚集。</p>
+  <p>天文数据来自NASA的日食预测，本次日全食属Saros第126序列，最大食分出现在格陵兰附近（约北纬65.2度、西经25.2度）。全食期间，白天骤然转暗、气温度骤降，地平线浮现一圈「钻石环」与贝利珠，是近年欧洲地区难得一见的壮丽天象。需要提醒的是：<b>切勿用肉眼或普通墨镜直视太阳，必须使用符合ISO 12312-2标准的专业日食眼镜</b>，或在投影装置下观测碎片时段。错过本次，下一次覆盖欧洲核心区域的日全食要到数年后，因此今天这份「观测地图」在各大平台被反复转发。</p>
+
+  <h2>三、旧金山候选人上线Claude版「AI对手」聊天机器人，因争议被迫下线</h2>
+  <p>据<b>AI Updates</b>（2026年8月12日 07:08 UTC发布）报道，<b>旧金山国会候选人、加州州参议员Scott Wiener数日前上线了ConnieChan.ai——一个由Anthropic Claude驱动的、用来模仿其政治对手——旧金山市参事Connie Chan的聊天机器人</b>。这个精心设计的「交互式攻击广告」被定位为政治讽刺：网站鼓励用户向机器人提问，再由「Connie」以拒绝的语气给出解释，宣传语自称是「全世界第一个被训练成对任何请求都说no的AI」。</p>
+  <p>Wiener的团队还把这场实验搬到了线下，据称投入约2万美元在旧金山投放两块广告牌，标语是「Let's do nothing together」（让我们一起无所事事）。新颖的形式迅速引来围观——据竞选团队称，<b>机器人上线后27小时内就收到了超过5000条用户提问</b>。然而热度很快转向争议：该机器人被指控存在种族主义、性别歧视与政治冒充的问题，在外部压力下，Wiener的竞选团队最终<b>被迫将其下线</b>。这一事件再次凸显生成式AI在政治传播中的边界：当AI被用来「模拟」真人政客时，讽刺与诽谤之间只有一线之隔。</p>
+
+  <h2>四、黄仁勋发文：AI工厂算力正「成为可投资资产类别」</h2>
+  <p>据<b>英伟达CEO黄仁勋本人社交账号</b>（2026年8月12日 05:59 UTC发布）消息，<b>黄仁勋发文称，AI工厂算力（AI Factory Compute）正「成为一个可投资资产类别」</b>。此番表态延续了英伟达数月来把超级数据中心算力比作「AI工厂」的叙事，将其从单纯的服务器出货，提升为可被机构与产业资本配置的新型基础设施资产。</p>
+  <p>背景是：受全球大模型训练与推理需求拉动，英伟达数据中心GPU订单持续高企，多家超大云厂商（Hyperscaler）在本财年宣布了数万亿美元的算力采购承诺；资本市场也随之把「AI算力」当作与电力、网络并列的底层资产加以定价。虽然这更多是CEO个人在社交平台的前瞻性表态而非正式财报指引，但它精准踩中了当下「算力即资产」的投资主线，值得关注本轮资本开支周期的投资者留意。</p>
+
+  <h2>五、综合观察：本小时四条泛科技动态的两条主线</h2>
+  <p>本小时四条泛科技要闻，勾勒出两条清晰主线：<b>其一是AI正在全面「基础设施化」</b>——从黄仁勋口中的「可投资资产类别」，到Chrome把账号安全下沉到设备芯片级，再到生成式AI被直接投入政治传播战场，AI已不再只是产品功能，而成为被资本、安全防护乃至公共传播共同围绕的底层平台；<b>其二是技术与科学的「可观测时刻」</b>——今天的日全食让数百万人在同一时刻仰望天空，而像ConnieChan.ai这样的案例，则让社会在一个更戏剧化的场景中重新审视AI的边界与责任。四条新闻来源发布时间均在05:59–07:08 UTC之间，时效可靠，可放心转发。</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      想要了解更多 AI 工具？访问 <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> 获取 99+ 款免费在线工具。
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI 日报 &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
