@@ -1,5 +1,81 @@
 [
   {
+    "id": "669",
+    "date": "2026-08-12",
+    "zh": {
+      "title": "⚡ 8月12日科技要闻：CoreWeave二季度营收翻倍盘后大涨14%、BBC解析「给AI定价为何这么难」、阿贡实验室DONUT实时解析X射线数据、西北大学称AI申请更易获基金",
+      "summary": "⚡ 8月12日科技要闻：AI云厂商CoreWeave二季度营收同比翻倍、盘后大涨14%，在手订单积压达1040亿美元；BBC深度报道指出给AI定价为何这么难，token消耗预计2026至2030年增长24倍；阿贡国家实验室推出DONUT机器学习工具、在先进光子源上实时解析X射线数据加速材料科学；西北大学凯洛格商学院研究显示AI辅助撰写的科研基金申请获批概率更高、却也可能收窄研究思路。来源发布时间均已验证。",
+      "tags": [
+        "科技新闻",
+        "CoreWeave",
+        "AI基础设施",
+        "Tokenomics",
+        "大语言模型",
+        "阿贡实验室",
+        "DONUT",
+        "材料科学",
+        "西北大学",
+        "AI科研"
+      ],
+      "file": "posts/669-tech-news-coreweave-tokenomics-donut-aug-12-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 12 Tech News: CoreWeave More Than Doubles Revenue and Jumps 14%, BBC Asks Why Pricing AI Is So Hard, Argonne's DONUT Reads X-Ray Data in Real Time, Northwestern Finds AI Grants More Likely to Win",
+      "summary": "⚡ Aug 12 tech roundup: AI cloud provider CoreWeave more than doubled Q2 revenue year over year and its stock jumped 14% after hours, with a $104B backlog; BBC's 'Tokenomics' deep dive asks why pricing AI is so hard as token consumption is forecast to grow 24x between 2026 and 2030; Argonne unveils DONUT, a machine-learning tool that analyzes X-ray data in real time at the Advanced Photon Source; and a Northwestern Kellogg study finds AI-assisted grant proposals are more likely to receive NIH funding while narrowing research ideas. Source times verified.",
+      "tags": [
+        "Tech News",
+        "CoreWeave",
+        "AI Infrastructure",
+        "Tokenomics",
+        "LLM",
+        "Argonne",
+        "DONUT",
+        "Materials Science",
+        "Northwestern",
+        "AI Research"
+      ],
+      "file": "posts/669-tech-news-coreweave-tokenomics-donut-aug-12-2026.en.html"
+    }
+  },
+  {
+    "id": "668",
+    "date": "2026-08-11",
+    "zh": {
+      "title": "⚡ 8月11日科技要闻：京都聚变获美政府资助研制燃料增殖装置、Manus宣布脱离Meta恢复独立运营、苹果iOS 27测试版现iCloud+收费线索、Ulefone发布两款三防新机、Bumble取消「女士先开口」规则",
+      "summary": "⚡ 8月11日科技要闻：日本京都聚变公司获美国能源部与田纳西州资助，将在橡树岭国家实验室研制聚变燃料增殖装置Unity-3并迁总部；Manus宣布脱离Meta恢复独立运营、部分用户需在8月23日前备份数据；苹果iOS 27第五个开发者测试版出现iCloud+与HomeKit Secure Video新提示、或为高级功能收费铺路；Ulefone发布Armor 22 Pro/24 Pro三防手机，最高22000mAh电池；Bumble正式取消「女士先开口」规则并将回应窗口延长至72小时。来源发布时间均已验证。",
+      "tags": [
+        "科技新闻",
+        "京都聚变",
+        "聚变能源",
+        "Manus",
+        "Meta",
+        "苹果",
+        "iOS 27",
+        "Ulefone",
+        "三防手机",
+        "Bumble"
+      ],
+      "file": "posts/668-tech-news-fusion-manus-apple-ulefone-bumble-aug-11-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 11 Tech News: Kyoto Fusioneering to Build Fuel-Breeding Device at Oak Ridge, Manus Splits from Meta, Apple iOS 27 Beta Hints at iCloud+ Changes, Ulefone Launches Two Rugged Phones, Bumble Drops Women-First Rule",
+      "summary": "⚡ Aug 11 tech roundup: Japan's Kyoto Fusioneering lands US DOE and Tennessee grants to build the Unity-3 fuel-breeding device at Oak Ridge National Laboratory and moves its US headquarters there; Manus announces it is leaving Meta to operate as an independent company, with some users asked to back up data by Aug 23; Apple's iOS 27 developer beta 5 shows new iCloud+ and HomeKit Secure Video prompts hinting at possible paid tiers; Ulefone unveils Armor 22 Pro and 24 Pro rugged phones with up to a 22,000mAh battery; Bumble officially drops its women-message-first rule and extends reply windows to 72 hours. Source times verified.",
+      "tags": [
+        "Tech News",
+        "Fusion Energy",
+        "Kyoto Fusioneering",
+        "Manus",
+        "Meta",
+        "Apple",
+        "iOS 27",
+        "Ulefone",
+        "Rugged Phone",
+        "Bumble"
+      ],
+      "file": "posts/668-tech-news-fusion-manus-apple-ulefone-bumble-aug-11-2026.en.html"
+    }
+  },
+  {
     "id": "667",
     "date": "2026-08-11",
     "zh": {
