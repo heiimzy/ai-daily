@@ -1,5 +1,35 @@
 [
   {
+    "id": "674",
+    "date": "2026-08-12",
+    "zh": {
+      "title": "⚡ 8月12日金融要闻：A股午间三大指数齐涨、韩国股市盘中涨超5%触发熔断、Omdia上调半导体营收至+94.1%、央行连续两日零逆回购、美元兑日元创干预后新高",
+      "summary": "⚡ 8月12日金融要闻：A股午间收盘三大指数集体上涨，创业板指涨1.73%、半天成交1.39万亿，算力硬件股领涨；韩国首尔综指盘中涨超5%、三星电子与SK海力士均涨超8%，触发SIDECAR机制暂停程序化买盘；Omdia上调2026年全球半导体营收增长预测至94.1%、存储器芯片将占全球半导体收入50%以上；中国央行连续两日逆回购操作量为零；美元兑日元升至159.43、创美日联合干预后新高。来源发布时间均已验证。",
+      "tags": [
+        "金融新闻",
+        "A股",
+        "韩国股市",
+        "半导体",
+        "中国央行",
+        "汇率"
+      ],
+      "file": "posts/674-finance-news-ashares-korea-stocks-omdia-semiconductor-pboc-yen-aug-12-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 12 Finance News: China A-Shares Rally at Midday, Korea KOSPI Climbs Over 5%, Omdia Raises Semiconductor Growth to 94.1%, PBOC Skips OMO for 2nd Day, USD/JPY Hits Post-Intervention High",
+      "summary": "⚡ Aug 12 finance roundup: China's A-share indices rose across the board at midday, ChiNext up 1.73% with RMB 1.39T turnover on compute-hardware strength; South Korea's KOSPI climbed over 5% intraday, Samsung and SK Hynix both up over 8%, triggering the SIDECAR circuit breaker; Omdia raised 2026 global semiconductor revenue growth to 94.1% with memory ICs topping half of industry revenue; the PBOC skipped reverse repos for a second straight day; and USD/JPY hit 159.43, the highest since US-Japan joint intervention. Source times verified.",
+      "tags": [
+        "Finance News",
+        "A-Shares",
+        "Korea Stocks",
+        "Semiconductors",
+        "PBOC",
+        "FX"
+      ],
+      "file": "posts/674-finance-news-ashares-korea-stocks-omdia-semiconductor-pboc-yen-aug-12-2026.en.html"
+    }
+  },
+  {
     "id": "673",
     "date": "2026-08-12",
     "zh": {
