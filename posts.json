@@ -1,5 +1,37 @@
 [
   {
+    "id": "671",
+    "date": "2026-08-12",
+    "zh": {
+      "title": "⚡ 8月12日国际要闻：朝鲜一周内再射弹道导弹、赞比亚大选考验经济改革、中国C919首飞国际航线",
+      "summary": "⚡ 8月12日国际要闻：朝鲜再次发射弹道导弹、为一周内第二次武器试验，美韩计划举行年度军演；赞比亚将于本周四举行大选、约879万选民登记，债务重组与通胀成焦点；中国商飞C919将执飞北京直飞乌兰巴托航线、首次投入国际商业运营。来源发布时间均已验证。",
+      "tags": [
+        "国际新闻",
+        "朝鲜",
+        "弹道导弹",
+        "美韩军演",
+        "赞比亚",
+        "C919",
+        "国产大飞机"
+      ],
+      "file": "posts/671-intl-news-nk-missile-zambia-election-comac-c919-aug-12-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 12 World News: N. Korea Fires Another Missile, Zambia Votes on Reform Test, China’s C919 Makes First International Flight",
+      "summary": "⚡ Aug 12 world news: North Korea launched another ballistic missile, its second test in under a week, as Seoul and Washington prepare annual drills; Zambia heads to the polls Thursday with 8.79M registered voters, with debt restructuring and inflation in focus; Comac’s C919 prepares its first international commercial flight from Beijing to Ulaanbaatar. Source times verified.",
+      "tags": [
+        "World News",
+        "North Korea",
+        "Ballistic Missile",
+        "Zambia",
+        "Election",
+        "C919",
+        "China"
+      ],
+      "file": "posts/671-intl-news-nk-missile-zambia-election-comac-c919-aug-12-2026.en.html"
+    }
+  },
+  {
     "id": "670",
     "date": "2026-08-12",
     "zh": {
