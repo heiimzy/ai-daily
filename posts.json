@@ -1,5 +1,35 @@
 [
   {
+    "id": "670",
+    "date": "2026-08-12",
+    "zh": {
+      "title": "⚡ 8月12日金融要闻：恒生科技指数拟扩容至50只、现货黄金站上4390美元、WTI原油重回84美元、人民币中间价6.7882、日本2年期国债收益率升至1.64%",
+      "summary": "⚡ 8月12日金融要闻：恒生指数公司就修订恒生科技指数征询市场意见，拟将成份股由30只扩容至50只；现货黄金站上4390美元/盎司、日内涨0.50%，纽约期金突破4450美元；WTI原油期货重回84美元/桶上方，内盘燃料油主力日内涨4%；人民币兑美元中间价报6.7882元，恒指期货小幅低开；日本2年期国债收益率升至1.640%。来源发布时间均已验证。",
+      "tags": [
+        "金融新闻",
+        "恒生科技指数",
+        "黄金",
+        "原油",
+        "人民币",
+        "日本国债"
+      ],
+      "file": "posts/670-finance-news-gold-oil-hangseng-cny-japan-aug-12-2026.zh.html"
+    },
+    "en": {
+      "title": "⚡ Aug 12 Finance News: Hang Seng Tech Index May Expand to 50, Spot Gold Tops $4,390, WTI Back Above $84, CNY Fixing at 6.7882, Japan 2-Yr Yield at 1.64%",
+      "summary": "⚡ Aug 12 finance roundup: Hang Seng Indexes Company consults on expanding the Hang Seng Tech Index from 30 to 50 constituents; spot gold tops $4,390/oz, up 0.50%, with NY futures above $4,450; WTI returns above $84 a barrel while China fuel oil futures jump 4%; CNY central parity at 6.7882, Hang Seng futures open slightly lower; Japan's 2-year JGB yield at 1.640%. Source times verified.",
+      "tags": [
+        "Finance News",
+        "Hang Seng Tech Index",
+        "Gold",
+        "Oil",
+        "CNY",
+        "JGB"
+      ],
+      "file": "posts/670-finance-news-gold-oil-hangseng-cny-japan-aug-12-2026.en.html"
+    }
+  },
+  {
     "id": "669",
     "date": "2026-08-12",
     "zh": {
