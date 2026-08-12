@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aug 12 Tech Briefing: Chrome's Device-Bound Session Credentials, the 2026 Total Solar Eclipse, a Claude-Powered 'AI Opponent' in SF Politics, Jensen Huang on AI-Factory Compute as an Asset Class - AI Daily</title>
+  <meta name="description" content="⚡ Aug 12 tech briefing: Google Chrome rolls out device-bound session credentials (DBSC), locking an encryption key inside the TPM/secure enclave to defeat session-cookie theft and account takeovers; the biggest total solar eclipse of 2026 takes place today, with totality crossing Greenland, Iceland and northern Spain; San Francisco congressional candidate Scott Wiener launches ConnieChan.ai, a Claude-powered chatbot mimicking his rival, then pulls it offline amid racism and impersonation complaints; Nvidia CEO Jensen Huang says AI-factory compute is 'becoming an investable asset class'. Source timestamps verified.">
+  <meta name="keywords" content="tech news,Google Chrome,device-bound session credentials,DBSC,TPM,cybersecurity,account takeover,total solar eclipse,2026 eclipse,Greenland,Iceland,Spain,ConnieChan,Anthropic,Claude,AI chatbot,San Francisco,Scott Wiener,Nvidia,Jensen Huang,AI factory compute">
+  <link rel="alternate" hreflang="zh" href="https://ai-daily.cc.cd/posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.zh.html">
+  <link rel="alternate" hreflang="en" href="https://ai-daily.cc.cd/posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.en.html">
+  <link rel="canonical" href="https://ai-daily.cc.cd/posts/676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.en.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="icon" type="image/svg+xml" href="../icon.svg">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../article.css">
+</head>
+<body>
+
+<div class="post-header">
+  <a href="../index.html" class="site-title">AI Daily</a>
+  <div style="font-size:0.75rem;color:#666;margin-top:0.25rem;font-style:italic;font-family:Georgia,serif;">2026-08-12</div>
+</div>
+
+<div class="post-nav">
+  <a href="../index.html">← Back to Home</a>
+  <a href="676-tech-news-chrome-dbsc-solar-eclipse-conniechan-ai-nvidia-aug-12-2026.zh.html">中文</a>
+</div>
+
+<article class="post-article">
+  <div class="post-date">2026-08-12</div>
+  <div class="post-tags"><span class="tag">Tech News</span><span class="tag">Google Chrome</span><span class="tag">Cybersecurity</span><span class="tag">Solar Eclipse</span><span class="tag">AI</span></div>
+  <h1>⚡ Aug 12 Tech Briefing: Chrome's Device-Bound Session Credentials, the 2026 Total Solar Eclipse, a Claude-Powered 'AI Opponent' in SF Politics, Jensen Huang on AI-Factory Compute as an Asset Class</h1>
+
+  <p>Wednesday afternoon brought a busy mix of tech and science news: <b>Google Chrome is adopting device-bound session credentials (DBSC)</b>, locking an encryption key inside the device's silicon to fight the increasingly common account-takeover technique of session-cookie theft; <b>the biggest total solar eclipse of 2026 takes place today</b>, with totality crossing Greenland, Iceland and northern Spain; <b>San Francisco congressional candidate Scott Wiener launched ConnieChan.ai</b>, a Claude-powered chatbot mimicking his political rival — then pulled it offline amid accusations of racism, sexism and impersonation; and <b>Nvidia CEO Jensen Huang posted that AI-factory compute is "becoming an investable asset class"</b>. Details below; all source timestamps verified.</p>
+
+  <h2>1. Chrome Adopts Device-Bound Session Credentials: The Account Key Now Lives in the Chip</h2>
+  <p>According to <b>Ars Technica</b> (published 07:00 UTC, Aug 12), <b>Google's Chrome browser has added what may be its most effective protection yet against account takeovers — device-bound session credentials (DBSC)</b>. The mechanism generates a unique encryption key inside the silicon of the device running the browser: on Windows it lives in the Trusted Platform Module (TPM), while on macOS and iOS it is stored in the Secure Enclave.</p>
+  <p>Here is how it works: once a website sets a session cookie, the visiting browser must <b>sign</b> each request using the key stored in that silicon fortress. Because the TPM or Secure Enclave <b>never releases the private key</b>, an attacker who steals a session cookie — via infostealer malware or adversary-in-the-middle attacks — cannot answer a DBSC challenge, because they cannot sign with the device's private key. They may own the cookie, but they cannot impersonate the logged-in user.</p>
+  <p>"The attacker can steal the cookie, but they can't answer a DBSC challenge by signing it with the private key, which is still safe on your device. That is the core protection here," security researcher Scott Helme, founder of Report URI, told Ars. For now DBSCs are supported only in Chrome 147 on Windows and Chrome 150 on macOS, and only for a limited set of users — Google is presumably testing the feature before a wider rollout. Curious users can check developer tools → Application to see whether "device bound sessions" appears while logged into a supporting site. The mechanism is widely seen as the next-generation guardrail after two-factor authentication and passkeys.</p>
+
+  <h2>2. The Biggest Total Solar Eclipse of 2026 Happens Today: Totality Across Greenland, Iceland and Spain</h2>
+  <p>According to <b>Reuters</b>' viewing guide "Where to see the total solar eclipse" (published Aug 12, 2026), <b>the year's biggest total solar eclipse takes place today, August 12, 2026</b>. The path of totality begins over the Russian Arctic, crosses Greenland and Iceland, and ends in northern Spain — making <b>Spain the most sought-after viewing spot in Europe</b>, with crowds of astronomers and tourists expected to gather along the track.</p>
+  <p>NASA's eclipse predictions place this event in Saros series 126, with greatest eclipse occurring near Greenland (about 65.2°N, 25.2°W). During totality, daylight plunges, temperatures drop, and the horizon glows with the famous "diamond ring" and Baily's beads — a rare spectacle for Europe. A reminder: <b>never look at the Sun directly or through ordinary sunglasses; use certified ISO 12312-2 eclipse glasses or indirect projection</b> for partial phases. Europe's next comparable totality is years away, which is why this viewing map is being shared so widely today.</p>
+
+  <h2>3. SF Candidate's Claude-Powered 'AI Opponent' Chatbot Goes Offline Amid Controversy</h2>
+  <p>According to <b>AI Updates</b> (published 07:08 UTC, Aug 12), <b>San Francisco congressional candidate and California State Senator Scott Wiener recently launched ConnieChan.ai — a website featuring a chatbot, powered by Anthropic's Claude, designed to imitate his political rival, San Francisco Supervisor Connie Chan</b>. Billed as an interactive attack ad, the bot was framed as political satire: visitors were encouraged to pitch ideas to the chatbot and receive an explanation, supposedly from "Connie," of why they should not happen. The site dubbed the character "the world's first AI trained to say no to anything you ask."</p>
+  <p>Wiener's campaign took the stunt offline-to-online, reportedly spending around $20,000 on two San Francisco billboards advertising the bot under the slogan "Let's do nothing together." The novelty drew crowds — according to the campaign, <b>users submitted more than 5,000 questions in the chatbot's first 27 hours</b>. But attention quickly turned sour: the bot faced accusations of racism, sexism and political impersonation, and the campaign was <b>forced to take it offline</b>. The episode is a vivid reminder of generative AI's boundary in political communication: when an AI is built to "simulate" a real politician, the line between satire and defamation is razor-thin.</p>
+
+  <h2>4. Jensen Huang: AI-Factory Compute Is 'Becoming an Investable Asset Class'</h2>
+  <p>According to a post on <b>Nvidia CEO Jensen Huang's own social account</b> (published 05:59 UTC, Aug 12), <b>Huang says AI-factory compute is "becoming an investable asset class"</b>. The remark extends Nvidia's months-long narrative of data-center compute as "AI factories," elevating it from mere server shipments to a new class of infrastructure that institutions and industrial capital can allocate to.</p>
+  <p>The context: surging demand for large-model training and inference keeps Nvidia's data-center GPU order books full, and major hyperscalers have announced trillions of dollars in compute commitments this fiscal year — prompting capital markets to price "AI compute" as an underlying asset alongside power and networks. While the post is a CEO's forward-looking social-media statement rather than formal guidance, it lands squarely on the "compute-as-asset" investment theme that is driving the current capex cycle.</p>
+
+  <h2>5. The Big Picture: Two Threads Through This Hour's Tech News</h2>
+  <p>Four stories, two threads. <b>First, AI is being infrastructuralized across the board</b> — from Huang's "investable asset class," to Chrome pushing account security down to the chip level, to generative AI being deployed directly on the political battlefield; AI is no longer a product feature but the underlying platform around which capital, security and public communication now orbit. <b>Second, this is a week of "observable moments" in technology and science</b> — today's eclipse puts millions of eyes on the sky at the same instant, while a case like ConnieChan.ai makes society re-examine AI's boundaries in a far more dramatic setting. All four sources were published between 05:59 and 07:08 UTC, so the timeliness is solid.</p>
+
+  <div style="margin-top:2rem;padding-top:1rem;border-top:2px solid #333;">
+    <p style="font-size:0.9rem;color:#666;">
+      Want more AI tools? Visit <a href="https://heiimzy.github.io/free-ai-tools/" target="_blank">Free AI Tools</a> for 99+ free online tools.
+    </p>
+  </div>
+</article>
+
+<footer>
+  <div class="container">
+    <p>AI Daily &copy; 2026 · <a href="../index.html">Free AI Tools</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
